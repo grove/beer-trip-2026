@@ -261,7 +261,7 @@
       const buttons = element("div", "pub-map__cardlinks");
       const details = element("a", "", "Wiki profile");
       details.href = wikiUrl(venue);
-      const destination = element("a", "", "Google Maps directions");
+      const destination = element("a", "", "Find address in Google Maps");
       destination.href = mapsSearch(venue);
       destination.target = "_blank";
       destination.rel = "noopener noreferrer";
