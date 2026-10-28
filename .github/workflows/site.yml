@@ -7,6 +7,7 @@ on:
       - .gitignore
       - AGENTS.md
       - README.md
+      - maps/**
       - data/**
       - llms.txt
       - requirements-site.txt
@@ -21,6 +22,7 @@ on:
       - .gitignore
       - AGENTS.md
       - README.md
+      - maps/**
       - data/**
       - llms.txt
       - requirements-site.txt
@@ -53,7 +55,11 @@ jobs:
       - name: Check generated wiki and source consistency
         run: |
           python scripts/build_wiki.py --check
+          python scripts/build_rankings.py --check
+          python scripts/export_maps.py --check
           python scripts/validate_wiki.py
+          node --check website/assets/pub-map.js
+          node --check website/assets/venue-finder.js
       - name: Test the site preparation script
         run: python -m unittest discover -s tests -p 'test_*.py'
       - name: Prepare and build site
