@@ -21,6 +21,7 @@ REGIONS = {
 FEATURED = {
     "Plan the trip": [
         ("Trip overview", "overview.md"),
+        ("Interactive venue map", "map.md"),
         ("Curated shortlists", "wiki/shortlists.md"),
         ("Five-day itinerary", "wiki/five-day-plan.md"),
         ("Choosing an excursion", "wiki/excursions.md"),
@@ -123,7 +124,9 @@ def navigation(docs, venues):
 def site_template(root, name):
     """Resolve website-only links in staging, leaving the source wiki untouched."""
     text = (root / "website" / name).read_text(encoding="utf-8")
-    return text.replace("](../wiki/", "](wiki/").replace("](../README.md)", "](overview.md)")
+    return (text.replace("](../wiki/", "](wiki/")
+                .replace("](../maps/", "](maps/")
+                .replace("](../README.md)", "](overview.md)"))
 
 
 def prepare(root=ROOT):
@@ -134,11 +137,14 @@ def prepare(root=ROOT):
     docs.mkdir(parents=True)
     shutil.copytree(root / "wiki", docs / "wiki")
     shutil.copytree(root / "data", docs / "data")
+    if (root / "maps").is_dir():
+        shutil.copytree(root / "maps", docs / "maps")
     shutil.copytree(root / "website/assets", docs / "assets")
     for path in ("AGENTS.md", "LICENSE", "llms.txt"):
         shutil.copy2(root / path, docs / path)
     shutil.copy2(root / "README.md", docs / "overview.md")
     (docs / "explore.md").write_text(site_template(root, "explore.md"), encoding="utf-8")
+    (docs / "map.md").write_text(site_template(root, "map.md"), encoding="utf-8")
 
     venues_db = json.loads((root / "data/venues.json").read_text(encoding="utf-8"))
     source_db = json.loads((root / "data/sources.json").read_text(encoding="utf-8"))
