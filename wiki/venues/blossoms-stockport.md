@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic Robinsons local |
 | Address | 2 Buxton Road, Heaviley, Stockport, SK2 6NU · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Blossoms%2C%202%20Buxton%20Road%2C%20Heaviley%2C%20Stockport%2C%20SK2%206NU) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Blossoms%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

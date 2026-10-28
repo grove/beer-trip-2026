@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | No-bar micropub with real cider |
 | Address | 152A Liverpool Road, Cadishead, M44 5DD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Grocers%2C%20152A%20Liverpool%20Road%2C%20Cadishead%2C%20M44%205DD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Grocers%20Cadishead&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

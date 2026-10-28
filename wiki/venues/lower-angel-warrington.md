@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional multi-room ale pub |
 | Address | 27 Buttermarket Street, Warrington, WA1 2LY · [Map search](https://www.google.com/maps/search/?api=1&query=Lower%20Angel%2C%2027%20Buttermarket%20Street%2C%20Warrington%2C%20WA1%202LY) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Lower%20Angel%20Warrington&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,11 +30,11 @@ A purposeful Warrington stop for traditional pub character and beer variety, esp
 
 ## Beer
 
-CAMRA’s August 2026 record reports nine rotating guest ales, usually including dark mild and stout or porter.
+CAMRA’s August 2026 record reports nine rotating guest ales, usually including dark mild and stout or porter. CAMRA identifies Wily Fox Warrington Wire Best Bitter (based on Crafty Fox) as its house regular alongside changing casks.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** Current CAMRA listing carries a real-cider badge; the specific producer and day’s availability remain to be checked.
+**Real cider documented; reconfirm stock.** Current CAMRA listing carries a real-cider badge; the specific producer and day’s availability remain to be checked. CAMRA identifies Saxby’s as a cider supplier but does not name a particular qualifying product. Verify the current cider.
 
 See [how cider is classified](../real-cider.md).
 

@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Restored pub and restaurant |
 | Address | 41–43 Blackfriars Road, Salford, M3 7DB · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Friar%2C%2041%E2%80%9343%20Blackfriars%20Road%2C%20Salford%2C%20M3%207DB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Black%20Friar%20Salford&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

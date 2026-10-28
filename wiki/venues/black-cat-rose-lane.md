@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent neighbourhood cask bar |
 | Address | 102 Rose Lane, Mossley Hill, Liverpool, L18 8AG · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Cat%20%E2%80%94%20Rose%20Lane%2C%20102%20Rose%20Lane%2C%20Mossley%20Hill%2C%20Liverpool%2C%20L18%208AG) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Black%20Cat%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

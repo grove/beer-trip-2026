@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent cask, craft and real-cider bar |
 | Address | 33 Lee Lane, Horwich, BL6 7AX · [Map search](https://www.google.com/maps/search/?api=1&query=B33R%4033%2C%2033%20Lee%20Lane%2C%20Horwich%2C%20BL6%207AX) |
+| Untappd | [Search for venue](https://untappd.com/search?q=B33R%4033%20Horwich&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

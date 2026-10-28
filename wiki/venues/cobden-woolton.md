@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional two-room community pub |
 | Address | 89 Quarry Street, Woolton, Liverpool, L25 6HA · [Map search](https://www.google.com/maps/search/?api=1&query=Cobden%20Vaults%2C%2089%20Quarry%20Street%2C%20Woolton%2C%20Liverpool%2C%20L25%206HA) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Cobden%20Vaults%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

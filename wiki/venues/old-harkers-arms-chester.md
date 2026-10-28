@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Canalside warehouse pub |
 | Address | 1 Russell Street, Chester, CH3 5AL · [Map search](https://www.google.com/maps/search/?api=1&query=Old%20Harkers%20Arms%2C%201%20Russell%20Street%2C%20Chester%2C%20CH3%205AL) |
+| Untappd | [Venue page](https://untappd.com/v/the-old-harkers-arms/118352) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A complete beer-and-food stop in a former canalside warehouse, with timber floor
 
 ## Beer
 
-CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes.
+CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes. CAMRA lists Weetwood Cheshire Cat and Eastgate, Phoenix Boss Man’s Brew and Facer’s Plum Porter among regular cask beers.
 
 ## Cider and perry
 

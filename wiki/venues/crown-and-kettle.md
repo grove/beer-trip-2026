@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Listed free house |
 | Address | 2 Oldham Road, Manchester, M4 5FE · [Map search](https://www.google.com/maps/search/?api=1&query=Crown%20%26%20Kettle%2C%202%20Oldham%20Road%2C%20Manchester%2C%20M4%205FE) |
+| Untappd | [Venue page](https://untappd.com/v/the-crown-and-kettle/60178) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

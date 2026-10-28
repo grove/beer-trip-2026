@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Tiled historic-building conversion |
 | Address | 2 St John’s Lane, Liverpool L1 1HF · [Map search](https://www.google.com/maps/search/?api=1&query=Doctor%20Duncan%E2%80%99s%2C%202%20St%20John%E2%80%99s%20Lane%2C%20Liverpool%20L1%201HF) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Doctor%20Duncan%27s%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ Come for the green tiled room and stay for a local beer and a meal. The former i
 
 ## Beer
 
-The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service.
+The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service. CAMRA identifies Beartown Best Bitter as a regular cask lead.
 
 ## Cider and perry
 

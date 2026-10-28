@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Grand Edwardian show pub |
 | Address | 81 Lime Street, Liverpool L1 1JQ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Vines%20%E2%80%94%20The%20Big%20House%2C%2081%20Lime%20Street%2C%20Liverpool%20L1%201JQ) |
+| Untappd | [Venue page](https://untappd.com/v/the-vines-the-big-house/2036534) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ An essential companion to the Philharmonic, with lavish carved wood, copper, ela
 
 ## Beer
 
-CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests.
+CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests. CAMRA lists Ossett Silver King, Titanic Plum Porter, Timothy Taylor Landlord and Theakston Best Bitter as regular cask leads; Beartown and Neptune appear among changing suppliers.
 
 ## Cider and perry
 

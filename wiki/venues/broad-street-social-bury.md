@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Brewsmith brewery-operated cask bar |
 | Address | 9 Broad Street, Bury, BL9 0DA · [Map search](https://www.google.com/maps/search/?api=1&query=Broad%20Street%20Social%2C%209%20Broad%20Street%2C%20Bury%2C%20BL9%200DA) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Broad%20Street%20Social%20Bury&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

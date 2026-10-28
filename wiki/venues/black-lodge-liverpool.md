@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Working brewery taproom |
 | Address | 3 Kings Dock Street, Liverpool L1 8JU · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Lodge%20Brewery%20%26%20Taproom%2C%203%20Kings%20Dock%20Street%2C%20Liverpool%20L1%208JU) |
+| Untappd | [Venue page](https://untappd.com/v/black-lodge-brewing/9223251) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

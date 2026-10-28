@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional estuary-side local |
 | Address | 2 Dee View Road, Heswall, CH60 0DH · [Map search](https://www.google.com/maps/search/?api=1&query=Dee%20View%20Inn%2C%202%20Dee%20View%20Road%2C%20Heswall%2C%20CH60%200DH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Dee%20View%20Inn%20Heswall&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

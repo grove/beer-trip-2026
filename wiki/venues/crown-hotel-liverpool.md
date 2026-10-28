@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Art Nouveau show pub |
 | Address | 43 Lime Street, Liverpool L1 1JQ · [Map search](https://www.google.com/maps/search/?api=1&query=Crown%20Hotel%2C%2043%20Lime%20Street%2C%20Liverpool%20L1%201JQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Crown%20Hotel%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ An architectural reward almost immediately outside the station. The highly model
 
 ## Beer
 
-CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales.
+CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales. CAMRA lists Sharp’s Doom Bar, Timothy Taylor Landlord and Oakham Citra as regular cask examples, with Titanic among changing breweries.
 
 ## Cider and perry
 

@@ -15,6 +15,7 @@ Two travellers, one Monday evening arrival, **four full days** Tue 10–Fri 13 a
 - [Festivals fitting 12–13 November](november-events.md): Wirral, Salford and FOAM; other November events marked outside your travel dates.
 - [Trip logistics](logistics.md): flight details, airport arrival/departure buffers, train engineering changes, hotel-base tradeoffs.
 - **[What to drink](what-to-drink.md):** named cask leads, Old Tom's November return, mild/bitter/stout comparisons, real cider/perry tasting and bar questions.
+- **[Beer and cider at every venue](drinks-by-venue.md):** named regulars, brewery examples, changing guest lines and product-specific cider cautions for all 158, plus Untappd venue/search links.
 - **[Manchester's pub stories](stories-manchester.md):** beer-house tilework, bell pushes, myths, Lowry and the sloping Marble Arch.
 - **[Stockport and excursions: stories](stories-stockport-and-excursions.md):** Raffald family, Robinsons' 1899 brewery cat, extraordinary snugs and cider cellars.
 - **[Liverpool's pub stories](stories-liverpool.md):** Cain's architectural rivalry, a locomotive named Lion, prison-cell drinking rooms and the Roscoe Head transition.

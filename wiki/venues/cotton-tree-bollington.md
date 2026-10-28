@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional village ale and cider pub |
 | Address | 3–5 Ingersley Road, Bollington, SK10 5RE · [Map search](https://www.google.com/maps/search/?api=1&query=Cotton%20Tree%2C%203%E2%80%935%20Ingersley%20Road%2C%20Bollington%2C%20SK10%205RE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Cotton%20Tree%20Bollington&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

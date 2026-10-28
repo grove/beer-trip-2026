@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Canalside cask and food pub |
 | Address | 6 Slate Wharf, Castlefield, Manchester, M15 4ST · [Map search](https://www.google.com/maps/search/?api=1&query=Wharf%2C%206%20Slate%20Wharf%2C%20Castlefield%2C%20Manchester%2C%20M15%204ST) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Wharf%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

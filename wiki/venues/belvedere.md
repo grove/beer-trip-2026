@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Tiny historic free house |
 | Address | 8 Sugnall Street, Liverpool L7 7EB · [Map search](https://www.google.com/maps/search/?api=1&query=Belvedere%20Arms%2C%208%20Sugnall%20Street%2C%20Liverpool%20L7%207EB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Belvedere%20Arms%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

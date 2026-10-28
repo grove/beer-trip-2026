@@ -48,7 +48,11 @@
           "supports": "Meal booking and kitchen information that conflicts with the food page on Wednesdays."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Angel%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "balance-brewing-blending",
@@ -95,7 +99,11 @@
           "supports": "Real cider, occasional cask and ticketed cider-club meetings."
         }
       ],
-      "cluster": "Manchester: Piccadilly brewery circuit"
+      "cluster": "Manchester: Piccadilly brewery circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Balance%20Brewing%20%26%20Blending%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bar-fringe",
@@ -134,7 +142,11 @@
           "supports": "Continental focus, walk-in policy and snack-only food."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Bar%20Fringe%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "beer-house-chorlton",
@@ -145,7 +157,7 @@
       "venue_type": "Independent neighbourhood beer pub",
       "address": "57 Manchester Road, Chorlton-cum-Hardy, M21 9PW",
       "why_visit": "The strongest anchor for a Chorlton beer excursion. Formerly the Marble Beer House, it now combines Marble with independent guests in a compact, conversational setting. Its repeated local CAMRA recognition, including the documented 2026 branch award, adds a useful quality signal without replacing the practical reason to visit: a focused changing beer range in a neighbourhood pub. Pair it with Chorlton Tap and Fell for a coherent suburban circuit instead of scattering the day across unrelated outer-city venues.",
-      "beer": "Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range.",
+      "beer": "Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range. CAMRA lists Marble Manchester Bitter and Pint as regulars; changing casks have included Abbeydale, Blackjack and RedWillow. This is not a November stock promise.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly flags real cider but does not specify a fixed producer; ask about bottles and the current selection.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -167,7 +179,11 @@
           "supports": "Current identity, guest range, real-cider flag and 2026 branch award."
         }
       ],
-      "cluster": "Chorlton"
+      "cluster": "Chorlton",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Beer%20House%20Chorlton-cum-Hardy&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "black-friar-salford",
@@ -212,7 +228,11 @@
           "supports": "Reservations, menu differences and pie pre-orders."
         }
       ],
-      "cluster": "Salford: inner-city pubs"
+      "cluster": "Salford: inner-city pubs",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Black%20Friar%20Salford&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "britons-protection",
@@ -223,7 +243,7 @@
       "venue_type": "Historic multi-room pub",
       "address": "50 Great Bridgewater Street, Manchester, M1 5LE",
       "why_visit": "A substantial traditional pub experience built around a succession of rooms, a tiled passage and service hatches rather than a single open space. The preserved interior is the principal attraction, but current sources also establish an active cask offering after cellar work in 2026. This deserves inclusion alongside the Peveril, not merely a photograph from outside. Set aside time to explore the room layout with a drink and notice how the bar serves people sitting away from the front counter.",
-      "beer": "The current official site advertises cask ale. Local CAMRA reports cellar refurbishment in April 2026 and provision for eight casks; actual availability may be lower.",
+      "beer": "The current official site advertises cask ale. Local CAMRA reports cellar refurbishment in April 2026 and provision for eight casks; actual availability may be lower. The [CAMRA beer listing](https://camra.org.uk/pubs/britons-protection-manchester-137669) recently recorded Theakston Old Peculier, Draught Bass and Beartown Skinful; these are past sightings, not established permanent lines.",
       "cider_status": "reported-cider-check-qualification",
       "cider_note": "The operator advertises cider but no specific qualifying real-cider product was established.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -251,7 +271,11 @@
           "supports": "Historic interior and 2026 cellar changes."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Britons%20Protection%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bundobust-brewery-manchester",
@@ -293,7 +317,11 @@
           "supports": "Vegetarian and vegan food, cask listing and explicitly identified real cider from Hogan’s."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/v/bundobust-manchester-oxford-road/10873942",
+        "kind": "venue"
+      }
     },
     {
       "id": "cafe-beermoth",
@@ -304,7 +332,7 @@
       "venue_type": "Specialist beer café",
       "address": "Brown Street entrance, Manchester, M2 1DA",
       "why_visit": "A beer-focused café with enough cask depth to justify a stop even on a traditional-ale trip. Its bottle selection provides an opportunity to explore wild fermentation and sharing bottles without leaving the centre, and the cheese or meat plates offer a useful pause between pubs. It works particularly well with City Arms and the chop houses: the surroundings change completely, but beer remains the point. Make time to inspect the fridges and ask for a recommendation beyond whatever is easiest to recognise.",
-      "beer": "CAMRA reports seven cask lines including a Runaway house beer and changing British guests, plus keg and an extensive international bottle selection.",
+      "beer": "CAMRA reports seven cask lines including a Runaway house beer and changing British guests, plus keg and an extensive international bottle selection. CAMRA specifically identifies Runaway Stone’s Throw as its regular house cask; the rest of the seven-line cask selection rotates.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider evidence established; ask for the producer and product at the bar.",
       "food": "Cheese and meat plates and other bar snacks are documented; useful for a light food stop.",
@@ -332,7 +360,11 @@
           "supports": "Café Beermoth named 2026 Central Manchester Pub of the Year."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/v/cafe-beermoth/4012274",
+        "kind": "venue"
+      }
     },
     {
       "id": "cask-ancoats",
@@ -365,7 +397,11 @@
           "supports": "Location, cask, explicit real-cider flag, layout and snacks."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Cask%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "cask-liverpool-road",
@@ -376,7 +412,7 @@
       "venue_type": "Specialist beer bar",
       "address": "29 Liverpool Road, Manchester, M3 4NQ",
       "why_visit": "A useful Castlefield stop combining changing cask with a serious continental range. The small frontage leads into a deeper, relaxed bar, and the ability to bring in food makes it unusually practical for an unfussy meal during a beer day. Its selection offers a different emphasis from the historic pubs around Great Bridgewater Street, without requiring a detour into another district. This is particularly worthwhile when you want a regional cask alongside German or Belgian choices and a straightforward, informal setting.",
-      "beer": "Four handpumps with changing local and Yorkshire cask are documented, alongside continental bottles and keg.",
+      "beer": "Four handpumps with changing local and Yorkshire cask are documented, alongside continental bottles and keg. CAMRA names Mallinsons, Pictish and Rooster’s as typical changing suppliers and recently recorded Abbeydale Deception. None is guaranteed for November.",
       "cider_status": "documented-real",
       "cider_note": "The current CAMRA listing explicitly flags real cider; producer and product should be checked.",
       "food": "Bar snacks only, but CAMRA reports that outside food and next-door fish and chips are welcomed if you clear away the packaging. Confirm the policy on arrival.",
@@ -398,7 +434,11 @@
           "supports": "Cask, real cider, continental beer, food policy and location."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Cask%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "castle-hotel",
@@ -432,7 +472,11 @@
           "supports": "Rare tiled bar, historic rooms, cask range and live music."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Castle%20Hotel%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "chorlton-tap",
@@ -443,9 +487,9 @@
       "venue_type": "Neighbourhood beer bar",
       "address": "533 Wilbraham Road, Chorlton-cum-Hardy, M21 0UE",
       "why_visit": "A particularly useful Chorlton stop because it combines regional cask, a meaningful cider offering and an independent kitchen. Its roots as The Bar make it part of the neighbourhood’s established beer culture rather than a recent generic taproom. The cider cool box is worth explicitly asking about; the selection can include perry as well as cider. Build it into a compact circuit with Beer House and Fell, and consider making it the food stop if the kitchen’s actual operating days fit your visit.",
-      "beer": "Changing cask from local and wider independent breweries, with keg and bottles alongside.",
+      "beer": "Changing cask from local and wider independent breweries, with keg and bottles alongside. CAMRA identifies Marble, Pictish and Pomona Island among its changing cask brewers.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA explicitly says some bag-in-box products meet its real-cider guidelines and occasionally perry is stocked. Ask which products qualify; the whole selection is not automatically real cider.",
+      "cider_note": "CAMRA explicitly says some bag-in-box products meet its real-cider guidelines and occasionally perry is stocked. Ask which products qualify; the whole selection is not automatically real cider. CAMRA also names Celtic Marches and Seacider among boxed cider leads; qualification must be checked for the particular product, not inferred from the maker alone.",
       "food": "Nora’s Kitchen is reported to provide pizza on selected days and Sunday roasts. Confirm the current operator, service days and any tasting-menu event directly.",
       "visit_notes": "Card/digital payment only in the current listing. Do not treat a recurring tasting-menu pattern as confirmation of a November event.",
       "transport": "Walk from Chorlton tram stop; convenient for Fell Chorlton and Beer House.",
@@ -466,7 +510,11 @@
           "supports": "Cask, qualifying real-cider subset, occasional perry, kitchen and location."
         }
       ],
-      "cluster": "Chorlton"
+      "cluster": "Chorlton",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Chorlton%20Tap%20Chorlton-cum-Hardy&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "circus-tavern",
@@ -499,7 +547,11 @@
           "supports": "Tiny historic interior, cask provision and variable hours."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Circus%20Tavern%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "city-arms",
@@ -510,7 +562,7 @@
       "venue_type": "Traditional two-room pub",
       "address": "46–48 Kennedy Street, Manchester, M2 4BQ",
       "why_visit": "A compact city-centre local with the cask depth of a dedicated beer destination. The two rooms and tiled passage make this a particularly good antidote to large modern bars, while the changing selection encourages a comparison of bitter, pale ale and a dark beer if available. It belongs near the top of a traditional Manchester route because it offers a substantial beer reason to visit as well as historic detail. Weekday lunch is a useful opportunity to experience it before the busiest evening sessions.",
-      "beer": "CAMRA records eight handpumps, mostly rotating beers, with a mild often available and a vegan cask option documented. Ask what is freshly tapped rather than relying on a historic beer list.",
+      "beer": "CAMRA records eight handpumps, mostly rotating beers, with a mild often available and a vegan cask option documented. Ask what is freshly tapped rather than relying on a historic beer list. Brightside Odin Blonde is a named regular CAMRA cask lead; most other handpumps and the reported mild selection rotate.",
       "cider_status": "reported-cider-check-qualification",
       "cider_note": "Two bag-in-box ciders are described, but the current entry does not explicitly identify qualifying products. Bag-in-box packaging alone does not establish real cider.",
       "food": "CAMRA reports a weekday lunchtime menu and hot pies while stocks last; do not assume evening or weekend meal service.",
@@ -533,7 +585,11 @@
           "supports": "Cask range, historic rooms, bag-in-box cider and limited food service."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/v/city-arms/31033",
+        "kind": "venue"
+      }
     },
     {
       "id": "cloudwater-unit-9",
@@ -580,7 +636,11 @@
           "supports": "Brewery tours and tutored tasting information."
         }
       ],
-      "cluster": "Manchester: Piccadilly brewery circuit"
+      "cluster": "Manchester: Piccadilly brewery circuit",
+      "untappd": {
+        "url": "https://untappd.com/v/unit-9-cloudwater-taproom/7990731",
+        "kind": "venue"
+      }
     },
     {
       "id": "crown-and-kettle",
@@ -620,7 +680,11 @@
           "supports": "Ceiling and listed status, cask, real cider and food details."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-crown-and-kettle/60178",
+        "kind": "venue"
+      }
     },
     {
       "id": "eagle-inn-salford",
@@ -659,7 +723,11 @@
           "supports": "Current pub, venue, events and address."
         }
       ],
-      "cluster": "Salford: inner-city pubs"
+      "cluster": "Salford: inner-city pubs",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Eagle%20Inn%20Salford&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "fell-chorlton",
@@ -670,7 +738,7 @@
       "venue_type": "Brewery neighbourhood bar",
       "address": "518 Wilbraham Road, Chorlton-cum-Hardy, M21 9AW",
       "why_visit": "A relaxed neighbourhood route into Fell’s Cumbrian brewing, especially useful if you want a dark cask alongside the pale beers common elsewhere. The small tiled-and-wood bar feels different from a production taproom and sits conveniently among Chorlton’s other serious beer stops. Its real-cider listing adds another reason to include it in a suburban circuit. The appeal is focused brewery character, a manageable selection and a setting suitable for a settled drink; it need not consume an entire afternoon on its own.",
-      "beer": "The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen.",
+      "beer": "The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen. Fell Dark Mild 3.4% is one recently reported cask example rather than a permanent listed pour.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly lists Hogan’s real cider; check the current product and dispense.",
       "food": "Snacks from independent producers; no full kitchen established.",
@@ -699,7 +767,11 @@
           "supports": "Real cider and range of cask styles."
         }
       ],
-      "cluster": "Chorlton"
+      "cluster": "Chorlton",
+      "untappd": {
+        "url": "https://untappd.com/v/fell-bar-chorlton/10048293",
+        "kind": "venue"
+      }
     },
     {
       "id": "fletcher-moss",
@@ -739,7 +811,11 @@
           "supports": "Current venue, address and cask provision."
         }
       ],
-      "cluster": "Didsbury"
+      "cluster": "Didsbury",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Fletcher%20Moss%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "gas-lamp",
@@ -750,7 +826,7 @@
       "venue_type": "Basement beer bar",
       "address": "50A Bridge Street, Manchester, M3 3BW",
       "why_visit": "A distinctive tiled basement with a particularly compelling combination of Pomona Island cask and a documented Little Pomona cider line. The small entrance is easy to miss; downstairs, the glazed-brick room supplies atmosphere without pretending to be an untouched old pub. This is one of the most useful cider-led choices in central Manchester and a logical link between the city-centre venues and Salford. It suits a deliberate stop to ask what is pouring and compare beer with a more characterful cider.",
-      "beer": "CAMRA documents four changing cask lines, commonly including Pomona Island and other smaller breweries.",
+      "beer": "CAMRA documents four changing cask lines, commonly including Pomona Island and other smaller breweries. Pomona Island is a recurring changing-cask supplier here, alongside smaller guest brewers.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly identifies a permanent Little Pomona real-cider line. Confirm the actual cider and any bottle alternatives on the day.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -772,7 +848,11 @@
           "supports": "Basement character, Pomona Island cask, permanent Little Pomona cider line and access."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/v/the-gas-lamp/25126",
+        "kind": "venue"
+      }
     },
     {
       "id": "grey-horse-manchester",
@@ -812,7 +892,11 @@
           "supports": "Current venue, address and cask focus."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Grey%20Horse%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "hare-and-hounds-manchester",
@@ -845,7 +929,11 @@
           "supports": "Nationally important interior, cask beers, address and access."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Hare%20%26%20Hounds%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "kings-arms-salford",
@@ -878,7 +966,11 @@
           "supports": "Pub rooms, house beer, cask offering and theatre/events."
         }
       ],
-      "cluster": "Salford: inner-city pubs"
+      "cluster": "Salford: inner-city pubs",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Kings%20Arms%20Salford&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "lamb-hotel-eccles",
@@ -912,7 +1004,11 @@
           "supports": "Nationally important interior, Holt’s bitter and mild, address and transport."
         }
       ],
-      "cluster": "Eccles and Patricroft"
+      "cluster": "Eccles and Patricroft",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Lamb%20Hotel%20Eccles&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "lass-ogowrie",
@@ -945,7 +1041,11 @@
           "supports": "Tiled building, cask, food and pub layout."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Lass%20O%27Gowrie%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "longford-tap",
@@ -977,7 +1077,11 @@
           "supports": "Location, local cask focus and documented regional brewery range."
         }
       ],
-      "cluster": "Stretford"
+      "cluster": "Stretford",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Longford%20Tap%20Stretford&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "lower-turks-head",
@@ -1010,7 +1114,11 @@
           "supports": "Current Holt ownership, distinctive seating, cask and location."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Lower%20Turks%20Head%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "marble-arch",
@@ -1057,7 +1165,11 @@
           "supports": "Marble Arch named 2026 Central Manchester Cider Pub of the Year."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/marble-arch-inn/3738",
+        "kind": "venue"
+      }
     },
     {
       "id": "molly-house",
@@ -1097,7 +1209,11 @@
           "supports": "Food, current operation, address and Saturday booking policy."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Molly%20House%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "mr-thomass-chop-house",
@@ -1108,7 +1224,7 @@
       "venue_type": "Historic chop-house pub",
       "address": "52 Cross Street, Manchester, M2 7AR",
       "why_visit": "One of the best choices for combining a spectacular pub interior with a proper meal. The green ceramic arches, tiled surfaces and fireplace make the long succession of rooms unusually memorable. The cask selection is smaller than at the city’s specialist free houses, but the whole experience is exactly relevant to a trip built around traditional pubs and food. Book a table if eating, and make time to look at the bar and dining spaces rather than treating the visit solely as a restaurant reservation.",
-      "beer": "CAMRA reports cask handpumps in the front and main rooms, with four of six in use at survey; regional and established British beers feature.",
+      "beer": "CAMRA reports cask handpumps in the front and main rooms, with four of six in use at survey; regional and established British beers feature. CAMRA lists Timothy Taylor Landlord and Boltmaker as regulars; JW Lees Boddingtons Bitter is a recently reported guest, not a November promise.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider evidence established; ask for the producer and product at the bar.",
       "food": "Traditional British cooking and Sunday service; the operator publishes current seasonal menus. Book if this is your main meal.",
@@ -1137,7 +1253,11 @@
           "supports": "Freshly prepared British food and current menu guidance."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/v/mr-thomass-chop-house/47022",
+        "kind": "venue"
+      }
     },
     {
       "id": "new-oxford",
@@ -1148,7 +1268,7 @@
       "venue_type": "Traditional specialist free house",
       "address": "11 Bexley Square, Salford, M3 6DB",
       "why_visit": "The clearest Salford anchor for a visit driven by cask variety. Its corner-pub rooms and restored snug provide a proper pub setting for a substantial changing range, while the Belgian bottle offering gives experienced drinkers another reason to linger. This is a place to ask about the darker cask and the freshest regional beer rather than simply defaulting to the best-known permanent name. Combine it with Kings Arms and Eagle Inn for three distinct versions of Salford pub life, or use Black Friar nearby for a meal.",
-      "beer": "CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them.",
+      "beer": "CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them. CAMRA lists Moorhouse’s White Witch as its house pale and Thornbridge Jaipur as regulars; Wharfedale Porter and Brass Castle Best Bitter have been spotted as changing guests.",
       "cider_status": "unverified",
       "cider_note": "Old Salford CAMRA articles describe real cider, but the current pub entry does not establish today’s provision. Treat cider as unconfirmed, not a guaranteed reason to travel.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -1171,7 +1291,11 @@
           "supports": "Current cask range, restored rooms, address and Belgian selection."
         }
       ],
-      "cluster": "Salford: inner-city pubs"
+      "cluster": "Salford: inner-city pubs",
+      "untappd": {
+        "url": "https://untappd.com/v/the-new-oxford/25568",
+        "kind": "venue"
+      }
     },
     {
       "id": "northern-monk-manchester",
@@ -1210,7 +1334,11 @@
           "supports": "Real cider and cask details."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/northern-monk-refectory-mcr/8238071",
+        "kind": "venue"
+      }
     },
     {
       "id": "old-wellington",
@@ -1243,7 +1371,11 @@
           "supports": "Building history, current cask, dining, location and access."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Old%20Wellington%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "peveril-of-the-peak",
@@ -1254,7 +1386,7 @@
       "venue_type": "Historic multi-room pub",
       "address": "127 Great Bridgewater Street, Manchester, M1 5JQ; junction with Chepstow Street",
       "why_visit": "One of the most memorable small pub buildings in either city: a green-tiled wedge standing apart from the surrounding development. The interior rewards a slow look through the drinking lobby, snug and other little rooms, with stained glass, woodwork and old seating. Its relatively focused cask selection suits the setting; this is a place to appreciate a well-kept familiar beer and the pub around it. Pair it with Britons Protection for two very different examples of Manchester’s surviving drinking-room traditions.",
-      "beer": "CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord.",
+      "beer": "CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord. CAMRA additionally lists Millstone Tiger Rut and Brightside The Mancunian as regulars alongside Titanic Plum Porter and Timothy Taylor Landlord.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider evidence established; ask for the producer and product at the bar.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -1283,7 +1415,11 @@
           "supports": "Building, tile exterior and location."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/v/peveril-of-the-peak/49761",
+        "kind": "venue"
+      }
     },
     {
       "id": "port-street-beer-house",
@@ -1294,9 +1430,9 @@
       "venue_type": "Specialist beer house",
       "address": "39–41 Port Street, Manchester, M1 2EQ",
       "why_visit": "A strong anchor for the beer-discovery side of the trip. The substantial cask offering sits alongside international bottles and modern draught, making it a useful place to compare northern brewing with the European styles you already know. It is a beer house rather than an ornate historic pub, so its place in the plan rests on selection and curation. The upstairs room also makes it worth allowing enough time for a settled tasting, especially when a suitable guest brewery is featured.",
-      "beer": "Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection.",
+      "beer": "Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection. The rotating cask range recently included Colbier Forte and Thornbridge Old Badequella, according to CAMRA. Neither is a fixed beer.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA explicitly flags real cider and names Hogan’s bottles. Ask which bottles currently qualify and are available.",
+      "cider_note": "CAMRA explicitly flags real cider and names Hogan’s bottles. Ask which bottles currently qualify and are available. CAMRA mentions Hogan’s bottled cider and Pulp cans; verify the individual product and real-cider qualification, since a can alone proves nothing.",
       "food": "Not established; do not plan a meal here without checking.",
       "visit_notes": "Card only according to CAMRA. Tap takeovers are worthwhile possibilities but require checking the actual November programme.",
       "transport": "Walk from Manchester Piccadilly or Piccadilly Gardens; combine with Castle Hotel and Northern Monk.",
@@ -1322,7 +1458,11 @@
           "supports": "Current location and opening information."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/port-street-beer-house/18005",
+        "kind": "venue"
+      }
     },
     {
       "id": "prairie-schooner-urmston",
@@ -1362,7 +1502,11 @@
           "supports": "Current independent beer and real-cider focus."
         }
       ],
-      "cluster": "Urmston"
+      "cluster": "Urmston",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Prairie%20Schooner%20Taphouse%20Urmston&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "queens-arms-patricroft",
@@ -1401,7 +1545,11 @@
           "supports": "Current address, railway association and continued operation."
         }
       ],
-      "cluster": "Eccles and Patricroft"
+      "cluster": "Eccles and Patricroft",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Queens%20Arms%20Eccles&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "reasons-to-be-cheerful",
@@ -1435,7 +1583,11 @@
           "supports": "Balanced cask selection, flights, bottled real cider and location."
         }
       ],
-      "cluster": "Burnage / Fog Lane"
+      "cluster": "Burnage / Fog Lane",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Reasons%20to%20be%20Cheerful%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "rising-sun-manchester",
@@ -1467,7 +1619,11 @@
           "supports": "Reopening, smaller cask offering, traditional character and address."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Rising%20Sun%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "sadlers-cat",
@@ -1506,7 +1662,11 @@
           "supports": "Three changing cask beers, wooden building and former Pilcrow identity."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Sadler%27s%20Cat%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "salisbury-ale-house",
@@ -1517,7 +1677,7 @@
       "venue_type": "Traditional rock pub",
       "address": "2 Wakefield Street, Manchester, M1 5NE",
       "why_visit": "A characterful rock pub in the hollow below Oxford Road station, with a tiled exterior and plenty of corners in which to sit. It offers a useful change of atmosphere on the Peveril–Britons–Oxford Road circuit, especially if music culture is part of the appeal of Manchester. The cask range is the beer reason to include it, and pizza can provide a straightforward food break. Expect a working music-oriented pub rather than a quiet preserved interior; timing around gigs will strongly affect the experience.",
-      "beer": "CAMRA documents up to six real ales and notes a traditional strong ale among the selection; ask what is actually on.",
+      "beer": "CAMRA documents up to six real ales and notes a traditional strong ale among the selection; ask what is actually on. Theakston Old Peculier appears frequently in its CAMRA record; recent sightings include Millstone Stout. These are leads rather than a fixed beer list.",
       "cider_status": "none-reported",
       "cider_note": "CAMRA explicitly describes its two listed ciders as non-real; do not use this as a real-cider destination.",
       "food": "Pizza is documented; verify current kitchen times.",
@@ -1539,7 +1699,11 @@
           "supports": "Current cask, rock-pub atmosphere, pizza and explicitly non-real cider."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Salisbury%20Ale%20House%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "salutation-hulme",
@@ -1572,7 +1736,11 @@
           "supports": "Current operator, Bollington cask focus, food and term-related limitations."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Salutation%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "sams-chop-house",
@@ -1605,7 +1773,11 @@
           "supports": "Current location, cask, British restaurant, room and Lowry association."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Sam%27s%20Chop%20House%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "sinclairs-oyster-bar",
@@ -1638,7 +1810,11 @@
           "supports": "Current cask availability, location, food and no-phone policy."
         }
       ],
-      "cluster": "Manchester: central and western pub circuit"
+      "cluster": "Manchester: central and western pub circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Sinclair%27s%20Oyster%20Bar%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "smithfield-market-tavern",
@@ -1672,7 +1848,11 @@
           "supports": "Blackjack operation, six cask lines, games, snacks and real-cider bottles."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/smithfield-market-tavern/150505",
+        "kind": "venue"
+      }
     },
     {
       "id": "steelfish-taproom",
@@ -1706,7 +1886,11 @@
           "supports": "New taproom, location, cask and real-cider flag, snacks and limited hours."
         }
       ],
-      "cluster": "Manchester: Piccadilly brewery circuit"
+      "cluster": "Manchester: Piccadilly brewery circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Steelfish%20Brewing%20Company%20Taproom%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "sureshot-taproom",
@@ -1746,7 +1930,11 @@
           "supports": "Brewery-arch setting and cask offering."
         }
       ],
-      "cluster": "Manchester: Piccadilly brewery circuit"
+      "cluster": "Manchester: Piccadilly brewery circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Sureshot%20Brewery%20Taproom%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "track-brewery-tap",
@@ -1786,7 +1974,11 @@
           "supports": "Brewery setting, cask Sonoma and practical details."
         }
       ],
-      "cluster": "Manchester: Piccadilly brewery circuit"
+      "cluster": "Manchester: Piccadilly brewery circuit",
+      "untappd": {
+        "url": "https://untappd.com/v/track-brewing-co-taproom-20/10905443",
+        "kind": "venue"
+      }
     },
     {
       "id": "wharf-manchester",
@@ -1832,7 +2024,11 @@
           "supports": "Current food offer and vegetarian/vegan choices."
         }
       ],
-      "cluster": "Manchester: Oxford Road, the Village and Castlefield"
+      "cluster": "Manchester: Oxford Road, the Village and Castlefield",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Wharf%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "augustus-john",
@@ -1872,7 +2068,11 @@
           "supports": "Public welcome, cask, real cider, food and opening pattern"
         }
       ],
-      "cluster": "Liverpool: station district and University Quarter"
+      "cluster": "Liverpool: station district and University Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Augustus%20John%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "azvex-taproom",
@@ -1911,7 +2111,11 @@
           "supports": "Taps, tours, food vendors, serving sizes and opening restrictions"
         }
       ],
-      "cluster": "Liverpool: waterfront, Baltic Triangle and north docks"
+      "cluster": "Liverpool: waterfront, Baltic Triangle and north docks",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Azvex%20Brewery%20%26%20Taproom%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "baltic-fleet",
@@ -1922,7 +2126,7 @@
       "venue_type": "Victorian dockside pub",
       "address": "33A Wapping, Liverpool L1 8DQ",
       "why_visit": "A highly distinctive dockside building, with its narrow flat-iron shape and nautical character, gives this stop a strong sense of place. The current operator’s beer policy is unusually useful: local independent brewers, a regular Brimstage bitter and rotating pale, golden and dark options. That makes it a good introduction to Merseyside brewing before visiting a production taproom. Use it to connect waterfront sightseeing with Black Lodge and the Baltic area, or enjoy it on its own as a traditional pub beside the docks.",
-      "beer": "Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing.",
+      "beer": "Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing. CAMRA has also recently recorded Salopian Darwin’s Origin and Spitting Feathers Thirstquencher among changing beers, separate from the Brimstage regular.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -1951,7 +2155,11 @@
           "supports": "Current cask policy, local brewers, location and pub character"
         }
       ],
-      "cluster": "Liverpool: waterfront, Baltic Triangle and north docks"
+      "cluster": "Liverpool: waterfront, Baltic Triangle and north docks",
+      "untappd": {
+        "url": "https://untappd.com/v/baltic-fleet/87079",
+        "kind": "venue"
+      }
     },
     {
       "id": "belvedere",
@@ -1984,7 +2192,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Belvedere%20Arms%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "black-lodge-liverpool",
@@ -2030,7 +2242,11 @@
           "supports": "Address and conflicting autumn opening pattern"
         }
       ],
-      "cluster": "Liverpool: waterfront, Baltic Triangle and north docks"
+      "cluster": "Liverpool: waterfront, Baltic Triangle and north docks",
+      "untappd": {
+        "url": "https://untappd.com/v/black-lodge-brewing/9223251",
+        "kind": "venue"
+      }
     },
     {
       "id": "black-lodge-west-kirby",
@@ -2069,7 +2285,11 @@
           "supports": "Address, cask/keg, snacks and tasting enquiries"
         }
       ],
-      "cluster": "Wirral: Hoylake and West Kirby"
+      "cluster": "Wirral: Hoylake and West Kirby",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Black%20Lodge%20Brewery%20Tap%20West%20Kirby&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bundobust-liverpool",
@@ -2108,7 +2328,11 @@
           "supports": "Entire menu vegetarian with vegan options"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/bundobust-liverpool/8993288",
+        "kind": "venue"
+      }
     },
     {
       "id": "cask-stoneycroft",
@@ -2142,7 +2366,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: outer neighbourhood specialists"
+      "cluster": "Liverpool: outer neighbourhood specialists",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Cask%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "crown-hotel-liverpool",
@@ -2153,7 +2381,7 @@
       "venue_type": "Art Nouveau show pub",
       "address": "43 Lime Street, Liverpool L1 1JQ",
       "why_visit": "An architectural reward almost immediately outside the station. The highly modelled ceilings, copper-fronted counter, decorative fireplaces and surviving glass place it firmly in Liverpool’s family of grand brewery show pubs. Its more everyday chain-pub operation does not erase those features, and cask is documented. Use it as a deliberate first or final stop rather than dismissing it as merely a station convenience. It makes an instructive comparison with the nearby Vines, showing how different brewers competed to make an impression.",
-      "beer": "CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales.",
+      "beer": "CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales. CAMRA lists Sharp’s Doom Bar, Timothy Taylor Landlord and Oakham Citra as regular cask examples, with Titanic among changing breweries.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "Operator advertises breakfast and pub meals; useful convenience, though the interior is the main reason for inclusion.",
@@ -2181,7 +2409,11 @@
           "supports": "Current operation, meals, location and hours"
         }
       ],
-      "cluster": "Liverpool: station district and University Quarter"
+      "cluster": "Liverpool: station district and University Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Crown%20Hotel%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "dead-crafty-beer-company",
@@ -2219,7 +2451,11 @@
           "supports": "City address, bottle shop, specialist focus and separate Allerton branch"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-dead-crafty-beer-company/4480846",
+        "kind": "venue"
+      }
     },
     {
       "id": "doctor-duncans",
@@ -2230,7 +2466,7 @@
       "venue_type": "Tiled historic-building conversion",
       "address": "2 St John’s Lane, Liverpool L1 1HF",
       "why_visit": "Come for the green tiled room and stay for a local beer and a meal. The former insurance building contains several contrasting drinking spaces, with ceramics and a Victorian pharmacy cabinet providing a memorable setting. This is a useful first or last city-centre stop because it combines visual interest, cask and food close to the main arrival area. Treat the medical memorabilia as part of the pub’s interpretation of Liverpool history; the principal draw for this trip is the unusual room itself.",
-      "beer": "The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service.",
+      "beer": "The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service. CAMRA identifies Beartown Best Bitter as a regular cask lead.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "Official site advertises hearty British dishes including scouse.",
@@ -2259,7 +2495,11 @@
           "supports": "Current real-ale and food offer; restored tilework and location"
         }
       ],
-      "cluster": "Liverpool: station district and University Quarter"
+      "cluster": "Liverpool: station district and University Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Doctor%20Duncan%27s%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "four-ashes",
@@ -2294,7 +2534,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "North coast: Waterloo"
+      "cluster": "North coast: Waterloo",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Four%20Ashes%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "gallaghers-birkenhead",
@@ -2327,7 +2571,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Wirral: Birkenhead"
+      "cluster": "Wirral: Birkenhead",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Gallaghers%20Traditional%20Pub%20Birkenhead&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "glen-affric-taproom",
@@ -2371,7 +2619,11 @@
           "supports": "Walking route and distinction between office and taproom hours"
         }
       ],
-      "cluster": "Wirral: Birkenhead"
+      "cluster": "Wirral: Birkenhead",
+      "untappd": {
+        "url": "https://untappd.com/v/glen-affric-taproom/7000093",
+        "kind": "venue"
+      }
     },
     {
       "id": "guest-house-southport",
@@ -2404,7 +2656,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "North coast: Formby, Hillside and Southport"
+      "cluster": "North coast: Formby, Hillside and Southport",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Guest%20House%20Southport&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "handyman-supermarket",
@@ -2443,7 +2699,11 @@
           "supports": "Current venue identity and address"
         }
       ],
-      "cluster": "Liverpool: outer neighbourhood specialists"
+      "cluster": "Liverpool: outer neighbourhood specialists",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Handyman%20Supermarket%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "lion-tavern",
@@ -2454,7 +2714,7 @@
       "venue_type": "Historic cask pub",
       "address": "67 Moorfields, Liverpool L2 2BP",
       "why_visit": "One of the best combinations of traditional beer and decorative detail in either city. The passage around the bar, coloured tilework, elaborate glass and glazed lounge dome deserve a slow look rather than a doorway photograph. Its compact layout makes the preservation tangible: you drink inside the old arrangement of rooms and service screens. The cask-led offer and cold pork pies suit a pause between the larger Dale Street beer houses. For pub interiors, give the Lion equal billing with the much more frequently photographed Philharmonic.",
-      "beer": "Changing cask ales; official site advertises eight handpumps, while CAMRA’s listed beer count is lower. Do not assume every pump is pouring.",
+      "beer": "Changing cask ales; official site advertises eight handpumps, while CAMRA’s listed beer count is lower. Do not assume every pump is pouring. CAMRA lists Otter Bitter as a regular cask lead; changing guests have included Higsons and Love Lane.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA and the pub advertise real cider, but the official examples include mixed products; check the exact cider against current qualification.",
       "food": "Cold Coward’s of Frodsham pork pies are advertised. The pub says it does not serve a full food menu.",
@@ -2489,7 +2749,11 @@
           "supports": "Current operator presentation, real cider claim and food limitation"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/lion-tavern/134294",
+        "kind": "venue"
+      }
     },
     {
       "id": "liverpool-brewing-company-tap",
@@ -2522,7 +2786,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: station district and University Quarter"
+      "cluster": "Liverpool: station district and University Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Liverpool%20Brewing%20Company%20Tap%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "magazine-hotel",
@@ -2557,7 +2825,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Wirral: New Brighton, Liscard and Wallasey"
+      "cluster": "Wirral: New Brighton, Liscard and Wallasey",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Magazine%20Hotel%20New%20Brighton&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "neptune-beerhouse",
@@ -2596,7 +2868,11 @@
           "supports": "Cask/keg offer, address, opening pattern and occasional pizza"
         }
       ],
-      "cluster": "North coast: Maghull and Lydiate"
+      "cluster": "North coast: Maghull and Lydiate",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Neptune%20Beerhouse%20Maghull&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "peter-kavanaghs",
@@ -2607,7 +2883,7 @@
       "venue_type": "Eccentric historic local",
       "address": "2–6 Egerton Street, Liverpool L8 7LY",
       "why_visit": "The most individual of Liverpool’s historic pubs: a former landlord’s extraordinary interior combines murals, stained glass, carved details and patented drinking tables. Explore the snugs as well as the crowded central bar; the Dickens and Hogarth themes make the rooms feel like a private world. This is a particularly good counterpoint to the more formal grandeur of the Philharmonic. It deserves the short extension south of the usual Hope Street route because its character cannot be replicated by substituting another attractive Victorian pub.",
-      "beer": "CAMRA confirms cask ale; check the current handpumps rather than expecting a fixed brewery line-up.",
+      "beer": "CAMRA confirms cask ale; check the current handpumps rather than expecting a fixed brewery line-up. CAMRA currently lists Greene King Abbot and Timothy Taylor Landlord as regular cask beers; the rest of the selection is less predictable.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -2630,7 +2906,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/peter-kavanagh-s/315787",
+        "kind": "venue"
+      }
     },
     {
       "id": "philharmonic-dining-rooms",
@@ -2670,7 +2950,11 @@
           "supports": "Current operator, dining offer and building context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-philharmonic-dining-rooms/123438",
+        "kind": "venue"
+      }
     },
     {
       "id": "plasterers-arms-hoylake",
@@ -2709,7 +2993,11 @@
           "supports": "2026 Pub of Excellence result"
         }
       ],
-      "cluster": "Wirral: Hoylake and West Kirby"
+      "cluster": "Wirral: Hoylake and West Kirby",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Plasterers%20Arms%20Hoylake&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "queens-arms-liverpool",
@@ -2720,7 +3008,7 @@
       "venue_type": "Grand banking-hall conversion",
       "address": "11–13 Victoria Street, Liverpool L2 5QQ",
       "why_visit": "A fresh reason to revisit Liverpool for experienced pub travellers. This March 2026 opening occupies a 1920s banking hall in Pacific Chambers, using its architectural scale for a pub styled after the grand gin palaces. A mezzanine and side rooms offer different perspectives on the space, and the operator advertises a serious rotating cask range rather than relying solely on the building. Its position between the Cavern Quarter and Dale Street makes it a practical additional stop. Compare its new use of a historic commercial interior with the surviving brewery-designed rooms at the Lion or Vines.",
-      "beer": "Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary.",
+      "beer": "Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary. CAMRA lists Timothy Taylor Landlord and JW Lees Boddingtons Bitter as regulars, with Neptune Abyss stout a recent changing guest.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "Official website advertises pies and jacket potatoes.",
@@ -2750,7 +3038,11 @@
           "supports": "Banking-hall setting, rotating cask, food and location"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Queen%27s%20Arms%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "roscoe-head",
@@ -2761,7 +3053,7 @@
       "venue_type": "Traditional free house",
       "address": "24 Roscoe Street, Liverpool L1 2SX",
       "why_visit": "An unusually complete match for this trip: a small independent local that takes cask seriously and still rewards sitting and talking. Four compact drinking spaces, interwar glass and surviving snug details give it a different scale from Liverpool’s palatial show pubs. Its own site describes a music-free pub with six cask choices. Make this an anchor for the Georgian-quarter walk, allowing time for a second beer if the cellar and conversation invite it. Its enduring Good Beer Guide history is useful context, rather than a substitute for assessing the pint in front of you.",
-      "beer": "Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests.",
+      "beer": "Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests. CAMRA names Tetley Bitter, Timothy Taylor Landlord and Fyne Ales Jarl as regular cask beers; changing suppliers include Colbier. Reconfirm trading and the selection amid the reported sale.",
       "cider_status": "reported-cider-check-qualification",
       "cider_note": "CAMRA’s heritage description mentions cider, but current real-cider qualification and selection were not established.",
       "food": "The pub advertises locally baked hot pies; a useful small meal rather than a restaurant booking.",
@@ -2790,7 +3082,11 @@
           "supports": "Six cask ales, four rooms, no music, hot pies, location"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-roscoe-head/134406",
+        "kind": "venue"
+      }
     },
     {
       "id": "scotch-piper",
@@ -2830,7 +3126,11 @@
           "supports": "Address and public-transport approach"
         }
       ],
-      "cluster": "North coast: Maghull and Lydiate"
+      "cluster": "North coast: Maghull and Lydiate",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Scotch%20Piper%20Lydiate&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "ship-and-mitre",
@@ -2841,7 +3141,7 @@
       "venue_type": "Independent beer pub",
       "address": "133 Dale Street, Liverpool L2 2JH",
       "why_visit": "The strongest city-centre starting point when breadth of beer and cider matters as much as old pub character. A substantial changing cask range sits alongside continental bottles and other draught styles, so experienced drinkers can compare local discoveries without treating every stop as a single-pint transaction. The 1930s building and nautical bar add character; the upstairs Art Deco room is a separate architectural attraction when accessible. It also supplies one of the most useful meal stops on a Dale Street route, making it practical to settle in rather than hurry through.",
-      "beer": "CAMRA records eight changing cask beers; the pub also maintains a broad continental and bottled selection.",
+      "beer": "CAMRA records eight changing cask beers; the pub also maintains a broad continental and bottled selection. CAMRA names Black Lodge and Colbier among changing suppliers, but does not identify a reliable permanent cask-beer line.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly lists real cider. Ask for today’s producer/product and perry availability; the range rotates.",
       "food": "One Pan Band kitchen: official menu includes beef scouse, vegetarian blind scouse and other pub dishes; menus change.",
@@ -2877,7 +3177,11 @@
           "supports": "Current food offering and kitchen-contact check"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-ship-mitre/51433",
+        "kind": "venue"
+      }
     },
     {
       "id": "st-peters-tavern",
@@ -2888,7 +3192,7 @@
       "venue_type": "Spectacular church conversion and ale house",
       "address": "74 Seel Street, Liverpool L1 4BH",
       "why_visit": "A spectacular recent addition to Liverpool’s beer circuit: the former church is now a grand, galleried pub with a substantial cask offer. The long counter incorporates reclaimed courthouse furniture, while church features and new pub fittings create an ambitious conversion rather than an unchanged historic drinking room. CAMRA jointly awarded it its Conversion to Pub Use prize in 2026, a useful reason to add it even if you already know the city’s classic pubs. Come for both the architectural scale and the beer, then compare it with the intimate Roscoe Street locals.",
-      "beer": "The operator advertises sixteen cask ales, primarily from local breweries; CAMRA records a substantial smaller count. Treat either figure as an indication of ambition, not guaranteed live availability.",
+      "beer": "The operator advertises sixteen cask ales, primarily from local breweries; CAMRA records a substantial smaller count. Treat either figure as an indication of ambition, not guaranteed live availability. CAMRA names Black Lodge, Love Lane and Neptune among changing suppliers and recently recorded Salopian Entire Butt and Weetwood Silverback Stout. None is a fixed November line.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly flags real cider. Ask what producer and product is pouring, as no fixed range is promised.",
       "food": "The operator advertises pies, sausage rolls, samosas and bar snacks.",
@@ -2924,7 +3228,11 @@
           "supports": "2026 joint Conversion to Pub Use award and design details"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=St%20Peter%27s%20Tavern%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "stork-hotel-birkenhead",
@@ -2957,7 +3265,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Wirral: Birkenhead"
+      "cluster": "Wirral: Birkenhead",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Stork%20Hotel%20Birkenhead&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "tap-and-bottles",
@@ -2991,7 +3303,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "North coast: Formby, Hillside and Southport"
+      "cluster": "North coast: Formby, Hillside and Southport",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Tap%20%26%20Bottles%20Southport&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "beer-lab-heswall",
@@ -3031,7 +3347,11 @@
           "supports": "Address, current operation, handpulls and craft taps"
         }
       ],
-      "cluster": "Wirral: Heswall and rural south"
+      "cluster": "Wirral: Heswall and rural south",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Beer%20Lab%20Heswall&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "black-toad",
@@ -3042,7 +3362,7 @@
       "venue_type": "Independent micropub and bottle shop",
       "address": "32 Market Street, Hoylake CH47 2AF",
       "why_visit": "A particularly persuasive rail-accessible choice for a west-Wirral beer day. The expanded shop premises combine a small bar, an additional lounge and a bottle shop, with a deliberately balanced cask selection. Recent local CAMRA recognition supports its standing without needing to rely on crowd-review scores. Pair it with Plasterers Arms to compare a modern micropub with a traditional neighbourhood pub, then continue to West Kirby if the day allows. Cider and take-home bottles add depth for experienced beer and cider drinkers.",
-      "beer": "CAMRA records changing cask from regional brewers and a deliberate balance of styles.",
+      "beer": "CAMRA records changing cask from regional brewers and a deliberate balance of styles. CAMRA identifies Purple Moose, RedWillow and Tatton as typical changing breweries, rather than fixed individual beers.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA flags a varying real-cider range; confirm what is available.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -3064,7 +3384,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Wirral: Hoylake and West Kirby"
+      "cluster": "Wirral: Hoylake and West Kirby",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Black%20Toad%20Hoylake&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bridewell",
@@ -3103,7 +3427,11 @@
           "supports": "Cask beer, original cells, address and takeaway-food policy"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-bridewell/9138055",
+        "kind": "venue"
+      }
     },
     {
       "id": "denbigh-castle",
@@ -3142,7 +3470,11 @@
           "supports": "Beer styles, no-food policy, location and operation"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-denbigh-castle/10077688",
+        "kind": "venue"
+      }
     },
     {
       "id": "dispensary",
@@ -3174,7 +3506,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Dispensary%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "freshfield",
@@ -3207,7 +3543,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "North coast: Formby, Hillside and Southport"
+      "cluster": "North coast: Formby, Hillside and Southport",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Freshfield%20Freshfield&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "grapes-roscoe-street",
@@ -3218,7 +3558,7 @@
       "venue_type": "Traditional corner free house",
       "address": "60 Roscoe Street, Liverpool L1 9DW",
       "why_visit": "The Grapes on Roscoe Street is the one to target for smaller-brewery cask, a convivial corner-pub atmosphere and jazz. The old brewery lettering outside and the compact rooms supply continuity, while a later extension and raised patio make it more capacious than its nickname suggests. It complements Roscoe Head especially well: the two pubs are close but offer different moods. Build it into a route when you want to hear some music or compare regional brewers without trekking to an industrial taproom.",
-      "beer": "CAMRA describes handpumps mainly serving local and regional smaller breweries.",
+      "beer": "CAMRA describes handpumps mainly serving local and regional smaller breweries. CAMRA names Colbier and Neptune as typical changing cask producers; neither is a permanent fixture.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA currently flags real cider; the producer, product and availability need checking.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -3241,7 +3581,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Grapes%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "grasshopper-hillside",
@@ -3274,7 +3618,11 @@
           "supports": "Cask/cider range, 2026 cider award, address and station proximity"
         }
       ],
-      "cluster": "North coast: Formby, Hillside and Southport"
+      "cluster": "North coast: Formby, Hillside and Southport",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Grasshopper%20Hillside&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "lazy-landlord",
@@ -3315,7 +3663,11 @@
           "supports": "Real ale and cider offer, address and Monday closure"
         }
       ],
-      "cluster": "Wirral: New Brighton, Liscard and Wallasey"
+      "cluster": "Wirral: New Brighton, Liscard and Wallasey",
+      "untappd": {
+        "url": "https://untappd.com/v/the-lazy-landlord-micro-pub/2477823",
+        "kind": "venue"
+      }
     },
     {
       "id": "monro",
@@ -3355,7 +3707,11 @@
           "supports": "Current cask/stout offer, pies, fires, address and Georgian setting"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Monro%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "pen-factory",
@@ -3394,7 +3750,11 @@
           "supports": "Current operator, meals, address and hours to recheck"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Pen%20Factory%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "red-fox-thornton-hough",
@@ -3434,7 +3794,11 @@
           "supports": "Current country-pub operation, menus and booking"
         }
       ],
-      "cluster": "Wirral: Heswall and rural south"
+      "cluster": "Wirral: Heswall and rural south",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Red%20Fox%20Thornton%20Hough&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "vines",
@@ -3445,7 +3809,7 @@
       "venue_type": "Grand Edwardian show pub",
       "address": "81 Lime Street, Liverpool L1 1JQ",
       "why_visit": "An essential companion to the Philharmonic, with lavish carved wood, copper, elaborate plasterwork and formidable fireplaces. Give particular attention to the smoke room and ask whether the former billiard room, now a function space, can be seen. The restoration and return of cask make old descriptions dismissing it as a no-real-ale venue misleading for this trip. Its location near the station makes it easy to include, but the rooms deserve a proper visit rather than a hurried look while waiting for a train.",
-      "beer": "CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests.",
+      "beer": "CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests. CAMRA lists Ossett Silver King, Titanic Plum Porter, Timothy Taylor Landlord and Theakston Best Bitter as regular cask leads; Beartown and Neptune appear among changing suppliers.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "CAMRA lists pies and platters; confirm the current service.",
@@ -3468,7 +3832,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: station district and University Quarter"
+      "cluster": "Liverpool: station district and University Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/the-vines-the-big-house/2036534",
+        "kind": "venue"
+      }
     },
     {
       "id": "thomas-rigbys",
@@ -3502,7 +3870,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Thomas%20Rigby%27s%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "vernon-arms",
@@ -3513,7 +3885,7 @@
       "venue_type": "Traditional independent free house",
       "address": "69 Dale Street, Liverpool L2 2HJ",
       "why_visit": "A particularly useful choice for the feel of a working city-centre local alongside a strong cask offer. Wood panelling, columns and a succession of drinking areas give the long bar more character than the exterior might suggest. The old brewery glass and surviving tiled details reward a look, but this is principally somewhere to settle with a well-chosen beer. It makes a good bridge between the Lion’s preserved interior and Ship & Mitre’s bigger range, with a distinct local atmosphere of its own.",
-      "beer": "CAMRA records regular and changing cask, with regional brewers from north-west England and Wales represented.",
+      "beer": "CAMRA records regular and changing cask, with regional brewers from north-west England and Wales represented. CAMRA lists Brains Rev James Original and Ossett White Rat as regular cask leads, with Brimstage and Coach House among changing breweries.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA currently flags real cider; ask what is available and how the specific product is made.",
       "food": "CAMRA lists meals with a restricted weekday pattern; confirm before using it as a lunch stop.",
@@ -3535,7 +3907,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Vernon%20Arms%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "volunteer-canteen",
@@ -3568,7 +3944,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "North coast: Waterloo"
+      "cluster": "North coast: Waterloo",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Volunteer%20Canteen%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "west-kirby-tap",
@@ -3579,7 +3959,7 @@
       "venue_type": "Spitting Feathers brewery-owned ale house",
       "address": "Grange Road, West Kirby CH48 4DY",
       "why_visit": "An excellent endpoint for a Wirral rail excursion, combining a substantial beer choice with pizza and a comfortable stove-warmed room. The house connection is to Spitting Feathers, while guest beers provide variety beyond the brewery’s own range. Its 2026 local pub award is verified by the branch, making it a particularly timely candidate for this November trip. The nearby coast adds a daylight option, but the beer and food are sufficient reasons to travel even if weather rules out a walk.",
-      "beer": "Spitting Feathers cask and rotating guests are documented; choose from the actual board rather than assuming a fixed total.",
+      "beer": "Spitting Feathers cask and rotating guests are documented; choose from the actual board rather than assuming a fixed total. CAMRA lists Spitting Feathers Session Beer and Thirstquencher as regular casks, with Big Hand and Peerless among changing breweries.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA flags real cider, often Seacider; verify the precise product, especially any flavoured variant.",
       "food": "Fresh pizza and bar snacks are documented by operator and CAMRA.",
@@ -3614,7 +3994,11 @@
           "supports": "2026 Pub of the Year result"
         }
       ],
-      "cluster": "Wirral: Hoylake and West Kirby"
+      "cluster": "Wirral: Hoylake and West Kirby",
+      "untappd": {
+        "url": "https://untappd.com/v/the-west-kirby-tap/1691474",
+        "kind": "venue"
+      }
     },
     {
       "id": "wheatsheaf-raby",
@@ -3649,7 +4033,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Wirral: Heswall and rural south"
+      "cluster": "Wirral: Heswall and rural south",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Wheatsheaf%20Inn%20Raby&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "white-hart-liverpool",
@@ -3660,7 +4048,7 @@
       "venue_type": "Townhouse pub conversion",
       "address": "23 Hope Street, Liverpool L1 9BQ",
       "why_visit": "A useful contemporary addition to an old-pub itinerary: a historic townhouse arranged as a collection of small rooms, nooks and snug-like spaces, with a substantial cask offer. Its deliberately traditional styling provides a comfortable contrast to the genuinely preserved interiors nearby. The appeal is the combination of room choice and beer selection, especially when other small Georgian-quarter pubs are full. The Engineer entrance belongs to the same building and connected operation, so count this as one stop rather than two separate destinations.",
-      "beer": "CAMRA lists several regular and changing cask beers, including local brewers among the guests.",
+      "beer": "CAMRA lists several regular and changing cask beers, including local brewers among the guests. CAMRA lists Ossett White Rat as a regular cask beer, with Black Lodge and Neptune among the changing guests.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA flags real cider; confirm the current product.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -3682,7 +4070,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=White%20Hart%20%2F%20The%20Engineer%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "white-star-liverpool",
@@ -3715,7 +4107,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter"
+      "cluster": "Liverpool: Dale Street, Moorfields and Cavern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=White%20Star%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "ye-cracke",
@@ -3726,7 +4122,7 @@
       "venue_type": "Historic multiroom backstreet pub",
       "address": "13 Rice Street, Liverpool L1 9BB",
       "why_visit": "An excellent antidote to an over-managed heritage itinerary: a rambling collection of small rooms, service hatches and a snug grandly called the War Office. Its art-school and John Lennon associations add context, but the surviving pub layout is the stronger reason for beer travellers to come. Choose a room and let the atmosphere develop instead of treating it as a Beatles photograph stop. It pairs naturally with the more ornate pubs nearby while offering an altogether less formal, comfortably unpolished setting.",
-      "beer": "CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival.",
+      "beer": "CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival. CAMRA’s changing-cask listing names Higsons and Ossett as brewery examples; verify the actual clip on arrival.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider offering established; ask which producer and product is available.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -3748,7 +4144,11 @@
           "supports": "Address, beer and cider information, facilities, interior and planning context"
         }
       ],
-      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter"
+      "cluster": "Liverpool: Hope Street, Ropewalks and Georgian Quarter",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Ye%20Cracke%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "albion-chester",
@@ -3789,7 +4189,11 @@
           "supports": "Regular cask listing and current session-based opening pattern."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Albion%20Chester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "arden-arms-stockport",
@@ -3800,7 +4204,7 @@
       "venue_type": "Historic Robinsons pub",
       "address": "23 Millgate, Stockport, SK1 2LX",
       "why_visit": "An unusually complete pub experience: distinctive old rooms, local cask beer and a credible lunch stop close to the market. The curved glazed bar, tiled lobby and tiny snug make the interior worth exploring slowly. The snug is reached through the bar; ask staff rather than walking into their working space. This is a particularly good introduction to the relationship between Stockport and Robinsons, with Robinsons’ historic brewery site nearby and its beers central to the offer. Make it a meal anchor on a Stockport day, then contrast its traditional brewery-house character with Petersgate Tap or the Magnet.",
-      "beer": "Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up.",
+      "beer": "Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up. CAMRA lists Robinsons Unicorn and Dizzy Blonde among the regular brewery casks. Old Tom is seasonal and not guaranteed after its 7 November launch.",
       "cider_status": "unverified",
       "cider_note": "No dependable current real-cider evidence located; choose this for ale, interiors and food.",
       "food": "Home-cooked lunches and Sunday roasts are advertised by Robinsons. Evening kitchen service is more limited than pub opening.",
@@ -3829,7 +4233,11 @@
           "supports": "Cask ales, home-cooked food, Sunday roasts and kitchen schedule."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Arden%20Arms%20Stockport&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bank-top-brewery-tap-bolton",
@@ -3862,7 +4270,11 @@
           "supports": "July 2026 entry, brewery focus, dark mild, cider qualification and location."
         }
       ],
-      "cluster": "Bolton and Horwich"
+      "cluster": "Bolton and Horwich",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Bank%20Top%20Brewery%20Tap%20Bolton&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "beacon-altrincham",
@@ -3895,7 +4307,11 @@
           "supports": "October 2026 identity, address, cask/keg range, real-cider badge and access."
         }
       ],
-      "cluster": "Altrincham and Dunham Massey"
+      "cluster": "Altrincham and Dunham Massey",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Beacon%20Altrincham&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "blackedge-brewery-bar-horwich",
@@ -3941,7 +4357,11 @@
           "supports": "Contemporary inclusion as a real-cider outlet; distinction between Horwich and Westhoughton."
         }
       ],
-      "cluster": "Bolton and Horwich"
+      "cluster": "Bolton and Horwich",
+      "untappd": {
+        "url": "https://untappd.com/v/the-brewery-bar/3770754",
+        "kind": "venue"
+      }
     },
     {
       "id": "costellos-altrincham",
@@ -3973,7 +4393,11 @@
           "supports": "Address, brewery connection, seven handpumps, cider distinction and flexible closing."
         }
       ],
-      "cluster": "Altrincham and Dunham Massey"
+      "cluster": "Altrincham and Dunham Massey",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Costello%27s%20Bar%20Altrincham&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "cotton-tree-bollington",
@@ -4014,7 +4438,11 @@
           "supports": "Contemporary award, range and Macclesfield bus connections."
         }
       ],
-      "cluster": "Macclesfield and Bollington"
+      "cluster": "Macclesfield and Bollington",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Cotton%20Tree%20Bollington&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "cricketers-arms-st-helens",
@@ -4054,7 +4482,11 @@
           "supports": "Contemporary cider-award shortlist."
         }
       ],
-      "cluster": "St Helens"
+      "cluster": "St Helens",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Cricketers%20Arms%20St%20Helens&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "crown-inn-stockport",
@@ -4088,7 +4520,11 @@
           "supports": "October 2026 status, reopening, cask policy, historic rooms and Monday caveat."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/v/the-crown-inn/38126",
+        "kind": "venue"
+      }
     },
     {
       "id": "dunham-apple-barn",
@@ -4135,7 +4571,11 @@
           "supports": "Cider Pub of the Year 2026 award."
         }
       ],
-      "cluster": "Altrincham and Dunham Massey"
+      "cluster": "Altrincham and Dunham Massey",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Dunham%20Apple%20Barn%20Altrincham&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "flying-horse-rochdale",
@@ -4146,7 +4586,7 @@
       "venue_type": "Traditional free house and hotel",
       "address": "37 Packer Street, Rochdale, OL16 1NJ",
       "why_visit": "Rochdale’s most immediately striking pub stop, facing the town-hall square and combining a handsome traditional building with a substantial cask range. It is an easy place to make the centre of a two-pub excursion with the Baum. The kitchen and daily specials also make it a realistic food anchor. Choose an earlier visit if you want to inspect the room and discuss beer quietly, because live music and televised sport can change the atmosphere later. The visit is worthwhile for the pub, ale and food together rather than as a cider pilgrimage.",
-      "beer": "CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary.",
+      "beer": "CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary. CAMRA lists Pictish-brewed Lancashire Bitter as its house cask and Phoenix, Pictish and Serious among changing breweries.",
       "cider_status": "reported-cider-check-qualification",
       "cider_note": "CAMRA explicitly warns that the board’s traditional/cask-cider terminology can be confusing. Check producer and product against real-cider criteria.",
       "food": "Official site advertises homemade British meals and daily specials using local ingredients; CAMRA notes house-made pies.",
@@ -4174,7 +4614,11 @@
           "supports": "Address, kitchen, events and opening information."
         }
       ],
-      "cluster": "Rochdale"
+      "cluster": "Rochdale",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Flying%20Horse%20Hotel%20Rochdale&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "heaton-hops",
@@ -4213,7 +4657,11 @@
           "supports": "Bottle selection and two-cask/eight-keg advertised offer."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Heaton%20Hops%20Heaton%20Chapel&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "irwell-works-ramsbottom",
@@ -4252,7 +4700,11 @@
           "supports": "Address and locally produced beer/taproom offer."
         }
       ],
-      "cluster": "Bury and Ramsbottom"
+      "cluster": "Bury and Ramsbottom",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Irwell%20Works%20Brewery%20Tap%20Ramsbottom&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "lower-angel-warrington",
@@ -4263,9 +4715,9 @@
       "venue_type": "Traditional multi-room ale pub",
       "address": "27 Buttermarket Street, Warrington, WA1 2LY",
       "why_visit": "A purposeful Warrington stop for traditional pub character and beer variety, especially if mild or darker cask styles appeal. The former Peter Walker pub retains stained glass and separate lounge/vault spaces, giving the visit more personality than a generic town-centre bar. CAMRA’s current description reports a substantial rotating guest range with dark styles normally represented. It makes sense as a carefully planned break on a journey through Warrington or as a short dedicated outing, rather than a reason to string several scattered towns into one day. Allow time to sit and compare styles.",
-      "beer": "CAMRA’s August 2026 record reports nine rotating guest ales, usually including dark mild and stout or porter.",
+      "beer": "CAMRA’s August 2026 record reports nine rotating guest ales, usually including dark mild and stout or porter. CAMRA identifies Wily Fox Warrington Wire Best Bitter (based on Crafty Fox) as its house regular alongside changing casks.",
       "cider_status": "documented-real",
-      "cider_note": "Current CAMRA listing carries a real-cider badge; the specific producer and day’s availability remain to be checked.",
+      "cider_note": "Current CAMRA listing carries a real-cider badge; the specific producer and day’s availability remain to be checked. CAMRA identifies Saxby’s as a cider supplier but does not name a particular qualifying product. Verify the current cider.",
       "food": "Not established; do not plan a meal here without checking.",
       "visit_notes": "Choose for cask and traditional rooms; no current onsite brewery or tour is established. A jukebox operates in the lounge.",
       "transport": "Central Warrington; check whether the chosen train serves Warrington Central or Bank Quay and plan the walk accordingly.",
@@ -4286,7 +4738,11 @@
           "supports": "August 2026 record, address, rotating cask/dark styles, real-cider badge and retained rooms/windows."
         }
       ],
-      "cluster": "Warrington centre"
+      "cluster": "Warrington centre",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Lower%20Angel%20Warrington&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "northumberland-arms-marple-bridge",
@@ -4326,7 +4782,11 @@
           "supports": "Northumberland Arms appears among 2026 regional final sixteen."
         }
       ],
-      "cluster": "Marple Bridge"
+      "cluster": "Marple Bridge",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Northumberland%20Arms%20Marple%20Bridge&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "old-harkers-arms-chester",
@@ -4337,7 +4797,7 @@
       "venue_type": "Canalside warehouse pub",
       "address": "1 Russell Street, Chester, CH3 5AL",
       "why_visit": "A complete beer-and-food stop in a former canalside warehouse, with timber floors and cast-iron columns giving the room its character. The broad cask selection makes it worth considering even if you are sceptical of food-led pubs, and CAMRA also documents cider and perry served from the cellar. Its location between the railway station and central Chester is particularly useful when arranging arrival or departure around a meal. Pair with That Beer Place and the Brewery Tap for three genuinely different Chester experiences: specialist cider bar, historic hall and comfortable canalside pub.",
-      "beer": "CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes.",
+      "beer": "CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes. CAMRA lists Weetwood Cheshire Cat and Eastgate, Phoenix Boss Man’s Brew and Facer’s Plum Porter among regular cask beers.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly records real cider/perry, listed separately and served from the cellar.",
       "food": "The operator publishes daily food service and a current menu; a sensible planned meal stop.",
@@ -4366,7 +4826,11 @@
           "supports": "Address, daily kitchen service and level-access information."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/v/the-old-harkers-arms/118352",
+        "kind": "venue"
+      }
     },
     {
       "id": "olde-cottage-chester",
@@ -4377,7 +4841,7 @@
       "venue_type": "Traditional community pub",
       "address": "34 Brook Street, Chester, CH1 3DZ",
       "why_visit": "A rewarding small traditional pub on an easy route between the station and city centre. The appeal is pub culture at close quarters: conversation, games including bagatelle, an open fire in colder weather and a changing cask range. It is a useful counterweight to Chester’s larger dining pubs and specialist bars. Choose it if you want to spend an unhurried hour in a local rather than inspect a landmark room. The surviving etched brewery windows and older fittings add interest, but the day-to-day welcome and beer are the main reasons to stop.",
-      "beer": "CAMRA documents four handpumps with changing guests, including a permitted local beer outside the main supply list.",
+      "beer": "CAMRA documents four handpumps with changing guests, including a permitted local beer outside the main supply list. CAMRA lists Otter Bitter and Wye Valley HPA as regulars; changing examples include Merlin Dark Magic and Draught Bass.",
       "cider_status": "unverified",
       "cider_note": "No current real-cider evidence established.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -4399,7 +4863,11 @@
           "supports": "October 2026 entry, address, changing cask, games, fire and retained fittings."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Olde%20Cottage%20Chester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "olde-man-scythe-bolton",
@@ -4432,7 +4900,11 @@
           "supports": "Historic interior, cask offer, explicit absence of qualifying real cider and atmosphere."
         }
       ],
-      "cluster": "Bolton and Horwich"
+      "cluster": "Bolton and Horwich",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Olde%20Man%20%26%20Scythe%20Bolton&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "park-tavern-macclesfield",
@@ -4472,7 +4944,11 @@
           "supports": "Current opening and restricted kitchen schedule."
         }
       ],
-      "cluster": "Macclesfield and Bollington"
+      "cluster": "Macclesfield and Bollington",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Park%20Tavern%20Macclesfield&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "petersgate-tap-stockport",
@@ -4483,7 +4959,7 @@
       "venue_type": "Independent ale and cider bar",
       "address": "19A St Petersgate, Stockport, SK1 1EB",
       "why_visit": "A priority for this trip because cider is given the same serious attention as beer. The modest converted-shop exterior hides a substantial cellar and bottle offer, with a relaxed downstairs bar and more space upstairs. It supplies a useful contrast to Stockport’s Robinsons heritage pubs: independent beer selection, changing producers and genuine cider exploration. Ask to see the full cider and perry list, including bottles and cellar stock; the visible pumps are only part of the story. A particularly good place to compare different cider makers rather than simply order the house pour.",
-      "beer": "CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop.",
+      "beer": "CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop. Recent CAMRA cask sightings include Vocation Pride & Joy and RedWillow Breakfast Stout; they are changing guests, not guaranteed regulars.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly records real cider/perry in the fridge and cellar and bottled selections; its September 2026 entry records 2026 regional cider recognition. Greater Manchester and North West cider honours were renewed in 2026.",
       "food": "Local butcher’s pies and bar snacks are documented; treat this as light food.",
@@ -4512,7 +4988,11 @@
           "supports": "Petersgate Tap 2026 Greater Manchester regional cider title."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/v/petersgate-tap/5515752",
+        "kind": "venue"
+      }
     },
     {
       "id": "rat-ratchet-huddersfield",
@@ -4553,7 +5033,11 @@
           "supports": "Address, onsite brewery, walk-in policy and pub character."
         }
       ],
-      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley"
+      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley",
+      "untappd": {
+        "url": "https://untappd.com/v/the-rat-and-ratchet/99401",
+        "kind": "venue"
+      }
     },
     {
       "id": "redwillow-macclesfield",
@@ -4564,9 +5048,9 @@
       "venue_type": "Brewery bar and cider specialist",
       "address": "32A Park Green, Macclesfield, SK11 7NA",
       "why_visit": "One of the region’s most useful stops for this particular brief because its local brewery identity is matched by serious cider interest. The converted-shop room, parquet floor and changing board provide a comfortable setting for comparing RedWillow cask with another style or fermentation tradition. The local CAMRA branch’s 2026 cider award describes boxed, draught and bottled choices and cider-focused events, so this is more than a venue that happens to sell a single cider. Combine it with Waters Green Tavern for a compact Macclesfield outing, adding the Park Tavern or Bollington only if time permits.",
-      "beer": "Official site advertises five cask lines alongside keg; CAMRA describes RedWillow cask, including changing and special releases.",
+      "beer": "Official site advertises five cask lines alongside keg; CAMRA describes RedWillow cask, including changing and special releases. CAMRA lists RedWillow Feckless and Wreckless as regular cask beers; its Faithless small-batch range and guest releases change.",
       "cider_status": "documented-real",
-      "cider_note": "Macclesfield & East Cheshire CAMRA Cider/Perry Pub of the Year 2026; branch report documents still boxes, draught and bottled cider.",
+      "cider_note": "Macclesfield & East Cheshire CAMRA Cider/Perry Pub of the Year 2026; branch report documents still boxes, draught and bottled cider. A May 2026 [local CAMRA report](https://eastcheshire.camra.org.uk/2026/05/redwillow-macclesfield-is-branch-cider-pub-of-the-year/) mentions still cider boxes, Hogan’s keg cider and a Ross-on-Wye tasting event. The event does not establish permanently stocked Ross-on-Wye cider.",
       "food": "CAMRA’s October 2026 entry reports hot dogs; the official page links a current menu.",
       "visit_notes": "CAMRA records card-only payment. Check any tasting event separately; past cider-and-cheese evenings are not a November booking.",
       "transport": "Central Macclesfield on Park Green, walkable from the railway station.",
@@ -4599,7 +5083,11 @@
           "supports": "Contemporary cider award and specific still/draught/bottled formats."
         }
       ],
-      "cluster": "Macclesfield and Bollington"
+      "cluster": "Macclesfield and Bollington",
+      "untappd": {
+        "url": "https://untappd.com/v/redwillow/1056027",
+        "kind": "venue"
+      }
     },
     {
       "id": "riverhead-marsden",
@@ -4645,7 +5133,11 @@
           "supports": "2026 confirmation of onsite brewing and 2024 ground-floor brewery move."
         }
       ],
-      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley"
+      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Riverhead%20Brewery%20Tap%20Marsden&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "rivington-brewery-tap",
@@ -4692,7 +5184,11 @@
           "supports": "October 2026 record, cask lines, bottled real cider and access limitations."
         }
       ],
-      "cluster": "Rivington / Lancashire countryside"
+      "cluster": "Rivington / Lancashire countryside",
+      "untappd": {
+        "url": "https://untappd.com/v/rivington-brew-co/9602969",
+        "kind": "venue"
+      }
     },
     {
       "id": "runaway-brewery-tap-stockport",
@@ -4705,7 +5201,7 @@
       "why_visit": "A strong modern addition to Stockport’s exceptional traditional-pub circuit. The taproom occupies a former metalworks, with the brewery visible beside the bar, communal tables and a courtyard setting. Cask is genuinely part of the offer, while the keg and bottled range lets you compare formats from the same producer. It is particularly convenient near the bus interchange and the Crown/viaduct side of town, so it need not consume a separate travel day. Add it when you want production context and pizza alongside the old pubs; a brewery tour remains a separately checked activity.",
       "beer": "The operator advertises two casks and ten keg lines each week, plus bottled beer; current choices vary.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA explicitly lists real cider in bottles/cans, with Thornborough and Ascension examples. Ask which products are currently stocked.",
+      "cider_note": "CAMRA explicitly lists real cider in bottles/cans, with Thornborough and Ascension examples. Ask which products are currently stocked. The CAMRA listing identifies Thornborough Medium Dry bottles and Ascension Pilot cans as examples. These are not guaranteed in stock and need product-by-product confirmation.",
       "food": "CAMRA documents Honest Crust pizza; verify the current vendor and kitchen schedule before relying on it.",
       "visit_notes": "Official taproom days are Thursday–Sunday; shop hours differ. Card only and no table reservations. Use Stockport, not the former Manchester location.",
       "transport": "Near Stockport bus interchange and walkable from Stockport station; close to the Crown Inn.",
@@ -4738,7 +5234,11 @@
           "supports": "Industrial setting, real-cider products, pizza and brewery visibility."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/v/runaway-taproom/11704032",
+        "kind": "venue"
+      }
     },
     {
       "id": "stalybridge-buffet-bar",
@@ -4779,7 +5279,11 @@
           "supports": "Historic setting, cask focus and autumn/winter food offer."
         }
       ],
-      "cluster": "Stalybridge"
+      "cluster": "Stalybridge",
+      "untappd": {
+        "url": "https://untappd.com/v/stalybridge-buffet-bar/103951",
+        "kind": "venue"
+      }
     },
     {
       "id": "swan-railway-wigan",
@@ -4820,7 +5324,11 @@
           "supports": "Address, cask focus, food and pub atmosphere."
         }
       ],
-      "cluster": "Wigan"
+      "cluster": "Wigan",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Swan%20%26%20Railway%20Hotel%20Wigan&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "swan-with-two-necks-stockport",
@@ -4831,7 +5339,7 @@
       "venue_type": "Inter-war heritage Robinsons pub",
       "address": "36 Princes Street, Stockport, SK1 1RY",
       "why_visit": "A small frontage conceals one of the most rewarding traditional interiors in the region. Walk through the oak-panelled drinking corridor and look for the separate vault, smoke room, stained glass and service details. Its scale is part of the pleasure: a convincing working pub rather than a grand hall. This is a particularly strong November choice because CAMRA lists Robinsons Old Tom as a winter offering, although the exact day’s availability needs checking. The Swan and Arden Arms together give a compact and unusually rich introduction to Stockport pub heritage.",
-      "beer": "Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure.",
+      "beer": "Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure. Robinsons Dizzy Blonde is a documented regular; Old Tom is winter-only and remains conditional after the 7 November cask launch.",
       "cider_status": "unverified",
       "cider_note": "The current main record does not establish a real-cider choice; older heritage material should not be treated as a current drinks list.",
       "food": "CAMRA reports occasional lunchtime pie and mash, explicitly requiring a check in advance.",
@@ -4860,7 +5368,11 @@
           "supports": "Address, cask offer and retained 1920s pub character."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Swan%20with%20Two%20Necks%20Stockport&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "that-beer-place-chester",
@@ -4914,7 +5426,11 @@
           "supports": "That Beer Place is a 2026 national cider/perry finalist, not the overall winner."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/v/that-beer-place/11259967",
+        "kind": "venue"
+      }
     },
     {
       "id": "baum-rochdale",
@@ -4925,9 +5441,9 @@
       "venue_type": "Traditional ale pub with food",
       "address": "33–37 Toad Lane, Rochdale, OL12 0NU",
       "why_visit": "A strong reason to consider Rochdale: intimate traditional rooms, serious changing cask and a substantial food offer in the historic Toad Lane area. It sits beside the Rochdale Pioneers Museum, making a beer-and-local-history outing possible without a sprawling itinerary. The appeal is a complete, comfortable pub visit with time to eat and compare beers. Combine it with the Flying Horse for a manageable excursion, rather than adding several weaker stops simply to make a crawl. Cider is documented too, although the day’s choices should be checked.",
-      "beer": "CAMRA documents seven changing real ales, plus continental draught and bottled options.",
+      "beer": "CAMRA documents seven changing real ales, plus continental draught and bottled options. CAMRA names Wakey Wakey Bright and Early and Serious Moonlight stout as regulars, alongside Pictish-brewed Lancashire Bitter house cask.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA explicitly records real cider, sometimes on handpull; ask for the current list.",
+      "cider_note": "CAMRA explicitly records real cider, sometimes on handpull; ask for the current list. CAMRA reports Seacider on handpump, but confirm the connected product qualifies and is currently pouring.",
       "food": "Official site provides a British main menu, sandwich menu and table booking. A good planned meal stop.",
       "visit_notes": "Reserve if the meal is central to the day. CAMRA’s single-number address and the official 33–37 address refer to the same Toad Lane venue.",
       "transport": "Toad Lane in central Rochdale; combine on foot with the Flying Horse.",
@@ -4953,7 +5469,11 @@
           "supports": "Current address, menus, booking and kitchen information."
         }
       ],
-      "cluster": "Rochdale"
+      "cluster": "Rochdale",
+      "untappd": {
+        "url": "https://untappd.com/v/the-baum/100940",
+        "kind": "venue"
+      }
     },
     {
       "id": "blossoms-stockport",
@@ -4987,7 +5507,11 @@
           "supports": "October 2026 listing, two-star historic interior, Robinsons beers and opening pattern."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Blossoms%20Stockport&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "brewery-tap-chester",
@@ -5028,7 +5552,11 @@
           "supports": "Current beer, food operator, address and hall setting."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/v/the-brewery-tap/17063",
+        "kind": "venue"
+      }
     },
     {
       "id": "cellar-chester",
@@ -5068,7 +5596,11 @@
           "supports": "Current address, opening pattern and live beer-board link."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/v/the-cellar/118414",
+        "kind": "venue"
+      }
     },
     {
       "id": "firkin-newton-le-willows",
@@ -5114,7 +5646,11 @@
           "supports": "Contemporary real-cider shortlist."
         }
       ],
-      "cluster": "Newton-le-Willows"
+      "cluster": "Newton-le-Willows",
+      "untappd": {
+        "url": "https://untappd.com/v/the-firkin/2207653",
+        "kind": "venue"
+      }
     },
     {
       "id": "magnet-stockport",
@@ -5125,7 +5661,7 @@
       "venue_type": "Independent multi-room ale pub",
       "address": "51 Wellington Road North, Stockport, SK4 1HJ",
       "why_visit": "One of the strongest reasons to leave central Manchester for Stockport. The Magnet combines a serious changing cask range with the sociability of a multi-room local: you can compare styles, settle into a quieter corner or talk beer at the bar. Keg and continental bottles broaden the possibilities without displacing cask as the main attraction. The viaduct setting and terraces add local character, although November makes the indoor rooms more relevant. It pairs naturally with the Crown and Petersgate Tap, but deserves enough time to explore more than one beer style.",
-      "beer": "The pub advertises fourteen cask lines plus changing keg and international bottles; numbers describe capacity/normal offering, not a guarantee of availability.",
+      "beer": "The pub advertises fourteen cask lines plus changing keg and international bottles; numbers describe capacity/normal offering, not a guarantee of availability. CAMRA names Salopian Oracle as a regular cask and RedWillow and Track among changing suppliers; a recent sighting included Bathams Best Bitter.",
       "cider_status": "reported-cider-check-qualification",
       "cider_note": "The official site lists English ciders, but does not establish which currently satisfy CAMRA real-cider criteria.",
       "food": "Pork pies and snacks; official site advertises evening pizza on Thursday, Friday and Saturday. Verify the November schedule.",
@@ -5153,7 +5689,11 @@
           "supports": "Cask/keg offer, cider description, food and opening pattern."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/v/the-magnet/10834",
+        "kind": "venue"
+      }
     },
     {
       "id": "pied-bull-chester",
@@ -5199,7 +5739,11 @@
           "supports": "October 2026 listing, oak-beamed rooms, cellar microbrewery, cask service and meals."
         }
       ],
-      "cluster": "Chester"
+      "cluster": "Chester",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Pied%20Bull%20Chester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "sportsman-huddersfield",
@@ -5210,9 +5754,9 @@
       "venue_type": "Art Deco heritage ale and cider pub",
       "address": "1 St John’s Road, Huddersfield, HD1 5AY",
       "why_visit": "An outstanding combination of pub design, cask beer and cider, but outside the core Manchester–Liverpool itinerary. The curved bar, parquet floor and carefully restored 1930s/1950s details reward architecture enthusiasts; the operator’s enthusiasm for cider gives beer hunters a second reason to make the journey. It is the strongest Huddersfield anchor if you choose an eastern rail excursion, especially paired with the Rat & Ratchet. The travel cost is real in a five-day trip, so choose it as an alternative day rather than an extra stop after trying to cover every Manchester neighbourhood.",
-      "beer": "CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change.",
+      "beer": "CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change. CAMRA lists Timothy Taylor Boltmaker as regular and Mallinsons, Thornbridge and Vocation among the changing breweries.",
       "cider_status": "documented-real",
-      "cider_note": "Operator explicitly promotes real cider; CAMRA documents changing ciders including regional makers and 2022–25 branch cider awards.",
+      "cider_note": "Operator explicitly promotes real cider; CAMRA documents changing ciders including regional makers and 2022–25 branch cider awards. CAMRA names ’Udders Orchard and Ross-on-Wye as changing real-cider makers; the exact product and perry stock require checking.",
       "food": "Operator lists snacks and food ordered from Big Joe’s next door through a garden hatch; verify service.",
       "visit_notes": "CAMRA three-star heritage interior. Check transport engineering works; the operator’s event calendar must be confirmed for any tasting.",
       "transport": "Near Huddersfield station; an extended excursion east of Manchester, not a local Liverpool outing.",
@@ -5240,7 +5784,11 @@
           "supports": "Heritage restoration, real-cider focus, food arrangement and event information."
         }
       ],
-      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley"
+      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley",
+      "untappd": {
+        "url": "https://untappd.com/v/the-sportsman/89962",
+        "kind": "venue"
+      }
     },
     {
       "id": "trackside-bury",
@@ -5279,7 +5827,11 @@
           "supports": "April 2026 correction: no qualifying real cider then at Trackside."
         }
       ],
-      "cluster": "Bury and Ramsbottom"
+      "cluster": "Bury and Ramsbottom",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Trackside%20Bury&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "torr-vale-tap-new-mills",
@@ -5332,7 +5884,11 @@
           "supports": "Monday/Tuesday closure and current address."
         }
       ],
-      "cluster": "New Mills"
+      "cluster": "New Mills",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Torr%20Vale%20Tap%20High%20Peak&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "turks-head-st-helens",
@@ -5343,7 +5899,7 @@
       "venue_type": "Traditional free house and cider specialist",
       "address": "49 Morley Street, St Helens, WA10 2DQ",
       "why_visit": "The strongest anchor for a St Helens excursion: a distinctive turreted Tudor-revival pub with a serious rotating cask range, real cider, food and a thriving community role. The local CAMRA branch awarded it both Pub and Cider Pub of the Year in 2026. Upstairs tastings and other events show a deeper interest in beer than a long tap list alone, although none should be assumed for your dates. Pair it with the Cricketers rather than stretching the outing across several towns. This is a place to settle into and explore the day’s range.",
-      "beer": "CAMRA’s October 2026 record describes fourteen rotating cask handpulls; current beers and the number pouring should be checked.",
+      "beer": "CAMRA’s October 2026 record describes fourteen rotating cask handpulls; current beers and the number pouring should be checked. Recent CAMRA cask sightings include Thornbridge Old Badequella and Imperial Stout; the large guest selection remains rotational.",
       "cider_status": "documented-real",
       "cider_note": "Explicit real-cider selection and St Helens CAMRA Cider Pub of the Year 2026; ask for the full current list.",
       "food": "CAMRA documents homemade meals daily and an additional neighbouring grill arrangement; verify the kitchen/menu for your visit.",
@@ -5385,7 +5941,11 @@
           "supports": "October 2026 operational account, community use and sport confined to bar side."
         }
       ],
-      "cluster": "St Helens"
+      "cluster": "St Helens",
+      "untappd": {
+        "url": "https://untappd.com/v/turks-head/6971682",
+        "kind": "venue"
+      }
     },
     {
       "id": "waters-green-tavern-macclesfield",
@@ -5419,7 +5979,11 @@
           "supports": "February 2026 survey, cask/cider, home-cooked lunch, station proximity and payment preference."
         }
       ],
-      "cluster": "Macclesfield and Bollington"
+      "cluster": "Macclesfield and Bollington",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Waters%20Green%20Tavern%20Macclesfield&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "wigan-central",
@@ -5430,9 +5994,9 @@
       "venue_type": "Railway-arch ale and cider bar",
       "address": "Arches 1 & 2, Queen Street, Wigan, WN3 4DY",
       "why_visit": "A particularly efficient excursion for beer travellers because it is close to both Wigan stations and delivers a distinctive railway-arch setting alongside serious ale and cider. The railway-inspired rooms and train departure displays are useful atmosphere rather than the entire reason to visit: the changing beer range and international bottle selection can sustain a long tasting session. Together with the Swan & Railway it makes a compact, high-value pair of stops. Look beyond the visible taps and ask about bottles if you want something unusual or a shared contrast to cask.",
-      "beer": "Official site advertises seven changing real ales and a broad bottle range; current choices are linked from its live board.",
+      "beer": "Official site advertises seven changing real ales and a broad bottle range; current choices are linked from its live board. Its regular Signal house bitter is brewed by Bank Top (based on Flat Cap); recent changing casks include Brass Castle Bad Kitty and Bank Top Hercules.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA marks real cider; the venue specialises in ale and cider and advertises a changing cider selection. Verify the individual pour.",
+      "cider_note": "CAMRA marks real cider; the venue specialises in ale and cider and advertises a changing cider selection. Verify the individual pour. CAMRA reports rotating draught ciders and perries without fixing one producer or product.",
       "food": "Bar snacks are documented; arrange a full meal elsewhere or at the nearby Swan & Railway after checking its kitchen.",
       "visit_notes": "Sunday live music is advertised, so choose timing to suit conversation versus entertainment. Do not infer November beers from today’s board.",
       "transport": "Very close to Wigan North Western and Wigan Wallgate stations.",
@@ -5459,7 +6023,11 @@
           "supports": "Ale/cider range, address, events and live-board link."
         }
       ],
-      "cluster": "Wigan"
+      "cluster": "Wigan",
+      "untappd": {
+        "url": "https://untappd.com/v/wigan-central/2344333",
+        "kind": "venue"
+      }
     },
     {
       "id": "olde-vic-stockport",
@@ -5470,7 +6038,7 @@
       "venue_type": "Community-owned traditional free house",
       "address": "1 Chatham Street, Edgeley, Stockport, SK3 9ED",
       "why_visit": "A characterful counterpoint to the polished brewery pubs: conversation, accumulated memorabilia and a cosy winter atmosphere are central to its appeal. The community ownership and long history as an independent ale outlet make it a rewarding place to linger rather than merely tick off. Its position on the Edgeley side of Stockport station makes it a useful final stop when the opening pattern fits. Choose it for changing cask and an individual pub personality; its modest size and evening focus are part of the experience and need to shape the day’s order.",
-      "beer": "CAMRA documents six changing guest ales and tasting thirds; styles and breweries rotate.",
+      "beer": "CAMRA documents six changing guest ales and tasting thirds; styles and breweries rotate. Recent CAMRA cask sightings include Fyne Ales Jarl, Oakham Citra and Brew York Tonkoko, but no permanent named beer is established.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA explicitly marks real cider. Ask what is currently available; the listing is not a live cider inventory.",
       "food": "Not established; do not plan a meal here without checking.",
@@ -5492,7 +6060,11 @@
           "supports": "Community ownership, six changing ales, real-cider badge, character and conditional opening."
         }
       ],
-      "cluster": "Stockport: centre and nearby extensions"
+      "cluster": "Stockport: centre and nearby extensions",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Ye%20Olde%20Vic%20Stockport&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "udders-orchard-cidery",
@@ -5533,7 +6105,11 @@
           "supports": "2026 Cider Pub of the Year award."
         }
       ],
-      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley"
+      "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley",
+      "untappd": {
+        "url": "https://untappd.com/search?q=%27Udders%20Orchard%20Cidery%20%26%20Tasting%20Rooms%20Huddersfield&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "fox-and-pine-oldham",
@@ -5544,7 +6120,7 @@
       "venue_type": "Independent real-ale and cider free house",
       "address": "18 Greaves Street, Oldham, OL1 1AD",
       "why_visit": "A first-rate destination for enthusiasts who value the drink itself: ten cask handpumps, a deliberate choice of dark ales and an unusually substantial cider/perry offer. The lively fox-and-pine-themed rooms provide a community-pub setting rather than a heritage showpiece. This was Rochdale, Oldham & Bury CAMRA's overall Pub of the Year 2026 and Greater Manchester runner-up, making Oldham a serious competing excursion to Stockport. The priority is a thoughtful tasting rather than forcing the visit into the main Manchester pub circuit.",
-      "beer": "Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record.",
+      "beer": "Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record. CAMRA names Durham, Mallinsons and Pictish among its changing brewers, alongside its Draught Bass offering; these are examples rather than November commitments.",
       "cider_status": "documented-real",
       "cider_note": "The local CAMRA branch describes five or six qualifying real ciders, often including perry, on gravity dispense from the cool room. Confirm producer and product.",
       "food": "CAMRA lists lunchtime and evening meals; ask about the actual kitchen window.",
@@ -5582,7 +6158,11 @@
           "supports": "Specific gravity real-cider/perry range and product qualifications."
         }
       ],
-      "cluster": "Oldham"
+      "cluster": "Oldham",
+      "untappd": {
+        "url": "https://untappd.com/v/fox-and-pine/10320137",
+        "kind": "venue"
+      }
     },
     {
       "id": "our-gracies-rochdale",
@@ -5593,7 +6173,7 @@
       "venue_type": "Real-cider and cask micropub",
       "address": "13 The Butts, Rochdale, OL16 1ES",
       "why_visit": "The key missing stop from the first Rochdale list. Five rotating local casks are backed by an impressive dedicated fridge of real cider and perry; the branch's 2026 Cider Pub of the Year award recognises the programme and its producer variety. This makes an excellent specialist contrast with the historic Baum and Flying Horse, if you choose Rochdale as an excursion. The range is why to go, not a spectacular historic interior.",
-      "beer": "Five changing cask ales with local producers prominent, plus keg from regional breweries.",
+      "beer": "Five changing cask ales with local producers prominent, plus keg from regional breweries. CAMRA names Phoenix, Wakey Wakey and Whitworth Valley among its changing breweries, with Front Row Pause stout a recent example.",
       "cider_status": "documented-real",
       "cider_note": "Rochdale, Oldham & Bury CAMRA describes eight real ciders/perries in the dedicated fridge, including changing smaller producers; 2026 branch cider winner.",
       "food": "Not established as a meal destination; eat at the Baum or elsewhere in Rochdale.",
@@ -5623,7 +6203,11 @@
           "supports": "2026 branch cider award and specific eight-product cider/perry cooler."
         }
       ],
-      "cluster": "Rochdale"
+      "cluster": "Rochdale",
+      "untappd": {
+        "url": "https://untappd.com/v/our-gracie-s/12386757",
+        "kind": "venue"
+      }
     },
     {
       "id": "coop-crosby",
@@ -5634,7 +6218,7 @@
       "venue_type": "Independent cask and cider micropub",
       "address": "84 College Road, Crosby, Liverpool, L23 0RP",
       "why_visit": "A particularly strong new reason to consider a north-coast beer excursion. Liverpool CAMRA named this convivial, book-lined former restaurant its Pub of the Year in both 2025 and 2026. A candlelit conservatory, five changing casks and a documented cider offer make it an inviting tasting-and-conversation stop rather than a generic suburban bar. Pair with the nearby Corner Post or Waterloo’s Volunteer Canteen/Four Ashes, allowing time for the rail and street connections.",
-      "beer": "Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day.",
+      "beer": "Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day. CAMRA names Black Lodge, Salopian and Thornbridge as changing cask suppliers; no individual beer is fixed.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA flags real cider and normally describes two boxed ciders, often Seacider; verify the exact product, as flavours and production methods differ.",
       "food": "Bar snacks are listed; no full kitchen established.",
@@ -5658,7 +6242,11 @@
           "supports": "2026 Liverpool Pub of the Year, address, five handpumps, cider, rooms and opening times."
         }
       ],
-      "cluster": "North coast: Crosby and Waterloo"
+      "cluster": "North coast: Crosby and Waterloo",
+      "untappd": {
+        "url": "https://untappd.com/v/the-coop/12379782",
+        "kind": "venue"
+      }
     },
     {
       "id": "broad-street-social-bury",
@@ -5698,7 +6286,11 @@
           "supports": "2026 Bury Pub of the Year and overall branch runner-up."
         }
       ],
-      "cluster": "Bury and Ramsbottom"
+      "cluster": "Bury and Ramsbottom",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Broad%20Street%20Social%20Bury&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "grocers-cadishead",
@@ -5734,7 +6326,11 @@
           "supports": "September 2026 opening, no-bar service, cask/real cider, transport and address."
         }
       ],
-      "cluster": "Warrington and west Salford"
+      "cluster": "Warrington and west Salford",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Grocers%20Cadishead&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bank-top-ale-house-horwich",
@@ -5775,7 +6371,11 @@
           "supports": "2026 Pub of the Year winner."
         }
       ],
-      "cluster": "Bolton and Horwich"
+      "cluster": "Bolton and Horwich",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Bank%20Top%20Brewery%20Ale%20House%20Horwich&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "b33r-at-33-horwich",
@@ -5816,7 +6416,11 @@
           "supports": "2026 Cider Pub of the Year winner."
         }
       ],
-      "cluster": "Bolton and Horwich"
+      "cluster": "Bolton and Horwich",
+      "untappd": {
+        "url": "https://untappd.com/search?q=B33R%4033%20Horwich&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "bow-legged-beagle-bromborough",
@@ -5850,7 +6454,11 @@
           "supports": "Current opening, cask style mix and repeated cellarmanship awards."
         }
       ],
-      "cluster": "Wirral: Bromborough and Bebington"
+      "cluster": "Wirral: Bromborough and Bebington",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Bow-Legged%20Beagle%20Bromborough&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "dee-view-inn-heswall",
@@ -5884,7 +6492,11 @@
           "supports": "2026 operational listing, cask range, food policy and community award."
         }
       ],
-      "cluster": "Wirral: Heswall and rural south"
+      "cluster": "Wirral: Heswall and rural south",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Dee%20View%20Inn%20Heswall&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "black-cat-rose-lane",
@@ -5917,7 +6529,11 @@
           "supports": "2026 cask listing, address, transport and branch identity."
         }
       ],
-      "cluster": "Liverpool: outer neighbourhood specialists"
+      "cluster": "Liverpool: outer neighbourhood specialists",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Black%20Cat%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "cobden-woolton",
@@ -5951,7 +6567,11 @@
           "supports": "2026 listing, traditional rooms, cask beer and bus access."
         }
       ],
-      "cluster": "Liverpool: outer neighbourhood specialists"
+      "cluster": "Liverpool: outer neighbourhood specialists",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Cobden%20Vaults%20Liverpool&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "fell-northern-quarter",
@@ -5962,7 +6582,7 @@
       "venue_type": "Brewery-operated cask and cider beer bar",
       "address": "35 Dale Street, Manchester, M1 2HF",
       "why_visit": "A strong addition when your city-centre afternoon is beer-led: Fell's Cumbrian ales, guests and a cider selection sit inside a converted listed building near Port Street and Piccadilly. It is especially useful on Tuesday, when several brewery taprooms are closed and CAMRA advertises a cask-club offer. Its beer focus gives it relevance beyond another modern keg bar, although it is not a historic pub interior.",
-      "beer": "Four changing cask lines alongside a larger keg selection; check whether any porter or mild is currently pouring.",
+      "beer": "Four changing cask lines alongside a larger keg selection; check whether any porter or mild is currently pouring. CAMRA says the changing cask is usually brewed by Fell, although an individual release is not a permanent fixture.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA marks real cider and describes boxed and bottled cider. Check specific producer and product; not every keg cider is automatically qualifying.",
       "food": "Food provision unverified; use nearby pubs or food stalls.",
@@ -5985,7 +6605,11 @@
           "supports": "Four cask pumps, boxed/bottled cider, Grade II building, current opening and access."
         }
       ],
-      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter",
+      "untappd": {
+        "url": "https://untappd.com/v/fell-northern-quarter/13004450",
+        "kind": "venue"
+      }
     },
     {
       "id": "pigeon-beer-wanderer",
@@ -6020,7 +6644,11 @@
           "supports": "June 2026 opening, four cask and twenty keg lines, food, address and service days."
         }
       ],
-      "cluster": "Manchester: Piccadilly brewery circuit"
+      "cluster": "Manchester: Piccadilly brewery circuit",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Pigeon%20Beer%20Wanderer%20Manchester&type=venues",
+        "kind": "search"
+      }
     },
     {
       "id": "corner-post-crosby",
@@ -6031,7 +6659,7 @@
       "venue_type": "Post-office-conversion cask and cider micropub",
       "address": "25 Bridge Road, Crosby, Liverpool, L23 6SA",
       "why_visit": "A characterful small cask stop in a former post office, complete with the old postbox outside and displays of local history. This gives a Crosby/Waterloo excursion a second independent beer destination alongside The Coop. Cask variety and the real-cider badge are the reasons to choose it, while the room is especially suitable for a relaxed conversation.",
-      "beer": "Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers.",
+      "beer": "Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers. Recent CAMRA sightings include Hawkshead Iti, Reedley Hallows Filly Close Blonde and Ossett Jet, in addition to the reported Colbier and Rock the Boat guest producers.",
       "cider_status": "documented-real",
       "cider_note": "CAMRA marks real cider but does not establish the exact producer or product; confirm before committing to a cider-led detour.",
       "food": "No full kitchen established; plan food elsewhere.",
@@ -6054,7 +6682,11 @@
           "supports": "2026 listing, four changing beers, real-cider badge, former post office and station access."
         }
       ],
-      "cluster": "North coast: Crosby and Waterloo"
+      "cluster": "North coast: Crosby and Waterloo",
+      "untappd": {
+        "url": "https://untappd.com/search?q=Corner%20Post%20Liverpool&type=venues",
+        "kind": "search"
+      }
     }
   ]
 }

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Small traditional city pub |
 | Address | 22 Queen Street, Manchester, M2 5HX · [Map search](https://www.google.com/maps/search/?api=1&query=Rising%20Sun%2C%2022%20Queen%20Street%2C%20Manchester%2C%20M2%205HX) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Rising%20Sun%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

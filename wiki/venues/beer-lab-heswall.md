@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Cask and cider micropub |
 | Address | 53 Telegraph Road, Heswall CH60 0AD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Beer%20Lab%20%E2%80%94%20Heswall%2C%2053%20Telegraph%20Road%2C%20Heswall%20CH60%200AD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Beer%20Lab%20Heswall&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

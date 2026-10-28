@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent neighbourhood beer pub |
 | Address | 57 Manchester Road, Chorlton-cum-Hardy, M21 9PW · [Map search](https://www.google.com/maps/search/?api=1&query=Beer%20House%2C%2057%20Manchester%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%209PW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Beer%20House%20Chorlton-cum-Hardy&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ The strongest anchor for a Chorlton beer excursion. Formerly the Marble Beer Hou
 
 ## Beer
 
-Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range.
+Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range. CAMRA lists Marble Manchester Bitter and Pint as regulars; changing casks have included Abbeydale, Blackjack and RedWillow. This is not a November stock promise.
 
 ## Cider and perry
 

@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Specialist beer house |
 | Address | 39–41 Port Street, Manchester, M1 2EQ · [Map search](https://www.google.com/maps/search/?api=1&query=Port%20Street%20Beer%20House%2C%2039%E2%80%9341%20Port%20Street%2C%20Manchester%2C%20M1%202EQ) |
+| Untappd | [Venue page](https://untappd.com/v/port-street-beer-house/18005) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,11 +30,11 @@ A strong anchor for the beer-discovery side of the trip. The substantial cask of
 
 ## Beer
 
-Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection.
+Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection. The rotating cask range recently included Colbier Forte and Thornbridge Old Badequella, according to CAMRA. Neither is a fixed beer.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly flags real cider and names Hogan’s bottles. Ask which bottles currently qualify and are available.
+**Real cider documented; reconfirm stock.** CAMRA explicitly flags real cider and names Hogan’s bottles. Ask which bottles currently qualify and are available. CAMRA mentions Hogan’s bottled cider and Pulp cans; verify the individual product and real-cider qualification, since a can alone proves nothing.
 
 See [how cider is classified](../real-cider.md).
 

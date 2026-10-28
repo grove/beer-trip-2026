@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Brewery-run pub |
 | Address | 37 Swan Street, Manchester, M4 5JZ · [Map search](https://www.google.com/maps/search/?api=1&query=Smithfield%20Market%20Tavern%2C%2037%20Swan%20Street%2C%20Manchester%2C%20M4%205JZ) |
+| Untappd | [Venue page](https://untappd.com/v/smithfield-market-tavern/150505) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

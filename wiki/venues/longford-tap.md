@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Neighbourhood beer bar |
 | Address | Unit 107 Stretford Mall, King Street area, Stretford, M32 9BA · [Map search](https://www.google.com/maps/search/?api=1&query=Longford%20Tap%2C%20Unit%20107%20Stretford%20Mall%2C%20King%20Street%20area%2C%20Stretford%2C%20M32%209BA) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Longford%20Tap%20Stretford&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

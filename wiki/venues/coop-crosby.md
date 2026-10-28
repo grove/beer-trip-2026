@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Independent cask and cider micropub |
 | Address | 84 College Road, Crosby, Liverpool, L23 0RP · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Coop%2C%2084%20College%20Road%2C%20Crosby%2C%20Liverpool%2C%20L23%200RP) |
+| Untappd | [Venue page](https://untappd.com/v/the-coop/12379782) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A particularly strong new reason to consider a north-coast beer excursion. Liver
 
 ## Beer
 
-Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day.
+Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day. CAMRA names Black Lodge, Salopian and Thornbridge as changing cask suppliers; no individual beer is fixed.
 
 ## Cider and perry
 

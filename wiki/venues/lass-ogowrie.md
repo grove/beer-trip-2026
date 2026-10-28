@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional tiled pub |
 | Address | 36 Charles Street, Manchester, M1 7DB · [Map search](https://www.google.com/maps/search/?api=1&query=Lass%20O%E2%80%99Gowrie%2C%2036%20Charles%20Street%2C%20Manchester%2C%20M1%207DB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Lass%20O%27Gowrie%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

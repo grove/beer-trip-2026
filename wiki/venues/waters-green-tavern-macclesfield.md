@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional free house |
 | Address | 96 Waters Green, Macclesfield, SK11 6LH · [Map search](https://www.google.com/maps/search/?api=1&query=Waters%20Green%20Tavern%2C%2096%20Waters%20Green%2C%20Macclesfield%2C%20SK11%206LH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Waters%20Green%20Tavern%20Macclesfield&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

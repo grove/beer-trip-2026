@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Georgian house transformed into a traditional-style pub |
 | Address | 92 Duke Street, Liverpool L1 5AG · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Monro%2C%2092%20Duke%20Street%2C%20Liverpool%20L1%205AG) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Monro%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

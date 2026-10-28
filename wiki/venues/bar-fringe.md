@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Continental beer bar |
 | Address | 8 Swan Street, Manchester, M4 5JN · [Map search](https://www.google.com/maps/search/?api=1&query=Bar%20Fringe%2C%208%20Swan%20Street%2C%20Manchester%2C%20M4%205JN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Bar%20Fringe%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

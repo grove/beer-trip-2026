@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Country pub and restaurant |
 | Address | Neston Road, Thornton Hough CH64 7TL · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Red%20Fox%2C%20Neston%20Road%2C%20Thornton%20Hough%20CH64%207TL) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Red%20Fox%20Thornton%20Hough&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

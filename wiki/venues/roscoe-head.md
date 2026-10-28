@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Traditional free house |
 | Address | 24 Roscoe Street, Liverpool L1 2SX · [Map search](https://www.google.com/maps/search/?api=1&query=Roscoe%20Head%2C%2024%20Roscoe%20Street%2C%20Liverpool%20L1%202SX) |
+| Untappd | [Venue page](https://untappd.com/v/the-roscoe-head/134406) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ An unusually complete match for this trip: a small independent local that takes 
 
 ## Beer
 
-Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests.
+Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests. CAMRA names Tetley Bitter, Timothy Taylor Landlord and Fyne Ales Jarl as regular cask beers; changing suppliers include Colbier. Reconfirm trading and the selection amid the reported sale.
 
 ## Cider and perry
 

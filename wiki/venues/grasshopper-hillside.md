@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Cask and cider micropub |
 | Address | 70 Sandon Road, Hillside PR8 4QD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Grasshopper%2C%2070%20Sandon%20Road%2C%20Hillside%20PR8%204QD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Grasshopper%20Hillside&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

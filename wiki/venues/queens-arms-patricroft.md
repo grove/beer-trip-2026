@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Historic railway pub |
 | Address | 120 Green Lane, Patricroft, Eccles, M30 0SH · [Map search](https://www.google.com/maps/search/?api=1&query=Queens%20Arms%20%E2%80%94%20Patricroft%2C%20120%20Green%20Lane%2C%20Patricroft%2C%20Eccles%2C%20M30%200SH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Queens%20Arms%20Eccles&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

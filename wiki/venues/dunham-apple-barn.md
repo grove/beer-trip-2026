@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Orchard cidery café and cider bar |
 | Address | Boundary Farm, Sawpit Street, Dunham Massey, Altrincham, WA14 5SJ · [Map search](https://www.google.com/maps/search/?api=1&query=Dunham%20Apple%20Barn%2C%20Boundary%20Farm%2C%20Sawpit%20Street%2C%20Dunham%20Massey%2C%20Altrincham%2C%20WA14%205SJ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Dunham%20Apple%20Barn%20Altrincham&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -19,7 +19,7 @@ def main():
     errors = []
     db = json.loads((ROOT / "data/venues.json").read_text())
     errors.extend(validate_hours(load_hours(), db["venues"]))
-    required = {"id", "name", "region", "area", "priority", "venue_type", "address", "why_visit", "beer", "cider_status", "cider_note", "food", "visit_notes", "transport", "tags", "source_checked", "evidence_level", "sources"}
+    required = {"id", "name", "region", "area", "priority", "venue_type", "address", "why_visit", "beer", "cider_status", "cider_note", "food", "visit_notes", "transport", "tags", "source_checked", "evidence_level", "sources", "untappd"}
     ids = set()
     total_source_uses = 0
     for venue in db["venues"]:
@@ -31,7 +31,7 @@ def main():
         if identifier in ids or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", identifier):
             errors.append(f"Duplicate or invalid venue ID: {identifier}")
         ids.add(identifier)
-        for field in required - {"sources", "tags"}:
+        for field in required - {"sources", "tags", "untappd"}:
             if not isinstance(venue[field], str) or not venue[field].strip():
                 errors.append(f"{identifier}: empty/non-string {field}")
         for field, allowed in (("region", REGIONS), ("priority", PRIORITY), ("cider_status", CIDER), ("evidence_level", {"primary-and-specialist", "primary", "specialist"})):
@@ -41,6 +41,23 @@ def main():
             datetime.date.fromisoformat(venue["source_checked"])
         except ValueError:
             errors.append(f"{identifier}: invalid source date")
+        untappd = venue["untappd"]
+        if not isinstance(untappd, dict) or set(untappd) != {"url", "kind"}:
+            errors.append(f"{identifier}: missing/invalid Untappd link object")
+        else:
+            url = untappd["url"]
+            kind = untappd["kind"]
+            parsed = urlparse(url)
+            if parsed.scheme != "https" or parsed.netloc != "untappd.com":
+                errors.append(f"{identifier}: invalid Untappd domain")
+            if kind == "venue":
+                if not re.fullmatch(r"/v/[a-z0-9-]+/[0-9]+", parsed.path) or parsed.query:
+                    errors.append(f"{identifier}: invalid direct Untappd venue URL")
+            elif kind == "search":
+                if parsed.path != "/search" or "q=" not in parsed.query or "type=venues" not in parsed.query:
+                    errors.append(f"{identifier}: invalid Untappd search fallback")
+            else:
+                errors.append(f"{identifier}: unknown Untappd link kind")
         if not venue["tags"] or len(venue["tags"]) != len(set(venue["tags"])):
             errors.append(f"{identifier}: missing or duplicate tags")
         if not venue["sources"]:

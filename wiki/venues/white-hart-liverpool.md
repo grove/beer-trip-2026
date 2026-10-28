@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Townhouse pub conversion |
 | Address | 23 Hope Street, Liverpool L1 9BQ · [Map search](https://www.google.com/maps/search/?api=1&query=White%20Hart%20%2F%20The%20Engineer%2C%2023%20Hope%20Street%2C%20Liverpool%20L1%209BQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=White%20Hart%20%2F%20The%20Engineer%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A useful contemporary addition to an old-pub itinerary: a historic townhouse arr
 
 ## Beer
 
-CAMRA lists several regular and changing cask beers, including local brewers among the guests.
+CAMRA lists several regular and changing cask beers, including local brewers among the guests. CAMRA lists Ossett White Rat as a regular cask beer, with Black Lodge and Neptune among the changing guests.
 
 ## Cider and perry
 

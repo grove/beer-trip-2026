@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional corner free house |
 | Address | 60 Roscoe Street, Liverpool L1 9DW · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Grapes%20%E2%80%94%20Roscoe%20Street%2C%2060%20Roscoe%20Street%2C%20Liverpool%20L1%209DW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Grapes%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ The Grapes on Roscoe Street is the one to target for smaller-brewery cask, a con
 
 ## Beer
 
-CAMRA describes handpumps mainly serving local and regional smaller breweries.
+CAMRA describes handpumps mainly serving local and regional smaller breweries. CAMRA names Colbier and Neptune as typical changing cask producers; neither is a permanent fixture.
 
 ## Cider and perry
 

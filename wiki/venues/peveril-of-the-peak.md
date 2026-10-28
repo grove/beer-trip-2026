@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Historic multi-room pub |
 | Address | 127 Great Bridgewater Street, Manchester, M1 5JQ; junction with Chepstow Street · [Map search](https://www.google.com/maps/search/?api=1&query=Peveril%20of%20the%20Peak%2C%20127%20Great%20Bridgewater%20Street%2C%20Manchester%2C%20M1%205JQ%3B%20junction%20with%20Chepstow%20Street) |
+| Untappd | [Venue page](https://untappd.com/v/peveril-of-the-peak/49761) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ One of the most memorable small pub buildings in either city: a green-tiled wedg
 
 ## Beer
 
-CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord.
+CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord. CAMRA additionally lists Millstone Tiger Rut and Brightside The Mancunian as regulars alongside Titanic Plum Porter and Timothy Taylor Landlord.
 
 ## Cider and perry
 

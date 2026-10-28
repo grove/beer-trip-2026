@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Historic pub and live-music venue |
 | Address | 18–19 Collier Street, Salford, M3 7DW · [Map search](https://www.google.com/maps/search/?api=1&query=Eagle%20Inn%2C%2018%E2%80%9319%20Collier%20Street%2C%20Salford%2C%20M3%207DW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Eagle%20Inn%20Salford&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Independent real-ale and cider free house |
 | Address | 18 Greaves Street, Oldham, OL1 1AD · [Map search](https://www.google.com/maps/search/?api=1&query=Fox%20%26%20Pine%2C%2018%20Greaves%20Street%2C%20Oldham%2C%20OL1%201AD) |
+| Untappd | [Venue page](https://untappd.com/v/fox-and-pine/10320137) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A first-rate destination for enthusiasts who value the drink itself: ten cask ha
 
 ## Beer
 
-Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record.
+Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record. CAMRA names Durham, Mallinsons and Pictish among its changing brewers, alongside its Draught Bass offering; these are examples rather than November commitments.
 
 ## Cider and perry
 

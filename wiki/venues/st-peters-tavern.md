@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Spectacular church conversion and ale house |
 | Address | 74 Seel Street, Liverpool L1 4BH · [Map search](https://www.google.com/maps/search/?api=1&query=St%20Peter%E2%80%99s%20Tavern%2C%2074%20Seel%20Street%2C%20Liverpool%20L1%204BH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=St%20Peter%27s%20Tavern%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A spectacular recent addition to Liverpool’s beer circuit: the former church i
 
 ## Beer
 
-The operator advertises sixteen cask ales, primarily from local breweries; CAMRA records a substantial smaller count. Treat either figure as an indication of ambition, not guaranteed live availability.
+The operator advertises sixteen cask ales, primarily from local breweries; CAMRA records a substantial smaller count. Treat either figure as an indication of ambition, not guaranteed live availability. CAMRA names Black Lodge, Love Lane and Neptune among changing suppliers and recently recorded Salopian Entire Butt and Weetwood Silverback Stout. None is a fixed November line.
 
 ## Cider and perry
 

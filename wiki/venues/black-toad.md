@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent micropub and bottle shop |
 | Address | 32 Market Street, Hoylake CH47 2AF · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Black%20Toad%2C%2032%20Market%20Street%2C%20Hoylake%20CH47%202AF) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Black%20Toad%20Hoylake&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A particularly persuasive rail-accessible choice for a west-Wirral beer day. The
 
 ## Beer
 
-CAMRA records changing cask from regional brewers and a deliberate balance of styles.
+CAMRA records changing cask from regional brewers and a deliberate balance of styles. CAMRA identifies Purple Moose, RedWillow and Tatton as typical changing breweries, rather than fixed individual beers.
 
 ## Cider and perry
 

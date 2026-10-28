@@ -33,6 +33,7 @@ class MapExportTests(unittest.TestCase):
             self.assertIn("United Kingdom", row["Location"])
             self.assertTrue(row["Wiki profile"].endswith("/" + row["ID"] + "/"))
             self.assertIn("api=1", row["Google Maps"])
+            self.assertEqual(row["Untappd"], self.by_id[row["ID"]]["untappd"]["url"])
 
     def test_top_twenty_and_cider_disclaimer(self):
         rows = parse(self.files[DEST / "top-20.csv"])

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Thatched country pub with historic snug |
 | Address | Raby Mere Road, Raby CH63 4JH · [Map search](https://www.google.com/maps/search/?api=1&query=Wheatsheaf%20Inn%20%E2%80%94%20The%20Thatch%2C%20Raby%20Mere%20Road%2C%20Raby%20CH63%204JH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Wheatsheaf%20Inn%20Raby&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

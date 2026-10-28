@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Brewery-operated beerhouse |
 | Address | 23–25 Liverpool Road North, Maghull L31 2HB · [Map search](https://www.google.com/maps/search/?api=1&query=Neptune%20Beerhouse%2C%2023%E2%80%9325%20Liverpool%20Road%20North%2C%20Maghull%20L31%202HB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Neptune%20Beerhouse%20Maghull&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Dunham Massey Brewery tap |
 | Address | 18 Goose Green, Altrincham, WA14 1DW · [Map search](https://www.google.com/maps/search/?api=1&query=Costello%E2%80%99s%20Bar%2C%2018%20Goose%20Green%2C%20Altrincham%2C%20WA14%201DW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Costello%27s%20Bar%20Altrincham&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

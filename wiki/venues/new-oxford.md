@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Traditional specialist free house |
 | Address | 11 Bexley Square, Salford, M3 6DB · [Map search](https://www.google.com/maps/search/?api=1&query=New%20Oxford%2C%2011%20Bexley%20Square%2C%20Salford%2C%20M3%206DB) |
+| Untappd | [Venue page](https://untappd.com/v/the-new-oxford/25568) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ The clearest Salford anchor for a visit driven by cask variety. Its corner-pub r
 
 ## Beer
 
-CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them.
+CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them. CAMRA lists Moorhouse’s White Witch as its house pale and Thornbridge Jaipur as regulars; Wharfedale Porter and Brass Castle Best Bitter have been spotted as changing guests.
 
 ## Cider and perry
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Independent ale and cider bar |
 | Address | 19A St Petersgate, Stockport, SK1 1EB · [Map search](https://www.google.com/maps/search/?api=1&query=Petersgate%20Tap%2C%2019A%20St%20Petersgate%2C%20Stockport%2C%20SK1%201EB) |
+| Untappd | [Venue page](https://untappd.com/v/petersgate-tap/5515752) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A priority for this trip because cider is given the same serious attention as be
 
 ## Beer
 
-CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop.
+CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop. Recent CAMRA cask sightings include Vocation Pride & Joy and RedWillow Breakfast Stout; they are changing guests, not guaranteed regulars.
 
 ## Cider and perry
 

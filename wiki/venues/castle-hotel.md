@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Historic pub and music venue |
 | Address | 66 Oldham Street, Manchester, M4 1LE · [Map search](https://www.google.com/maps/search/?api=1&query=Castle%20Hotel%2C%2066%20Oldham%20Street%2C%20Manchester%2C%20M4%201LE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Castle%20Hotel%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

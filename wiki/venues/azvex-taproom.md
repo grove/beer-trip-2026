@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Working brewery taproom |
 | Address | Unit 16, King Edward Rise, Gibraltar Row, Liverpool L3 7HJ · [Map search](https://www.google.com/maps/search/?api=1&query=Azvex%20Brewery%20%26%20Taproom%2C%20Unit%2016%2C%20King%20Edward%20Rise%2C%20Gibraltar%20Row%2C%20Liverpool%20L3%207HJ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Azvex%20Brewery%20%26%20Taproom%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

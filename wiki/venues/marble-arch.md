@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Historic brewery pub |
 | Address | 73 Rochdale Road, Manchester, M4 4HY · [Map search](https://www.google.com/maps/search/?api=1&query=Marble%20Arch%2C%2073%20Rochdale%20Road%2C%20Manchester%2C%20M4%204HY) |
+| Untappd | [Venue page](https://untappd.com/v/marble-arch-inn/3738) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Micropub and bottle specialist |
 | Address | 19A Cambridge Walk, Southport PR8 1EN · [Map search](https://www.google.com/maps/search/?api=1&query=Tap%20%26%20Bottles%2C%2019A%20Cambridge%20Walk%2C%20Southport%20PR8%201EN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Tap%20%26%20Bottles%20Southport&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Brewery-operated town tap |
 | Address | 3 Banks Road, West Kirby CH48 0RD · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Lodge%20Brewery%20Tap%20%E2%80%94%20West%20Kirby%2C%203%20Banks%20Road%2C%20West%20Kirby%20CH48%200RD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Black%20Lodge%20Brewery%20Tap%20West%20Kirby&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

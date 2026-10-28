@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Historic police-lockup conversion |
 | Address | 1 Campbell Square, Liverpool L1 5FB · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Bridewell%2C%201%20Campbell%20Square%2C%20Liverpool%20L1%205FB) |
+| Untappd | [Venue page](https://untappd.com/v/the-bridewell/9138055) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

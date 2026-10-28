@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional two-room pub |
 | Address | 2–4 Rainford Gardens, Liverpool L2 6PT · [Map search](https://www.google.com/maps/search/?api=1&query=White%20Star%2C%202%E2%80%934%20Rainford%20Gardens%2C%20Liverpool%20L2%206PT) |
+| Untappd | [Search for venue](https://untappd.com/search?q=White%20Star%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

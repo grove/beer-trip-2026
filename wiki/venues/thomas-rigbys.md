@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic multiroom beer pub |
 | Address | 23–25 Dale Street, Liverpool L2 2EZ · [Map search](https://www.google.com/maps/search/?api=1&query=Thomas%20Rigby%E2%80%99s%2C%2023%E2%80%9325%20Dale%20Street%2C%20Liverpool%20L2%202EZ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Thomas%20Rigby%27s%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

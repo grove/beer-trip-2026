@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic riverside local |
 | Address | 7 Magazine Brow, New Brighton CH45 1HP · [Map search](https://www.google.com/maps/search/?api=1&query=Magazine%20Hotel%2C%207%20Magazine%20Brow%2C%20New%20Brighton%20CH45%201HP) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Magazine%20Hotel%20New%20Brighton&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

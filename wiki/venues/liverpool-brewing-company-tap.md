@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent beer bar |
 | Address | 72 Lime Street, Liverpool L1 1JN · [Map search](https://www.google.com/maps/search/?api=1&query=Liverpool%20Brewing%20Company%20Tap%20%E2%80%94%20formerly%20Sanctuary%2C%2072%20Lime%20Street%2C%20Liverpool%20L1%201JN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Liverpool%20Brewing%20Company%20Tap%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

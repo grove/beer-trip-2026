@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Brewery neighbourhood bar |
 | Address | 518 Wilbraham Road, Chorlton-cum-Hardy, M21 9AW · [Map search](https://www.google.com/maps/search/?api=1&query=Fell%20Chorlton%2C%20518%20Wilbraham%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%209AW) |
+| Untappd | [Venue page](https://untappd.com/v/fell-bar-chorlton/10048293) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A relaxed neighbourhood route into Fell’s Cumbrian brewing, especially useful 
 
 ## Beer
 
-The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen.
+The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen. Fell Dark Mild 3.4% is one recently reported cask example rather than a permanent listed pour.
 
 ## Cider and perry
 

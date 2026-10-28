@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Victorian dockside pub |
 | Address | 33A Wapping, Liverpool L1 8DQ · [Map search](https://www.google.com/maps/search/?api=1&query=Baltic%20Fleet%2C%2033A%20Wapping%2C%20Liverpool%20L1%208DQ) |
+| Untappd | [Venue page](https://untappd.com/v/baltic-fleet/87079) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A highly distinctive dockside building, with its narrow flat-iron shape and naut
 
 ## Beer
 
-Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing.
+Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing. CAMRA has also recently recorded Salopian Darwin’s Origin and Spitting Feathers Thirstquencher among changing beers, separate from the Brimstage regular.
 
 ## Cider and perry
 

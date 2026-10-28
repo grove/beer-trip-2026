@@ -2,6 +2,21 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — Untappd venue lookups for the whole longlist
+
+Added an **Untappd link for every one of the 158 venues**: **52 address-matched direct venue pages** and **106 explicitly labelled venue searches** where a specific venue identity was not independently confirmed. The venue-link type and URL live in the canonical `data/venues.json` so each generated venue profile, the all-venue drink reference, the browser map, and the Google My Maps exports can reuse the same link.
+
+Untappd can expose a venue-operated menu at some verified locations, but unverified places usually expose only users' check-ins. **Neither is a real-time guaranteed tap list**, and a check-in or cider brand is not proof of stock or CAMRA real-cider qualification. Untappd's venue information is separate from brewery product pages. No availability on 9–13 November is inferred.
+
+
+
+## 2026-10-28 — brewery and cider leads for each of 158 venues
+
+Added a source-linked [all-venue beer and cider guide](drinks-by-venue.md) with the existing independent beer/cider evidence on each of the 158 records, supplementing that with **56 specific beer/producer research leads** and **11 additional cider/perry leads**. The named examples distinguish operator/CAMRA regulars, rotating suppliers, seasonal exceptions and recently spotted beers; the guide gives a shorter version for the travel-feasible 9–13 November route. Research uses dated CAMRA/branch listings, existing operator sources and a clearly identified changing public menu snapshot.
+
+Also updated **49 canonical venue records** and their **49 generated venue profiles**: 48 gained named beer/brewery detail, eight gained specific cider/perry context (one cider-only update). This promotes the strongest research from the comparison guide into the individual venue pages while preserving the four cider evidence classifications, venue rankings, source list and independent opening-hours dataset. A named beer or cider producer is not a November stock guarantee, and the particular cider product still needs qualification against current CAMRA rules. No venues were contacted and no bookings or purchases were made.
+
+
 ## 2026-10-28 — published opening hours for all 158 venues
 
 Researched ordinary published *bar* opening schedules for **157 venues**, from the linked CAMRA pub guide/local branch or official operator pages, and retained **’Udders Orchard as event-only** (published November 7–8 producer dates are before arrival). Recorded source URL, source type, date (28 October 2026), seven local weekdays, exceptional midnight crossover and separate kitchen hours where independently published in [data/opening-hours.json](../data/opening-hours.json). This is **not** live trading verification or guaranteed November 9–13 opening; an empty published weekday means source-listed closed for an ordinary week, while missing food times mean *unverified*, not no meals.

@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Railway-arch brewery taproom |
 | Address | 4 Sheffield Street, Manchester, M1 2ND · [Map search](https://www.google.com/maps/search/?api=1&query=Sureshot%20Brewery%20Taproom%2C%204%20Sheffield%20Street%2C%20Manchester%2C%20M1%202ND) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Sureshot%20Brewery%20Taproom%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

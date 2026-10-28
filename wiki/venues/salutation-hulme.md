@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional university-area pub |
 | Address | 12 Higher Chatham Street, Hulme, Manchester, M15 6ED · [Map search](https://www.google.com/maps/search/?api=1&query=Salutation%2C%2012%20Higher%20Chatham%20Street%2C%20Hulme%2C%20Manchester%2C%20M15%206ED) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Salutation%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

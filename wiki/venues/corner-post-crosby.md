@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Post-office-conversion cask and cider micropub |
 | Address | 25 Bridge Road, Crosby, Liverpool, L23 6SA · [Map search](https://www.google.com/maps/search/?api=1&query=Corner%20Post%2C%2025%20Bridge%20Road%2C%20Crosby%2C%20Liverpool%2C%20L23%206SA) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Corner%20Post%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A characterful small cask stop in a former post office, complete with the old po
 
 ## Beer
 
-Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers.
+Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers. Recent CAMRA sightings include Hawkshead Iti, Reedley Hallows Filly Close Blonde and Ossett Jet, in addition to the reported Colbier and Rock the Boat guest producers.
 
 ## Cider and perry
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Neighbourhood beer bar |
 | Address | 533 Wilbraham Road, Chorlton-cum-Hardy, M21 0UE · [Map search](https://www.google.com/maps/search/?api=1&query=Chorlton%20Tap%2C%20533%20Wilbraham%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%200UE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Chorlton%20Tap%20Chorlton-cum-Hardy&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,11 +30,11 @@ A particularly useful Chorlton stop because it combines regional cask, a meaning
 
 ## Beer
 
-Changing cask from local and wider independent breweries, with keg and bottles alongside.
+Changing cask from local and wider independent breweries, with keg and bottles alongside. CAMRA identifies Marble, Pictish and Pomona Island among its changing cask brewers.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly says some bag-in-box products meet its real-cider guidelines and occasionally perry is stocked. Ask which products qualify; the whole selection is not automatically real cider.
+**Real cider documented; reconfirm stock.** CAMRA explicitly says some bag-in-box products meet its real-cider guidelines and occasionally perry is stocked. Ask which products qualify; the whole selection is not automatically real cider. CAMRA also names Celtic Marches and Seacider among boxed cider leads; qualification must be checked for the particular product, not inferred from the maker alone.
 
 See [how cider is classified](../real-cider.md).
 

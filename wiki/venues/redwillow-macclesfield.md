@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Brewery bar and cider specialist |
 | Address | 32A Park Green, Macclesfield, SK11 7NA · [Map search](https://www.google.com/maps/search/?api=1&query=RedWillow%20Macclesfield%2C%2032A%20Park%20Green%2C%20Macclesfield%2C%20SK11%207NA) |
+| Untappd | [Venue page](https://untappd.com/v/redwillow/1056027) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,11 +30,11 @@ One of the region’s most useful stops for this particular brief because its lo
 
 ## Beer
 
-Official site advertises five cask lines alongside keg; CAMRA describes RedWillow cask, including changing and special releases.
+Official site advertises five cask lines alongside keg; CAMRA describes RedWillow cask, including changing and special releases. CAMRA lists RedWillow Feckless and Wreckless as regular cask beers; its Faithless small-batch range and guest releases change.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** Macclesfield & East Cheshire CAMRA Cider/Perry Pub of the Year 2026; branch report documents still boxes, draught and bottled cider.
+**Real cider documented; reconfirm stock.** Macclesfield & East Cheshire CAMRA Cider/Perry Pub of the Year 2026; branch report documents still boxes, draught and bottled cider. A May 2026 [local CAMRA report](https://eastcheshire.camra.org.uk/2026/05/redwillow-macclesfield-is-branch-cider-pub-of-the-year/) mentions still cider boxes, Hogan’s keg cider and a Ross-on-Wye tasting event. The event does not establish permanently stocked Ross-on-Wye cider.
 
 See [how cider is classified](../real-cider.md).
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Canalside beer bar |
 | Address | 2 New Union Street, Cotton Field Wharf, Manchester, M4 6FQ · [Map search](https://www.google.com/maps/search/?api=1&query=Cask%20%E2%80%94%20Ancoats%2C%202%20New%20Union%20Street%2C%20Cotton%20Field%20Wharf%2C%20Manchester%2C%20M4%206FQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Cask%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

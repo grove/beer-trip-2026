@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Cider specialist, beer bar and bottle shop |
 | Address | 116 Foregate Street, Chester · [Map search](https://www.google.com/maps/search/?api=1&query=That%20Beer%20Place%2C%20116%20Foregate%20Street%2C%20Chester) |
+| Untappd | [Venue page](https://untappd.com/v/that-beer-place/11259967) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Basement pub and bistro |
 | Address | 13 Hope Street, Liverpool L1 9BQ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Pen%20Factory%2C%2013%20Hope%20Street%2C%20Liverpool%20L1%209BQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Pen%20Factory%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

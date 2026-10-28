@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Traditional free house and hotel |
 | Address | 37 Packer Street, Rochdale, OL16 1NJ · [Map search](https://www.google.com/maps/search/?api=1&query=Flying%20Horse%20Hotel%2C%2037%20Packer%20Street%2C%20Rochdale%2C%20OL16%201NJ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Flying%20Horse%20Hotel%20Rochdale&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ Rochdale’s most immediately striking pub stop, facing the town-hall square and
 
 ## Beer
 
-CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary.
+CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary. CAMRA lists Pictish-brewed Lancashire Bitter as its house cask and Phoenix, Pictish and Serious among changing breweries.
 
 ## Cider and perry
 

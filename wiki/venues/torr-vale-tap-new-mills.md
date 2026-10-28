@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Beer and food bar in historic riverside mill |
 | Address | Torr Vale Mill, Torr Vale Road, New Mills, High Peak, SK22 3HS · [Map search](https://www.google.com/maps/search/?api=1&query=Torr%20Vale%20Tap%2C%20Torr%20Vale%20Mill%2C%20Torr%20Vale%20Road%2C%20New%20Mills%2C%20High%20Peak%2C%20SK22%203HS) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Torr%20Vale%20Tap%20High%20Peak&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

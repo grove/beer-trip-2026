@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Inter-war heritage Robinsons pub |
 | Address | 36 Princes Street, Stockport, SK1 1RY · [Map search](https://www.google.com/maps/search/?api=1&query=Swan%20with%20Two%20Necks%2C%2036%20Princes%20Street%2C%20Stockport%2C%20SK1%201RY) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Swan%20with%20Two%20Necks%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A small frontage conceals one of the most rewarding traditional interiors in the
 
 ## Beer
 
-Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure.
+Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure. Robinsons Dizzy Blonde is a documented regular; Old Tom is winter-only and remains conditional after the 7 November cask launch.
 
 ## Cider and perry
 

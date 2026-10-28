@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent traditional free house |
 | Address | 20 Chester Street, Birkenhead CH41 5DQ · [Map search](https://www.google.com/maps/search/?api=1&query=Gallaghers%20Traditional%20Pub%2C%2020%20Chester%20Street%2C%20Birkenhead%20CH41%205DQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Gallaghers%20Traditional%20Pub%20Birkenhead&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

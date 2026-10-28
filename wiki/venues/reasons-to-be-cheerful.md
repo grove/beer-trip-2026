@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent beer café |
 | Address | 228 Fog Lane, Burnage, Manchester, M20 6EL · [Map search](https://www.google.com/maps/search/?api=1&query=Reasons%20to%20be%20Cheerful%2C%20228%20Fog%20Lane%2C%20Burnage%2C%20Manchester%2C%20M20%206EL) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Reasons%20to%20be%20Cheerful%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

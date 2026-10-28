@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Cask and cider micropub |
 | Address | 438 Queens Drive, Liverpool L13 0AR · [Map search](https://www.google.com/maps/search/?api=1&query=Cask%20%E2%80%94%20Stoneycroft%2C%20438%20Queens%20Drive%2C%20Liverpool%20L13%200AR) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Cask%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic multiroom backstreet pub |
 | Address | 13 Rice Street, Liverpool L1 9BB · [Map search](https://www.google.com/maps/search/?api=1&query=Ye%20Cracke%2C%2013%20Rice%20Street%2C%20Liverpool%20L1%209BB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Ye%20Cracke%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ An excellent antidote to an over-managed heritage itinerary: a rambling collecti
 
 ## Beer
 
-CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival.
+CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival. CAMRA’s changing-cask listing names Higsons and Ossett as brewery examples; verify the actual clip on arrival.
 
 ## Cider and perry
 

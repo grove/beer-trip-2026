@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Independent beer and cider bar |
 | Address | 33 Flixton Road, Urmston, M41 5AW · [Map search](https://www.google.com/maps/search/?api=1&query=Prairie%20Schooner%20Taphouse%2C%2033%20Flixton%20Road%2C%20Urmston%2C%20M41%205AW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Prairie%20Schooner%20Taphouse%20Urmston&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

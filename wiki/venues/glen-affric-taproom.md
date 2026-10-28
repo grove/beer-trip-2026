@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Working brewery taproom |
 | Address | 2–5 Lightbox, Knox Street, Birkenhead CH41 5JW · [Map search](https://www.google.com/maps/search/?api=1&query=Glen%20Affric%20Brewery%20Taproom%2C%202%E2%80%935%20Lightbox%2C%20Knox%20Street%2C%20Birkenhead%20CH41%205JW) |
+| Untappd | [Venue page](https://untappd.com/v/glen-affric-taproom/7000093) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

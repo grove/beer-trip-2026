@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Grand banking-hall conversion |
 | Address | 11–13 Victoria Street, Liverpool L2 5QQ · [Map search](https://www.google.com/maps/search/?api=1&query=Queen%E2%80%99s%20Arms%2C%2011%E2%80%9313%20Victoria%20Street%2C%20Liverpool%20L2%205QQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Queen%27s%20Arms%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ A fresh reason to revisit Liverpool for experienced pub travellers. This March 2
 
 ## Beer
 
-Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary.
+Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary. CAMRA lists Timothy Taylor Landlord and JW Lees Boddingtons Bitter as regulars, with Neptune Abyss stout a recent changing guest.
 
 ## Cider and perry
 

@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Art Deco heritage ale and cider pub |
 | Address | 1 St John’s Road, Huddersfield, HD1 5AY · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Sportsman%2C%201%20St%20John%E2%80%99s%20Road%2C%20Huddersfield%2C%20HD1%205AY) |
+| Untappd | [Venue page](https://untappd.com/v/the-sportsman/89962) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,11 +30,11 @@ An outstanding combination of pub design, cask beer and cider, but outside the c
 
 ## Beer
 
-CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change.
+CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change. CAMRA lists Timothy Taylor Boltmaker as regular and Mallinsons, Thornbridge and Vocation among the changing breweries.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** Operator explicitly promotes real cider; CAMRA documents changing ciders including regional makers and 2022–25 branch cider awards.
+**Real cider documented; reconfirm stock.** Operator explicitly promotes real cider; CAMRA documents changing ciders including regional makers and 2022–25 branch cider awards. CAMRA names ’Udders Orchard and Ross-on-Wye as changing real-cider makers; the exact product and perry stock require checking.
 
 See [how cider is classified](../real-cider.md).
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional heritage pub |
 | Address | Park Street, Chester, CH1 1RQ · [Map search](https://www.google.com/maps/search/?api=1&query=Albion%2C%20Park%20Street%2C%20Chester%2C%20CH1%201RQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Albion%20Chester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

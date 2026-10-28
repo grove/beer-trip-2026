@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Traditional Hydes pub |
 | Address | 1 William Street, Didsbury, Manchester, M20 6RQ · [Map search](https://www.google.com/maps/search/?api=1&query=Fletcher%20Moss%2C%201%20William%20Street%2C%20Didsbury%2C%20Manchester%2C%20M20%206RQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Fletcher%20Moss%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

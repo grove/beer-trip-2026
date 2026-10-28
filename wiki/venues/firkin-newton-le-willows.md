@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Small independent ale and cider bar |
 | Address | 65 High Street, Newton-le-Willows, WA12 9SL · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Firkin%2C%2065%20High%20Street%2C%20Newton-le-Willows%2C%20WA12%209SL) |
+| Untappd | [Venue page](https://untappd.com/v/the-firkin/2207653) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

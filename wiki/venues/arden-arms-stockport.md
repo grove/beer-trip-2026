@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Historic Robinsons pub |
 | Address | 23 Millgate, Stockport, SK1 2LX · [Map search](https://www.google.com/maps/search/?api=1&query=Arden%20Arms%2C%2023%20Millgate%2C%20Stockport%2C%20SK1%202LX) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Arden%20Arms%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -29,7 +30,7 @@ An unusually complete pub experience: distinctive old rooms, local cask beer and
 
 ## Beer
 
-Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up.
+Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up. CAMRA lists Robinsons Unicorn and Dizzy Blonde among the regular brewery casks. Old Tom is seasonal and not guaranteed after its 7 November launch.
 
 ## Cider and perry
 

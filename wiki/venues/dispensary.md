@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Cask-focused city pub |
 | Address | 87 Renshaw Street, Liverpool L1 2SP · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Dispensary%2C%2087%20Renshaw%20Street%2C%20Liverpool%20L1%202SP) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Dispensary%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
