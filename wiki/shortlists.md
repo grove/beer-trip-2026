@@ -1,14 +1,22 @@
 # Shortlists for this trip
 
-[Home](../README.md) · [Five-day plan](five-day-plan.md) · [Complete catalogue](catalogue.md)
+[Home](../README.md) · **[All venues ranked 1–158](rankings.md)** · [Dated flight-aware plan](five-day-plan.md) · [Complete catalogue](catalogue.md)
 
 These are editorial cuts for two experienced beer travellers. Each linked venue page contains the evidence, address, food information and qualifications. Start here, then use the larger directories to substitute according to opening days and interests. An entry can belong to several shortlists because the best stops combine beer, atmosphere and a reason to linger.
+
+## New 2026 award winners and substantial beer/cider discoveries
+
+**[Fox & Pine, Oldham](venues/fox-and-pine-oldham.md)** adds a ten-cask, dark-beer and five/six real-cider/perry destination recognised by the Rochdale/Oldham/Bury branch in 2026. **[Our Gracie’s, Rochdale](venues/our-gracies-rochdale.md)** won that branch's 2026 cider award, with eight reported cider/perry choices. **[The Coop, Crosby](venues/coop-crosby.md)** is Liverpool branch Pub of the Year 2025 and 2026, with cask and real cider. These three make excellent *alternatives* to the default Stockport day, not compulsory additions.
+
+**[Café Beermoth](venues/cafe-beermoth.md)** and **[Marble Arch](venues/marble-arch.md)** hold Central Manchester’s 2026 pub and cider awards respectively. **[Turks Head](venues/turks-head-st-helens.md)** is a national 2026 pub finalist and branch cider winner. Around Bolton/Horwich, **[B33R@33](venues/b33r-at-33-horwich.md)** and **[Bank Top Brewery Ale House](venues/bank-top-ale-house-horwich.md)** hold 2026 cider/pub awards; **[Broad Street Social](venues/broad-street-social-bury.md)** is Bury's branch winner. The new Manchester urban choices include **[Fell Northern Quarter](venues/fell-northern-quarter.md)** (cask/cider) and **[Pigeon Beer Wanderer](venues/pigeon-beer-wanderer.md)** (newer brewery-arch bar).
+
+The **[global ranking](rankings.md)** places 158 venues in a complete order, while the **[9–14 November schedule](five-day-plan.md)** applies the four-full-day feasibility constraint. *Marble is officially closed Tuesday*: Monday arrival evening or Wednesday lunchtime is better.
 
 ## Manchester and Salford: the first choices
 
 | Venue | What makes it distinctive | Role in the trip |
 | --- | --- | --- |
-| [Marble Arch](venues/marble-arch.md) | Marble cask, documented real cider, an extraordinary tiled room and a proper kitchen. | The strongest all-round anchor. Resolve the Tuesday-opening conflict before committing. |
+| [Marble Arch](venues/marble-arch.md) | Marble cask, documented real cider, an extraordinary tiled room and a proper kitchen. | The strongest all-round anchor. Official website says **Tuesday closed**; favour Monday evening or Wednesday lunch. |
 | [Crown & Kettle](venues/crown-and-kettle.md) | An elaborate ceiling above a changing cask selection, with real-cider evidence. | The second northern-centre architectural and beer anchor. |
 | [Smithfield Market Tavern](venues/smithfield-market-tavern.md) | A cask-led free house with Blackjack association and documented real cider. | Time for beer comparison and conversation in the northern circuit. |
 | [City Arms](venues/city-arms.md) | A compact central traditional pub with a substantial changing cask range. | A beer-first stop on the central historic-pub day. |

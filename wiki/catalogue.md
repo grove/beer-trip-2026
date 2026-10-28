@@ -4,7 +4,7 @@
 
 [Home](../README.md) · [Shortlists](shortlists.md) · [Cider guide](real-cider.md) · [Source register](sources.md)
 
-**144 selected venues**, researched 2026-10-28. Every name links to beer, cider, food, transport, practical qualifications and evidence. This is a curated longlist, not a claim to contain every good pub in the region.
+**158 selected venues**, researched 2026-10-28. Every name links to beer, cider, food, transport, practical qualifications and evidence. This is a curated longlist, not a claim to contain every good pub in the region.
 
 | Venue | Region / area | Priority | Cider evidence |
 | --- | --- | --- | --- |
@@ -13,18 +13,23 @@
 | [Arden Arms](venues/arden-arms-stockport.md) | surroundings / Stockport centre | essential | Real-cider offering not established |
 | [Augustus John](venues/augustus-john.md) | liverpool / University Quarter | high | Real cider documented; reconfirm stock |
 | [Azvex Brewery & Taproom](venues/azvex-taproom.md) | liverpool / North docks / Gibraltar Row | specialist | Real-cider offering not established |
+| [B33R@33](venues/b33r-at-33-horwich.md) | surroundings / Horwich / Lee Lane | high | Real cider documented; reconfirm stock |
 | [Balance Brewing & Blending](venues/balance-brewing-blending.md) | manchester / Piccadilly / Sheffield Street | high | Real cider documented; reconfirm stock |
 | [Baltic Fleet](venues/baltic-fleet.md) | liverpool / Waterfront / Wapping | essential | Real-cider offering not established |
+| [Bank Top Brewery Ale House](venues/bank-top-ale-house-horwich.md) | surroundings / Horwich / Church Street | high | Real cider documented; reconfirm stock |
 | [Bank Top Brewery Tap](venues/bank-top-brewery-tap-bolton.md) | surroundings / Bolton / Astley Bridge | high | Cider reported; qualification needs checking |
 | [Bar Fringe](venues/bar-fringe.md) | manchester / Northern Quarter / Swan Street | high | Real cider documented; reconfirm stock |
 | [Beacon](venues/beacon-altrincham.md) | surroundings / Altrincham | high | Real cider documented; reconfirm stock |
 | [Beer House](venues/beer-house-chorlton.md) | manchester / Chorlton | high | Real cider documented; reconfirm stock |
 | [Belvedere Arms](venues/belvedere.md) | liverpool / Georgian Quarter / Sugnall Street | high | Real-cider offering not established |
+| [Black Cat — Rose Lane](venues/black-cat-rose-lane.md) | liverpool / Mossley Hill / Rose Lane | high | Real-cider offering not established |
 | [Black Friar](venues/black-friar-salford.md) | manchester / Salford / Blackfriars Road | high | Real-cider offering not established |
 | [Black Lodge Brewery & Taproom](venues/black-lodge-liverpool.md) | liverpool / Baltic Triangle / Kings Dock Street | high | Real-cider offering not established |
 | [Black Lodge Brewery Tap — West Kirby](venues/black-lodge-west-kirby.md) | liverpool / West Kirby | specialist | Real-cider offering not established |
 | [Blackedge Brewery Bar](venues/blackedge-brewery-bar-horwich.md) | surroundings / Horwich | specialist | Real cider documented; reconfirm stock |
+| [Bow-Legged Beagle — Bromborough](venues/bow-legged-beagle-bromborough.md) | liverpool / Bromborough | high | Real-cider offering not established |
 | [Britons Protection](venues/britons-protection.md) | manchester / Great Bridgewater Street / Deansgate | essential | Cider reported; qualification needs checking |
+| [Broad Street Social](venues/broad-street-social-bury.md) | surroundings / Bury centre | high | Cider reported; qualification needs checking |
 | [Bundobust Brewery](venues/bundobust-brewery-manchester.md) | manchester / Oxford Street / city centre | high | Real cider documented; reconfirm stock |
 | [Bundobust Liverpool](venues/bundobust-liverpool.md) | liverpool / Bold Street | high | Real-cider offering not established |
 | [Cafe Beermoth](venues/cafe-beermoth.md) | manchester / Central Manchester / Brown Street | high | Real-cider offering not established |
@@ -36,6 +41,8 @@
 | [Circus Tavern](venues/circus-tavern.md) | manchester / Portland Street | high | Real-cider offering not established |
 | [City Arms](venues/city-arms.md) | manchester / Town Hall / Kennedy Street | essential | Cider reported; qualification needs checking |
 | [Cloudwater Unit 9](venues/cloudwater-unit-9.md) | manchester / Piccadilly Trading Estate | high | Real cider documented; reconfirm stock |
+| [Cobden Vaults](venues/cobden-woolton.md) | liverpool / Woolton village | high | Real-cider offering not established |
+| [Corner Post](venues/corner-post-crosby.md) | liverpool / Crosby / Bridge Road | high | Real cider documented; reconfirm stock |
 | [Costello’s Bar](venues/costellos-altrincham.md) | surroundings / Altrincham | high | No real cider reported by the cited evidence |
 | [Cotton Tree](venues/cotton-tree-bollington.md) | surroundings / Bollington | high | Real cider documented; reconfirm stock |
 | [Cricketers Arms](venues/cricketers-arms-st-helens.md) | surroundings / St Helens | high | Real cider documented; reconfirm stock |
@@ -43,13 +50,16 @@
 | [Crown Hotel](venues/crown-hotel-liverpool.md) | liverpool / Lime Street station | high | Real-cider offering not established |
 | [Crown Inn](venues/crown-inn-stockport.md) | surroundings / Stockport centre / viaduct | high | Real-cider offering not established |
 | [Dead Crafty Beer Company — Dale Street](venues/dead-crafty-beer-company.md) | liverpool / Dale Street | specialist | Real-cider offering not established |
+| [Dee View Inn](venues/dee-view-inn-heswall.md) | liverpool / Heswall / Dee View Road | high | Real-cider offering not established |
 | [Doctor Duncan’s](venues/doctor-duncans.md) | liverpool / Queen Square / St George’s Hall | high | Real-cider offering not established |
 | [Dunham Apple Barn](venues/dunham-apple-barn.md) | surroundings / Dunham Massey / Altrincham | essential | Real cider documented; reconfirm stock |
 | [Eagle Inn](venues/eagle-inn-salford.md) | manchester / Salford / Collier Street | high | Cider reported; qualification needs checking |
 | [Fell Chorlton](venues/fell-chorlton.md) | manchester / Chorlton | high | Real cider documented; reconfirm stock |
+| [Fell Northern Quarter](venues/fell-northern-quarter.md) | manchester / Northern Quarter / Dale Street | high | Real cider documented; reconfirm stock |
 | [Fletcher Moss](venues/fletcher-moss.md) | manchester / Didsbury | high | Real-cider offering not established |
 | [Flying Horse Hotel](venues/flying-horse-rochdale.md) | surroundings / Rochdale centre | high | Cider reported; qualification needs checking |
 | [Four Ashes](venues/four-ashes.md) | liverpool / Waterloo | high | Real cider documented; reconfirm stock |
+| [Fox & Pine](venues/fox-and-pine-oldham.md) | surroundings / Oldham town centre | essential | Real cider documented; reconfirm stock |
 | [Gallaghers Traditional Pub](venues/gallaghers-birkenhead.md) | liverpool / Birkenhead / Hamilton Square | high | Real cider documented; reconfirm stock |
 | [Gas Lamp](venues/gas-lamp.md) | manchester / Bridge Street / western city centre | high | Real cider documented; reconfirm stock |
 | [Glen Affric Brewery Taproom](venues/glen-affric-taproom.md) | liverpool / Birkenhead / Knox Street | specialist | Real-cider offering not established |
@@ -79,11 +89,13 @@
 | [Old Wellington](venues/old-wellington.md) | manchester / Cathedral / Shambles Square | high | Real-cider offering not established |
 | [Olde Cottage](venues/olde-cottage-chester.md) | surroundings / Chester / Brook Street | high | Real-cider offering not established |
 | [Olde Man & Scythe](venues/olde-man-scythe-bolton.md) | surroundings / Bolton centre | high | No real cider reported by the cited evidence |
+| [Our Gracie’s](venues/our-gracies-rochdale.md) | surroundings / Rochdale centre | essential | Real cider documented; reconfirm stock |
 | [Park Tavern](venues/park-tavern-macclesfield.md) | surroundings / Macclesfield / Park Lane | high | Real cider documented; reconfirm stock |
 | [Peter Kavanagh’s](venues/peter-kavanaghs.md) | liverpool / Georgian Quarter / Egerton Street | essential | Real-cider offering not established |
 | [Petersgate Tap](venues/petersgate-tap-stockport.md) | surroundings / Stockport centre | essential | Real cider documented; reconfirm stock |
 | [Peveril of the Peak](venues/peveril-of-the-peak.md) | manchester / Great Bridgewater Street / Oxford Road | essential | Real-cider offering not established |
 | [Philharmonic Dining Rooms](venues/philharmonic-dining-rooms.md) | liverpool / Hope Street / Georgian Quarter | essential | Real-cider offering not established |
+| [Pigeon Beer Wanderer](venues/pigeon-beer-wanderer.md) | manchester / Piccadilly / Sheffield Street | specialist | Real-cider offering not established |
 | [Plasterers Arms](venues/plasterers-arms-hoylake.md) | liverpool / Hoylake | high | Real-cider offering not established |
 | [Port Street Beer House](venues/port-street-beer-house.md) | manchester / Northern Quarter / Port Street | essential | Real cider documented; reconfirm stock |
 | [Prairie Schooner Taphouse](venues/prairie-schooner-urmston.md) | manchester / Urmston | high | Real cider documented; reconfirm stock |
@@ -121,12 +133,14 @@
 | [The Brewery Tap](venues/brewery-tap-chester.md) | surroundings / Chester / Lower Bridge Street | essential | Real cider documented; reconfirm stock |
 | [The Bridewell](venues/bridewell.md) | liverpool / Ropewalks / Campbell Square | essential | Real-cider offering not established |
 | [The Cellar](venues/cellar-chester.md) | surroundings / Chester / City Road | high | Real cider documented; reconfirm stock |
+| [The Coop](venues/coop-crosby.md) | liverpool / Crosby / College Road | essential | Real cider documented; reconfirm stock |
 | [The Denbigh Castle](venues/denbigh-castle.md) | liverpool / Dale Street / Hackins Hey | high | Real cider documented; reconfirm stock |
 | [The Dispensary](venues/dispensary.md) | liverpool / Renshaw Street / Ropewalks | high | Real-cider offering not established |
 | [The Firkin](venues/firkin-newton-le-willows.md) | surroundings / Newton-le-Willows | high | Real cider documented; reconfirm stock |
 | [The Freshfield](venues/freshfield.md) | liverpool / Freshfield / Formby | high | Real cider documented; reconfirm stock |
 | [The Grapes — Roscoe Street](venues/grapes-roscoe-street.md) | liverpool / Ropewalks / Roscoe Street | high | Real cider documented; reconfirm stock |
 | [The Grasshopper](venues/grasshopper-hillside.md) | liverpool / Hillside / Southport | high | Real cider documented; reconfirm stock |
+| [The Grocers](venues/grocers-cadishead.md) | surroundings / Cadishead / Irlam | specialist | Real cider documented; reconfirm stock |
 | [The Lazy Landlord](venues/lazy-landlord.md) | liverpool / Liscard / Wallasey | high | Real cider documented; reconfirm stock |
 | [The Magnet Freehouse](venues/magnet-stockport.md) | surroundings / Stockport / Heaton Norris | essential | Cider reported; qualification needs checking |
 | [The Monro](venues/monro.md) | liverpool / Ropewalks / Duke Street | high | Real-cider offering not established |

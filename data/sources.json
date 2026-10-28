@@ -237,6 +237,19 @@
       ]
     },
     {
+      "id": "src-10063998eace",
+      "url": "https://camra.org.uk/pubs/cobden-liverpool-165596",
+      "title": "CAMRA: Cobden, Woolton",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "cobden-woolton",
+          "supports": "2026 listing, traditional rooms, cask beer and bus access."
+        }
+      ]
+    },
+    {
       "id": "src-1050238b3276",
       "url": "https://camra.org.uk/pubs/northumberland-arms-marple-bridge-120589",
       "title": "CAMRA: Northumberland Arms",
@@ -272,6 +285,23 @@
         {
           "venue_id": "freshfield",
           "supports": "Address, beer and cider information, facilities, interior and planning context"
+        }
+      ]
+    },
+    {
+      "id": "src-13afeb79fccb",
+      "url": "https://www.rob.camra.org.uk/viewnode.php?id=170840",
+      "title": "Rochdale, Oldham & Bury CAMRA: 2026 awards",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "fox-and-pine-oldham",
+          "supports": "2026 overall branch Pub of the Year for Fox & Pine."
+        },
+        {
+          "venue_id": "broad-street-social-bury",
+          "supports": "2026 Bury Pub of the Year and overall branch runner-up."
         }
       ]
     },
@@ -389,6 +419,19 @@
         {
           "venue_id": "prairie-schooner-urmston",
           "supports": "Current independent beer and real-cider focus."
+        }
+      ]
+    },
+    {
+      "id": "src-1e6d5d81ff79",
+      "url": "https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586",
+      "title": "CAMRA: Bow-Legged Beagle, Bromborough",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "bow-legged-beagle-bromborough",
+          "supports": "Current opening, cask style mix and repeated cellarmanship awards."
         }
       ]
     },
@@ -714,6 +757,19 @@
         {
           "venue_id": "bank-top-brewery-tap-bolton",
           "supports": "July 2026 entry, brewery focus, dark mild, cider qualification and location."
+        }
+      ]
+    },
+    {
+      "id": "src-35157e98b170",
+      "url": "https://camra.org.uk/pubs/grocers-cadishead-170709",
+      "title": "CAMRA: The Grocers",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "grocers-cadishead",
+          "supports": "September 2026 opening, no-bar service, cask/real cider, transport and address."
         }
       ]
     },
@@ -1056,6 +1112,19 @@
       ]
     },
     {
+      "id": "src-4dca3a16b153",
+      "url": "https://camra.org.uk/pubs/fox-pine-oldham-152891",
+      "title": "CAMRA: Fox & Pine, Oldham",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "fox-and-pine-oldham",
+          "supports": "Address, ten cask handpumps, dark ales, real cider, food and town-centre transport."
+        }
+      ]
+    },
+    {
       "id": "src-4ed13c03ed1b",
       "url": "https://camra.org.uk/pubs/black-toad-hoylake-132582",
       "title": "CAMRA: The Black Toad — pub guide and interior record",
@@ -1069,6 +1138,19 @@
       ]
     },
     {
+      "id": "src-4f3be7a9dac5",
+      "url": "https://camra.org.uk/media-centre/press-releases/eye-conic-micropub-newcomer-wins-camra-national-cider-and-perry-pub-of-the-year-2026-93856",
+      "title": "CAMRA: National cider/pub finalists 2026",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "that-beer-place-chester",
+          "supports": "That Beer Place is a 2026 national cider/perry finalist, not the overall winner."
+        }
+      ]
+    },
+    {
       "id": "src-50fee96cb0d5",
       "url": "https://camra.org.uk/pubs/cask-liverpool-166044",
       "title": "CAMRA: Cask — Stoneycroft — pub guide and interior record",
@@ -1078,6 +1160,19 @@
         {
           "venue_id": "cask-stoneycroft",
           "supports": "Address, beer and cider information, facilities, interior and planning context"
+        }
+      ]
+    },
+    {
+      "id": "src-51e797683176",
+      "url": "https://camra.org.uk/pubs/broad-street-social-bury-152888",
+      "title": "CAMRA: Broad Street Social",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "broad-street-social-bury",
+          "supports": "September 2026 entry, six cask ales, Brewsmith link, ciders and location."
         }
       ]
     },
@@ -1433,6 +1528,19 @@
       ]
     },
     {
+      "id": "src-6c781780a73f",
+      "url": "https://camra.org.uk/pubs/coop-liverpool-197076",
+      "title": "CAMRA: Coop, Crosby",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "coop-crosby",
+          "supports": "2026 Liverpool Pub of the Year, address, five handpumps, cider, rooms and opening times."
+        }
+      ]
+    },
+    {
       "id": "src-6cf4e55674f5",
       "url": "https://camra.org.uk/pubs/sams-chop-house-manchester-137721",
       "title": "CAMRA: Sam’s Chop House",
@@ -1459,6 +1567,19 @@
       ]
     },
     {
+      "id": "src-6ffbfbcc7148",
+      "url": "https://camra.org.uk/pubs/b33r-at-33-horwich-195547",
+      "title": "CAMRA: B33R@33",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "b33r-at-33-horwich",
+          "supports": "2026 cask/cider offerings, opening and access."
+        }
+      ]
+    },
+    {
       "id": "src-70833bb400e3",
       "url": "https://camra.org.uk/pubs/blossoms-stockport-167301",
       "title": "CAMRA: Blossoms",
@@ -1481,6 +1602,23 @@
         {
           "venue_id": "bar-fringe",
           "supports": "Cask, real cider, interior and address."
+        }
+      ]
+    },
+    {
+      "id": "src-71ee95325740",
+      "url": "https://bolton.camra.org.uk/bolton-pubs/pubs-of-the-year-2026/",
+      "title": "Bolton CAMRA: 2026 awards",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "bank-top-ale-house-horwich",
+          "supports": "2026 Pub of the Year winner."
+        },
+        {
+          "venue_id": "b33r-at-33-horwich",
+          "supports": "2026 Cider Pub of the Year winner."
         }
       ]
     },
@@ -1611,6 +1749,19 @@
         {
           "venue_id": "st-peters-tavern",
           "supports": "2026 joint Conversion to Pub Use award and design details"
+        }
+      ]
+    },
+    {
+      "id": "src-7e0a2a0fcdd6",
+      "url": "https://camra.org.uk/pubs/corner-post-liverpool-166043",
+      "title": "CAMRA: Corner Post, Crosby",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "corner-post-crosby",
+          "supports": "2026 listing, four changing beers, real-cider badge, former post office and station access."
         }
       ]
     },
@@ -1771,6 +1922,19 @@
       ]
     },
     {
+      "id": "src-893e47049769",
+      "url": "https://camra.org.uk/pubs/bank-top-brewery-ale-house-horwich-122462",
+      "title": "CAMRA: Bank Top Ale House",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "bank-top-ale-house-horwich",
+          "supports": "Address, cask range and mild, qualified cider, transport and operating pattern."
+        }
+      ]
+    },
+    {
       "id": "src-8a3966c45540",
       "url": "https://cloudwaterbrew.co/pages/frequently-asked-questions",
       "title": "Cloudwater: FAQs",
@@ -1832,6 +1996,14 @@
         {
           "venue_id": "trackside-bury",
           "supports": "April 2026 correction: no qualifying real cider then at Trackside."
+        },
+        {
+          "venue_id": "fox-and-pine-oldham",
+          "supports": "Specific gravity real-cider/perry range and product qualifications."
+        },
+        {
+          "venue_id": "our-gracies-rochdale",
+          "supports": "2026 branch cider award and specific eight-product cider/perry cooler."
         }
       ]
     },
@@ -2160,6 +2332,19 @@
       ]
     },
     {
+      "id": "src-a91e65967641",
+      "url": "https://greatermanchester.camra.org.uk/gmcamra/award-winners/",
+      "title": "Greater Manchester CAMRA: award winners",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "petersgate-tap-stockport",
+          "supports": "Petersgate Tap 2026 Greater Manchester regional cider title."
+        }
+      ]
+    },
+    {
       "id": "src-a9d88315f1f5",
       "url": "https://camra.org.uk/pubs/crown-hotel-liverpool-165905",
       "title": "CAMRA: Crown Hotel — pub guide and interior record",
@@ -2446,6 +2631,19 @@
       ]
     },
     {
+      "id": "src-bcbb25fade31",
+      "url": "https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325",
+      "title": "CAMRA: Fell Northern Quarter",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "fell-northern-quarter",
+          "supports": "Four cask pumps, boxed/bottled cider, Grade II building, current opening and access."
+        }
+      ]
+    },
+    {
       "id": "src-c0938197baba",
       "url": "https://www.nicholsonspubs.co.uk/restaurants/northwest/thephilharmonicdiningroomsliverpool",
       "title": "Philharmonic official Nicholson’s page",
@@ -2628,6 +2826,19 @@
       ]
     },
     {
+      "id": "src-d0128da2f8ed",
+      "url": "https://camra.org.uk/pubs/dee-view-inn-heswall-131954",
+      "title": "CAMRA: Dee View Inn",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "dee-view-inn-heswall",
+          "supports": "2026 operational listing, cask range, food policy and community award."
+        }
+      ]
+    },
+    {
       "id": "src-d1e14304043f",
       "url": "https://thebeerlab.co.uk/heswall/",
       "title": "Beer Lab: Heswall official page",
@@ -2663,6 +2874,19 @@
         {
           "venue_id": "pen-factory",
           "supports": "Address, beer and cider information, facilities, interior and planning context"
+        }
+      ]
+    },
+    {
+      "id": "src-d29e84c32016",
+      "url": "https://camra.org.uk/awards/pub-of-the-year",
+      "title": "CAMRA: 2026 national pub finalists",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "northumberland-arms-marple-bridge",
+          "supports": "Northumberland Arms appears among 2026 regional final sixteen."
         }
       ]
     },
@@ -2862,6 +3086,19 @@
       ]
     },
     {
+      "id": "src-de8fff3d6cb3",
+      "url": "https://camra.org.uk/pubs/our-gracies-rochdale-194611",
+      "title": "CAMRA: Our Gracie's",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "our-gracies-rochdale",
+          "supports": "June 2026 listing, handpumps, dedicated cider/perry offer, address and restricted opening."
+        }
+      ]
+    },
+    {
       "id": "src-dea239cd172d",
       "url": "https://camra.org.uk/pubs/bundobust-brewery-manchester-195129",
       "title": "CAMRA: Bundobust Brewery, Manchester",
@@ -2910,6 +3147,19 @@
         {
           "venue_id": "grapes-roscoe-street",
           "supports": "Address, beer and cider information, facilities, interior and planning context"
+        }
+      ]
+    },
+    {
+      "id": "src-e40c9e4fd0ff",
+      "url": "https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207",
+      "title": "CAMRA: Black Cat Rose Lane",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "black-cat-rose-lane",
+          "supports": "2026 cask listing, address, transport and branch identity."
         }
       ]
     },
@@ -3031,6 +3281,23 @@
       ]
     },
     {
+      "id": "src-efd66afb55b8",
+      "url": "https://www.centralmanchester.camra.org.uk/viewnode.php?id=151519",
+      "title": "Central Manchester CAMRA: 2026 pub and cider winners",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "cafe-beermoth",
+          "supports": "Café Beermoth named 2026 Central Manchester Pub of the Year."
+        },
+        {
+          "venue_id": "marble-arch",
+          "supports": "Marble Arch named 2026 Central Manchester Cider Pub of the Year."
+        }
+      ]
+    },
+    {
       "id": "src-f0ac38433096",
       "url": "https://camra.org.uk/pubs/beer-lab-heswall-132241",
       "title": "CAMRA: The Beer Lab — Heswall — pub guide and interior record",
@@ -3066,6 +3333,19 @@
         {
           "venue_id": "wheatsheaf-raby",
           "supports": "Address, beer and cider information, facilities, interior and planning context"
+        }
+      ]
+    },
+    {
+      "id": "src-f3318d53dee3",
+      "url": "https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108",
+      "title": "CAMRA: Pigeon Beer Wanderer",
+      "kind": "camra",
+      "checked": "2026-10-28",
+      "uses": [
+        {
+          "venue_id": "pigeon-beer-wanderer",
+          "supports": "June 2026 opening, four cask and twenty keg lines, food, address and service days."
         }
       ]
     },

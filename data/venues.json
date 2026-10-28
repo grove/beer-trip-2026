@@ -2,7 +2,7 @@
   "schema_version": 1,
   "research_date": "2026-10-28",
   "travel_month": "2026-11",
-  "scope": "Manchester, Salford, Liverpool and selectively researched surrounding towns; 5-day trip for 2 experienced beer travellers. Cask ale, real cider/perry, traditional and spectacular pubs, worthwhile food. Extended excursions labelled separately.",
+  "scope": "Manchester, Salford, Liverpool and selectively researched surrounding towns; exact travel 9–14 November 2026 (5 nights, 4 full days), two experienced beer travellers. Cask/real ale, qualifying real cider/perry, distinctive pubs and worthwhile food. Extended excursions are alternatives.",
   "venues": [
     {
       "id": "angel-manchester",
@@ -308,7 +308,7 @@
       "cider_status": "unverified",
       "cider_note": "No current real-cider evidence established; ask for the producer and product at the bar.",
       "food": "Cheese and meat plates and other bar snacks are documented; useful for a light food stop.",
-      "visit_notes": "The public entrance is on Brown Street, despite some addresses saying Spring Gardens. Card only; check corkage/drink-in supplements before choosing large bottles.",
+      "visit_notes": "The public entrance is on Brown Street, despite some addresses saying Spring Gardens. Card only; check corkage/drink-in supplements before choosing large bottles. Central Manchester CAMRA Pub of the Year 2026.",
       "transport": "Walk from Market Street tram stop; convenient for City Arms and the Cross Street chop houses.",
       "tags": [
         "cask",
@@ -324,6 +324,12 @@
           "title": "CAMRA: Cafe Beermoth",
           "kind": "camra",
           "supports": "Cask offering, bottles, food, entrance and practical details."
+        },
+        {
+          "url": "https://www.centralmanchester.camra.org.uk/viewnode.php?id=151519",
+          "title": "Central Manchester CAMRA: 2026 pub and cider winners",
+          "kind": "camra",
+          "supports": "Café Beermoth named 2026 Central Manchester Pub of the Year."
         }
       ],
       "cluster": "Manchester: central and western pub circuit"
@@ -1017,7 +1023,7 @@
       "why_visit": "The strongest single match for this trip: a working cask pub in a lavish Victorian interior, with serious cider and a kitchen that makes it sensible to stay for a meal. Look at the glazed walls, decorative ceiling and famously sloping mosaic floor before choosing a Marble beer. This is the brewery’s original home rather than its present production site. Give it a proper sitting; its appeal is the combination of the beer, the room and the food, rather than simply collecting another brewery name.",
       "beer": "Marble cask is the main draw; CAMRA lists Manchester Bitter and Pint among the regular beers. The official site advertises nine handpulls, while CAMRA describes six cask lines: capacity and actual availability should not be treated as identical.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA explicitly reports changing real ciders on draught and in bottles; ask what is available and whether any perry is in stock.",
+      "cider_note": "CAMRA explicitly reports changing real ciders on draught and in bottles; ask what is available and whether any perry is in stock. Central Manchester CAMRA Cider Pub of the Year 2026.",
       "food": "British pub dishes, including steak-and-stout pie; vegetarian/vegan options and Sunday roasts. Book a meal, particularly Sunday lunch.",
       "visit_notes": "Opening-hours conflict: the official website currently says Tuesday closed, while CAMRA lists Tuesday opening. Confirm directly before making this a Tuesday anchor. Sunday roasts can sell out.",
       "transport": "Walk from Manchester Victoria or Shudehill; combine with Smithfield Market Tavern and Crown & Kettle.",
@@ -1043,6 +1049,12 @@
           "title": "CAMRA: Marble Arch",
           "kind": "camra",
           "supports": "Historic interior, current cask and explicitly identified real cider."
+        },
+        {
+          "url": "https://www.centralmanchester.camra.org.uk/viewnode.php?id=151519",
+          "title": "Central Manchester CAMRA: 2026 pub and cider winners",
+          "kind": "camra",
+          "supports": "Marble Arch named 2026 Central Manchester Cider Pub of the Year."
         }
       ],
       "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
@@ -4289,7 +4301,7 @@
       "cider_status": "unverified",
       "cider_note": "No current real-cider evidence established.",
       "food": "Street-food visits are documented on selected evenings; verify the actual date and vendor rather than expect a kitchen.",
-      "visit_notes": "Community pub reopened in 2017; CAMRA records Greater Manchester Pub of the Year 2026. Check opening and food before travelling.",
+      "visit_notes": "Community pub reopened in 2017; CAMRA records Greater Manchester Pub of the Year 2026. Check opening and food before travelling. A CAMRA 2026 national regional finalist; no claim of winning the national title.",
       "transport": "Marple Bridge is a separate excursion; use Marple station and local walking/bus connections.",
       "tags": [
         "cask",
@@ -4306,6 +4318,12 @@
           "title": "CAMRA: Northumberland Arms",
           "kind": "camra",
           "supports": "Address, community rescue, cask/dark beer offer, food pattern and 2026 award."
+        },
+        {
+          "url": "https://camra.org.uk/awards/pub-of-the-year",
+          "title": "CAMRA: 2026 national pub finalists",
+          "kind": "camra",
+          "supports": "Northumberland Arms appears among 2026 regional final sixteen."
         }
       ],
       "cluster": "Marple Bridge"
@@ -4467,7 +4485,7 @@
       "why_visit": "A priority for this trip because cider is given the same serious attention as beer. The modest converted-shop exterior hides a substantial cellar and bottle offer, with a relaxed downstairs bar and more space upstairs. It supplies a useful contrast to Stockport’s Robinsons heritage pubs: independent beer selection, changing producers and genuine cider exploration. Ask to see the full cider and perry list, including bottles and cellar stock; the visible pumps are only part of the story. A particularly good place to compare different cider makers rather than simply order the house pour.",
       "beer": "CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA explicitly records real cider/perry in the fridge and cellar and bottled selections; its September 2026 entry records 2026 regional cider recognition.",
+      "cider_note": "CAMRA explicitly records real cider/perry in the fridge and cellar and bottled selections; its September 2026 entry records 2026 regional cider recognition. Greater Manchester and North West cider honours were renewed in 2026.",
       "food": "Local butcher’s pies and bar snacks are documented; treat this as light food.",
       "visit_notes": "CAMRA currently lists Monday closure. Check the full cider menu and exact opening before travelling.",
       "transport": "Central Stockport, walkable from the station and close to the market/Underbanks.",
@@ -4486,6 +4504,12 @@
           "title": "CAMRA: Petersgate Tap",
           "kind": "camra",
           "supports": "Address, changing cask, explicit real cider/perry range, food and September 2026 update."
+        },
+        {
+          "url": "https://greatermanchester.camra.org.uk/gmcamra/award-winners/",
+          "title": "Greater Manchester CAMRA: award winners",
+          "kind": "camra",
+          "supports": "Petersgate Tap 2026 Greater Manchester regional cider title."
         }
       ],
       "cluster": "Stockport: centre and nearby extensions"
@@ -4849,7 +4873,7 @@
       "why_visit": "The clearest reason for cider enthusiasts to give Chester serious space in the itinerary. CAMRA’s 2026 branch award describes more than a hundred real ciders and perries, and the bar’s own emphasis on different beer styles, lambic and mixed fermentation broadens the appeal to experienced European beer travellers. Ask for guidance by apple variety, maker, sweetness or fermentation character rather than simply ordering whichever cider is on draught. It is a modern specialist bar, so combine it with the Brewery Tap or Albion for historic surroundings. Flights and sharing bottles make a deliberate tasting visit particularly rewarding.",
       "beer": "Official site describes a broad draught and bottle range including dark and sour beer; CAMRA records cask introduced in 2024. Verify current cask availability.",
       "cider_status": "documented-real",
-      "cider_note": "CAMRA National Cider/Perry Pub of the Year 2024 and West Cheshire winner 2026; extensive real-cider/perry bottle range plus changing draught.",
+      "cider_note": "CAMRA National Cider/Perry Pub of the Year 2024 and West Cheshire winner 2026; extensive real-cider/perry bottle range plus changing draught. Also a 2026 national finalist (overall winner elsewhere).",
       "food": "Not established; do not plan a meal here without checking.",
       "visit_notes": "Use the Foregate Street venue, not its old Chester Market address. Monthly clubs and tastings need date/booking confirmation.",
       "transport": "On Foregate Street between the station approach and the historic centre.",
@@ -4882,6 +4906,12 @@
           "title": "West Cheshire CAMRA: branch awards 2026",
           "kind": "camra",
           "supports": "2026 cider award and documented scale of real-cider/perry selection."
+        },
+        {
+          "url": "https://camra.org.uk/media-centre/press-releases/eye-conic-micropub-newcomer-wins-camra-national-cider-and-perry-pub-of-the-year-2026-93856",
+          "title": "CAMRA: National cider/pub finalists 2026",
+          "kind": "camra",
+          "supports": "That Beer Place is a 2026 national cider/perry finalist, not the overall winner."
         }
       ],
       "cluster": "Chester"
@@ -5317,7 +5347,7 @@
       "cider_status": "documented-real",
       "cider_note": "Explicit real-cider selection and St Helens CAMRA Cider Pub of the Year 2026; ask for the full current list.",
       "food": "CAMRA documents homemade meals daily and an additional neighbouring grill arrangement; verify the kitchen/menu for your visit.",
-      "visit_notes": "Card/electronic payments only. Check actual tasting dates and which room suits quiet conversation; sport is shown in the bar area.",
+      "visit_notes": "Card/electronic payments only. Check actual tasting dates and which room suits quiet conversation; sport is shown in the bar area. Selected among CAMRA’s final four national Pub of the Year contenders for 2026 (winner announced in 2027).",
       "transport": "A walk or local connection from St Helens Central; combine with the Cricketers Arms as a separate excursion.",
       "tags": [
         "cask",
@@ -5504,6 +5534,527 @@
         }
       ],
       "cluster": "Extended eastern excursion: Huddersfield, Marsden and Lindley"
+    },
+    {
+      "id": "fox-and-pine-oldham",
+      "name": "Fox & Pine",
+      "region": "surroundings",
+      "area": "Oldham town centre",
+      "priority": "essential",
+      "venue_type": "Independent real-ale and cider free house",
+      "address": "18 Greaves Street, Oldham, OL1 1AD",
+      "why_visit": "A first-rate destination for enthusiasts who value the drink itself: ten cask handpumps, a deliberate choice of dark ales and an unusually substantial cider/perry offer. The lively fox-and-pine-themed rooms provide a community-pub setting rather than a heritage showpiece. This was Rochdale, Oldham & Bury CAMRA's overall Pub of the Year 2026 and Greater Manchester runner-up, making Oldham a serious competing excursion to Stockport. The priority is a thoughtful tasting rather than forcing the visit into the main Manchester pub circuit.",
+      "beer": "Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record.",
+      "cider_status": "documented-real",
+      "cider_note": "The local CAMRA branch describes five or six qualifying real ciders, often including perry, on gravity dispense from the cool room. Confirm producer and product.",
+      "food": "CAMRA lists lunchtime and evening meals; ask about the actual kitchen window.",
+      "visit_notes": "An award-winning town-centre independent. The branch guide lists daily opening, but check November hours before the tram journey. Not a historic-interior destination.",
+      "transport": "Oldham Central Metrolink is close; a focused Oldham excursion rather than a walking addition to central Manchester.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "perry",
+        "dark-beer",
+        "mild",
+        "traditional",
+        "award-2026",
+        "cider-destination"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/fox-pine-oldham-152891",
+          "title": "CAMRA: Fox & Pine, Oldham",
+          "kind": "camra",
+          "supports": "Address, ten cask handpumps, dark ales, real cider, food and town-centre transport."
+        },
+        {
+          "url": "https://www.rob.camra.org.uk/viewnode.php?id=170840",
+          "title": "Rochdale, Oldham & Bury CAMRA: 2026 awards",
+          "kind": "camra",
+          "supports": "2026 overall branch Pub of the Year for Fox & Pine."
+        },
+        {
+          "url": "https://rob.camra.org.uk/viewnode.php?id=733",
+          "title": "Rochdale, Oldham & Bury CAMRA: real cider guide",
+          "kind": "camra",
+          "supports": "Specific gravity real-cider/perry range and product qualifications."
+        }
+      ],
+      "cluster": "Oldham"
+    },
+    {
+      "id": "our-gracies-rochdale",
+      "name": "Our Gracie’s",
+      "region": "surroundings",
+      "area": "Rochdale centre",
+      "priority": "essential",
+      "venue_type": "Real-cider and cask micropub",
+      "address": "13 The Butts, Rochdale, OL16 1ES",
+      "why_visit": "The key missing stop from the first Rochdale list. Five rotating local casks are backed by an impressive dedicated fridge of real cider and perry; the branch's 2026 Cider Pub of the Year award recognises the programme and its producer variety. This makes an excellent specialist contrast with the historic Baum and Flying Horse, if you choose Rochdale as an excursion. The range is why to go, not a spectacular historic interior.",
+      "beer": "Five changing cask ales with local producers prominent, plus keg from regional breweries.",
+      "cider_status": "documented-real",
+      "cider_note": "Rochdale, Oldham & Bury CAMRA describes eight real ciders/perries in the dedicated fridge, including changing smaller producers; 2026 branch cider winner.",
+      "food": "Not established as a meal destination; eat at the Baum or elsewhere in Rochdale.",
+      "visit_notes": "CAMRA lists Monday and Tuesday closure, then afternoon/evening opening from Wednesday. Check today’s list and any special tasting event before making a cider-specific journey.",
+      "transport": "Short walk from Rochdale Metrolink terminus and bus station; also reachable from the railway station.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "perry",
+        "micropub",
+        "cider-destination",
+        "award-2026"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/our-gracies-rochdale-194611",
+          "title": "CAMRA: Our Gracie's",
+          "kind": "camra",
+          "supports": "June 2026 listing, handpumps, dedicated cider/perry offer, address and restricted opening."
+        },
+        {
+          "url": "https://rob.camra.org.uk/viewnode.php?id=733",
+          "title": "Rochdale, Oldham & Bury CAMRA: real cider guide",
+          "kind": "camra",
+          "supports": "2026 branch cider award and specific eight-product cider/perry cooler."
+        }
+      ],
+      "cluster": "Rochdale"
+    },
+    {
+      "id": "coop-crosby",
+      "name": "The Coop",
+      "region": "liverpool",
+      "area": "Crosby / College Road",
+      "priority": "essential",
+      "venue_type": "Independent cask and cider micropub",
+      "address": "84 College Road, Crosby, Liverpool, L23 0RP",
+      "why_visit": "A particularly strong new reason to consider a north-coast beer excursion. Liverpool CAMRA named this convivial, book-lined former restaurant its Pub of the Year in both 2025 and 2026. A candlelit conservatory, five changing casks and a documented cider offer make it an inviting tasting-and-conversation stop rather than a generic suburban bar. Pair with the nearby Corner Post or Waterloo’s Volunteer Canteen/Four Ashes, allowing time for the rail and street connections.",
+      "beer": "Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day.",
+      "cider_status": "documented-real",
+      "cider_note": "CAMRA flags real cider and normally describes two boxed ciders, often Seacider; verify the exact product, as flavours and production methods differ.",
+      "food": "Bar snacks are listed; no full kitchen established.",
+      "visit_notes": "Typically afternoon/evening opening and earlier closure than the city's late pubs. The current listing says wheelchair access through the conservatory by portable ramp; confirm if needed.",
+      "transport": "Blundellsands & Crosby railway station is around a walk away; combine with nearby Crosby pubs rather than an assumed Liverpool centre stroll.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "micropub",
+        "quiet",
+        "award-2026",
+        "north-coast"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/coop-liverpool-197076",
+          "title": "CAMRA: Coop, Crosby",
+          "kind": "camra",
+          "supports": "2026 Liverpool Pub of the Year, address, five handpumps, cider, rooms and opening times."
+        }
+      ],
+      "cluster": "North coast: Crosby and Waterloo"
+    },
+    {
+      "id": "broad-street-social-bury",
+      "name": "Broad Street Social",
+      "region": "surroundings",
+      "area": "Bury centre",
+      "priority": "high",
+      "venue_type": "Brewsmith brewery-operated cask bar",
+      "address": "9 Broad Street, Bury, BL9 0DA",
+      "why_visit": "A Bury beer destination whose relevance is backed by the local branch's 2026 town Pub of the Year result. Brewsmith runs this friendly centre bar, normally offering a balanced pale, session and dark-beer selection across its own and guest casks. It is a better brewery-beer companion to Trackside than an undirected Bury crawl, and worth considering if a tram outing suits your dates.",
+      "beer": "Six changing cask ales, usually four Brewsmith and two independent guests, with dark stout among the styles.",
+      "cider_status": "reported-cider-check-qualification",
+      "cider_note": "Hogan’s is advertised as a permanent cider option, but the current source does not identify which qualifying real-cider product or format is served.",
+      "food": "No dependable full meal service established; check current food information.",
+      "visit_notes": "CAMRA lists weekday and weekend opening, and music on some weekends. The 2026 branch award is for Bury, not for Greater Manchester overall.",
+      "transport": "Central Bury, close to the Metrolink/bus interchange and the East Lancashire Railway station.",
+      "tags": [
+        "cask",
+        "dark-beer",
+        "local-brewery",
+        "award-2026",
+        "neighbourhood"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/broad-street-social-bury-152888",
+          "title": "CAMRA: Broad Street Social",
+          "kind": "camra",
+          "supports": "September 2026 entry, six cask ales, Brewsmith link, ciders and location."
+        },
+        {
+          "url": "https://www.rob.camra.org.uk/viewnode.php?id=170840",
+          "title": "Rochdale, Oldham & Bury CAMRA: awards",
+          "kind": "camra",
+          "supports": "2026 Bury Pub of the Year and overall branch runner-up."
+        }
+      ],
+      "cluster": "Bury and Ramsbottom"
+    },
+    {
+      "id": "grocers-cadishead",
+      "name": "The Grocers",
+      "region": "surroundings",
+      "area": "Cadishead / Irlam",
+      "priority": "specialist",
+      "venue_type": "No-bar micropub with real cider",
+      "address": "152A Liverpool Road, Cadishead, M44 5DD",
+      "why_visit": "A distinctive traditional-drinking experience: there is no conventional public bar, and the proprietor fetches beer from a separate chilled room. With conversation instead of television or music, a small cask choice and a real-cider/perry offering, the pub feels like a modern successor to a simple beerhouse. Its remote location and early closing make it a specialist destination for aficionados rather than an easy stop between Manchester and Liverpool.",
+      "beer": "Three changing guest cask ales on handpull and gravity, with local micros regularly represented.",
+      "cider_status": "documented-real",
+      "cider_note": "CAMRA lists three real ciders or perries and names makers such as Ross-on-Wye, Oliver’s and Hecks. Confirm exact bottles/boxes.",
+      "food": "No regular meal service established; arrange food separately.",
+      "visit_notes": "CAMRA’s September 2026 record gives Wednesday–Friday evenings, Saturday afternoon/evening and Sunday afternoon; Monday/Tuesday closed. May close early when quiet. Confirm directly.",
+      "transport": "Irlam station is more than a short stroll away; plan the bus/walk and return, rather than assuming a convenient train stop.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "perry",
+        "micropub",
+        "quiet",
+        "unusual-setting",
+        "specialist-detour"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/grocers-cadishead-170709",
+          "title": "CAMRA: The Grocers",
+          "kind": "camra",
+          "supports": "September 2026 opening, no-bar service, cask/real cider, transport and address."
+        }
+      ],
+      "cluster": "Warrington and west Salford"
+    },
+    {
+      "id": "bank-top-ale-house-horwich",
+      "name": "Bank Top Brewery Ale House",
+      "region": "surroundings",
+      "area": "Horwich / Church Street",
+      "priority": "high",
+      "venue_type": "Traditional brewery ale house",
+      "address": "36 Church Street, Horwich, BL6 6AD",
+      "why_visit": "A purposeful destination for cask-led visitors, particularly lovers of dark mild. This is a different venue from Bank Top's Astley Bridge tap: the Horwich Ale House sits in a small-town conservation area, with nine pumps featuring the local brewer’s bitter, mild and seasonal beers. It won Bolton CAMRA Pub of the Year 2026 and pairs naturally with B33R@33 for a strong Horwich beer-and-cider session.",
+      "beer": "Nine cask handpumps, always including Bank Top Dark Mild according to CAMRA, plus bitter, pale, hoppy releases and a changing guest.",
+      "cider_status": "documented-real",
+      "cider_note": "CAMRA flags real cider, but Bolton CAMRA identifies qualifying products as occasional within a mixed box/bottle range. Ask product-by-product, and do not count on a daily cider offering.",
+      "food": "Not established as a full-meal destination; check directly.",
+      "visit_notes": "Open seven days in the current CAMRA listing. Do not confuse this Ale House with the brewery tap in Astley Bridge or the Blackedge Brewery Bar.",
+      "transport": "Bus 125 from Bolton Interchange serves Horwich; check the actual service and return.",
+      "tags": [
+        "cask",
+        "mild",
+        "dark-beer",
+        "traditional",
+        "regional-brewery",
+        "award-2026"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/bank-top-brewery-ale-house-horwich-122462",
+          "title": "CAMRA: Bank Top Ale House",
+          "kind": "camra",
+          "supports": "Address, cask range and mild, qualified cider, transport and operating pattern."
+        },
+        {
+          "url": "https://bolton.camra.org.uk/bolton-pubs/pubs-of-the-year-2026/",
+          "title": "Bolton CAMRA: 2026 awards",
+          "kind": "camra",
+          "supports": "2026 Pub of the Year winner."
+        }
+      ],
+      "cluster": "Bolton and Horwich"
+    },
+    {
+      "id": "b33r-at-33-horwich",
+      "name": "B33R@33",
+      "region": "surroundings",
+      "area": "Horwich / Lee Lane",
+      "priority": "high",
+      "venue_type": "Independent cask, craft and real-cider bar",
+      "address": "33 Lee Lane, Horwich, BL6 7AX",
+      "why_visit": "One of the most purposeful cider stops around Bolton. Three rotating casks and specialist keg sit alongside handpumped, boxed and bottled cider, with producers not routinely found elsewhere in the area. Bolton CAMRA named it Cider Pub of the Year 2026. The compact modern room pairs easily with Bank Top Ale House; let the cider list decide whether a Horwich afternoon beats another town trip.",
+      "beer": "Three changing cask from independent breweries, plus keg featuring local producers including Rivington.",
+      "cider_status": "documented-real",
+      "cider_note": "Bolton CAMRA explicitly describes real cider, including handpump, bag-in-box and bottles; 2026 branch cider award. Specific products still need qualification.",
+      "food": "No full meal service established; seek nearby food.",
+      "visit_notes": "CAMRA lists later opening Monday/Tuesday (around 18:00) and earlier on other weekdays. A deep step at entrance and limited space are recorded.",
+      "transport": "Horwich centre; bus connections from Bolton Interchange, then walk between Lee Lane and Church Street.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "cider-destination",
+        "micropub",
+        "award-2026",
+        "local-brewery"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/b33r-at-33-horwich-195547",
+          "title": "CAMRA: B33R@33",
+          "kind": "camra",
+          "supports": "2026 cask/cider offerings, opening and access."
+        },
+        {
+          "url": "https://bolton.camra.org.uk/bolton-pubs/pubs-of-the-year-2026/",
+          "title": "Bolton CAMRA: 2026 awards",
+          "kind": "camra",
+          "supports": "2026 Cider Pub of the Year winner."
+        }
+      ],
+      "cluster": "Bolton and Horwich"
+    },
+    {
+      "id": "bow-legged-beagle-bromborough",
+      "name": "Bow-Legged Beagle — Bromborough",
+      "region": "liverpool",
+      "area": "Bromborough",
+      "priority": "high",
+      "venue_type": "Independent cask micropub",
+      "address": "11 Allport Lane, Bromborough, CH62 7HH",
+      "why_visit": "A strong choice for drinkers who care about a cellar’s consistency. Wirral CAMRA awarded this comfortable former shop its cellarmanship prize in 2022, 2023 and 2025. The rotating cask programme deliberately covers bitter, pale and a dark porter or stout rather than offering only the most popular style. It is worthwhile if a Wirral excursion passes through Bromborough, especially combined with the nearby Hop, but not a reason to skip Liverpool’s central historic classics on a first visit.",
+      "beer": "Four changing cask ales, usually covering pale, IPA, bitter and dark beer.",
+      "cider_status": "unverified",
+      "cider_note": "No qualifying real-cider range established in the cited 2026 listing.",
+      "food": "Bar snacks only or unverified; do not rely on a full meal.",
+      "visit_notes": "CAMRA’s February 2026 listing says daily afternoon/evening opening and warns of limited accessibility at the entrance and toilets.",
+      "transport": "About a ten-minute walk from Bromborough Rake station, or local bus to Bromborough centre.",
+      "tags": [
+        "cask",
+        "micropub",
+        "dark-beer",
+        "award-cellarmanship",
+        "quiet"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586",
+          "title": "CAMRA: Bow-Legged Beagle, Bromborough",
+          "kind": "camra",
+          "supports": "Current opening, cask style mix and repeated cellarmanship awards."
+        }
+      ],
+      "cluster": "Wirral: Bromborough and Bebington"
+    },
+    {
+      "id": "dee-view-inn-heswall",
+      "name": "Dee View Inn",
+      "region": "liverpool",
+      "area": "Heswall / Dee View Road",
+      "priority": "high",
+      "venue_type": "Traditional estuary-side local",
+      "address": "2 Dee View Road, Heswall, CH60 0DH",
+      "why_visit": "A genuine community-pub alternative to modern micropubs, with intimate rooms, local character and a view towards the Dee Estuary. Its 2025 Wirral CAMRA Community Pub Award supports its inclusion, while the cask choice makes it more than a scenic detour. Combine with The Beer Lab if exploring cider in Heswall, but factor in the distance from the railway station.",
+      "beer": "Black Sheep Best Bitter and London Pride regularly listed, plus changing cask beers.",
+      "cider_status": "unverified",
+      "cider_note": "No qualifying real-cider selection established in the current listing.",
+      "food": "No kitchen; CAMRA explicitly allows customers to bring food or order takeaway.",
+      "visit_notes": "CAMRA lists opening from early afternoon daily. Tuesday is an advertised cask-club day, but verify the discount and event status.",
+      "transport": "Near Heswall centre; the railway station is significantly farther away than the nearby bus stops.",
+      "tags": [
+        "cask",
+        "traditional",
+        "community-pub",
+        "scenic-setting",
+        "bring-food"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/dee-view-inn-heswall-131954",
+          "title": "CAMRA: Dee View Inn",
+          "kind": "camra",
+          "supports": "2026 operational listing, cask range, food policy and community award."
+        }
+      ],
+      "cluster": "Wirral: Heswall and rural south"
+    },
+    {
+      "id": "black-cat-rose-lane",
+      "name": "Black Cat — Rose Lane",
+      "region": "liverpool",
+      "area": "Mossley Hill / Rose Lane",
+      "priority": "high",
+      "venue_type": "Independent neighbourhood cask bar",
+      "address": "102 Rose Lane, Mossley Hill, Liverpool, L18 8AG",
+      "why_visit": "A purposeful south-Liverpool choice supported by inclusion on Liverpool CAMRA's 2026 Pub of the Year shortlist. The former Pi bar now offers rotating traditional and modern cask ales in an informal neighbourhood room. It is most useful when combining a Smithdown/Wavertree outing, rather than as part of the central Georgian-quarter walk. Specify Rose Lane: other Black Cat branches exist.",
+      "beer": "Three rotating cask beers covering modern and traditional styles according to CAMRA's July 2026 update.",
+      "cider_status": "unverified",
+      "cider_note": "No specifically evidenced qualifying real cider at this branch.",
+      "food": "No current substantial meal offer established.",
+      "visit_notes": "CAMRA lists daily afternoon/evening opening, earlier at weekends. No accessible toilet reported.",
+      "transport": "Near Mossley Hill railway station; also on local buses 61 and 80.",
+      "tags": [
+        "cask",
+        "neighbourhood",
+        "independent",
+        "award-shortlist-2026"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207",
+          "title": "CAMRA: Black Cat Rose Lane",
+          "kind": "camra",
+          "supports": "2026 cask listing, address, transport and branch identity."
+        }
+      ],
+      "cluster": "Liverpool: outer neighbourhood specialists"
+    },
+    {
+      "id": "cobden-woolton",
+      "name": "Cobden Vaults",
+      "region": "liverpool",
+      "area": "Woolton village",
+      "priority": "high",
+      "venue_type": "Traditional two-room community pub",
+      "address": "89 Quarry Street, Woolton, Liverpool, L25 6HA",
+      "why_visit": "A worthwhile traditional local from Liverpool CAMRA's 2026 shortlisting, with convivial back-room conversation, changing regional cask and a character distinctly removed from the city-centre show pubs. The compact room and community atmosphere are the reasons to come. Woolton is a dedicated bus/taxi outing rather than a quick addition to a central pub crawl.",
+      "beer": "CAMRA lists three regular cask beers and one changing, including examples such as Landlord and White Rat; check the day’s board.",
+      "cider_status": "unverified",
+      "cider_note": "No current qualifying real cider established.",
+      "food": "No dependable meal offering established.",
+      "visit_notes": "CAMRA records daily service, with quizzes Monday/Tuesday and occasional weekend music. The detailed survey is older than the 2026 update; reconfirm.",
+      "transport": "Bus-based trip to Woolton village, not within walking distance of Liverpool Central or Lime Street.",
+      "tags": [
+        "cask",
+        "traditional",
+        "quiet",
+        "community-pub",
+        "award-shortlist-2026"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/cobden-liverpool-165596",
+          "title": "CAMRA: Cobden, Woolton",
+          "kind": "camra",
+          "supports": "2026 listing, traditional rooms, cask beer and bus access."
+        }
+      ],
+      "cluster": "Liverpool: outer neighbourhood specialists"
+    },
+    {
+      "id": "fell-northern-quarter",
+      "name": "Fell Northern Quarter",
+      "region": "manchester",
+      "area": "Northern Quarter / Dale Street",
+      "priority": "high",
+      "venue_type": "Brewery-operated cask and cider beer bar",
+      "address": "35 Dale Street, Manchester, M1 2HF",
+      "why_visit": "A strong addition when your city-centre afternoon is beer-led: Fell's Cumbrian ales, guests and a cider selection sit inside a converted listed building near Port Street and Piccadilly. It is especially useful on Tuesday, when several brewery taprooms are closed and CAMRA advertises a cask-club offer. Its beer focus gives it relevance beyond another modern keg bar, although it is not a historic pub interior.",
+      "beer": "Four changing cask lines alongside a larger keg selection; check whether any porter or mild is currently pouring.",
+      "cider_status": "documented-real",
+      "cider_note": "CAMRA marks real cider and describes boxed and bottled cider. Check specific producer and product; not every keg cider is automatically qualifying.",
+      "food": "Food provision unverified; use nearby pubs or food stalls.",
+      "visit_notes": "CAMRA lists Mon/Tue afternoon opening, with stairs at the main entrance and staff-assisted alternative access. Card only; check opening and cask-club terms.",
+      "transport": "Near Manchester Piccadilly and Piccadilly Gardens; useful alongside Port Street, Northern Monk and Café Beermoth.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "brewery-bar",
+        "international-beer",
+        "city-centre"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325",
+          "title": "CAMRA: Fell Northern Quarter",
+          "kind": "camra",
+          "supports": "Four cask pumps, boxed/bottled cider, Grade II building, current opening and access."
+        }
+      ],
+      "cluster": "Manchester: northern centre, Ancoats and Northern Quarter"
+    },
+    {
+      "id": "pigeon-beer-wanderer",
+      "name": "Pigeon Beer Wanderer",
+      "region": "manchester",
+      "area": "Piccadilly / Sheffield Street",
+      "priority": "specialist",
+      "venue_type": "New railway-arch cask and craft beer bar",
+      "address": "Arch 7, Sheffield Street, Manchester, M1 2ND",
+      "why_visit": "A June 2026 addition to the Piccadilly tasting cluster with an unusually broad advertised cask and keg choice for a new independent arch bar. It earns a specialist place for sheer beer-style breadth and an accessible stop near the station; food is available and the venue allows outside food. The attraction is discovery rather than traditional pub interiors, so keep it a flexible extra after the highest-priority Manchester pubs.",
+      "beer": "Four changing cask and about twenty keg lines documented by CAMRA; actual beers rotate.",
+      "cider_status": "unverified",
+      "cider_note": "No qualifying real-cider provision established in the current listing.",
+      "food": "Pizza is documented, and CAMRA says outside food is permitted; confirm the current arrangement.",
+      "visit_notes": "Closed Monday and Tuesday in the June/July 2026 entry. Wednesday first opens around 16:00, so it does not fit an early Stockport departure.",
+      "transport": "Under Manchester Piccadilly station at Sheffield Street; near Balance and Sureshot.",
+      "tags": [
+        "cask",
+        "craft",
+        "railway-arch",
+        "new-venue",
+        "food",
+        "limited-days"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108",
+          "title": "CAMRA: Pigeon Beer Wanderer",
+          "kind": "camra",
+          "supports": "June 2026 opening, four cask and twenty keg lines, food, address and service days."
+        }
+      ],
+      "cluster": "Manchester: Piccadilly brewery circuit"
+    },
+    {
+      "id": "corner-post-crosby",
+      "name": "Corner Post",
+      "region": "liverpool",
+      "area": "Crosby / Bridge Road",
+      "priority": "high",
+      "venue_type": "Post-office-conversion cask and cider micropub",
+      "address": "25 Bridge Road, Crosby, Liverpool, L23 6SA",
+      "why_visit": "A characterful small cask stop in a former post office, complete with the old postbox outside and displays of local history. This gives a Crosby/Waterloo excursion a second independent beer destination alongside The Coop. Cask variety and the real-cider badge are the reasons to choose it, while the room is especially suitable for a relaxed conversation.",
+      "beer": "Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers.",
+      "cider_status": "documented-real",
+      "cider_note": "CAMRA marks real cider but does not establish the exact producer or product; confirm before committing to a cider-led detour.",
+      "food": "No full kitchen established; plan food elsewhere.",
+      "visit_notes": "CAMRA lists Monday closure and early evening closing; check before setting out from central Liverpool.",
+      "transport": "Within walking distance of Blundellsands & Crosby railway station; distinct from the central Liverpool pub district.",
+      "tags": [
+        "cask",
+        "real-cider",
+        "micropub",
+        "historic-conversion",
+        "north-coast"
+      ],
+      "source_checked": "2026-10-28",
+      "evidence_level": "specialist",
+      "sources": [
+        {
+          "url": "https://camra.org.uk/pubs/corner-post-liverpool-166043",
+          "title": "CAMRA: Corner Post, Crosby",
+          "kind": "camra",
+          "supports": "2026 listing, four changing beers, real-cider badge, former post office and station access."
+        }
+      ],
+      "cluster": "North coast: Crosby and Waterloo"
     }
   ]
 }

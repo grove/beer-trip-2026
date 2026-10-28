@@ -1,8 +1,16 @@
 # Choosing the surrounding-area day
 
-[Home](../README.md) · [Five-day plan](five-day-plan.md) · [Surrounding venues](areas/surroundings.md) · [Liverpool and Wirral](areas/liverpool.md)
+[Home](../README.md) · [Full ranking](rankings.md) · [Dated 9–14 Nov plan](five-day-plan.md) · [Surrounding venues](areas/surroundings.md) · [Liverpool and Wirral](areas/liverpool.md)
 
-The region has more worthwhile excursions than five days can hold. **Choose one main outing**, or replace a city day if a specialism matters enough. The time budgets below are editorial allowances for enjoying a cluster, including local travel; they are not scheduled train durations. Verify the actual route and return for your dates using the [logistics sources](logistics.md).
+The region has more worthwhile excursions than **four full beer days** can hold. **Choose one main outing**, or replace a city day if a specialism matters enough. The time budgets below are editorial allowances for enjoying a cluster, including local travel; they are not scheduled train durations. Verify the actual route and return for your dates using the [logistics sources](logistics.md).
+
+## 2026 discoveries that compete with Stockport
+
+The **[Fox & Pine in Oldham](venues/fox-and-pine-oldham.md)** is one of the strongest new competitors: ten cask handpumps, dark ales, a substantial real cider/perry selection and the local CAMRA branch’s 2026 Pub of the Year award. In **Rochdale**, [Our Gracie’s](venues/our-gracies-rochdale.md) adds a specialist cider/perry fridge to a visit built around [Baum](venues/baum-rochdale.md). **St Helens** has [Turks Head](venues/turks-head-st-helens.md) plus [Cricketers Arms](venues/cricketers-arms-st-helens.md), both with strong ale/cider evidence.
+
+On the north-coast route, **[The Coop](venues/coop-crosby.md)** and **[Corner Post](venues/corner-post-crosby.md)** in Crosby supplement Waterloo’s [Volunteer Canteen](venues/volunteer-canteen.md) and [Four Ashes](venues/four-ashes.md). In Horwich, **[B33R@33](venues/b33r-at-33-horwich.md)** (cider award) and **[Bank Top Brewery Ale House](venues/bank-top-ale-house-horwich.md)** (pub award) form a rewarding cask/cider pair. **[Broad Street Social](venues/broad-street-social-bury.md)** is worth adding to a Bury outing. **[The Grocers in Cadishead](venues/grocers-cadishead.md)** is a quiet no-bar ale-and-cider micropub, with transport and restrictive hours requiring extra care.
+
+**Flight-aware choice:** use **Wednesday 11 November** for the default Stockport day, or deliberately replace it with **one** of these alternative towns. Thursday 12 and Friday 13 are principally Liverpool days. See the **[ranked complete catalogue](rankings.md)**.
 
 ## The strongest alternatives
 

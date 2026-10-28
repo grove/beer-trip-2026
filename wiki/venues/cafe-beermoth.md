@@ -43,7 +43,7 @@ Cheese and meat plates and other bar snacks are documented; useful for a light f
 
 ## Plan the visit
 
-The public entrance is on Brown Street, despite some addresses saying Spring Gardens. Card only; check corkage/drink-in supplements before choosing large bottles.
+The public entrance is on Brown Street, despite some addresses saying Spring Gardens. Card only; check corkage/drink-in supplements before choosing large bottles. Central Manchester CAMRA Pub of the Year 2026.
 
 **Getting there:** Walk from Market Street tram stop; convenient for City Arms and the Cross Street chop houses.
 
@@ -54,5 +54,6 @@ Check [November transport issues](../logistics.md) for date-specific disruption.
 ## Sources and what they establish
 
 - [CAMRA: Cafe Beermoth](https://camra.org.uk/pubs/cafe-beermoth-manchester-137654) — camra; Cask offering, bottles, food, entrance and practical details. (`src-a66908afdd8d`).
+- [Central Manchester CAMRA: 2026 pub and cider winners](https://www.centralmanchester.camra.org.uk/viewnode.php?id=151519) — camra; Café Beermoth named 2026 Central Manchester Pub of the Year. (`src-efd66afb55b8`).
 
 Recommendations are editorial judgments from these sources; see [methodology](../methodology.md).

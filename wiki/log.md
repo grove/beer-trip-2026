@@ -2,6 +2,14 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — exact flights, 2026 awards, ranking and revised programme
+
+The travellers supplied flight confirmations: **DY1348 Mon 9 November OSL 16:45 → MAN 17:50** and **SK4608 Sat 14 November MAN 12:25 → OSL 15:25** (local times). This is five nights, **four full days**. Replaced the initial generic itinerary and logistics with local-time dated hour blocks, airport buffers, Wednesday Stockport visit, Thursday/Friday Liverpool, and a recommended Manchester final night to protect Saturday’s flight. Added festival filter, now identifying only November 12–13 as usable session days; confirmed published late-night rail engineering 9–12 November.
+
+**Expanded the curated catalogue from 144 to 158 venues**: 51 Manchester, 57 Liverpool/north coast/Wirral and 50 surrounding towns. Canonical data now links **269 distinct venue-source URLs with 277 evidence uses**; **77 venues** have documented real-cider evidence, including occasional supply. Fourteen researched new entries feature Fox & Pine, Our Gracie’s, The Coop, B33R@33, Bank Top Ale House, Broad Street Social, Fell Northern Quarter and other worthwhile local destinations, with award-year checks. Added **[rankings.md](rankings.md)** and the canonical [data/rankings.json](../data/rankings.json), with a reproducible generator and integrity check. The overall order is editorial, **not a firsthand pub-quality score**.
+
+Corrected Marble Arch's Tuesday closure and Monday food cutoff in the route; warned about the temporary closure of Sir Ralph Abercromby. Events before arrival/after departure are explicitly excluded. All checks are of desk-research records **as of 28 October**, not venue confirmation, live inventory or booked tickets.
+
 ## 2026-10-28 — initial November trip wiki
 
 Created a repository-native Markdown wiki for a five-day Manchester–Liverpool trip, prioritising cask/real ale, real cider/perry, memorable traditional pubs, spectacular interiors and useful food. Research covered the two city regions and selectively chosen surrounding towns in parallel, followed by cross-review of the recommendations and travel facts.

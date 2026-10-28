@@ -1,35 +1,30 @@
-# Wiki index
+# Beer-trip wiki index — actual 9–14 November 2026
+[Home](../README.md) · [LLM index](../llms.txt)
 
-[Home](../README.md) · [LLM entry point](../llms.txt)
+Two travellers, one Monday evening arrival, **four full days** Tue 10–Fri 13 and an airport morning Sat 14. The **[dated day plan](five-day-plan.md)** supersedes the old generic five-full-days template. The catalogue contains **158 worthwhile venues**, not 158 stops to squeeze into a trip.
 
-This wiki has three layers: **a curated decision layer**, **individual venue records**, and **dated evidence**. Follow a shortlist or route to choose where to go; use the venue page to check why it is included; use its sources to resolve live questions.
+## Choose your beer experience
 
-## Choose the experience
+- **[Overall relevance ranking — 1 to 158](rankings.md):** opinionated top 15, complete order and per-region rankings; combines cask quality evidence, cider/perry, spectacular rooms, traditional character and food.
+- **[Actual dated day-by-day routes](five-day-plan.md):** airport arrival, Tuesday Manchester, Wednesday Stockport, Thursday and Friday Liverpool, Saturday home.
+- [Shortlists](shortlists.md): cask, cider, interiors, food and brewery choices.
+- [Real cider guide](real-cider.md): evidence status and product qualification.
+- [Excursion choices](excursions.md): Stockport, Chester, Oldham, Rochdale, St Helens, Wirral and other towns.
+- [Festivals fitting 12–13 November](november-events.md): Wirral, Salford and FOAM; other November events marked outside your travel dates.
+- [Trip logistics](logistics.md): flight details, airport arrival/departure buffers, train engineering changes, hotel-base tradeoffs.
+- [Beer and pub culture](beer-and-pub-culture.md): cask/handpump distinctions, cellars, interiors and food.
 
-- [Shortlists](shortlists.md) — strongest matches for cask, cider/perry, interiors, food and brewing.
-- [Five-day plan](five-day-plan.md) — a realistic default and alternative blocks.
-- [Excursions](excursions.md) — Stockport, Chester, the Wirral, nearby towns and explicitly farther options.
-- [Real cider and perry](real-cider.md) — product-level definitions, evidence states and specialist trips.
-- [Beer and pub culture](beer-and-pub-culture.md) — why the programme, cellar and room matter together.
-- [November events](november-events.md) — advertised 2026 festival dates and qualifications.
-- [Logistics](logistics.md) — transport, accommodation-base logic and published November rail changes.
+## Browse the longlist
 
-## Browse every selected venue
-
-| Directory | Coverage |
+| Directory | Scope |
 | --- | --- |
-| [Manchester](areas/manchester.md) | Manchester centre, Salford, southern/western suburbs, Eccles and Patricroft. |
-| [Liverpool](areas/liverpool.md) | Central and outer Liverpool, Waterloo/Maghull/Formby/Southport, Birkenhead and the other Wirral clusters. |
-| [Surroundings](areas/surroundings.md) | Stockport, Altrincham/Dunham, Rochdale, Wigan, Bolton/Horwich/Rivington, Bury/Ramsbottom, Macclesfield/Bollington, Chester, St Helens, Newton-le-Willows, Warrington, New Mills and selected further eastern excursions. |
-| [Alphabetical catalogue](catalogue.md) | Every venue with priority and cider-evidence status. |
+| [Manchester / Salford](areas/manchester.md) | Northern Quarter, centre, Piccadilly, Salford, Chorlton, Eccles, Didsbury and others. |
+| [Liverpool / Wirral / north coast](areas/liverpool.md) | Central Liverpool, waterfront, Crosby/Waterloo, Southport, Birkenhead, Hoylake, West Kirby, Heswall and other outlying candidates. |
+| [Surrounding towns](areas/surroundings.md) | Stockport, Chester, Oldham, Rochdale, St Helens, Wigan, Stalybridge, Bury, Bolton/Horwich, Macclesfield and extended specialist excursions. |
+| [Alphabetical catalogue](catalogue.md) | All **158 individual venue pages**, each with beer, cider, food, transport, address and sources. |
 
-## Assess or update the evidence
+## Evidence and upkeep
 
-- [Methodology](methodology.md) — inclusion criteria, source hierarchy, priority labels and limitations.
-- [Changes and exclusions](changes-and-exclusions.md) — closed venues, reopenings, renamed/moved venues and unresolved conflicts.
-- [Source register](sources.md) — source URLs linked back to venue pages.
-- [Research log](log.md) — what was added and what remains date-dependent.
-- [Structured data](../data/README.md) — canonical records, provenance, events and rebuild instructions.
-- [Maintainer instructions](../AGENTS.md) — expectations for future LLM and human contributions.
+[Methodology](methodology.md), [source register](sources.md), [changes and exclusions](changes-and-exclusions.md), [research log](log.md), [canonical venue data](../data/venues.json), [ranking data](../data/rankings.json), [event data](../data/events.json), [data guide](../data/README.md), and [maintainer instructions](../AGENTS.md).
 
-**Research cutoff: 28 October 2026.** Citation and venue-check dates are desk-research dates. Recheck the actual opening, kitchen, cider products and transport for the five dates chosen.
+**Research cutoff: 28 October 2026.** This is researched planning evidence, not a live-stock report. Open the operator/CAMRA source again for the exact visit and ask the venue which cider producer and product is on. No tickets, rooms, travel or meals have been booked.

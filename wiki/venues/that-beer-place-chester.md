@@ -33,7 +33,7 @@ Official site describes a broad draught and bottle range including dark and sour
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA National Cider/Perry Pub of the Year 2024 and West Cheshire winner 2026; extensive real-cider/perry bottle range plus changing draught.
+**Real cider documented; reconfirm stock.** CAMRA National Cider/Perry Pub of the Year 2024 and West Cheshire winner 2026; extensive real-cider/perry bottle range plus changing draught. Also a 2026 national finalist (overall winner elsewhere).
 
 See [how cider is classified](../real-cider.md).
 
@@ -56,5 +56,6 @@ Check [November transport issues](../logistics.md) for date-specific disruption.
 - [That Beer Place official site](https://thatbeerplace.co.uk/) — official; Draught/bottle offer, beer styles, flights and specialist focus. (`src-dbeffd31d327`).
 - [CAMRA: That Beer Place](https://camra.org.uk/pubs/that-beer-place-chester-136994) — camra; Current address, cask introduction, real cider and move from old market location. (`src-1b26f95d14fd`).
 - [West Cheshire CAMRA: branch awards 2026](https://westcheshire.camra.org.uk/viewnode.php?id=64705) — camra; 2026 cider award and documented scale of real-cider/perry selection. (`src-9e01dab4c089`).
+- [CAMRA: National cider/pub finalists 2026](https://camra.org.uk/media-centre/press-releases/eye-conic-micropub-newcomer-wins-camra-national-cider-and-perry-pub-of-the-year-2026-93856) — camra; That Beer Place is a 2026 national cider/perry finalist, not the overall winner. (`src-4f3be7a9dac5`).
 
 Recommendations are editorial judgments from these sources; see [methodology](../methodology.md).

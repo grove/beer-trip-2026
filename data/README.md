@@ -6,9 +6,10 @@
 
 | File | Role |
 | --- | --- |
+| [rankings.json](rankings.json) | Ordered unique venue IDs, trip dates, editorial methodology; generates `wiki/rankings.md` with `scripts/build_rankings.py`. |
 | [venues.json](venues.json) | Canonical venue records. Object containing `schema_version`, `research_date`, `travel_month`, `scope` and a `venues` array. |
 | [sources.json](sources.json) | Generated, deduplicated venue sources with stable URL-derived IDs and a list of venue claims supported. |
-| [events.json](events.json) | Separately maintained event dates, suitability, booking/programme qualifications and evidence. Times, when given in prose, are UK local time. |
+| [events.json](events.json) | Event dates, sources, `usable_local_dates` for flight-feasible sessions and `trip_status` indicating before/after/overlap. Times in prose are UK local. |
 
 ## Venue record
 
@@ -58,8 +59,10 @@ From the repository root, with Python 3.9 or newer and no third-party packages:
 
 ```bash
 python3 scripts/build_wiki.py
+python3 scripts/build_rankings.py
 python3 scripts/build_wiki.py --check
+python3 scripts/build_rankings.py --check
 python3 scripts/validate_wiki.py
 ```
 
-The generator emits the venue pages, three area directories, alphabetical catalogue, source register and `llms.txt`. The validator checks required data and enum values, unique IDs, evidence URL structure, event date bounds, local file links, source-use coverage and generated-page agreement. It does not network-check websites or certify the truth of a recommendation. Static planning essays should be reviewed whenever a linked venue or event changes.
+The generators emit the ranked guide and venue pages, three area directories, alphabetical catalogue, source register and `llms.txt`. The validator checks required data and enum values, unique IDs, evidence URL structure, event date bounds, local file links, source-use coverage and generated-page agreement. It does not network-check websites or certify the truth of a recommendation. Static planning essays should be reviewed whenever a linked venue or event changes.

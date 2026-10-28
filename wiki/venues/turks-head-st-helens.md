@@ -43,7 +43,7 @@ CAMRA documents homemade meals daily and an additional neighbouring grill arrang
 
 ## Plan the visit
 
-Card/electronic payments only. Check actual tasting dates and which room suits quiet conversation; sport is shown in the bar area.
+Card/electronic payments only. Check actual tasting dates and which room suits quiet conversation; sport is shown in the bar area. Selected among CAMRA’s final four national Pub of the Year contenders for 2026 (winner announced in 2027).
 
 **Getting there:** A walk or local connection from St Helens Central; combine with the Cricketers Arms as a separate excursion.
 

@@ -1,84 +1,109 @@
-# A five-day plan with room to enjoy the pubs
+# Your dated five-night Manchester–Liverpool beer hunt
+[Home](../README.md) · [Overall ranking](rankings.md) · [Venue catalogue](catalogue.md) · [November festivals](november-events.md) · [Travel](logistics.md)
 
-[Home](../README.md) · [Shortlists](shortlists.md) · [Excursion alternatives](excursions.md) · [November events](november-events.md)
+**Confirmed flights:** Monday **9 November 2026**, DY1348, Oslo Gardermoen **16:45** → Manchester Airport **17:50 UK time**; Saturday **14 November 2026**, SK4608, Manchester Airport **12:25 UK time** → Oslo Gardermoen **15:25 Norwegian time**. Thus **five nights, four full sightseeing days (Tuesday 10–Friday 13), one arrival evening, and no usable Saturday pub day**. All the times below are **UK local time**, one hour behind Oslo in November. Flight times are from your supplied screenshots, not live airline-status information.
 
-**Default allocation: two Manchester days, one Stockport excursion, two Liverpool days.** This prioritises the best combined cask/cider/pub experiences without spending every day on trains. It assumes five usable days and four nights: two nights in Manchester, then two in Liverpool. If arrival or departure takes most of a day, use the cuts below.
+This is a **high-yield set of time windows** for two experienced drinkers, not a minute-perfect pub reservation or an instruction to order a full pint at every stop. Opening hours are based on researched late-October operator/CAMRA listings; the exact November session, kitchen and beer/cider stock **must be checked**. Allow 45–90 minutes per good pub, use halves/thirds when offered, and keep food and travel buffers. **Four substantial pubs in one afternoon is already a very good day.**
 
-These are geographical and thematic blocks, **not a timetable**. Assign them to actual dates only after checking pub and kitchen openings. In particular, do not make Marble Arch a Tuesday anchor without resolving the conflicting sources. Small measures, shared bottles where appropriate, a meal and the option to stay longer make a better beer trip than a compulsory pint at every name.
+## Most practical hotel strategy
 
-## At a glance
+**Option A — preferred for the return flight:** Manchester **Mon 9–Wed 11 (three nights)**; Liverpool **Thu 12 (one night)**; Manchester **Fri 13 (one night)**. This provides a luggage-free Stockport day, the Thursday festival option and most of Friday in Liverpool, and puts you near the airport rail corridor for a sensible Saturday morning departure. It does involve two hotel changes; book flexible luggage storage/late checkout if helpful. These are suggestions only—no rooms have been researched or booked.
 
-| Day | Main block | Three or four anchors | Where to eat |
+**Option B — fewer moves:** Manchester **Mon–Tue (two nights)**, Liverpool **Wed–Fri (three nights)**, but take the **first practical early train from Liverpool to Manchester Airport on Saturday 14**, preferably direct and allowing a generous buffer. With a 12:25 international departure, aim to be **at the terminal around 10:00–10:15** at the latest, earlier if bags require check-in. A Liverpool last night offers more city evening time but increases Saturday transport risk. If choosing this, move the Stockport block to Tuesday and replace Manchester’s historic walk with an evening pub selection; or plan Stockport on Wednesday and arrange luggage storage.
+
+For a **single-base alternative**, stay near Manchester Piccadilly and do Liverpool as one long day trip on Thursday or Friday, giving up a Liverpool late evening. The 9–12 November Manchester–Liverpool late-night rail changes make a last-train dependency unattractive. See [logistics](logistics.md).
+
+## Dated plan at a glance
+
+| Local date | Focus | High-priority targets | Food / critical constraint |
 | --- | --- | --- | --- |
-| 1 | Manchester's northern centre | Marble Arch, Smithfield Market Tavern, Crown & Kettle | Marble Arch if the kitchen is serving; reserve if needed. |
-| 2 | Manchester's traditional centre | Mr Thomas’s Chop House, City Arms, Peveril of the Peak, Britons Protection | Mr Thomas’s; Sam’s is a nearby alternative. |
-| 3 | Stockport, then move to Liverpool | Arden Arms, Swan with Two Necks, Petersgate Tap; Magnet if time/opening align | Arden Arms lunch; check its narrower kitchen window. |
-| 4 | Liverpool's northern centre and station district | Ship & Mitre, Lion Tavern, one of Vernon Arms/Denbigh Castle, The Vines | Ship & Mitre, with kitchen service confirmed. |
-| 5 | Liverpool's Georgian and Ropewalks pubs | Roscoe Head, Philharmonic, Peter Kavanagh’s; one further nearby choice | Pen Factory or Philharmonic if a meal fits before departure. |
+| **Mon 9 Nov** | Fly in, Manchester north | [Marble Arch](venues/marble-arch.md) if arrival transfer permits | Airline arrival 17:50; **Marble’s Monday kitchen last orders 20:00**, bar last orders 22:00, so dinner there is **not guaranteed** |
+| **Tue 10 Nov** | Manchester: cask and historic rooms | [City Arms](venues/city-arms.md), [Mr Thomas’s](venues/mr-thomass-chop-house.md), [Peveril](venues/peveril-of-the-peak.md), [Britons Protection](venues/britons-protection.md), [Gas Lamp](venues/gas-lamp.md) | Proper lunch at the chop house; **Marble Arch closed Tuesday** |
+| **Wed 11 Nov** | **Stockport**: cask, cider and surviving rooms | [Arden Arms](venues/arden-arms-stockport.md), [Swan with Two Necks](venues/swan-with-two-necks-stockport.md), [Petersgate Tap](venues/petersgate-tap-stockport.md), [Magnet](venues/magnet-stockport.md) | Arden **Wednesday food 12:00–14:30**; Magnet **opens about 16:00**. Return to Manchester to sleep |
+| **Thu 12 Nov** | Train to Liverpool; Dale Street/heritage | [The Vines](venues/vines.md), [Lion Tavern](venues/lion-tavern.md), [Ship & Mitre](venues/ship-and-mitre.md) | Choose the **Wirral festival Thursday 17:00–23:00** instead of further Liverpool pubs |
+| **Fri 13 Nov** | Liverpool: Georgian Quarter/Ropewalks | [Roscoe Head](venues/roscoe-head.md), [Philharmonic](venues/philharmonic-dining-rooms.md), [Peter Kavanagh’s](venues/peter-kavanaghs.md) | Optionally replace city walk with the **Wirral festival’s quiet session 10:00–16:00**; reach Manchester Friday evening if using Option A |
+| **Sat 14 Nov** | Manchester airport / home | **No pub crawl** | MAN departure **12:25**; allow check-in, security, platform-to-terminal walk and delays |
 
-The tables below link every stop to its evidence and address. Optional pubs are substitutions or bonuses if the day stays relaxed; they are not another compulsory circuit.
+## Monday 9 November — first pint after the flight
 
-## Day 1 — cask, cider and northern Manchester rooms
-
-Build the day around **[Marble Arch](venues/marble-arch.md), [Smithfield Market Tavern](venues/smithfield-market-tavern.md) and [Crown & Kettle](venues/crown-and-kettle.md)**. Their combination of cask, documented cider and different pub settings makes a better introduction than spending the whole first day at production-site taprooms.
-
-Arrange the order around the meal booking and opening times; Marble Arch sits on the northern edge of this cluster. Spend time on its tiling and room, and on Crown & Kettle's ceiling. At Smithfield, allow time to compare what is actually pouring. Cider here is part of the same day rather than a separate long journey.
-
-If you want one extra stop, choose **[Castle Hotel](venues/castle-hotel.md)** for traditional decorative detail or **[Port Street Beer House](venues/port-street-beer-house.md)** for beer breadth. [Bar Fringe](venues/bar-fringe.md) adds a continental-beer angle. Choose one according to the mood rather than treating all three as required.
-
-**If it is Tuesday:** move the whole northern block to another day or replace the Marble meal with a confirmed alternative; do not assume CAMRA's Tuesday hours override the operator's closure notice.
-
-## Day 2 — the traditional centre, with a Salford alternative
-
-The default is a meal at **[Mr Thomas’s Chop House](venues/mr-thomass-chop-house.md)**, followed by a selective circuit of **[City Arms](venues/city-arms.md), [Peveril of the Peak](venues/peveril-of-the-peak.md) and [Britons Protection](venues/britons-protection.md)**. This provides four distinct settings rather than four variations on a craft bar. Reverse the order if the meal is dinner.
-
-If the tiny-pub experience particularly appeals, swap one stop for **[Circus Tavern](venues/circus-tavern.md)** or **[Grey Horse](venues/grey-horse-manchester.md)**. If you want a cider emphasis, **[Gas Lamp](venues/gas-lamp.md)** is the strong western-centre substitution. It is a basement venue; read the access notes.
-
-### Salford version
-
-For more cask range and less central heritage, replace the default day with **Gas Lamp → [New Oxford](venues/new-oxford.md) → one of [Kings Arms](venues/kings-arms-salford.md) or [Eagle Inn](venues/eagle-inn-salford.md)**. Add a planned meal at **[Black Friar](venues/black-friar-salford.md)** if its menu appeals. New Oxford is the cask anchor; its current cider selection is not established. This is an alternative whole block, not an extra four pubs after the default route.
-
-### Brewery version
-
-For a producer-led afternoon, replace part of the default day with **[Balance](venues/balance-brewing-blending.md)** plus one of **[Track](venues/track-brewery-tap.md)** or **[Cloudwater](venues/cloudwater-unit-9.md)**. Balance adds wild fermentation and cider rather than a dependable cask range. These taprooms have day restrictions and source discrepancies; check current hours. A tour needs a confirmed booking and is separate from ordinary taproom access.
-
-## Day 3 — Stockport earns the excursion slot
-
-Use **[Arden Arms](venues/arden-arms-stockport.md)** as the lunch/heritage anchor, **[Swan with Two Necks](venues/swan-with-two-necks-stockport.md)** for another remarkable traditional interior, and **[Petersgate Tap](venues/petersgate-tap-stockport.md)** for the day's strongest cider/perry stop. The contrast is the point: brewery-house tradition and small rooms, then a specialist bar where you can ask about cider producers and dark cask.
-
-**[Magnet](venues/magnet-stockport.md)** is the beer-first addition or substitution on the northern side of the town centre. It may open later on weekdays, so do not place it automatically at lunchtime. **[Crown Inn](venues/crown-inn-stockport.md)** is a viaduct-side alternative; **[Runaway](venues/runaway-brewery-tap-stockport.md)** adds a brewery/pizza option on a confirmed opening day. Heaton Hops, Blossoms and Olde Vic are worthwhile but lie in different directions; save them for a more focused Stockport day.
-
-Leave luggage with your Manchester accommodation if it offers storage, or arrange a suitable alternative before the outing. Plan the return to collect it and the onward Manchester–Liverpool train as separate legs. Do not assume every Stockport–Liverpool itinerary is direct. Check in to Liverpool that evening; no additional pub is required for this day to succeed.
-
-**If changing hotels this way is awkward:** transfer to Liverpool earlier and drop the Stockport outing. Reuse the freed time for the waterfront/Baltic block below, or use Chester as the one excursion instead.
-
-## Day 4 — Dale Street, the Lion and a grand station-side room
-
-Give **[Ship & Mitre](venues/ship-and-mitre.md)** time for both cask and cider, and consider a scouse meal if its kitchen is confirmed. Pair it with **[Lion Tavern](venues/lion-tavern.md)** for a different style of traditional room. Choose **[Vernon Arms](venues/vernon-arms.md)** or **[Denbigh Castle](venues/denbigh-castle.md)** as the next beer stop rather than automatically doing both.
-
-Make **[The Vines](venues/vines.md)** the grand-interior anchor towards the station district, before or after the Dale Street group depending on where you are staying. Its cask return is a reason not to rely on older guides. If you are already by Lime Street, [Crown Hotel](venues/crown-hotel-liverpool.md) or [Liverpool Brewing Company Tap](venues/liverpool-brewing-company-tap.md) can replace a stop; they are not mandatory additions.
-
-**Waterfront alternative:** substitute a separate block built around **[Baltic Fleet](venues/baltic-fleet.md)** and a confirmed opening at **[Black Lodge](venues/black-lodge-liverpool.md)**. The former provides the maritime pub setting; the latter is the brewery option. [Azvex](venues/azvex-taproom.md) is north of this area, so treat it as a deliberate separate choice rather than pretending all docks venues sit together.
-
-For a Ropewalks-to-waterfront version, select **[St Peter’s Tavern](venues/st-peters-tavern.md) → [Bridewell](venues/bridewell.md) or [Monro](venues/monro.md) → Baltic Fleet**. This replaces the Dale Street block and gives particular weight to distinctive conversions and pub rooms.
-
-## Day 5 — small rooms and spectacular Liverpool
-
-Anchor the day with **[Roscoe Head](venues/roscoe-head.md), [Philharmonic Dining Rooms](venues/philharmonic-dining-rooms.md) and [Peter Kavanagh’s](venues/peter-kavanaghs.md)**. This is the clearest sequence of different pub experiences in Liverpool: a small cask local, grand decorative rooms and an unusually individual historic interior. Peter Kavanagh's is the southern extension; do it earlier if you have a fixed departure time.
-
-Choose a fourth stop by interest: **[Grapes on Roscoe Street](venues/grapes-roscoe-street.md)** for cask and cider evidence, **[Belvedere](venues/belvedere.md)** or **[Ye Cracke](venues/ye-cracke.md)** for Georgian-quarter atmosphere, or **[Bridewell](venues/bridewell.md)** for the former-cell setting. The Bridewell is on the Ropewalks side rather than directly between Philharmonic and Peter Kavanagh's; use a map and allow the extra walking.
-
-For a real meal, **[Pen Factory](venues/pen-factory.md)** can replace one drinking stop and give the day a comfortable centre. Confirm its kitchen hours. If departure is early, keep Roscoe Head plus Philharmonic, and move Peter Kavanagh's into day 4 or leave it for another visit.
-
-## How to change the balance
-
-| What matters most | Change to make |
+| Approximate UK time | Suggested action |
 | --- | --- |
-| Real cider has equal weight with ale | Keep Petersgate Tap; consider Chester/That Beer Place instead of one Manchester day or Stockport. If weekends and transport align, Dunham Apple Barn is the producer alternative. |
-| Traditional and spectacular rooms | Keep the default plan. Prioritise the actual rooms over adding brewery taps. |
-| Mixed fermentation and modern brewing | Put Balance into day 2; choose Track or Cloudwater as its companion. Keep a few traditional anchors so the trip still feels particular to these cities. |
-| A festival matches the dates | Replace an excursion or city block with a confirmed session from the [events page](november-events.md). Do not promise a sold-out Salford session. |
-| Arrival/departure reduce the five days | Drop the optional excursion first; retain a northern-Manchester block and both major Liverpool pub clusters. |
-| You want only one accommodation base | Keep the same clusters, but plan the return train before each out-of-city day and shorten the final block. |
+| 17:50 | **Arrive Manchester Airport** on DY1348. Allow for passport control, baggage and walking to the railway station; this is the scheduled arrival time, not a city-centre check-in time. |
+| 18:30–19:30+ | Train to Manchester Piccadilly or alternative suitable airport transfer. The airport says the train journey to Piccadilly is around 20 minutes plus **5–15 minutes terminal–station walk**, but actual arrival at the hotel depends on the flight, queues and train. |
+| **19:30–20:45** (only if practical) | **[Marble Arch](venues/marble-arch.md)** for Marble cask, cider, Victorian tiling and a memorable first pint. The operator’s Monday **last food order 20:00** may be impossible after landing; do **not** reserve a tight meal slot that could be lost to airport delays. |
+| After that | A proper meal near the accommodation if you missed the pub kitchen; optionally one **nearby** northern pub *only if still serving*. Do not chase multiple pubs after a late arrival. |
 
-No itinerary can guarantee opening, beer condition, food service or railway reliability. The useful final step is to assign these blocks to your actual dates and check the three or four anchors for each day. The [logistics page](logistics.md) records the November-specific issues already found.
+**Marble fallback:** If flight/transfer delays mean you miss the pub entirely, protect **Wednesday around noon** for Marble before travelling to Stockport, and give up the Arden Arms lunch in favour of its beer/interior. The historic room is worth prioritising. The pub’s official page lists **Tuesday closed** even though some guide hours conflict. [Operator hours](https://marblebeers.com/the-marble-arch/).
+
+## Tuesday 10 November — traditional Manchester without too much backtracking
+
+| Time window | Anchor / route | Why spend the time |
+| --- | --- | --- |
+| 11:45–13:15 | **[Mr Thomas’s Chop House](venues/mr-thomass-chop-house.md)** — early lunch, reserve a table; **[City Arms](venues/city-arms.md)** is nearby if you prefer a cask-first start and lighter lunch | Tiled British chop-house grandeur with food; separate serious cask stop close to the Town Hall |
+| 13:30–14:30 | **City Arms**, if not already visited | Eight-handpump scale and traditional small rooms; ask for mild/dark ale |
+| 14:45–15:45 | **[Peveril of the Peak](venues/peveril-of-the-peak.md)** | Famous green-tiled wedge and proper historic pub rooms |
+| 15:45–16:45 | **[Britons Protection](venues/britons-protection.md)** | Surviving tiled passage, hatches and rooms; cask rather than a generic bar |
+| 17:00–18:00 | **[Gas Lamp](venues/gas-lamp.md)** | Best cider alternative on this route, including a documented Little Pomona line |
+| Evening (choose **one**) | **[Café Beermoth](venues/cafe-beermoth.md)** for 2026 award-winning cask/bottles **or [Fell Northern Quarter](venues/fell-northern-quarter.md)** for Fell cask/real cider; possible **Tuesday Irish-music session at Peveril**, subject to confirmation | Adds a different beer style or a traditional live-music experience without making both compulsory |
+
+**Cuts/alternatives:** If you want a slower food-led day, stop after four venues. [Circus Tavern](venues/circus-tavern.md) and [Grey Horse](venues/grey-horse-manchester.md) make a tiny-pub duo; **swap** them for the evening section, do not add them as a second complete crawl. **Do not route to Marble Arch on Tuesday.** Tuesday may also be used for **Oldham’s [Fox & Pine](venues/fox-and-pine-oldham.md)**, one of the best ale/cider destinations in the entire catalogue, but that replaces a meaningful Manchester block.
+
+## Wednesday 11 November — the Stockport day (default priority excursion)
+
+All times approximate, assuming an ordinary Manchester–Stockport train, no engineering change and the researched opening patterns. **The centre is relatively compact, but the Magnet is farther north and Runaway sits by the bus interchange.**
+
+| Time window | Anchor | Reason / practical detail |
+| --- | --- | --- |
+| 11:15–12:00 | Travel to Stockport, walk into old town | Arrive in time for a genuine lunch at Arden rather than relying on evening food |
+| **12:00–13:30** | **[Arden Arms](venues/arden-arms-stockport.md)**, lunch | Three-star historic interior, Robinsons cask, curved bar, snug (ask staff to see it). **Wednesday kitchen 12:00–14:30** per CAMRA |
+| 13:35–14:25 | **[Swan with Two Necks](venues/swan-with-two-necks-stockport.md)** | Another outstanding surviving room, Robinsons beer and possible winter Old Tom (not promised) |
+| **14:30–15:50** | **[Petersgate Tap](venues/petersgate-tap-stockport.md)** | Highest-priority cider/perry destination in Stockport: ask to see the **cellar, fridge and bottle list**, not just taps |
+| 16:10–17:30 | **[Magnet](venues/magnet-stockport.md)** | Changing cask breadth and traditional freehouse rooms; **Wednesday opens 16:00**, **no Wednesday pizza** in current CAMRA food hours |
+| 17:45 onward | Optional **[Crown Inn](venues/crown-inn-stockport.md)** (viaduct) **or [Runaway](venues/runaway-brewery-tap-stockport.md)** only if confirmed open | Runaway’s published normal taproom pattern is Thursday–Sunday, so **do not assume Wednesday opening**. Return to Manchester in time for a meal and rest |
+
+**Marble-if-missed option:** Start at Marble Arch **12:00–12:50**, travel to Stockport for **approximately 14:00–14:30**, then **Arden for the room and ale (not a guaranteed lunch)** → Swan → Petersgate → Magnet (from 16:00). Do not cram in Runaway. **Excursion alternatives:** replace Stockport with **Oldham/Fox & Pine** (ten casks plus real cider/perry), **Stalybridge Buffet Bar**, or **Rochdale’s Baum + Our Gracie’s**. Chester is a bigger out-of-the-way alternative for **That Beer Place**, not a stop to add after Stockport. See [excursions](excursions.md).
+
+## Thursday 12 November — arrive Liverpool, discover Dale Street
+
+**Travel in the morning** from Manchester to Liverpool Lime Street, aiming to arrive before midday, then store bags at the Liverpool hotel or a prearranged locker. Do not guess which Manchester station your specific train leaves from. This evening is one of the festival opportunities.
+
+| Time window | Liverpool route | What to experience |
+| --- | --- | --- |
+| 11:00–12:00 | **[The Vines](venues/vines.md)** near Lime Street; [Crown Hotel](venues/crown-hotel-liverpool.md) is a nearby substitute | Spectacular historic rooms with cask now documented |
+| 12:15–13:15 | **[Lion Tavern](venues/lion-tavern.md)** near Moorfields | Remarkable original multi-room interior, cask and qualifying cider evidence |
+| **13:20–15:00** | **[Ship & Mitre](venues/ship-and-mitre.md)**, lunch if kitchen confirmed | Strong Liverpool beer/cider range; scouse or blind scouse a worthwhile meal |
+| 15:10–16:10 | **[Vernon Arms](venues/vernon-arms.md)** *or* **[Denbigh Castle](venues/denbigh-castle.md)** | Independent traditional beer stop; keep flexibility for the day’s board |
+| After 16:30 | A fifth central pub **only if not attending a festival** | [Queen’s Arms](venues/queens-arms-liverpool.md) (spectacular new banking-hall conversion) or [Dead Crafty](venues/dead-crafty-beer-company.md) for modern beer, not both |
+
+### Major festival alternative: Ship & Mitre / Wirral, Thursday evening
+
+The **[22nd Wirral Beer Festival](https://theshipandmitre.uk/event/ship-mitre-22nd-wirral-beer-festival/)** runs at **Hulme Hall, 23 Bolton Road, Bebington**, **Thursday 12, 17:00–23:00**. It advertises roughly **80 real ales, extensive craft/world beer, cider and perry**, plus food. It is **not at the Dale Street pub**. Take the Wirral train/appropriate route and allow for the walk/return rather than relying on the last connection. **Replace the final central stops with the festival**—it merits a full evening. Tickets/session availability and qualifying cider products need checking; none were purchased.
+
+**Another festival alternative:** The **Independent Salford Beer Festival** starts Thursday 12 at Hemsley House, with cask, keg, cider and perry; attending means reversing city order or staying in Manchester Thursday rather than doing the Liverpool programme. The organiser previously reported several Friday/Saturday sessions sold out. See [event choices](november-events.md).
+
+## Friday 13 November — Liverpool’s great interiors, then Manchester
+
+Plan the return to **Manchester Friday evening** under Option A. This protects your Saturday flight and allows a final reasonable Manchester meal or early night. Do not make an unverified last train your only fallback.
+
+| Time window | Venue | Why |
+| --- | --- | --- |
+| 11:30–12:40 | **[Roscoe Head](venues/roscoe-head.md)** | Six advertised cask ales, small rooms, conversation; Friday opening 11:30 in CAMRA |
+| 12:50–14:20 | **[Philharmonic Dining Rooms](venues/philharmonic-dining-rooms.md)**, perhaps lunch | Liverpool’s grandest historic interior; enjoy several rooms, not merely a quick photograph |
+| 14:30–15:25 | **[Peter Kavanagh’s](venues/peter-kavanaghs.md)** | Unusual murals, fittings and distinctive snug arrangements; walk south from Hope Street |
+| 15:40–16:35 | **[Ye Cracke](venues/ye-cracke.md)** *or* **[Belvedere](venues/belvedere.md)** | A much more intimate traditional Georgian Quarter pub |
+| 16:45–17:45 | **[Bridewell](venues/bridewell.md)** *or* **[St Peter’s Tavern](venues/st-peters-tavern.md)**, depending on walking/time | Former police cells versus an award-winning church conversion with cask; alternatives, not required extra stops |
+| Early evening | Meal if still in Liverpool, collect luggage, train to Manchester | **Aiming to leave Liverpool around 18:30–20:00** is an editorial target, **not a quoted rail departure or arrival**. Check actual services. Final night in Manchester |
+
+**Alternative: Friday 13, 10:00–16:00** is the **[Wirral festival’s quiet “Feet Up Friday” session](https://theshipandmitre.uk/event/ship-mitre-22nd-wirral-beer-festival/)** (no planned entertainment), especially suitable for two serious tasters. **This replaces most of the central Liverpool Friday route.** A modern-beer alternative is [FOAM at Stalybridge Civic Hall](https://www.foambeerfestival.com/) on 13–14 November; cask and real-cider depth were not established and it requires an eastern diversion.
+
+## Saturday 14 November — protect the flight
+
+Your **SK4608 leaves MAN at 12:25 UK time**. The airport advises being checked in and prepared for security **at least two hours before the flight**; a sensible arrival target is **about 10:00–10:15**, earlier if checking bags, with a possible terminal/airline-specific buffer. Leave central Manchester **around 09:00 or earlier**, depending on your exact hotel, platform and verified morning train; this is a **planning target, not a reservation or timetable promise**. The airport rail station involves an additional **5–15-minute walk** to the terminals. [Manchester Airport train guidance](https://www.manchesterairport.co.uk/getting-to-and-from/by-train/) · [Check-in advice](https://www.manchesterairport.co.uk/help/checking-in/).
+
+## Your optimal choices are not all simultaneously possible
+
+**Core visits I would protect:** Marble Arch, City Arms, Peveril, Britons Protection, Crown & Kettle or Smithfield (Manchester); Arden, Swan and Petersgate (Stockport); Ship & Mitre, Lion, Roscoe Head, Philharmonic, Peter Kavanagh’s and Vines (Liverpool). There are more quality candidates than time; the [ranked 158-venue guide](rankings.md) is for substitutions and future visits.
+
+**If top-end cider trumps variety:** replace Stockport with **Oldham (Fox & Pine)**, **Chester (That Beer Place)** or **St Helens (Turks Head + Cricketers)** rather than pretending all fit. Stockport has the best *combination* of cask, historic rooms and cider for a manageable excursion. Friday afternoon festival attendance replaces an entire block. Food service is a distinct check from bar opening.
+
+**Pre-trip checkpoints:** confirm accommodation/check-in and luggage arrangements; book **one or two meaningful meals** (Mr Thomas’s, Arden Arms or Ship & Mitre); check Marble Monday food cutoff, all event/session tickets, actual UK rail services and the cider makers on each serious cider stop. No bookings or tickets have been made.

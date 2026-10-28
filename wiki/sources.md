@@ -4,31 +4,38 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Catalogue](catalogue.md)
 
-**249 distinct venue-source URLs.** Checked 2026-10-28; source publication and update dates may be older. The source's precise support is recorded on each venue page and in [data/sources.json](../data/sources.json). General definitions, transport and event sources are cited separately on their relevant planning pages.
+**269 distinct venue-source URLs.** Checked 2026-10-28; source publication and update dates may be older. The source's precise support is recorded on each venue page and in [data/sources.json](../data/sources.json). General definitions, transport and event sources are cited separately on their relevant planning pages.
 
 | Source ID | Source | Type | Used for |
 | --- | --- | --- | --- |
+| `src-71ee95325740` | [Bolton CAMRA: 2026 awards](https://bolton.camra.org.uk/bolton-pubs/pubs-of-the-year-2026/) | camra | [Bank Top Brewery Ale House](venues/bank-top-ale-house-horwich.md), [B33R@33](venues/b33r-at-33-horwich.md) |
 | `src-0c269aca6f9c` | [Bolton CAMRA: cider and perry outlets](https://bolton.camra.org.uk/cider-perry/) | camra | [Blackedge Brewery Bar](venues/blackedge-brewery-bar-horwich.md) |
 | `src-7bfd30b2e082` | [CAMRA 2026 St Peter’s Tavern design award](https://camra.org.uk/media-centre/press-releases/liverpools-picture-perfect-pub-named-one-of-uks-most-attractive-93836) | camra | [St Peter’s Tavern](venues/st-peters-tavern.md) |
+| `src-d29e84c32016` | [CAMRA: 2026 national pub finalists](https://camra.org.uk/awards/pub-of-the-year) | camra | [Northumberland Arms](venues/northumberland-arms-marple-bridge.md) |
 | `src-83ec0a363dc0` | [CAMRA: Albion](https://camra.org.uk/pubs/albion-chester-137073) | camra | [Albion](venues/albion-chester.md) |
 | `src-b0e81fb63076` | [CAMRA: Angel, Manchester](https://camra.org.uk/pubs/angel-manchester-137389) | camra | [Angel](venues/angel-manchester.md) |
 | `src-6b25adb45ded` | [CAMRA: Arden Arms](https://camra.org.uk/pubs/arden-arms-stockport-167276) | camra | [Arden Arms](venues/arden-arms-stockport.md) |
 | `src-a836330a3f65` | [CAMRA: Augustus John — pub guide and interior record](https://camra.org.uk/pubs/augustus-john-liverpool-166520) | camra | [Augustus John](venues/augustus-john.md) |
 | `src-ea89c54ece37` | [CAMRA: Azvex Brewery & Taproom — pub guide and interior record](https://camra.org.uk/pubs/azvex-brewery-taproom-liverpool-195914) | camra | [Azvex Brewery & Taproom](venues/azvex-taproom.md) |
+| `src-6ffbfbcc7148` | [CAMRA: B33R@33](https://camra.org.uk/pubs/b33r-at-33-horwich-195547) | camra | [B33R@33](venues/b33r-at-33-horwich.md) |
 | `src-94d9e70471c1` | [CAMRA: Balance taproom](https://camra.org.uk/pubs/balance-brewing-blending-taproom-manchester-197178) | camra | [Balance Brewing & Blending](venues/balance-brewing-blending.md) |
 | `src-b359d0e1e89b` | [CAMRA: Baltic Fleet — pub guide and interior record](https://camra.org.uk/pubs/baltic-fleet-liverpool-165741) | camra | [Baltic Fleet](venues/baltic-fleet.md) |
+| `src-893e47049769` | [CAMRA: Bank Top Ale House](https://camra.org.uk/pubs/bank-top-brewery-ale-house-horwich-122462) | camra | [Bank Top Brewery Ale House](venues/bank-top-ale-house-horwich.md) |
 | `src-3451d5a49783` | [CAMRA: Bank Top Brewery Tap](https://camra.org.uk/pubs/bank-top-brewery-tap-bolton-122443) | camra | [Bank Top Brewery Tap](venues/bank-top-brewery-tap-bolton.md) |
 | `src-714a3b2862d0` | [CAMRA: Bar Fringe](https://camra.org.uk/pubs/bar-fringe-manchester-137398) | camra | [Bar Fringe](venues/bar-fringe.md) |
 | `src-234a37589ffd` | [CAMRA: Baum](https://camra.org.uk/pubs/baum-rochdale-152799) | camra | [The Baum](venues/baum-rochdale.md) |
 | `src-b9d3314fee90` | [CAMRA: Beacon](https://camra.org.uk/pubs/beacon-altrincham-130225) | camra | [Beacon](venues/beacon-altrincham.md) |
 | `src-a36f6b49785f` | [CAMRA: Beer House, Chorlton](https://camra.org.uk/pubs/beer-house-chorlton-cum-hardy-130064) | camra | [Beer House](venues/beer-house-chorlton.md) |
 | `src-3804bcc860cd` | [CAMRA: Belvedere Arms — pub guide and interior record](https://camra.org.uk/pubs/belvedere-liverpool-166445) | camra | [Belvedere Arms](venues/belvedere.md) |
+| `src-e40c9e4fd0ff` | [CAMRA: Black Cat Rose Lane](https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207) | camra | [Black Cat — Rose Lane](venues/black-cat-rose-lane.md) |
 | `src-96a6862d5960` | [CAMRA: Black Friar](https://camra.org.uk/pubs/black-friar-salford-170824) | camra | [Black Friar](venues/black-friar-salford.md) |
 | `src-407d46818235` | [CAMRA: Black Lodge Brewery & Taproom — pub guide and interior record](https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062) | camra | [Black Lodge Brewery & Taproom](venues/black-lodge-liverpool.md) |
 | `src-b8923bd11bb4` | [CAMRA: Black Lodge Brewery Tap — West Kirby — pub guide and interior record](https://camra.org.uk/pubs/black-lodge-west-kirby-132140) | camra | [Black Lodge Brewery Tap — West Kirby](venues/black-lodge-west-kirby.md) |
 | `src-482098717752` | [CAMRA: Blackedge Brewery Bar](https://camra.org.uk/pubs/blackedge-brewery-bar-horwich-122793) | camra | [Blackedge Brewery Bar](venues/blackedge-brewery-bar-horwich.md) |
 | `src-70833bb400e3` | [CAMRA: Blossoms](https://camra.org.uk/pubs/blossoms-stockport-167301) | camra | [The Blossoms](venues/blossoms-stockport.md) |
+| `src-1e6d5d81ff79` | [CAMRA: Bow-Legged Beagle, Bromborough](https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586) | camra | [Bow-Legged Beagle — Bromborough](venues/bow-legged-beagle-bromborough.md) |
 | `src-20e6365167d8` | [CAMRA: Brewery Tap](https://camra.org.uk/pubs/brewery-tap-chester-137016) | camra | [The Brewery Tap](venues/brewery-tap-chester.md) |
+| `src-51e797683176` | [CAMRA: Broad Street Social](https://camra.org.uk/pubs/broad-street-social-bury-152888) | camra | [Broad Street Social](venues/broad-street-social-bury.md) |
 | `src-dea239cd172d` | [CAMRA: Bundobust Brewery, Manchester](https://camra.org.uk/pubs/bundobust-brewery-manchester-195129) | camra | [Bundobust Brewery](venues/bundobust-brewery-manchester.md) |
 | `src-a66908afdd8d` | [CAMRA: Cafe Beermoth](https://camra.org.uk/pubs/cafe-beermoth-manchester-137654) | camra | [Cafe Beermoth](venues/cafe-beermoth.md) |
 | `src-50fee96cb0d5` | [CAMRA: Cask — Stoneycroft — pub guide and interior record](https://camra.org.uk/pubs/cask-liverpool-166044) | camra | [Cask — Stoneycroft](venues/cask-stoneycroft.md) |
@@ -40,6 +47,9 @@
 | `src-69bdd14d90af` | [CAMRA: Circus Tavern](https://camra.org.uk/pubs/circus-tavern-manchester-137595) | camra | [Circus Tavern](venues/circus-tavern.md) |
 | `src-da8421e5e1bd` | [CAMRA: City Arms](https://camra.org.uk/pubs/city-arms-manchester-137676) | camra | [City Arms](venues/city-arms.md) |
 | `src-a23c5ee81253` | [CAMRA: Cloudwater Unit 9](https://camra.org.uk/pubs/cloudwater-unit-9-manchester-137308) | camra | [Cloudwater Unit 9](venues/cloudwater-unit-9.md) |
+| `src-10063998eace` | [CAMRA: Cobden, Woolton](https://camra.org.uk/pubs/cobden-liverpool-165596) | camra | [Cobden Vaults](venues/cobden-woolton.md) |
+| `src-6c781780a73f` | [CAMRA: Coop, Crosby](https://camra.org.uk/pubs/coop-liverpool-197076) | camra | [The Coop](venues/coop-crosby.md) |
+| `src-7e0a2a0fcdd6` | [CAMRA: Corner Post, Crosby](https://camra.org.uk/pubs/corner-post-liverpool-166043) | camra | [Corner Post](venues/corner-post-crosby.md) |
 | `src-6a6beabde176` | [CAMRA: Costello’s Bar](https://camra.org.uk/pubs/costellos-bar-altrincham-130228) | camra | [Costello’s Bar](venues/costellos-altrincham.md) |
 | `src-0312aabf2971` | [CAMRA: Cotton Tree](https://camra.org.uk/pubs/cotton-tree-bollington-173502) | camra | [Cotton Tree](venues/cotton-tree-bollington.md) |
 | `src-489f2370a663` | [CAMRA: Cricketers Arms, St Helens](https://camra.org.uk/pubs/cricketers-arms-st-helens-145274) | camra | [Cricketers Arms](venues/cricketers-arms-st-helens.md) |
@@ -47,14 +57,17 @@
 | `src-a9d88315f1f5` | [CAMRA: Crown Hotel — pub guide and interior record](https://camra.org.uk/pubs/crown-hotel-liverpool-165905) | camra | [Crown Hotel](venues/crown-hotel-liverpool.md) |
 | `src-28923dc1e20c` | [CAMRA: Crown Inn](https://camra.org.uk/pubs/crown-inn-stockport-167360) | camra | [Crown Inn](venues/crown-inn-stockport.md) |
 | `src-65f1c52f7b64` | [CAMRA: Dead Crafty Beer Company — Dale Street — pub guide and interior record](https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064) | camra | [Dead Crafty Beer Company — Dale Street](venues/dead-crafty-beer-company.md) |
+| `src-d0128da2f8ed` | [CAMRA: Dee View Inn](https://camra.org.uk/pubs/dee-view-inn-heswall-131954) | camra | [Dee View Inn](venues/dee-view-inn-heswall.md) |
 | `src-216eb01c3f71` | [CAMRA: Doctor Duncan’s — pub guide and interior record](https://camra.org.uk/pubs/doctor-duncans-liverpool-166406) | camra | [Doctor Duncan’s](venues/doctor-duncans.md) |
 | `src-78f6cf41f513` | [CAMRA: Dunham Apple Barn](https://camra.org.uk/index.php/pubs/dunham-apple-barn-dunham-massey-129884) | camra | [Dunham Apple Barn](venues/dunham-apple-barn.md) |
 | `src-c94d87fa0b52` | [CAMRA: Eagle Inn](https://camra.org.uk/pubs/eagle-inn-salford-170872) | camra | [Eagle Inn](venues/eagle-inn-salford.md) |
 | `src-1154de6327fe` | [CAMRA: Fell Chorlton](https://camra.org.uk/pubs/fell-bar-chorlton-chorlton-cum-hardy-129887) | camra | [Fell Chorlton](venues/fell-chorlton.md) |
+| `src-bcbb25fade31` | [CAMRA: Fell Northern Quarter](https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325) | camra | [Fell Northern Quarter](venues/fell-northern-quarter.md) |
 | `src-07ca97a8d105` | [CAMRA: Firkin](https://camra.org.uk/pubs/firkin-newton-le-willows-171124) | camra | [The Firkin](venues/firkin-newton-le-willows.md) |
 | `src-e8736f905191` | [CAMRA: Fletcher Moss](https://camra.org.uk/pubs/fletcher-moss-didsbury-167389) | camra | [Fletcher Moss](venues/fletcher-moss.md) |
 | `src-3f34a48b2005` | [CAMRA: Flying Horse Hotel](https://camra.org.uk/pubs/flying-horse-hotel-rochdale-152986) | camra | [Flying Horse Hotel](venues/flying-horse-rochdale.md) |
 | `src-313c7498987a` | [CAMRA: Four Ashes — pub guide and interior record](https://camra.org.uk/pubs/four-ashes-liverpool-166246) | camra | [Four Ashes](venues/four-ashes.md) |
+| `src-4dca3a16b153` | [CAMRA: Fox & Pine, Oldham](https://camra.org.uk/pubs/fox-pine-oldham-152891) | camra | [Fox & Pine](venues/fox-and-pine-oldham.md) |
 | `src-88843158ed92` | [CAMRA: Gallaghers Traditional Pub — pub guide and interior record](https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901) | camra | [Gallaghers Traditional Pub](venues/gallaghers-birkenhead.md) |
 | `src-2c268baa4f2f` | [CAMRA: Gas Lamp](https://camra.org.uk/pubs/gas-lamp-manchester-137758) | camra | [Gas Lamp](venues/gas-lamp.md) |
 | `src-cede2dbdb4ff` | [CAMRA: Glen Affric Brewery Taproom — pub guide and interior record](https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239) | camra | [Glen Affric Brewery Taproom](venues/glen-affric-taproom.md) |
@@ -77,6 +90,7 @@
 | `src-018e07ec8faf` | [CAMRA: Marble Arch](https://camra.org.uk/pubs/marble-arch-manchester-137493) | camra | [Marble Arch](venues/marble-arch.md) |
 | `src-0a1d0f1a4c22` | [CAMRA: Molly House](https://camra.org.uk/pubs/molly-house-manchester-137611) | camra | [Molly House](venues/molly-house.md) |
 | `src-d731f78222ee` | [CAMRA: Mr Thomas’s Chop House](https://camra.org.uk/pubs/mr-thomass-chop-house-manchester-137704) | camra | [Mr Thomas’s Chop House](venues/mr-thomass-chop-house.md) |
+| `src-4f3be7a9dac5` | [CAMRA: National cider/pub finalists 2026](https://camra.org.uk/media-centre/press-releases/eye-conic-micropub-newcomer-wins-camra-national-cider-and-perry-pub-of-the-year-2026-93856) | camra | [That Beer Place](venues/that-beer-place-chester.md) |
 | `src-55f5b6bcd72d` | [CAMRA: Neptune Beerhouse — pub guide and interior record](https://camra.org.uk/pubs/neptune-beerhouse-liverpool-196857) | camra | [Neptune Beerhouse](venues/neptune-beerhouse.md) |
 | `src-1b0f7c1c742a` | [CAMRA: New Oxford](https://camra.org.uk/pubs/new-oxford-salford-170923) | camra | [New Oxford](venues/new-oxford.md) |
 | `src-fcddb32359d2` | [CAMRA: Northern Monk Refectory](https://camra.org.uk/pubs/northern-monk-refectory-manchester-137352) | camra | [Northern Monk Refectory Manchester](venues/northern-monk-manchester.md) |
@@ -87,12 +101,14 @@
 | `src-2cddc47dc4b3` | [CAMRA: Olde Cottage](https://camra.org.uk/pubs/olde-cottage-chester-137106) | camra | [Olde Cottage](venues/olde-cottage-chester.md) |
 | `src-8260dccf2750` | [CAMRA: Olde Man & Scythe](https://camra.org.uk/pubs/olde-man-scythe-bolton-122503) | camra | [Olde Man & Scythe](venues/olde-man-scythe-bolton.md) |
 | `src-ff5f4ce1c926` | [CAMRA: Olde Vic](https://camra.org.uk/pubs/olde-vic-stockport-167522) | camra | [Ye Olde Vic](venues/olde-vic-stockport.md) |
+| `src-de8fff3d6cb3` | [CAMRA: Our Gracie's](https://camra.org.uk/pubs/our-gracies-rochdale-194611) | camra | [Our Gracie’s](venues/our-gracies-rochdale.md) |
 | `src-b81a948948bc` | [CAMRA: Park Tavern](https://camra.org.uk/index.php/pubs/park-tavern-macclesfield-173129) | camra | [Park Tavern](venues/park-tavern-macclesfield.md) |
 | `src-0fd562c82e0c` | [CAMRA: Peter Kavanagh’s — pub guide and interior record](https://camra.org.uk/pubs/peter-kavanaghs-liverpool-165622) | camra | [Peter Kavanagh’s](venues/peter-kavanaghs.md) |
 | `src-d244538066c7` | [CAMRA: Petersgate Tap](https://camra.org.uk/pubs/petersgate-tap-stockport-167121) | camra | [Petersgate Tap](venues/petersgate-tap-stockport.md) |
 | `src-6c45518c6f32` | [CAMRA: Peveril of the Peak](https://camra.org.uk/pubs/peveril-of-the-peak-manchester-137712) | camra | [Peveril of the Peak](venues/peveril-of-the-peak.md) |
 | `src-76aaaae0002e` | [CAMRA: Philharmonic Dining Rooms — pub guide and interior record](https://camra.org.uk/pubs/philharmonic-dining-rooms-liverpool-165633) | camra | [Philharmonic Dining Rooms](venues/philharmonic-dining-rooms.md) |
 | `src-fbab810da80a` | [CAMRA: Pied Bull](https://camra.org.uk/pubs/pied-bull-chester-137130) | camra | [The Pied Bull](venues/pied-bull-chester.md) |
+| `src-f3318d53dee3` | [CAMRA: Pigeon Beer Wanderer](https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108) | camra | [Pigeon Beer Wanderer](venues/pigeon-beer-wanderer.md) |
 | `src-370a2b427f1d` | [CAMRA: Plasterers Arms — pub guide and interior record](https://camra.org.uk/pubs/plasterers-arms-hoylake-131966) | camra | [Plasterers Arms](venues/plasterers-arms-hoylake.md) |
 | `src-0c55ce7b2791` | [CAMRA: Port Street Beer House](https://camra.org.uk/pubs/port-street-beer-house-manchester-137529) | camra | [Port Street Beer House](venues/port-street-beer-house.md) |
 | `src-61b68392a3a7` | [CAMRA: Prairie Schooner Taphouse](https://camra.org.uk/pubs/prairie-schooner-taphouse-urmston-129838) | camra | [Prairie Schooner Taphouse](venues/prairie-schooner-urmston.md) |
@@ -131,6 +147,7 @@
 | `src-9a1d497fd7a1` | [CAMRA: The Dispensary — pub guide and interior record](https://camra.org.uk/pubs/dispensary-liverpool-165589) | camra | [The Dispensary](venues/dispensary.md) |
 | `src-130b123df33b` | [CAMRA: The Freshfield — pub guide and interior record](https://camra.org.uk/pubs/freshfield-freshfield-146997) | camra | [The Freshfield](venues/freshfield.md) |
 | `src-e28561b4d78c` | [CAMRA: The Grapes — Roscoe Street — pub guide and interior record](https://camra.org.uk/pubs/grapes-liverpool-166102) | camra | [The Grapes — Roscoe Street](venues/grapes-roscoe-street.md) |
+| `src-35157e98b170` | [CAMRA: The Grocers](https://camra.org.uk/pubs/grocers-cadishead-170709) | camra | [The Grocers](venues/grocers-cadishead.md) |
 | `src-97622d6a2362` | [CAMRA: The Lazy Landlord — pub guide and interior record](https://camra.org.uk/pubs/lazy-landlord-ale-house-liscard-132150) | camra | [The Lazy Landlord](venues/lazy-landlord.md) |
 | `src-b58398195c02` | [CAMRA: The Monro — pub guide and interior record](https://camra.org.uk/pubs/monro-liverpool-166467) | camra | [The Monro](venues/monro.md) |
 | `src-d2712d88bfaa` | [CAMRA: The Pen Factory — pub guide and interior record](https://camra.org.uk/pubs/pen-factory-liverpool-166023) | camra | [The Pen Factory](venues/pen-factory.md) |
@@ -151,11 +168,14 @@
 | `src-591b302bcdbd` | [CAMRA: White Star — pub guide and interior record](https://camra.org.uk/pubs/white-star-liverpool-165743) | camra | [White Star](venues/white-star-liverpool.md) |
 | `src-e80cb1735eea` | [CAMRA: Wigan Central](https://camra.org.uk/pubs/wigan-central-wigan-171968) | camra | [Wigan Central](venues/wigan-central.md) |
 | `src-33b72ff554e8` | [CAMRA: Ye Cracke — pub guide and interior record](https://camra.org.uk/pubs/cracke-liverpool-165590) | camra | [Ye Cracke](venues/ye-cracke.md) |
+| `src-efd66afb55b8` | [Central Manchester CAMRA: 2026 pub and cider winners](https://www.centralmanchester.camra.org.uk/viewnode.php?id=151519) | camra | [Cafe Beermoth](venues/cafe-beermoth.md), [Marble Arch](venues/marble-arch.md) |
 | `src-b7e0052f9a5e` | [Central Manchester CAMRA: Britons Protection](https://www.centralmanchester.camra.org.uk/viewnode.php?id=145255) | camra | [Britons Protection](venues/britons-protection.md) |
 | `src-3a43ef5d7d6c` | [East Cheshire CAMRA: Cotton Tree 2026 Pub of the Year](https://eastcheshire.camra.org.uk/2026/06/cotton-tree-bollington-is-branch-pub-of-the-year/) | camra | [Cotton Tree](venues/cotton-tree-bollington.md) |
 | `src-808322acb28f` | [East Cheshire CAMRA: RedWillow cider award 2026](https://eastcheshire.camra.org.uk/2026/05/redwillow-macclesfield-is-branch-cider-pub-of-the-year/) | camra | [RedWillow Macclesfield](venues/redwillow-macclesfield.md) |
+| `src-a91e65967641` | [Greater Manchester CAMRA: award winners](https://greatermanchester.camra.org.uk/gmcamra/award-winners/) | camra | [Petersgate Tap](venues/petersgate-tap-stockport.md) |
 | `src-aa64d103aa4e` | [Huddersfield CAMRA: awards 2026](https://huddscamra.org.uk/awards/awards-2026/) | camra | [’Udders Orchard Cidery & Tasting Rooms](venues/udders-orchard-cidery.md) |
-| `src-904dd4cb0b61` | [Rochdale, Oldham & Bury CAMRA: real cider and perry](https://rob.camra.org.uk/viewnode.php?id=733) | camra | [The Trackside](venues/trackside-bury.md) |
+| `src-13afeb79fccb` | [Rochdale, Oldham & Bury CAMRA: 2026 awards](https://www.rob.camra.org.uk/viewnode.php?id=170840) | camra | [Fox & Pine](venues/fox-and-pine-oldham.md), [Broad Street Social](venues/broad-street-social-bury.md) |
+| `src-904dd4cb0b61` | [Rochdale, Oldham & Bury CAMRA: real cider and perry](https://rob.camra.org.uk/viewnode.php?id=733) | camra | [The Trackside](venues/trackside-bury.md), [Fox & Pine](venues/fox-and-pine-oldham.md), [Our Gracie’s](venues/our-gracies-rochdale.md) |
 | `src-cb7b1c17655f` | [Southport & West Lancs CAMRA: Grasshopper](https://www.southport.camra.org.uk/viewnode.php?id=37630) | camra | [The Grasshopper](venues/grasshopper-hillside.md) |
 | `src-a365699f4595` | [St Helens CAMRA: cider awards 2026](https://sthelens.camra.org.uk/cider-pub-of-the-year) | camra | [Cricketers Arms](venues/cricketers-arms-st-helens.md), [The Firkin](venues/firkin-newton-le-willows.md), [Turks Head](venues/turks-head-st-helens.md) |
 | `src-f90ce4e227b2` | [St Helens CAMRA: Pub of the Year 2026](https://sthelens.camra.org.uk/pub-of-the-year) | camra | [Turks Head](venues/turks-head-st-helens.md) |

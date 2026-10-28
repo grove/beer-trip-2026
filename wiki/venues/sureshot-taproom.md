@@ -60,4 +60,4 @@ Recommendations are editorial judgments from these sources; see [methodology](..
 
 ## Also in this area
 
-[Balance Brewing & Blending](balance-brewing-blending.md). These are area links, not an asserted walking order.
+[Balance Brewing & Blending](balance-brewing-blending.md), [Pigeon Beer Wanderer](pigeon-beer-wanderer.md). These are area links, not an asserted walking order.

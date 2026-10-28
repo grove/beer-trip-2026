@@ -60,4 +60,4 @@ Recommendations are editorial judgments from these sources; see [methodology](..
 
 ## Also in this area
 
-[Flying Horse Hotel](flying-horse-rochdale.md). These are area links, not an asserted walking order.
+[Our Gracie’s](our-gracies-rochdale.md), [Flying Horse Hotel](flying-horse-rochdale.md). These are area links, not an asserted walking order.

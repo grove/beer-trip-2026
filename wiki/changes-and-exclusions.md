@@ -8,6 +8,7 @@
 
 | Venue | Current evidence and decision | Source |
 | --- | --- | --- |
+| **Sir Ralph Abercromby, Manchester** | CAMRA reported a **temporary closure from May 2026**, with structural/development issues. Its famous old pub interior is **not proof of November trading**; keep it out of active pub circuits until reopened. | [CAMRA listing](https://camra.org.uk/pubs/sir-ralph-abercromby-manchester-137725). |
 | **Caledonia, Liverpool** | CAMRA marks it long-term closed from 8 March 2025. No dependable reopening confirmation was established. Do not reuse its old vegan-food/cask/cider recommendation; an extant premises licence alone would not establish trading. | [CAMRA record](https://camra.org.uk/pubs/caledonia-liverpool-166060). |
 | **Vale Inn, Bollington** | Long-term closure recorded from 27 January 2026; future uncertain. It does not belong in an active November pub route. | [CAMRA record](https://camra.org.uk/pubs/vale-inn-bollington-173206). |
 | **Bear & Billet, Chester** | CAMRA's August 2026 update reports loss of cask and food and substantially reduced opening. Its historic exterior remains interesting, but the current evidence does not earn it a beer-destination recommendation. This is not a claim that the building has disappeared or that it is permanently closed. | [CAMRA record](https://camra.org.uk/pubs/bear-billet-chester-137101). |
@@ -44,6 +45,14 @@
 | [Stork, Birkenhead](venues/stork-hotel-birkenhead.md), [Queens Arms, Patricroft](venues/queens-arms-patricroft.md) | Both are explicit heritage exceptions with no current cask reported. Their interiors can still justify a visit. |
 | [Wheatsheaf, Raby](venues/wheatsheaf-raby.md) | The source distinguishes genuine cask options from Wainwright Amber served through a handpump in brewery-conditioned form. Ask which product is actually cask. |
 | [Freshfield](venues/freshfield.md) and other occasional cider entries | Documented festivals or occasional supply must not become a promise of ordinary daily stock. Read the individual note. |
+
+## Corrected for the confirmed 9–14 November flights
+
+The booking screenshots establish **Monday 9 November arrival 17:50**, **Saturday 14 November departure 12:25**, and only **four full beer days**. Marble Arch’s official **Tuesday closure** and Monday **20:00 last kitchen order** are now built into the [dated schedule](five-day-plan.md). The original “early November” Merseyrail tunnel works were scheduled to finish **before arrival**. Separate **9–12 November late-night Manchester–Liverpool rail changes** do affect these dates: [National Rail](https://www.nationalrail.co.uk/engineering-works/mco-liv-9-nov-20261109/).
+
+The **Wirral Beer Festival Thursday 12 / Friday 13**, Independent Salford festival Thursday/Friday (subject to session availability) and Friday FOAM event are **alternative time blocks**. The Bury festival 6–7 and ’Udders Orchard 7–8 November are **before arrival**; late-month festivals are **after departure**. See [date-filtered events](november-events.md).
+
+The updated [ranking](rankings.md) and expanded venue profiles include [Fox & Pine](venues/fox-and-pine-oldham.md), [Our Gracie’s](venues/our-gracies-rochdale.md), [The Coop](venues/coop-crosby.md) and additional 2026-awarded beer/cider destinations that the initial edition omitted.
 
 ## Opening and kitchen conflicts
 

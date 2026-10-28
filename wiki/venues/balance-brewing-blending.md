@@ -61,4 +61,4 @@ Recommendations are editorial judgments from these sources; see [methodology](..
 
 ## Also in this area
 
-[Sureshot Brewery Taproom](sureshot-taproom.md). These are area links, not an asserted walking order.
+[Pigeon Beer Wanderer](pigeon-beer-wanderer.md), [Sureshot Brewery Taproom](sureshot-taproom.md). These are area links, not an asserted walking order.

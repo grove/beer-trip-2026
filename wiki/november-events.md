@@ -1,37 +1,32 @@
-# November 2026 festivals and special sessions
+# November 2026 festivals — **filtered to your 9–14 November flights**
 
-[Home](../README.md) · [Five-day plan](five-day-plan.md) · [Transport cautions](logistics.md)
+[Home](../README.md) · [Dated itinerary](five-day-plan.md) · [Travel and hotels](logistics.md) · [All venue profiles](catalogue.md)
 
-**Checked 28 October 2026. Dates below are advertised for November 2026.** They are opportunities to swap into the trip, not commitments or a claim that tickets remain available. A festival uses a substantial part of a day; replace a pub cluster rather than adding it to an already full route. Beer counts are advertised plans, not guaranteed stock. No tickets have been purchased.
+**Flight reality:** Arrive Manchester **Monday 9 November at 17:50 UK**, depart Manchester **Saturday 14 November at 12:25 UK**. Only **Thursday 12 and Friday 13 November** overlap with confirmed festival sessions that you can use without missing the flight or sacrificing all of the arrival evening. These are **competing alternatives** to a full pub day, not extra stops. Source checks: **28 October 2026**, not live ticket inventory.
 
-## The strongest fits
+## The three events that actually fit
 
-| Dates | Event and place | Why it fits | Decision and booking caveat |
+| Priority | Actual usable UK date/session | Festival and destination | Why it fits and what you would replace |
 | --- | --- | --- | --- |
-| Fri 6–Sat 7 November | **Bury Beer Festival**, Derby Hall at The Met, Bury | Local breweries pouring cask and keg, an advertised cider/perry bar, food, and a historic hall. The official line-up includes Brewsmith, Brightside and Wakey Wakey. | A useful alternative to the Bury/Rochdale excursion if dates align. Select an actual session; the beer and cider list determines how well it fits your tastes. [Official event](https://themet.org.uk/event/bury-beer-festival-2026/) · [23 October update](https://themet.org.uk/article/bury-beer-fest-26-breweries-sponsors/). |
-| Thu 12–Sat 14 November | **Independent Salford Beer Festival, ISBFXI**, Hemsley House, Salford | An unusually strong fit for experienced beer hunters: a curated cask/keg mix, collaboration beers and cider/perry. The organiser describes a target of around 25 cask and 65 keg beers, with the final list due near the event. | **Do not assume admission is available.** An 18 September organiser update says Friday daytime, Friday evening and Saturday lunchtime had sold out; it highlighted Thursday and Saturday evening. Check the current ticket page before arranging the trip around it. [Organiser announcement](https://www.salfordbeerfest.com/news/isbfxi-is-go) · [Availability update](https://www.salfordbeerfest.com/news/isbfxi-the-chilled-sessions) · [Organiser-linked tickets](https://www.universe.com/events/independent-salford-beer-festival-isbfxi-tickets-9TGPYD) · [2026 session dates](https://www.ticketmaster.co.uk/the-independent-salford-beer-festival-tickets/artist/5605535). |
-| Thu 12–Sun 15 November | **Ship & Mitre 22nd Wirral Beer Festival**, Hulme Hall, 23 Bolton Road, Bebington, CH62 5DH | A particularly close match to the brief: the organiser advertises 80 real ales within a wider beer selection, plus cider/perry and food. | Friday daytime, 13 November, is advertised as the quiet session. Choose the session for conversation and tasting if that suits you. It takes place on the Wirral, **not inside the Dale Street pub**. Confirm the beer list, ticket and rail route. [Official event and tickets](https://theshipandmitre.uk/event/ship-mitre-22nd-wirral-beer-festival/). |
+| **1 — best fit for traditional real ale** | **Thu 12 Nov 17:00–23:00**, or **Fri 13 Nov 10:00–16:00 (quiet session)**, also Fri evening | **Ship & Mitre’s 22nd Wirral Beer Festival**, Hulme Hall, **23 Bolton Road, Bebington, Wirral** | Operator advertises over 200 beers/ciders, **80 real ales, 80 craft beers**, cider and perry plus food. **Friday 10:00–16:00 is specifically entertainment-free**, ideal for concentration and conversation. It is on the Wirral, **not the Dale Street pub**. Replace the late Thursday Liverpool block or most of Friday’s Georgian pub walk. [Operator’s session and ticket page](https://theshipandmitre.uk/event/ship-mitre-22nd-wirral-beer-festival/). |
+| **2 — curated discovery and cider** | **Thu 12 Nov 18:00** or **Fri 13 Nov 11:30 or 18:00**, ticket permitting | **Independent Salford Beer Festival (ISBFXI)**, Hemsley House, **41–42 The Crescent, Salford** | Curated cask, keg, cider and perry; the organiser anticipated approximately 25 cask and 65 keg beers. **Earlier organiser report said Friday sessions and Saturday lunch had sold out**. Confirm current availability before changing the route; Thursday 18:00 would mean delaying Liverpool and Fri 13 might require leaving Liverpool early. [Organiser announcement](https://www.salfordbeerfest.com/news/isbfxi-is-go) · [Sold-out warning](https://www.salfordbeerfest.com/news/isbfxi-the-chilled-sessions) · [Tickets](https://www.universe.com/events/independent-salford-beer-festival-isbfxi-tickets-9TGPYD) · [Dated sessions](https://www.ticketmaster.co.uk/the-independent-salford-beer-festival-tickets/artist/5605535). |
+| **3 — modern beer rather than real-ale priority** | **Fri 13 Nov 17:30–22:00 only** | **FOAM**, Stalybridge Civic Hall | Brewery-led festival with **40+ taps, ten breweries**, rare Cellar Series pours and Italian street food. Official **£52** session admission advertised. The cask and real-cider programme was **not established**; lower priority for your specific brief. Saturday’s FOAM sessions **cannot be attended** after a 12:25 flight. [Operator sessions/prices](https://www.foambeerfestival.com/event-details/tickets) · [Programme](https://www.foambeerfestival.com/). |
 
-My editorial preference, if dates remain flexible, is to investigate the **12–15 November overlap**, then choose one festival after checking actual ticket availability. ISBF favours discovery and unusual beers; the Wirral festival gives a substantial advertised real-ale selection. The cities' permanent pubs remain the core of this trip.
+**My preferred festival decision:** The Ship & Mitre **Thursday opening evening** is the easiest match to a Liverpool overnight; alternatively the **Friday 10:00–16:00 quiet session** is ideal for a deliberate real-ale tasting if you accept losing most of Liverpool’s Georgian pubs. Choose **one substantial festival session**, not two plus an entire pub schedule. Confirm that the cider/perry producers actually meet current real-cider criteria before selecting on that basis.
 
-## Specialist alternatives
+## Advertised events outside your travel window — not itinerary options
 
-### FOAM — 13–14 November, Stalybridge Civic Hall
+| Dates | Event | Why it is excluded |
+| --- | --- | --- |
+| **6–7 Nov** | [Bury Beer Festival](https://themet.org.uk/event/bury-beer-festival-2026/) | Finishes **before** arrival Monday 9. Its cider/perry bar remains interesting background only. |
+| **7–8 Nov** | [’Udders Orchard producer opening](https://www.uddersorchardcider.co.uk/) | Before arrival. Do not assume the Lindley cidery opens later in November; its venue page remains a specialist reference. |
+| **21 Nov** | [A Hoppy Christmas, Liverpool](https://craftbrewfestival.com/liverpool) | After return flight. |
+| **27–28 Nov** | [Black Lodge Winterfest](https://www.blacklodgebrewing.co.uk/events-3) | After return flight. |
 
-The new festival advertises brewery-led pouring, an inclusive session ticket and a special-bottle programme. Its official page names Mills for the bottle series and advertises Italian street food, but much of the main line-up text was still marked TBC when researched. Treat it as a promising modern-beer option; its cask/real-cider coverage is not established. Combine it with a short visit to Stalybridge Buffet Bar only if the session and travel allow. [Official programme and tickets](https://www.foambeerfestival.com/).
+## Booking, payment and real-cider cautions
 
-### Black Lodge Winterfest — 27–28 November, Liverpool
+All ticket costs, session capacities and sell-out status are mutable. The Ship & Mitre’s operator page specifically says door admission is not guaranteed; buy a specific session in advance if making it the purpose of a journey. For Salford, rely on the official ticketing platform rather than an old indexed availability number. For FOAM, the inclusive £52 headline price is **not an overall festival cost estimate** and may change.
 
-The brewery's indexed events listing advertises 2026 dates, and the organiser's ticket page describes guest breweries, food and music across the brewery/taproom and a winter marquee. This is a modern brewery-event option; the specific cask and qualifying cider lists need checking. The main events archive retrieved during research also exposed older entries, and its indexed end time differed from the ticket-page session details, so use the live ticket/session information before planning. [Brewery events](https://www.blacklodgebrewing.co.uk/events-3) · [Organiser ticket page](https://www.eventbrite.co.uk/e/black-lodge-winterfest-tickets-2000260081750).
+The published times are **UK local**, not Oslo local. Include railway/bus transfers: Hulme Hall in Bebington is not the Ship & Mitre pub in Liverpool; Stalybridge is east of Manchester; Salford is on the other side of the city from Liverpool’s centre. No admissions, tickets or venue bookings were purchased.
 
-### A Hoppy Christmas — 21 November, Invisible Wind Factory, Liverpool
-
-The organiser advertises a party-oriented craft-drinks festival with beer, cider and live music. It is an alternative for a social festival afternoon, but less closely aligned with this trip's traditional-pub and real-ale priorities than the three strongest fits above. No claim is made that its advertised cider meets CAMRA's definition. [Official event](https://craftbrewfestival.com/liverpool).
-
-## Producer sessions and small events
-
-Check the practical notes for the cider producers and brewery taprooms in the [catalogue](catalogue.md). A published regular club pattern does not confirm a November meeting; a taproom's opening day does not imply a brewery tour. In particular, verify any Manchester Cider Club event directly rather than calculating a date from a recurring pattern.
-
-**’Udders Orchard advertises a taproom opening on 7–8 November 2026** at its Lindley cidery. This is a real producer-announced opportunity for cider/perry enthusiasts, but a farther eastern excursion with an onward journey beyond central Huddersfield. It does not establish other November opening days. [Official announcement](https://www.uddersorchardcider.co.uk/) · [Venue and transport context](venues/udders-orchard-cidery.md).
-
-The machine-readable event summary is [data/events.json](../data/events.json). For the railway works that may affect early-month plans, read [November logistics](logistics.md).
+The structured record is [data/events.json](../data/events.json), which marks **usable session dates** rather than merely whether an event overlaps the calendar range. See [the five-night plan](five-day-plan.md) for the actual trades.
