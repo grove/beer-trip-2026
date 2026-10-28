@@ -43,10 +43,13 @@ class SitePreparationTests(unittest.TestCase):
     def test_staging_does_not_modify_canonical_pages(self):
         with tempfile.TemporaryDirectory() as temp:
             root = Path(temp)
-            for directory in ("website/assets", "wiki/venues", "wiki/areas", "data"):
+            for directory in ("website/assets", "wiki/venues", "wiki/areas", "data",
+                              "maps/google-my-maps"):
                 (root / directory).mkdir(parents=True)
             for filename in ("README.md", "AGENTS.md", "LICENSE", "llms.txt",
-                             "website/mkdocs.yml", "website/explore.md", "website/assets/site.css",
+                             "website/mkdocs.yml", "website/explore.md", "website/map.md",
+                             "maps/google-my-maps/all-venues.csv", "website/assets/pub-map.js",
+                             "website/assets/pub-map.css", "website/assets/site.css",
                              "website/assets/venue-finder.js", "wiki/venues/new-pub.md"):
                 (root / filename).write_text("original content\n")
             (root / "website/index.md").write_text("{{VENUE_COUNT}} / {{SOURCE_COUNT}} / {{RESEARCH_DATE}}\n")
@@ -64,6 +67,9 @@ class SitePreparationTests(unittest.TestCase):
             self.assertEqual((root / ".site/docs/wiki/venues/new-pub.md").read_bytes(), original)
             self.assertIn("0 / 0 / 28 October 2026", (root / ".site/docs/README.md").read_text())
             self.assertEqual((root / ".site/docs/overview.md").read_text(), "original content\n")
+            self.assertEqual((root / ".site/docs/map.md").read_text(), "original content\n")
+            self.assertEqual((root / ".site/docs/maps/google-my-maps/all-venues.csv").read_text(),
+                             "original content\n")
 
 
 if __name__ == "__main__":
