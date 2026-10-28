@@ -1,0 +1,180 @@
+/* Editorial palette: deep bottle green, amber, cream and warm paper. */
+:root > * {
+  --md-primary-fg-color: #233f32;
+  --md-primary-fg-color--light: #46735a;
+  --md-primary-fg-color--dark: #142b22;
+  --md-accent-fg-color: #9a581d;
+  --beer-card: #fffdf7;
+  --beer-ink: #213f33;
+  --beer-muted: #65746c;
+  --beer-outline: #e1ded0;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #274a39;
+  --md-primary-fg-color--light: #52775e;
+  --md-primary-fg-color--dark: #14281f;
+  --md-accent-fg-color: #e6b363;
+  --beer-card: #26312b;
+  --beer-ink: #f3f0e3;
+  --beer-muted: #b3bdaf;
+  --beer-outline: #425044;
+}
+.md-grid { max-width: 1520px; }
+.md-header { box-shadow: 0 1px 0 rgba(20, 40, 28, .12); }
+.md-typeset h1, .md-typeset h2, .md-typeset h3 { letter-spacing: -.025em; }
+.md-typeset h1 { font-weight: 760; }
+.md-typeset h2 { font-weight: 690; }
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  border: 1px solid var(--beer-outline);
+  border-radius: 16px;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  transform: translateY(-3px);
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 12px 30px rgba(22, 38, 27, .09);
+}
+.beer-hero {
+  position: relative;
+  overflow: hidden;
+  isolation: isolate;
+  margin: .5rem 0 2rem;
+  padding: clamp(2rem, 5vw, 4.8rem);
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 86% 15%, rgba(238, 181, 92, .28) 0, transparent 31%),
+    linear-gradient(125deg, #172d22 0%, #254b38 58%, #426045 100%);
+  color: #fff9e9;
+  box-shadow: 0 24px 65px rgba(21, 41, 30, .2);
+}
+.beer-hero::after {
+  content: "";
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  border-radius: 50%;
+  border: 2px solid rgba(245, 202, 118, .21);
+  box-shadow: 0 0 0 48px rgba(245, 202, 118, .055), 0 0 0 100px rgba(245, 202, 118, .035);
+  right: -130px;
+  top: -160px;
+  pointer-events: none;
+  z-index: -1;
+}
+.beer-hero__eyebrow {
+  font-size: .7rem;
+  font-weight: 750;
+  letter-spacing: .17em;
+  color: #f2cb8b;
+}
+.md-typeset .beer-hero h1 {
+  max-width: 830px;
+  margin: 1.1rem 0;
+  color: inherit;
+  font-size: clamp(2.2rem, 5.7vw, 4.4rem);
+  line-height: 1.08;
+  letter-spacing: -.045em;
+  font-family: Georgia, Cambria, "Times New Roman", serif;
+  font-weight: 720;
+}
+.beer-hero > p { max-width: 750px; font-size: 1rem; line-height: 1.7; }
+.md-typeset .beer-hero .md-button {
+  margin: .5rem .45rem .5rem 0;
+  border-color: #f1c782;
+  border-radius: 10px;
+  color: #fff8e6;
+}
+.md-typeset .beer-hero .md-button--primary { background: #edb75e; color: #172b21; }
+.md-typeset .beer-hero .md-button:hover { background: #f8ce82; color: #16271d; }
+.beer-hero__footnote {
+  margin-top: 1.5rem;
+  color: #e9dfc8;
+  font-size: .75rem;
+  letter-spacing: .015em;
+}
+.venue-finder { margin: 1.7rem 0 2.5rem; }
+.venue-finder__controls {
+  display: grid;
+  grid-template-columns: minmax(230px, 2fr) repeat(3, minmax(140px, 1fr));
+  gap: .8rem;
+  padding: 1.1rem;
+  background: var(--beer-card);
+  border: 1px solid var(--beer-outline);
+  border-radius: 18px;
+}
+.venue-finder__controls label { display: flex; flex-direction: column; gap: .4rem; font-size: .72rem; font-weight: 730; color: var(--beer-ink); }
+.venue-finder__controls input,
+.venue-finder__controls select {
+  width: 100%;
+  min-height: 2.6rem;
+  box-sizing: border-box;
+  padding: .55rem .7rem;
+  border-radius: 10px;
+  border: 1px solid var(--beer-outline);
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-size: .78rem;
+}
+.venue-finder__controls :is(input, select):focus-visible,
+.venue-finder button:focus-visible,
+.venue-card:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
+}
+.venue-finder__toolbar { display: flex; align-items: center; justify-content: space-between; gap: .8rem; margin: 1rem .15rem; }
+.venue-finder__status { margin: 0; color: var(--beer-muted); font-size: .82rem; font-weight: 600; }
+.venue-finder__reset {
+  cursor: pointer;
+  padding: .42rem .7rem;
+  border: 1px solid var(--beer-outline);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  font-size: .75rem;
+}
+.venue-finder__results { display: grid; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); gap: .85rem; }
+.md-typeset a.venue-card {
+  display: flex;
+  flex-direction: column;
+  gap: .45rem;
+  min-width: 0;
+  padding: 1.1rem;
+  border: 1px solid var(--beer-outline);
+  border-radius: 14px;
+  background: var(--beer-card);
+  color: var(--md-default-fg-color);
+  text-decoration: none;
+  transition: border-color .18s ease, transform .18s ease, box-shadow .18s ease;
+}
+.md-typeset a.venue-card:hover { border-color: var(--md-accent-fg-color); transform: translateY(-3px); box-shadow: 0 10px 26px rgba(22, 38, 27, .08); }
+.venue-card__head { display: flex; align-items: flex-start; justify-content: space-between; gap: .5rem; }
+.md-typeset .venue-card__name { margin: 0; font-size: 1rem; line-height: 1.3; color: var(--beer-ink); }
+.venue-card__priority { flex-shrink: 0; padding: .2rem .4rem; border-radius: 6px; background: rgba(180, 121, 37, .13); color: var(--md-accent-fg-color); font-size: .58rem; font-weight: 720; text-transform: uppercase; letter-spacing: .055em; }
+.md-typeset .venue-card__area { margin: 0; color: var(--beer-muted); font-size: .71rem; }
+.md-typeset .venue-card__why { margin: .25rem 0 .45rem; flex: 1; font-size: .76rem; line-height: 1.55; }
+.venue-card__cider { color: var(--md-accent-fg-color); font-size: .7rem; font-weight: 690; }
+.venue-finder__empty { padding: 1.5rem; color: var(--beer-muted); }
+.venue-finder__more {
+  display: block;
+  margin: 1.3rem auto;
+  padding: .7rem 1.5rem;
+  border: 1px solid var(--md-accent-fg-color);
+  border-radius: 10px;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  font-weight: 700;
+  cursor: pointer;
+}
+.venue-finder__more[hidden] { display: none; }
+@media (max-width: 1050px) { .venue-finder__controls { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) {
+  .beer-hero { border-radius: 16px; padding: 1.6rem; }
+  .beer-hero::after { width: 240px; height: 240px; }
+  .venue-finder__controls { grid-template-columns: 1fr; }
+  .venue-finder__results { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .venue-card, .md-typeset .grid.cards > ul > li, .md-typeset .grid.cards > ol > li { transition: none; }
+}

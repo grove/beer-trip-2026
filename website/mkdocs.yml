@@ -1,0 +1,46 @@
+# A complete, data-derived nav is appended by scripts/prepare_site.py.
+site_name: Manchester & Liverpool | The Beer Trip Guide
+site_description: A source-backed guide to exceptional real ale, real cider, historic pubs and a five-day November 2026 trip.
+site_url: https://grove.github.io/beer-trip-2026/
+repo_url: https://github.com/grove/beer-trip-2026
+repo_name: grove/beer-trip-2026
+docs_dir: docs
+site_dir: public
+use_directory_urls: true
+copyright: Independent, source-backed travel research. Verify live opening and availability.
+theme:
+  name: material
+  variant: modern
+  language: en
+  icon:
+    logo: lucide/beer
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.prune
+    - navigation.top
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: lucide/moon
+        name: Switch to dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: lucide/sun
+        name: Switch to light mode
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+extra_css:
+  - assets/site.css
+extra_javascript:
+  - assets/venue-finder.js
