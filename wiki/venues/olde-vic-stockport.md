@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Community-owned traditional free house |
 | Address | 1 Chatham Street, Edgeley, Stockport, SK3 9ED · [Map search](https://www.google.com/maps/search/?api=1&query=Ye%20Olde%20Vic%2C%201%20Chatham%20Street%2C%20Edgeley%2C%20Stockport%2C%20SK3%209ED) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Ye%20Olde%20Vic%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

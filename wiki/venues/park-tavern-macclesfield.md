@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Bollington Brewery pub |
 | Address | 158 Park Lane, Macclesfield, SK11 6UB · [Map search](https://www.google.com/maps/search/?api=1&query=Park%20Tavern%2C%20158%20Park%20Lane%2C%20Macclesfield%2C%20SK11%206UB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Park%20Tavern%20Macclesfield&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

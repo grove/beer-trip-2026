@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional community pub |
 | Address | 34 Brook Street, Chester, CH1 3DZ · [Map search](https://www.google.com/maps/search/?api=1&query=Olde%20Cottage%2C%2034%20Brook%20Street%2C%20Chester%2C%20CH1%203DZ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Olde%20Cottage%20Chester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

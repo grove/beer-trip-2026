@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic timber-framed pub |
 | Address | 4 Cathedral Gates, Manchester, M3 1SW · [Map search](https://www.google.com/maps/search/?api=1&query=Old%20Wellington%2C%204%20Cathedral%20Gates%2C%20Manchester%2C%20M3%201SW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Old%20Wellington%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

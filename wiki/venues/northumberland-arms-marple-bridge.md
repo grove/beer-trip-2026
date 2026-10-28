@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Community-owned village pub |
 | Address | 64 Compstall Road, Marple Bridge, SK6 5HD · [Map search](https://www.google.com/maps/search/?api=1&query=Northumberland%20Arms%2C%2064%20Compstall%20Road%2C%20Marple%20Bridge%2C%20SK6%205HD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Northumberland%20Arms%20Marple%20Bridge&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

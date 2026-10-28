@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic timber-framed pub |
 | Address | 6–8 Churchgate, Bolton, BL1 1HL · [Map search](https://www.google.com/maps/search/?api=1&query=Olde%20Man%20%26%20Scythe%2C%206%E2%80%938%20Churchgate%2C%20Bolton%2C%20BL1%201HL) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Olde%20Man%20%26%20Scythe%20Bolton&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

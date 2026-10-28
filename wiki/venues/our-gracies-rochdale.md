@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Real-cider and cask micropub |
 | Address | 13 The Butts, Rochdale, OL16 1ES · [Map search](https://www.google.com/maps/search/?api=1&query=Our%20Gracie%E2%80%99s%2C%2013%20The%20Butts%2C%20Rochdale%2C%20OL16%201ES) |
+| Untappd | [Venue page](https://untappd.com/v/our-gracie-s/12386757) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
