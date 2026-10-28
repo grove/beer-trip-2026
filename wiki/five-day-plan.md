@@ -1,7 +1,9 @@
 # Your dated five-night Manchester–Liverpool beer hunt
-[Home](../README.md) · [Overall ranking](rankings.md) · **[Interactive day-by-day pub map](https://grove.github.io/beer-trip-2026/map/)** · [Venue catalogue](catalogue.md) · [November festivals](november-events.md) · [Travel](logistics.md)
+[Home](../README.md) · **[Published hours for all 158 venues](opening-hours.md)** · [Overall ranking](rankings.md) · **[Interactive day-by-day pub map](https://grove.github.io/beer-trip-2026/map/)** · [Venue catalogue](catalogue.md) · [November festivals](november-events.md) · [Travel](logistics.md)
 
 **Confirmed flights:** Monday **9 November 2026**, DY1348, Oslo Gardermoen **16:45** → Manchester Airport **17:50 UK time**; Saturday **14 November 2026**, SK4608, Manchester Airport **12:25 UK time** → Oslo Gardermoen **15:25 Norwegian time**. Thus **five nights, four full sightseeing days (Tuesday 10–Friday 13), one arrival evening, and no usable Saturday pub day**. All the times below are **UK local time**, one hour behind Oslo in November. Flight times are from your supplied screenshots, not live airline-status information.
+
+**Check the [published opening-hours table](opening-hours.md) before choosing your stops.** It compares ordinary Monday–Friday bar hours (with venue-by-venue source links and separately listed kitchen service), but is **not** a guarantee of service on those specific November dates. Venue-specific notes take precedence over generic schedules: Marble Arch officially closes Tuesday, the producer at ’Udders Orchard is event-only, and many kitchens close sooner than their bars.
 
 This is a **high-yield set of time windows** for two experienced drinkers, not a minute-perfect pub reservation or an instruction to order a full pint at every stop. Opening hours are based on researched late-October operator/CAMRA listings; the exact November session, kitchen and beer/cider stock **must be checked**. Allow 45–90 minutes per good pub, use halves/thirds when offered, and keep food and travel buffers. **Four substantial pubs in one afternoon is already a very good day.**
 
