@@ -180,6 +180,7 @@
     const routeLink = root.querySelector(".pub-map__route");
     const baseUrl = new URL(root.dataset.venueBase, window.location.href);
     let venues = [], routes = [], byId = new Map(), ranks = new Map();
+    let openingHours = {};
     let map = null, markerLayer = null, L = null, coordinates = {}, postcodeError = false;
     let shown = PAGE_SIZE;
     let markers = new Map();
@@ -226,12 +227,38 @@
       }
     }
 
+    function publishedHoursLine(venue, day) {
+      const entry = openingHours[venue.id];
+      const formatter = window.BeerTripHours;
+      if (!day || !formatter) return "Ordinary weekly hours on venue profile";
+      const label = formatter.LABELS[formatter.DAYS.indexOf(day)];
+      return "Published " + label + " bar hours: " + formatter.displayHours(entry, day);
+    }
+
+    function sourceLink(venue) {
+      const entry = openingHours[venue.id];
+      if (!entry?.source_url) return null;
+      const link = element("a", "", "Hours source: " + window.BeerTripHours.sourceName(entry));
+      link.href = entry.source_url;
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+      return link;
+    }
+
     function popup(venue, routeStop) {
       const div = element("div", "pub-map__popup");
       div.append(element("strong", "", venue.name));
       div.append(element("p", "", venue.address));
       div.append(element("p", "", venue.why_visit));
       if (routeStop) div.append(element("p", "", routeStop.note));
+      const day = window.BeerTripHours?.dayKey(controls.day.value);
+      div.append(element("p", "", publishedHoursLine(venue, day)));
+      const hours = openingHours[venue.id];
+      if (hours?.food_days && day) div.append(element("p", "",
+        "Kitchen: " + window.BeerTripHours.displayHours(hours, day, true)));
+      if (hours?.note) div.append(element("p", "", hours.note));
+      const source = sourceLink(venue);
+      if (source) div.append(source, element("span", "", " · "));
       const wiki = element("a", "", "Read sourced profile");
       wiki.href = wikiUrl(venue);
       const maps = element("a", "", "Find exact address in Google Maps");
@@ -257,6 +284,16 @@
         (routeStop ? " · Stop " + routeStop.order + " (" + routeStop.role + ")" : "")));
       item.append(element("p", "pub-map__why", venue.why_visit));
       if (routeStop) item.append(element("p", "pub-map__note", routeStop.note));
+      const day = window.BeerTripHours?.dayKey(controls.day.value);
+      item.append(element("p", "pub-map__hours", publishedHoursLine(venue, day)));
+      const hours = openingHours[venue.id];
+      if (hours?.food_days && day) item.append(element("p", "pub-map__kitchen",
+        "Kitchen: " + window.BeerTripHours.displayHours(hours, day, true)));
+      if (hours?.status === "event-only" || hours?.note) {
+        item.append(element("p", "pub-map__note", hours?.note || "Event-only opening; verify with producer."));
+      }
+      const source = sourceLink(venue);
+      if (source) item.append(source);
       item.append(element("p", "pub-map__cider", CIDER_LABELS[venue.cider_status] || "Check cider evidence"));
       const buttons = element("div", "pub-map__cardlinks");
       const details = element("a", "", "Wiki profile");
@@ -370,15 +407,20 @@
 
     async function boot() {
       try {
-        const [vdata, rdata, ranking] = await Promise.all([
+        const [vdata, rdata, ranking, schedules] = await Promise.all([
           fetchJson(new URL(root.dataset.venuesUrl, window.location.href)),
           fetchJson(new URL(root.dataset.routesUrl, window.location.href)),
           fetchJson(new URL(root.dataset.rankingsUrl, window.location.href)),
+          fetchJson(new URL(root.dataset.openingHoursUrl, window.location.href)).catch(error => {
+            console.warn("Published hours unavailable; map remains usable", error);
+            return { hours: {} };
+          }),
         ]);
         if (!Array.isArray(vdata.venues) || !Array.isArray(rdata.routes) ||
             !Array.isArray(ranking.ranking_ids)) throw new Error("Malformed venue/route data");
         venues = vdata.venues;
         routes = rdata.routes;
+        openingHours = schedules.hours || {};
         byId = new Map(venues.map(v => [v.id, v]));
         ranks = new Map(ranking.ranking_ids.map((id, index) => [id, index + 1]));
         venues.sort((a, b) => (ranks.get(a.id) || 10000) - (ranks.get(b.id) || 10000));

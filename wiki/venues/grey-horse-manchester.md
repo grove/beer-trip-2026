@@ -37,6 +37,22 @@ Hydes Original and Dark Ruby mild are listed as regular cask beers, with additio
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 11:00–00:00 (+1 day) |
+| Tuesday | 11:00–00:00 (+1 day) |
+| Wednesday | 11:00–00:00 (+1 day) |
+| Thursday | 11:00–00:00 (+1 day) |
+| Friday | 11:30–00:00 (+1 day) |
+| Saturday | 11:30–00:00 (+1 day) |
+| Sunday | 11:30–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/grey-horse-manchester-137605) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

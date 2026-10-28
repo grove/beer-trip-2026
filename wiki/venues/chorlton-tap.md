@@ -37,6 +37,24 @@ Changing cask from local and wider independent breweries, with keg and bottles a
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 16:00–23:00 | Closed |
+| Tuesday | 16:00–23:00 | Closed |
+| Wednesday | 16:00–23:00 | Closed |
+| Thursday | 16:00–00:00 (+1 day) | Closed |
+| Friday | 14:00–00:00 (+1 day) | 18:00–22:00 |
+| Saturday | 12:00–00:00 (+1 day) | 14:00–20:00 |
+| Sunday | 12:00–23:00 | 12:00–19:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/chorlton-tap-chorlton-cum-hardy-130156) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Kitchen runs only on selected days; not equivalent to bar opening.
+
 ## Food
 
 Nora’s Kitchen is reported to provide pizza on selected days and Sunday roasts. Confirm the current operator, service days and any tasting-menu event directly.

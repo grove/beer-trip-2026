@@ -37,6 +37,24 @@ CAMRA describes a Bollington partnership, with most handpumps usually carrying t
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–22:00 |
+| Tuesday | 12:00–22:00 |
+| Wednesday | 12:00–22:00 |
+| Thursday | 12:00–22:00 |
+| Friday | 12:00–22:00 |
+| Saturday | 14:00–22:00 |
+| Sunday | 16:00–22:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/salutation-hulme-130175) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Term-time campus pub: student-union trading and real ale may be reduced outside teaching. CAMRA says closings 'or later'.
+
 ## Food
 
 A short food menu, described by CAMRA as loaded fries and sides; check current provision.

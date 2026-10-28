@@ -1,0 +1,9616 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-28",
+  "timezone": "Europe/London",
+  "scope": "Ordinary published bar opening times. Not a guarantee of service on 9–14 November 2026; bank holidays, private events, last orders and food times can differ.",
+  "hours": {
+    "albion-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "22:30"
+          ]
+        ],
+        "wed": [],
+        "thu": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "23:00"
+          ]
+        ],
+        "sun": []
+      },
+      "source_url": "https://camra.org.uk/pubs/albion-chester-137073",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Historic split-session pub; Wednesday and Sunday closed; check before a Chester trip.",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "14:00"
+          ],
+          [
+            "17:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "14:00"
+          ],
+          [
+            "17:00",
+            "20:00"
+          ]
+        ],
+        "wed": [],
+        "thu": [
+          [
+            "12:00",
+            "14:00"
+          ],
+          [
+            "17:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "14:00"
+          ],
+          [
+            "17:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "14:00"
+          ],
+          [
+            "18:00",
+            "20:30"
+          ]
+        ],
+        "sun": []
+      }
+    },
+    "angel-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/angel-manchester-137389",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      }
+    },
+    "arden-arms-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/arden-arms-stockport-167276",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Lunch matters on Wednesday; a pub being open later does not mean the kitchen is.",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "augustus-john": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "sun": []
+      },
+      "source_url": "https://camra.org.uk/pubs/augustus-john-liverpool-166520",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "University-run venue: Saturday opening during term time only; summer and Christmas schedules differ."
+    },
+    "azvex-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/azvex-brewery-taproom-liverpool-195914",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "b33r-at-33-horwich": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/b33r-at-33-horwich-195547",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "balance-brewing-blending": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/balance-brewing-blending-taproom-manchester-197178",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Regular taproom pattern; advertised cider-club meetings or ticketed events may differ."
+    },
+    "baltic-fleet": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/baltic-fleet-liverpool-165741",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "bank-top-ale-house-horwich": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bank-top-brewery-ale-house-horwich-122462",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "bank-top-brewery-tap-bolton": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bank-top-brewery-tap-bolton-122443",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "bar-fringe": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bar-fringe-manchester-137398",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "baum-rochdale": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/baum-rochdale-152799",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "beacon-altrincham": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/beacon-altrincham-130225",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "beer-house-chorlton": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/beer-house-chorlton-cum-hardy-130064",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "beer-lab-heswall": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/beer-lab-heswall-132241",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "belvedere": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/belvedere-liverpool-166445",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "black-cat-rose-lane": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "black-friar-salford": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-friar-salford-170824",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "black-lodge-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "black-lodge-west-kirby": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-lodge-west-kirby-132140",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "black-toad": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-toad-hoylake-132582",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "blackedge-brewery-bar-horwich": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/blackedge-brewery-bar-horwich-122793",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA's matching food times may reflect snacks/pop-ups only; no dependable full daily kitchen is established."
+    },
+    "blossoms-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/blossoms-stockport-167301",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "bow-legged-beagle-bromborough": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "brewery-tap-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/brewery-tap-chester-137016",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "bridewell": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bridewell-liverpool-166374",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "britons-protection": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://www.thebritonsprotection.co.uk/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "Hours shown on the official operator website. '00:00' means closing at midnight after the named day."
+    },
+    "broad-street-social-bury": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/broad-street-social-bury-152888",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "bundobust-brewery-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bundobust-brewery-manchester-195129",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA says closing times are *or later*, not a precise last-orders guarantee.",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "bundobust-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      },
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://bundobust.com/locations/liverpool/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "Operator: kitchen closes one hour before the bar. Beer hall and kitchen are the same listed opening period."
+    },
+    "cafe-beermoth": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cafe-beermoth-manchester-137654",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cask-ancoats": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cask-manchester-137327",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cask-liverpool-road": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cask-manchester-137734",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cask-stoneycroft": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cask-liverpool-166044",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA listing last updated 2024; verify hours shortly before a dedicated detour."
+    },
+    "castle-hotel": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/castle-hotel-manchester-137416",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cellar-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cellar-chester-137085",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "chorlton-tap": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/chorlton-tap-chorlton-cum-hardy-130156",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Kitchen runs only on selected days; not equivalent to bar opening.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "circus-tavern": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/circus-tavern-manchester-137595",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA warns actual closing and even opening may vary with season and customers; do not rely on a minute-perfect arrival."
+    },
+    "city-arms": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/city-arms-manchester-137676",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cloudwater-unit-9": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cloudwater-unit-9-manchester-137308",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Taproom hours are separate from booked brewery tours; confirm tour slots."
+    },
+    "cobden-woolton": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cobden-liverpool-165596",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "coop-crosby": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "21:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/coop-liverpool-197076",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "corner-post-crosby": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/corner-post-liverpool-166043",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "costellos-altrincham": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/costellos-bar-altrincham-130228",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cotton-tree-bollington": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:30",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cotton-tree-bollington-173502",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cricketers-arms-st-helens": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cricketers-arms-st-helens-145274",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "16:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "16:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "crown-and-kettle": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/crown-kettle-manchester-137434",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "crown-hotel-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/crown-hotel-liverpool-165905",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "crown-inn-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/crown-inn-stockport-167360",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "dead-crafty-beer-company": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA listing last updated 2025; recheck directly."
+    },
+    "dee-view-inn-heswall": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/dee-view-inn-heswall-131954",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "denbigh-castle": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/denbigh-castle-liverpool-166435",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "dispensary": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/dispensary-liverpool-165589",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "doctor-duncans": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/doctor-duncans-liverpool-166406",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "dunham-apple-barn": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [],
+        "sat": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "18:00"
+          ]
+        ]
+      },
+      "source_url": "https://www.dunhamapples.co.uk/apple-barn",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "Current operator lists Saturday and Sunday only, conflicting with an older CAMRA schedule. Saturday 14 is not usable due to your morning flight; not a practical default."
+    },
+    "eagle-inn-salford": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/eagle-inn-salford-170872",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "fell-chorlton": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/fell-bar-chorlton-chorlton-cum-hardy-129887",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "fell-northern-quarter": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "firkin-newton-le-willows": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/firkin-newton-le-willows-171124",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "fletcher-moss": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/fletcher-moss-didsbury-167389",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "flying-horse-rochdale": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/flying-horse-hotel-rochdale-152986",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "11:30",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "four-ashes": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/four-ashes-liverpool-166246",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "fox-and-pine-oldham": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/fox-pine-oldham-152891",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "freshfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/freshfield-freshfield-146997",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "gallaghers-birkenhead": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "15:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "20:15"
+          ]
+        ]
+      }
+    },
+    "gas-lamp": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/gas-lamp-manchester-137758",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "glen-affric-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "grapes-roscoe-street": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:30",
+            "26:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/grapes-liverpool-166102",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "grasshopper-hillside": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://www.southport.camra.org.uk/viewnode.php?id=37630",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Local CAMRA branch schedule; venue source register did not previously include its pub listing."
+    },
+    "grey-horse-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/grey-horse-manchester-137605",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "grocers-cadishead": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/grocers-cadishead-170709",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "guest-house-southport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/guest-house-southport-147054",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ]
+      }
+    },
+    "handyman-supermarket": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/handyman-supermarket-liverpool-166269",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "hare-and-hounds-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/hare-hounds-manchester-137462",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "heaton-hops": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:30",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:30",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:30",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/heaton-hops-heaton-chapel-167108",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "irwell-works-ramsbottom": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/irwell-works-brewery-tap-ramsbottom-152570",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      }
+    },
+    "kings-arms-salford": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/kings-arms-salford-170904",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "lamb-hotel-eccles": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/lamb-hotel-eccles-170906",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "lass-ogowrie": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/lass-ogowrie-manchester-137609",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "lazy-landlord": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/lazy-landlord-ale-house-liscard-132150",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "lion-tavern": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/lion-tavern-liverpool-165612",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "liverpool-brewing-company-tap": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/liverpool-brewing-company-tap-liverpool-166256",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "longford-tap": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/longford-tap-stretford-129881",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA explicitly says closing may be 'or later'; confirm on the day."
+    },
+    "lower-angel-warrington": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/index.php/pubs/lower-angel-warrington-138136",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "lower-turks-head": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/lower-turks-head-manchester-137359",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "May close earlier when quiet, according to CAMRA."
+    },
+    "magazine-hotel": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/magazine-hotel-new-brighton-132001",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "magnet-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/magnet-stockport-167490",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Wednesday kitchen no service; Thursday–Saturday evening food only per CAMRA.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:30",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "17:30",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "17:30",
+            "21:00"
+          ]
+        ],
+        "sun": []
+      }
+    },
+    "marble-arch": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://marblebeers.com/the-marble-arch/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "Official times are **last bar orders**, not necessarily departure time; Tuesday CLOSED despite a conflicting CAMRA timetable. Food service ends earlier (Monday–Thursday last food orders 20:00).",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "molly-house": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "25:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "25:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/molly-house-manchester-137611",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "20:30"
+          ]
+        ]
+      }
+    },
+    "monro": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/monro-liverpool-166467",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "mr-thomass-chop-house": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/mr-thomass-chop-house-manchester-137704",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "neptune-beerhouse": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/neptune-beerhouse-liverpool-196857",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA details last updated in 2025, despite recent crawling; verify with operator before travelling."
+    },
+    "new-oxford": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/new-oxford-salford-170923",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "northern-monk-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/northern-monk-refectory-manchester-137352",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA lists food from 11:00 though the bar is listed from noon; check actual kitchen service.",
+      "food_days": {
+        "mon": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "northumberland-arms-marple-bridge": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/northumberland-arms-marple-bridge-120589",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "old-harkers-arms-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/old-harkers-arms-chester-137108",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:30"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "old-wellington": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/old-wellington-manchester-137520",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "olde-cottage-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/olde-cottage-chester-137106",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "olde-man-scythe-bolton": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:30"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/olde-man-scythe-bolton-122503",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "olde-vic-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:30",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/olde-vic-stockport-167522",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "our-gracies-rochdale": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "13:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/our-gracies-rochdale-194611",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "park-tavern-macclesfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/index.php/pubs/park-tavern-macclesfield-173129",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "pen-factory": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/pen-factory-liverpool-166023",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "peter-kavanaghs": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/peter-kavanaghs-liverpool-165622",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "petersgate-tap-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/petersgate-tap-stockport-167121",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "peveril-of-the-peak": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/peveril-of-the-peak-manchester-137712",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "philharmonic-dining-rooms": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/philharmonic-dining-rooms-liverpool-165633",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "pied-bull-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/pied-bull-chester-137130",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "pigeon-beer-wanderer": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "plasterers-arms-hoylake": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/plasterers-arms-hoylake-131966",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "port-street-beer-house": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/port-street-beer-house-manchester-137529",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "prairie-schooner-urmston": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/prairie-schooner-taphouse-urmston-129838",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "queens-arms-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/queens-arms-liverpool-199909",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "queens-arms-patricroft": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/queens-arms-patricroft-170948",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Heritage-only exception; do not assume cask availability."
+    },
+    "rat-ratchet-huddersfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/rat-ratchet-huddersfield-178787",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "reasons-to-be-cheerful": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/reasons-to-be-cheerful-burnage-167218",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "red-fox-thornton-hough": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/red-fox-thornton-hough-132147",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ]
+      }
+    },
+    "redwillow-macclesfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/redwillow-macclesfield-173309",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "rising-sun-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/rising-sun-manchester-137719",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "riverhead-marsden": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/riverhead-brewery-tap-marsden-178796",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "rivington-brewery-tap": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/rivington-brewery-co-tap-rivington-180304",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Rural brewery tap; operator events and bank-holiday hours can differ. Tuesday closed.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:30"
+          ]
+        ]
+      }
+    },
+    "roscoe-head": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/roscoe-head-liverpool-166037",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA reported the pub was listed for sale September 2026 due to licensee retirement; a sale does not establish closure. Reconfirm operation before 13 November."
+    },
+    "runaway-brewery-tap-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "15:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/runaway-brewery-tap-stockport-196567",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Closed Wednesday; do not include as a Wednesday Stockport stop without an explicitly announced event.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "18:30"
+          ]
+        ]
+      }
+    },
+    "sadlers-cat": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sadlers-cat-manchester-137300",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "salisbury-ale-house": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/salisbury-ale-house-manchester-137720",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "salutation-hulme": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/salutation-hulme-130175",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Term-time campus pub: student-union trading and real ale may be reduced outside teaching. CAMRA says closings 'or later'."
+    },
+    "sams-chop-house": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sams-chop-house-manchester-137721",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ]
+      }
+    },
+    "scotch-piper": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/scotch-piper-liverpool-165785",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      }
+    },
+    "ship-and-mitre": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/ship-mitre-liverpool-165654",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA currently lists no kitchen service Monday and only evening food Tuesday: do not equate bar opening with lunch.",
+      "food_days": {
+        "mon": [],
+        "tue": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "sinclairs-oyster-bar": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sinclairs-oyster-bar-manchester-137545",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "smithfield-market-tavern": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/smithfield-market-tavern-manchester-137547",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "sportsman-huddersfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sportsman-huddersfield-178836",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "st-peters-tavern": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "26:30"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "25:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/st-peters-tavern-liverpool-198428",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "stalybridge-buffet-bar": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/station-buffet-bar-stalybridge-120842",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "steelfish-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/steelfish-brewing-company-taproom-manchester-199625",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA explicitly warns that these recently opened premises' hours may vary."
+    },
+    "stork-hotel-birkenhead": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/stork-hotel-birkenhead-131918",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Currently an interior-heritage stop, not proof of current real-ale availability."
+    },
+    "sureshot-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sureshot-brewery-taproom-manchester-196628",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "swan-railway-wigan": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/swan-railway-hotel-wigan-172297",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "swan-with-two-necks-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "11:30",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/swan-with-two-necks-stockport-167694",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "tap-and-bottles": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/tap-bottles-southport-147072",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "that-beer-place-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/that-beer-place-chester-136994",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "thomas-rigbys": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/thomas-rigbys-liverpool-165717",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "torr-vale-tap-new-mills": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/torr-vale-tap-new-mills-121072",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "10:00",
+            "16:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "track-brewery-tap": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/track-brewery-tap-manchester-137330",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Published food windows are shorter; taproom hours can change, confirm the date.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "20:30"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "20:30"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      }
+    },
+    "trackside-bury": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/trackside-bury-153438",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ]
+      }
+    },
+    "turks-head-st-helens": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/turks-head-st-helens-145236",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "udders-orchard-cidery": {
+      "status": "event-only",
+      "source_url": "https://www.uddersorchardcider.co.uk/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "No regular weekly opening. Producer advertises Saturday 7 November 2026 noon–20:00 and Sunday 8 November noon–19:00, both BEFORE the trip starts Monday 9 November; December openings are not relevant. Do not convert these events into ordinary weekly hours."
+    },
+    "vernon-arms": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/vernon-arms-liverpool-165852",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ],
+        "sat": [],
+        "sun": []
+      }
+    },
+    "vines": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/vines-liverpool-165623",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "volunteer-canteen": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/volunteer-canteen-liverpool-165823",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "waters-green-tavern-macclesfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/waters-green-tavern-macclesfield-173047",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Sunday may close later than 18:30 depending on custom.",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "sun": []
+      }
+    },
+    "west-kirby-tap": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/west-kirby-tap-west-kirby-132144",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "wharf-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/wharf-manchester-137781",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "wheatsheaf-raby": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/wheatsheaf-inn-raby-132037",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "15:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "15:30"
+          ]
+        ]
+      }
+    },
+    "white-hart-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/white-hart-liverpool-166514",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "white-star-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/white-star-liverpool-165743",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "wigan-central": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/wigan-central-wigan-171968",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "ye-cracke": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cracke-liverpool-165590",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Cask and trading were re-established after earlier closure reports; reconfirm operation."
+    }
+  }
+}

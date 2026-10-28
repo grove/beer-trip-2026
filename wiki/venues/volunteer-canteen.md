@@ -37,6 +37,22 @@ CAMRA confirms changing cask and describes Liverpool Brewing Company involvement
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 16:00–23:00 |
+| Tuesday | 16:00–23:00 |
+| Wednesday | 16:00–23:00 |
+| Thursday | 16:00–23:00 |
+| Friday | 14:00–00:00 (+1 day) |
+| Saturday | 14:00–00:00 (+1 day) |
+| Sunday | 14:00–22:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/volunteer-canteen-liverpool-165823) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

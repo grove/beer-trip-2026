@@ -37,6 +37,24 @@ The operator advertises two casks and ten keg lines each week, plus bottled beer
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | Closed | Closed |
+| Tuesday | Closed | Closed |
+| Wednesday | Closed | Closed |
+| Thursday | 15:00–21:30 | 16:00–21:00 |
+| Friday | 13:00–22:00 | 13:00–21:00 |
+| Saturday | 13:00–22:00 | 13:00–21:00 |
+| Sunday | 13:00–19:00 | 13:00–18:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/runaway-brewery-tap-stockport-196567) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Closed Wednesday; do not include as a Wednesday Stockport stop without an explicitly announced event.
+
 ## Food
 
 CAMRA documents Honest Crust pizza; verify the current vendor and kitchen schedule before relying on it.

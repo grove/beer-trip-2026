@@ -37,6 +37,24 @@ CAMRA’s October 2026 entry records up to three cask handpulls alongside a broa
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | Closed | Closed |
+| Tuesday | Closed | Closed |
+| Wednesday | 12:00–20:30 | 12:00–19:30 |
+| Thursday | 12:00–20:30 | 12:00–19:30 |
+| Friday | 12:00–20:30 | 12:00–19:30 |
+| Saturday | 12:00–20:30 | 12:00–19:30 |
+| Sunday | 12:00–18:30 | 12:00–17:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/rivington-brewery-co-tap-rivington-180304) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Rural brewery tap; operator events and bank-holiday hours can differ. Tuesday closed.
+
 ## Food
 
 Official taproom page says food is served on opening days by changing vendors; check the week’s actual food programme.

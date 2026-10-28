@@ -12,6 +12,8 @@ import json
 from pathlib import Path
 from urllib.parse import quote
 
+from opening_hours import DAYS, compact_hours, load_hours
+
 ROOT = Path(__file__).resolve().parents[1]
 DEST = Path("maps/google-my-maps")
 SITE = "https://grove.github.io/beer-trip-2026/"
@@ -20,6 +22,8 @@ HEADERS = (
     "Priority", "Real cider evidence", "Why visit", "Beer",
     "Cider and perry", "Food", "Visit date (UK)", "Stop order",
     "Visit role", "Visit note", "Wiki profile", "Google Maps",
+    "Monday bar", "Tuesday bar", "Wednesday bar", "Thursday bar",
+    "Friday bar", "Saturday bar", "Sunday bar", "Hours source",
 )
 CIDER = {
     "documented-real": "Real cider documented; check product and stock",
@@ -74,7 +78,7 @@ def maps_url(venue):
     return "https://www.google.com/maps/search/?api=1&query=" + quote(query, safe="")
 
 
-def row(venue, rank, stop_info=None):
+def row(venue, rank, stop_info=None, opening=None):
     date, order, role, note = stop_info if stop_info else ("", "", "", "")
     # Name + full address reduces ambiguous searches like "Marble Arch" (London).
     location = venue["name"] + ", " + venue["address"] + ", United Kingdom"
@@ -85,6 +89,8 @@ def row(venue, rank, stop_info=None):
         compact(venue["cider_note"], 180), compact(venue["food"], 180),
         date, order, role, compact(note, 180),
         SITE + "wiki/venues/" + venue["id"] + "/", maps_url(venue),
+        *(compact_hours(opening, day) for day in DAYS),
+        opening["source_url"] if opening else "",
     )
 
 
@@ -98,6 +104,7 @@ def csv_text(rows):
 
 def outputs():
     by_id, ranking, plan = load()
+    opening = load_hours()["hours"]
     order = {key: i + 1 for i, key in enumerate(ranking)}
     in_routes = {
         stop["venue_id"]: (route["date"], index, stop["role"], stop["note"])
@@ -106,16 +113,17 @@ def outputs():
     }
     files = {
         DEST / "all-venues.csv": csv_text(
-            row(by_id[key], order[key], in_routes.get(key)) for key in ranking
+            row(by_id[key], order[key], in_routes.get(key), opening.get(key)) for key in ranking
         ),
         DEST / "top-20.csv": csv_text(
-            row(by_id[key], order[key], in_routes.get(key)) for key in ranking[:20]
+            row(by_id[key], order[key], in_routes.get(key), opening.get(key)) for key in ranking[:20]
         ),
     }
     for route in plan["routes"]:
         files[DEST / (route["date"] + "-" + route["id"] + ".csv")] = csv_text(
             row(by_id[s["venue_id"]], order[s["venue_id"]],
-                (route["date"], i, s["role"], s["note"]))
+                (route["date"], i, s["role"], s["note"]),
+                opening.get(s["venue_id"]))
             for i, s in enumerate(route["stops"], 1)
         )
     return files

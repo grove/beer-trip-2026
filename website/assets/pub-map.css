@@ -76,6 +76,9 @@
 .md-typeset .pub-map__card p { margin: 0; }
 .md-typeset .pub-map__metadata { font-size: .7rem; color: var(--beer-muted); font-weight: 650; }
 .md-typeset .pub-map__why { font-size: .78rem; line-height: 1.5; flex: 1; }
+.md-typeset .pub-map__hours { margin: 0; color: var(--beer-ink); font-weight: 720; font-size: .75rem; }
+.md-typeset .pub-map__kitchen { margin: 0; color: var(--beer-muted); font-size: .72rem; }
+.pub-map__card > a { font-size: .7rem; }
 .md-typeset .pub-map__note { font-size: .74rem; color: var(--beer-muted); font-style: italic; }
 .md-typeset .pub-map__cider { font-size: .72rem; color: var(--md-accent-fg-color); font-weight: 660; }
 .pub-map__cardlinks { display: flex; gap: 1rem; flex-wrap: wrap; font-size: .75rem; font-weight: 680; }

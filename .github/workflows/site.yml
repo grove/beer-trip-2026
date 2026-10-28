@@ -58,6 +58,7 @@ jobs:
           python scripts/build_rankings.py --check
           python scripts/export_maps.py --check
           python scripts/validate_wiki.py
+          node --check website/assets/venue-hours.js
           node --check website/assets/pub-map.js
           node --check website/assets/venue-finder.js
       - name: Test the site preparation script

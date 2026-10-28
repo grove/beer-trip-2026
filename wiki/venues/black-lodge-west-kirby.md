@@ -37,6 +37,22 @@ Operator confirms Black Lodge cask and keg; CAMRA records changing own-brewery c
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | 16:00–22:00 |
+| Wednesday | 15:00–22:00 |
+| Thursday | 15:00–22:00 |
+| Friday | 13:00–00:00 (+1 day) |
+| Saturday | 13:00–00:00 (+1 day) |
+| Sunday | 13:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/black-lodge-west-kirby-132140) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Operator advertises bar snacks; do not assume a full kitchen.

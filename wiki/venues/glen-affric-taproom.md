@@ -37,6 +37,22 @@ CAMRA explicitly reports no real ale; the operator advertises a large own-beer t
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | Closed |
+| Thursday | 17:00–21:00 |
+| Friday | 15:00–23:00 |
+| Saturday | 13:00–23:00 |
+| Sunday | 13:00–19:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

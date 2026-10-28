@@ -10,6 +10,7 @@ from urllib.parse import unquote, urlparse
 
 from build_wiki import CIDER, PRIORITY, REGIONS, render
 from build_rankings import render_rankings
+from opening_hours import load_hours, validate_hours
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -17,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def main():
     errors = []
     db = json.loads((ROOT / "data/venues.json").read_text())
+    errors.extend(validate_hours(load_hours(), db["venues"]))
     required = {"id", "name", "region", "area", "priority", "venue_type", "address", "why_visit", "beer", "cider_status", "cider_note", "food", "visit_notes", "transport", "tags", "source_checked", "evidence_level", "sources"}
     ids = set()
     total_source_uses = 0

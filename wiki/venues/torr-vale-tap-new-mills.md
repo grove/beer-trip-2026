@@ -37,6 +37,22 @@ October 2026 CAMRA entry records three cask handpumps and Torrside live beer in 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | Closed | Closed |
+| Tuesday | Closed | Closed |
+| Wednesday | 10:00–17:00 | 10:00–16:00 |
+| Thursday | 10:00–22:00 | 10:00–21:00 |
+| Friday | 10:00–22:00 | 10:00–21:00 |
+| Saturday | 10:00–22:00 | 10:00–21:00 |
+| Sunday | 10:00–20:00 | 10:00–19:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/torr-vale-tap-new-mills-121072) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Current operator advertises homemade meals and baked snacks using local produce, with menu and booking links.

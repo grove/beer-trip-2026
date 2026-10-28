@@ -37,6 +37,24 @@ Six cask ales advertised by the pub; CAMRA records regular bitters and changing 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 11:30–23:00 |
+| Tuesday | 11:30–23:00 |
+| Wednesday | 11:30–00:00 (+1 day) |
+| Thursday | 11:30–00:00 (+1 day) |
+| Friday | 11:30–00:00 (+1 day) |
+| Saturday | 11:30–00:00 (+1 day) |
+| Sunday | 12:00–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/roscoe-head-liverpool-166037) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** CAMRA reported the pub was listed for sale September 2026 due to licensee retirement; a sale does not establish closure. Reconfirm operation before 13 November.
+
 ## Food
 
 The pub advertises locally baked hot pies; a useful small meal rather than a restaurant booking.

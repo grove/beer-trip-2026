@@ -37,6 +37,22 @@ CAMRA lists regular cask including Oakham Citra and Titanic Plum Porter, with ch
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–00:00 (+1 day) |
+| Tuesday | 12:00–00:00 (+1 day) |
+| Wednesday | 12:00–00:00 (+1 day) |
+| Thursday | 12:00–00:00 (+1 day) |
+| Friday | 12:00–01:00 (+1 day) |
+| Saturday | 12:00–01:00 (+1 day) |
+| Sunday | 12:00–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/dispensary-liverpool-165589) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA mentions an outside food stall; current vendor and trading times need checking.

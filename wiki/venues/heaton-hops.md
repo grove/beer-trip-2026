@@ -37,6 +37,22 @@ The official site advertises two casks and eight keg lines; CAMRA lists three ch
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | 16:00–21:00 |
+| Wednesday | 16:00–22:00 |
+| Thursday | 16:00–22:00 |
+| Friday | 13:30–22:00 |
+| Saturday | 13:30–22:00 |
+| Sunday | 13:30–21:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/heaton-hops-heaton-chapel-167108) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

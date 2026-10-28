@@ -37,6 +37,22 @@ CAMRA records Brimstage Trapper’s Hat and Ossett White Rat plus changing cask 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–23:00 | 12:00–15:30 |
+| Tuesday | 12:00–23:00 | 12:00–20:15 |
+| Wednesday | 12:00–23:00 | 12:00–20:15 |
+| Thursday | 12:00–23:00 | 12:00–20:15 |
+| Friday | 12:00–00:00 (+1 day) | 12:00–20:15 |
+| Saturday | 11:30–00:00 (+1 day) | 12:00–20:15 |
+| Sunday | 12:00–23:00 | 15:00–20:15 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA lists meals, with different Sunday and Monday service patterns; check before planning lunch.

@@ -2,6 +2,14 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — published opening hours for all 158 venues
+
+Researched ordinary published *bar* opening schedules for **157 venues**, from the linked CAMRA pub guide/local branch or official operator pages, and retained **’Udders Orchard as event-only** (published November 7–8 producer dates are before arrival). Recorded source URL, source type, date (28 October 2026), seven local weekdays, exceptional midnight crossover and separate kitchen hours where independently published in [data/opening-hours.json](../data/opening-hours.json). This is **not** live trading verification or guaranteed November 9–13 opening; an empty published weekday means source-listed closed for an ordinary week, while missing food times mean *unverified*, not no meals.
+
+Regenerated **all 158 individual venue pages** with source-linked bar-hours tables, separate kitchen tables where documented, and qualifications; added the [9–13 November comparison](opening-hours.md) for quick route decisions. Updated the [venue finder](https://grove.github.io/beer-trip-2026/explore/) and the [interactive map](https://grove.github.io/beer-trip-2026/map/) with source-aware daily hours; the finder can filter by source-listed weekdays (never claiming "open now"). All seven [Google My Maps CSVs](../maps/google-my-maps/README.md) now include Monday–Sunday bar hours and an Hours source URL. Built a formatter/schema validator and tests to preserve date, timezone, closed/event-only distinction, overlapping periods, and after-midnight notation.
+
+**Important checks:** Marble Arch's *official* Tuesday closure supersedes the CAMRA conflict; its Monday kitchen last-order timing is separate from bar opening. Track, Runaway and other taprooms have limited service, and campus, older guide and seasonal schedules may change. Roscoe Head's September sale announcement is not a closure notice. Users must recheck venue/bar and kitchen sessions directly before visiting. No venue contacted; no reservation or beer-stock claims.
+
 ## 2026-10-28 — geographical companion and shareable Google My Maps exports
 
 Added a route-aware [interactive map](https://grove.github.io/beer-trip-2026/map/), plus [downloadable Google My Maps CSV layers](../maps/google-my-maps/README.md) for all 158 venues, the top 20 and each of the five flight-feasible Mon–Fri visit days. Added deterministic `scripts/export_maps.py` and `data/map-routes.json`, with rank/venue/route integrity checks. The route sequences are *options*, never compulsory stops or promises of opening. Saturday 14 is still airport-only. The native map exposes priority, region, cider status, text search and day filters, plus detailed wiki links and **full-address** Google Maps directions.

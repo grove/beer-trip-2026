@@ -12,6 +12,7 @@ Research date: 2026-10-28. Venue count: 158. Relative links resolve from this re
 - [Cider guide](wiki/real-cider.md): evidence states and product qualification.
 - [Shortlists](wiki/shortlists.md): strongest matches by interest.
 - [Five-day plan](wiki/five-day-plan.md): modular route with substitutions.
+- [Opening hours](wiki/opening-hours.md): source-backed ordinary bar and food hours, not guaranteed November sessions.
 - [Excursions](wiki/excursions.md): time and interest tradeoffs.
 - [November events](wiki/november-events.md): advertised 2026 opportunities.
 - [Logistics](wiki/logistics.md): confirmed November transport cautions.

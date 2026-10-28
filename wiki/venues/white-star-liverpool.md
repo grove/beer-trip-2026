@@ -37,6 +37,22 @@ CAMRA lists Draught Bass as a regular cask beer with changing guests.
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 11:30–22:30 |
+| Tuesday | 11:30–22:30 |
+| Wednesday | 11:30–22:30 |
+| Thursday | 11:30–23:00 |
+| Friday | 11:30–23:00 |
+| Saturday | 11:30–00:00 (+1 day) |
+| Sunday | 11:30–22:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/white-star-liverpool-165743) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

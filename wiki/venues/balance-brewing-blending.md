@@ -37,6 +37,24 @@ Wild and sour beers are the core offering, with rotating draught and bottles. CA
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | Closed |
+| Thursday | 17:00–22:00 |
+| Friday | 14:00–22:00 |
+| Saturday | 12:00–22:00 |
+| Sunday | 14:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/balance-brewing-blending-taproom-manchester-197178) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Regular taproom pattern; advertised cider-club meetings or ticketed events may differ.
+
 ## Food
 
 CAMRA reports delivered pizza; confirm arrangements. The taproom does not establish a full kitchen.

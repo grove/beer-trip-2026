@@ -37,6 +37,24 @@ The operator advertises twenty draught taps plus two cask lines, including curre
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 14:00–22:00 |
+| Tuesday | 14:00–22:00 |
+| Wednesday | 14:00–22:00 |
+| Thursday | 14:00–22:00 |
+| Friday | 12:00–22:00 |
+| Saturday | 12:00–22:00 |
+| Sunday | 12:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/cloudwater-unit-9-manchester-137308) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Taproom hours are separate from booked brewery tours; confirm tour slots.
+
 ## Food
 
 Cold snacks; rotating street-food traders are usually offered at weekends. The operator permits outside food when no trader is present.

@@ -37,6 +37,22 @@ Riverhead ales brewed onsite, Ossett beers and guests; CAMRA reports a broad cas
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–23:00 | Closed |
+| Tuesday | 12:00–23:00 | Closed |
+| Wednesday | 12:00–23:00 | 12:00–15:00, 17:00–21:00 |
+| Thursday | 12:00–23:00 | 12:00–15:00, 17:00–21:00 |
+| Friday | 12:00–00:00 (+1 day) | 12:00–15:00, 17:00–21:00 |
+| Saturday | 12:00–00:00 (+1 day) | 12:00–21:00 |
+| Sunday | 12:00–23:00 | 12:00–19:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/riverhead-brewery-tap-marsden-178796) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Official site advertises bao and loaded fries/Asian street food; CAMRA notes no meals Monday/Tuesday. Confirm kitchen days.

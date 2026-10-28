@@ -37,6 +37,22 @@ Three rotating cask beers covering modern and traditional styles according to CA
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 14:00–23:00 |
+| Tuesday | 14:00–23:00 |
+| Wednesday | 14:00–23:00 |
+| Thursday | 14:00–23:00 |
+| Friday | 14:00–00:00 (+1 day) |
+| Saturday | 12:00–00:00 (+1 day) |
+| Sunday | 12:00–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 No current substantial meal offer established.

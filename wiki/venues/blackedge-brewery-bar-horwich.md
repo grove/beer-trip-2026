@@ -37,6 +37,24 @@ CAMRA documents up to seven Blackedge cask beers plus brewery-conditioned beers;
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | 16:00–22:30 |
+| Thursday | 16:00–22:30 |
+| Friday | 15:00–23:00 |
+| Saturday | 13:00–23:00 |
+| Sunday | 13:00–21:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/blackedge-brewery-bar-horwich-122793) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** CAMRA's matching food times may reflect snacks/pop-ups only; no dependable full daily kitchen is established.
+
 ## Food
 
 Locally made pork pies are documented. Do not assume summer pop-up catering runs in November.

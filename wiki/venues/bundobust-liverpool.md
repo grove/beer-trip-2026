@@ -37,6 +37,24 @@ Official location page advertises ten keg and two cask lines, with Bundobust Bre
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–22:30 | 12:00–21:30 |
+| Tuesday | 12:00–22:30 | 12:00–21:30 |
+| Wednesday | 12:00–22:30 | 12:00–21:30 |
+| Thursday | 12:00–22:30 | 12:00–21:30 |
+| Friday | 12:00–23:00 | 12:00–22:00 |
+| Saturday | 12:00–23:00 | 12:00–22:00 |
+| Sunday | 12:00–21:00 | 12:00–20:00 |
+
+**Hours source:** [Operator](https://bundobust.com/locations/liverpool/) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Operator: kitchen closes one hour before the bar. Beer hall and kitchen are the same listed opening period.
+
 ## Food
 
 Entire food menu is vegetarian with vegan options according to the official FAQ; Indian dishes intended for sharing. Check the current menu and allergens.

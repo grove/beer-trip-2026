@@ -37,6 +37,14 @@ A cider destination; a meaningful cask-ale range has not been established.
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Event-only — no regular weekly bar schedule.** No regular weekly opening. Producer advertises Saturday 7 November 2026 noon–20:00 and Sunday 8 November noon–19:00, both BEFORE the trip starts Monday 9 November; December openings are not relevant. Do not convert these events into ordinary weekly hours.
+
+**Source:** [Operator](https://www.uddersorchardcider.co.uk/) (researched 2026-10-28).
+
+A special opening is not an ordinary Monday–Sunday schedule. Confirm new events with the organiser.
+
 ## Food
 
 Food for the relevant November opening is not established; check the event information and plan separately.

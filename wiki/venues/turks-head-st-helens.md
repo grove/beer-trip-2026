@@ -37,6 +37,22 @@ CAMRA’s October 2026 record describes fourteen rotating cask handpulls; curren
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–23:00 | 12:00–20:00 |
+| Tuesday | 12:00–23:00 | 12:00–20:00 |
+| Wednesday | 12:00–23:00 | 12:00–20:00 |
+| Thursday | 12:00–23:00 | 12:00–20:00 |
+| Friday | 12:00–00:00 (+1 day) | 12:00–20:00 |
+| Saturday | 12:00–00:00 (+1 day) | 12:00–20:00 |
+| Sunday | 12:00–23:00 | 12:00–19:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/turks-head-st-helens-145236) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA documents homemade meals daily and an additional neighbouring grill arrangement; verify the kitchen/menu for your visit.

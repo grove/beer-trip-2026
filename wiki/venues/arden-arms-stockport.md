@@ -37,6 +37,24 @@ Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–23:00 | 12:00–14:30 |
+| Tuesday | 12:00–23:00 | 12:00–14:30 |
+| Wednesday | 12:00–23:00 | 12:00–14:30 |
+| Thursday | 12:00–23:00 | 12:00–14:30, 17:00–19:00 |
+| Friday | 12:00–00:00 (+1 day) | 12:00–14:30, 17:00–19:00 |
+| Saturday | 12:00–00:00 (+1 day) | 12:00–19:00 |
+| Sunday | 12:00–23:00 | 12:00–18:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/arden-arms-stockport-167276) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Lunch matters on Wednesday; a pub being open later does not mean the kitchen is.
+
 ## Food
 
 Home-cooked lunches and Sunday roasts are advertised by Robinsons. Evening kitchen service is more limited than pub opening.

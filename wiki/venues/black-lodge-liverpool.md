@@ -37,6 +37,22 @@ The brewery explicitly advertises its own beers on cask and keg; CAMRA records c
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | Closed | Closed |
+| Tuesday | Closed | Closed |
+| Wednesday | Closed | Closed |
+| Thursday | 16:00–21:00 | Closed |
+| Friday | 16:00–21:00 | Closed |
+| Saturday | 12:00–22:00 | 12:00–22:00 |
+| Sunday | 13:00–19:00 | 15:00–18:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Official home-taproom page names Fatback Burgers; confirm the trader and service for your date.

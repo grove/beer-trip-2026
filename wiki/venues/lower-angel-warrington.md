@@ -37,6 +37,22 @@ CAMRA’s August 2026 record reports nine rotating guest ales, usually including
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 10:00–23:30 |
+| Tuesday | 10:00–23:30 |
+| Wednesday | 10:00–23:30 |
+| Thursday | 10:00–23:30 |
+| Friday | 10:00–00:00 (+1 day) |
+| Saturday | 10:00–00:00 (+1 day) |
+| Sunday | 12:00–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/index.php/pubs/lower-angel-warrington-138136) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

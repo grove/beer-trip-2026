@@ -37,6 +37,22 @@ Five changing cask ales with local producers prominent, plus keg from regional b
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | 13:00–21:30 |
+| Thursday | 13:00–22:30 |
+| Friday | 13:00–23:30 |
+| Saturday | 13:00–23:30 |
+| Sunday | 13:00–22:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/our-gracies-rochdale-194611) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established as a meal destination; eat at the Baum or elsewhere in Rochdale.

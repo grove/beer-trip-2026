@@ -37,6 +37,24 @@ CAMRA records cask ale; the branch listing names Timothy Taylor Boltmaker as a r
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–15:00, 17:00–22:30 | 12:00–14:00, 17:00–20:00 |
+| Tuesday | 12:00–15:00, 17:00–22:30 | 12:00–14:00, 17:00–20:00 |
+| Wednesday | Closed | Closed |
+| Thursday | 12:00–15:00, 17:00–23:00 | 12:00–14:00, 17:00–20:00 |
+| Friday | 12:00–15:00, 17:00–23:00 | 12:00–14:00, 17:00–20:00 |
+| Saturday | 12:00–15:00, 18:00–23:00 | 12:00–14:00, 18:00–20:30 |
+| Sunday | Closed | Closed |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/albion-chester-137073) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Historic split-session pub; Wednesday and Sunday closed; check before a Chester trip.
+
 ## Food
 
 CAMRA documents home-cooked dishes, including curries and daily specials; confirm the particular service.

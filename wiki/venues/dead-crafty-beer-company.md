@@ -37,6 +37,24 @@ CAMRA explicitly reports no cask ale. The venue specialises in rotating craft ke
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 15:00–23:00 |
+| Tuesday | 15:00–23:00 |
+| Wednesday | 15:00–23:00 |
+| Thursday | 15:00–23:00 |
+| Friday | 12:00–00:00 (+1 day) |
+| Saturday | 12:00–00:00 (+1 day) |
+| Sunday | 12:00–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** CAMRA listing last updated 2025; recheck directly.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

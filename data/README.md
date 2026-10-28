@@ -11,6 +11,21 @@
 | [sources.json](sources.json) | Generated, deduplicated venue sources with stable URL-derived IDs and a list of venue claims supported. |
 | [events.json](events.json) | Event dates, sources, `usable_local_dates` for flight-feasible sessions and `trip_status` indicating before/after/overlap. Times in prose are UK local. |
 | [map-routes.json](map-routes.json) | Named *optional/conditional* stop sequences for Mon 9–Fri 13 November. No Saturday venue day. Drives the website's day filter and downloadable My Maps CSV layers. |
+| [opening-hours.json](opening-hours.json) | Independent source-backed UK-local **bar schedules**, optional **kitchen service**, 2026-10-28 checked date, conflict notes and event-only status; shown on every venue page and downloadable My Maps CSV. |
+
+## Opening-hours dataset
+
+The venue records stay unchanged; the separate [opening-hours.json](opening-hours.json) joins by stable venue `id`. **157 published ordinary weekly schedules** are accompanied by **one `event-only` cidery**. All 158 are represented, but not all have full kitchen details.
+
+- `schema_version: 1`, `checked_on: 2026-10-28`, `timezone: Europe/London`: publication research date, **not** a promise of opening on 9–14 November.
+- `hours.<venue_id>.status`: `published` for ordinary weekly hours, or `event-only` for occasional producer openings without a regular schedule.
+- `days.mon` … `days.sun`: arrays of **24-hour local clock [start, end] pairs** for published bar service. `[]` means *source-listed closed* on that weekday, **not** an independently verified closure on a future date. Intervals such as `["15:30", "26:30"]` mean 15:30 to 02:30 the following calendar day.
+- `food_days`: *optional*, separate kitchen service intervals. Absence means **not documented**; an empty day inside a documented kitchen schedule means the *source lists no kitchen service*. Pub food descriptions on `venues.json` remain separate.
+- `source_url`, `source_type` (`official` / `camra`) and `checked_on` support the precise hours claim. `note` preserves timetable conflicts, special events, term-time operations, seasonal caveats and 2026 trading concerns.
+
+For example, **Marble Arch is closed Tuesday under its current official operator timetable**, despite a conflicting CAMRA schedule. **’Udders Orchard** has explicitly **event-only** November 7–8 openings *before the trip*, not normal weekend hours. Another brewery tap may open its **bar** on a weekday but offer **no kitchen** that day.
+
+Run `python3 scripts/build_wiki.py` to regenerate each venue’s [published-hours section](../wiki/venues/marble-arch.md) and the [9–13 November comparison table](../wiki/opening-hours.md). Run `python3 scripts/export_maps.py` after changing hours so all seven Google My Maps CSV files contain consistent **Monday–Sunday bar columns and direct hours source URLs**. The [venue finder](https://grove.github.io/beer-trip-2026/explore/) and [map](https://grove.github.io/beer-trip-2026/map/) read the JSON dynamically. `scripts/validate_wiki.py` checks the schema, interval boundaries, source provenance and generated content.
 
 ## Venue record
 

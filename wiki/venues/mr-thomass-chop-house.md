@@ -37,6 +37,22 @@ CAMRA reports cask handpumps in the front and main rooms, with four of six in us
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–22:30 | 12:00–20:30 |
+| Tuesday | 12:00–22:30 | 12:00–20:30 |
+| Wednesday | 12:00–22:30 | 12:00–20:30 |
+| Thursday | 12:00–22:30 | 12:00–20:30 |
+| Friday | 12:00–23:00 | 12:00–21:30 |
+| Saturday | 12:00–23:00 | 12:00–21:30 |
+| Sunday | 12:00–22:00 | 12:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/mr-thomass-chop-house-manchester-137704) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Traditional British cooking and Sunday service; the operator publishes current seasonal menus. Book if this is your main meal.

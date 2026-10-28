@@ -37,6 +37,24 @@ The pub advertises fourteen cask lines plus changing keg and international bottl
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 16:00–23:00 | Closed |
+| Tuesday | 16:00–23:00 | Closed |
+| Wednesday | 16:00–23:00 | Closed |
+| Thursday | 16:00–23:00 | 17:30–21:00 |
+| Friday | 12:00–23:00 | 17:30–21:00 |
+| Saturday | 12:00–23:00 | 17:30–21:00 |
+| Sunday | 12:00–23:00 | Closed |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/magnet-stockport-167490) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Wednesday kitchen no service; Thursday–Saturday evening food only per CAMRA.
+
 ## Food
 
 Pork pies and snacks; official site advertises evening pizza on Thursday, Friday and Saturday. Verify the November schedule.

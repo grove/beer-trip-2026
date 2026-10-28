@@ -37,6 +37,24 @@ Official university page confirms cask on handpull; CAMRA describes changing gue
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 11:30–23:00 |
+| Tuesday | 11:30–23:00 |
+| Wednesday | 11:30–23:00 |
+| Thursday | 11:30–23:00 |
+| Friday | 11:30–23:00 |
+| Saturday | 11:30–23:00 |
+| Sunday | Closed |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/augustus-john-liverpool-166520) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** University-run venue: Saturday opening during term time only; summer and Christmas schedules differ.
+
 ## Food
 
 The university advertises pizza; a practical bite rather than a destination meal.

@@ -37,6 +37,24 @@ CAMRA records eight changing cask beers; the pub also maintains a broad continen
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 11:00–23:00 | Closed |
+| Tuesday | 11:00–23:00 | 17:00–21:00 |
+| Wednesday | 11:00–23:00 | 12:00–21:00 |
+| Thursday | 11:00–23:00 | 12:00–21:00 |
+| Friday | 11:00–00:00 (+1 day) | 12:00–21:00 |
+| Saturday | 11:00–00:00 (+1 day) | 12:00–21:00 |
+| Sunday | 11:00–23:00 | 12:00–18:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/ship-mitre-liverpool-165654) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** CAMRA currently lists no kitchen service Monday and only evening food Tuesday: do not equate bar opening with lunch.
+
 ## Food
 
 One Pan Band kitchen: official menu includes beef scouse, vegetarian blind scouse and other pub dishes; menus change.

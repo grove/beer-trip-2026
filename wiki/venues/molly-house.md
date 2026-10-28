@@ -37,6 +37,22 @@ Four handpumps are documented, not necessarily all in use, with local beer and v
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 13:00–23:00 | 13:00–20:30 |
+| Tuesday | 13:00–23:00 | 13:00–20:30 |
+| Wednesday | 13:00–23:00 | 13:00–20:30 |
+| Thursday | 13:00–23:00 | 13:00–20:30 |
+| Friday | 13:00–01:30 (+1 day) | 13:00–20:30 |
+| Saturday | 13:00–01:30 (+1 day) | 13:00–20:30 |
+| Sunday | 13:00–23:00 | 13:00–20:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/molly-house-manchester-137611) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Fresh tapas with vegetarian/vegan choices documented. A strong meal candidate.
