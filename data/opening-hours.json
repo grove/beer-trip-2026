@@ -421,6 +421,57 @@
         ]
       }
     },
+    "britons-protection": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://www.thebritonsprotection.co.uk/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "Hours shown on the official operator website. '00:00' means closing at midnight after the named day."
+    },
     "bundobust-brewery-manchester": {
       "status": "published",
       "days": {
@@ -1119,6 +1170,56 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/fell-bar-chorlton-chorlton-cum-hardy-129887",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "fell-northern-quarter": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -2186,6 +2287,46 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "pigeon-beer-wanderer": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "port-street-beer-house": {
       "status": "published",
       "days": {
@@ -2800,6 +2941,306 @@
           [
             "12:00",
             "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "smithfield-market-tavern": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/smithfield-market-tavern-manchester-137547",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "steelfish-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/steelfish-brewing-company-taproom-manchester-199625",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA explicitly warns that these recently opened premises' hours may vary."
+    },
+    "sureshot-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sureshot-brewery-taproom-manchester-196628",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "track-brewery-tap": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/track-brewery-tap-manchester-137330",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Published food windows are shorter; taproom hours can change, confirm the date.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "20:30"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "20:30"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      }
+    },
+    "wharf-manchester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/wharf-manchester-137781",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
           ]
         ],
         "sun": [
