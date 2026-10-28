@@ -2,6 +2,14 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — deeper pub stories and a drinker's field guide
+
+Added four fully sourced editorial companions: [Manchester](stories-manchester.md) (Marble Arch's Shap granite, tiled drink list and folklore, Peveril road rescue and Cracker appearance, historic serving arrangements), [Stockport and excursions](stories-stockport-and-excursions.md) (Raffald family, Robinsons' 1899 Old Tom story and the **7 November 2026 cask launch at Arden Arms and Swan**, plus perry/cider cellar leads), [Liverpool](stories-liverpool.md) (Cain/Thomas architectural rivalry, Lion locomotive, Bridewell cells, Dickens-and-Hogarth interiors) and [What to drink](what-to-drink.md) (named dated beer candidates, tasting passport, style and condition cues, precise real-cider/perry qualification questions).
+
+Added a **new September 2026 CAMRA report that Roscoe Head is up for sale** after the licensee decided to retire, with an explicit distinction between a **sale** and a closure. Linked the caveat from the itinerary, shortlists and changes register. These new articles supplement the canonical 158-venue dataset and **do not replace or regenerate venue records**. Primary sources include Historic England listing/walks, Robinsons and Marble breweries, and dated CAMRA records and awards. Original prose separates documented anecdotes from pub lore, current source assertions from November stock guesses, and optionals from the four-day itinerary. No bookings or on-site verification.
+
+**Maintenance:** The site navigation, wiki index, README, existing beer/cider guides and homepage have crosslinks to the new articles. The generated canonical venue content and source register remain untouched. Validate internal links and site build; cited external pages remain independent and can change.
+
 ## 2026-10-28 — exact flights, 2026 awards, ranking and revised programme
 
 The travellers supplied flight confirmations: **DY1348 Mon 9 November OSL 16:45 → MAN 17:50** and **SK4608 Sat 14 November MAN 12:25 → OSL 15:25** (local times). This is five nights, **four full days**. Replaced the initial generic itinerary and logistics with local-time dated hour blocks, airport buffers, Wednesday Stockport visit, Thursday/Friday Liverpool, and a recommended Manchester final night to protect Saturday’s flight. Added festival filter, now identifying only November 12–13 as usable session days; confirmed published late-night rail engineering 9–12 November.
