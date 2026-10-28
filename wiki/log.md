@@ -2,6 +2,14 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — Untappd venue lookups for the whole longlist
+
+Added an **Untappd link for every one of the 158 venues**: **52 address-matched direct venue pages** and **106 explicitly labelled venue searches** where a specific venue identity was not independently confirmed. The venue-link type and URL live in the canonical `data/venues.json` so each generated venue profile, the all-venue drink reference, the browser map, and the Google My Maps exports can reuse the same link.
+
+Untappd can expose a venue-operated menu at some verified locations, but unverified places usually expose only users' check-ins. **Neither is a real-time guaranteed tap list**, and a check-in or cider brand is not proof of stock or CAMRA real-cider qualification. Untappd's venue information is separate from brewery product pages. No availability on 9–13 November is inferred.
+
+
+
 ## 2026-10-28 — brewery and cider leads for each of 158 venues
 
 Added a source-linked [all-venue beer and cider guide](drinks-by-venue.md) with the existing independent beer/cider evidence on each of the 158 records, supplementing that with **56 specific beer/producer research leads** and **11 additional cider/perry leads**. The named examples distinguish operator/CAMRA regulars, rotating suppliers, seasonal exceptions and recently spotted beers; the guide gives a shorter version for the travel-feasible 9–13 November route. Research uses dated CAMRA/branch listings, existing operator sources and a clearly identified changing public menu snapshot.

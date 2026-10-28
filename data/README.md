@@ -36,6 +36,7 @@ Run `python3 scripts/build_wiki.py` to regenerate each venue’s [published-hour
 | `cluster` | Broader editorial grouping for a readable area directory. It is not a claim that every venue is walkable from every other venue in that group. |
 | `priority` | `essential`, `high` or `specialist`; interpreted in the [methodology](../wiki/methodology.md). |
 | `why_visit` | Specific editorial reason the venue fits this trip. |
+| `untappd` | Convenience link `{url, kind}`: `venue` is an address-matched Untappd venue profile; `search` is an **unconfirmed** venue-name/locality search. Neither proves a live menu or real-cider status. |
 | `beer` | Documented beer programme and limitations; never a live tap list. |
 | `cider_status`, `cider_note` | Separate cider evidence classification and explanation. See below. |
 | `food` | Evidence about meals, snacks, pop-ups or the absence of established information. |

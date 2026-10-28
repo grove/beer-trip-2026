@@ -265,7 +265,11 @@
       maps.href = mapsSearch(venue);
       maps.target = "_blank";
       maps.rel = "noopener noreferrer";
-      div.append(wiki, element("span", "", " · "), maps);
+      const untappd = element("a", "", venue.untappd?.kind === "venue" ? "Untappd venue" : "Search Untappd");
+      untappd.href = venue.untappd?.url || "https://untappd.com/search";
+      untappd.target = "_blank";
+      untappd.rel = "noopener noreferrer";
+      div.append(wiki, element("span", "", " · "), maps, element("span", "", " · "), untappd);
       return div;
     }
 
@@ -302,7 +306,11 @@
       destination.href = mapsSearch(venue);
       destination.target = "_blank";
       destination.rel = "noopener noreferrer";
-      buttons.append(details, destination);
+      const untappd = element("a", "", venue.untappd?.kind === "venue" ? "Untappd venue" : "Search Untappd");
+      untappd.href = venue.untappd?.url || "https://untappd.com/search";
+      untappd.target = "_blank";
+      untappd.rel = "noopener noreferrer";
+      buttons.append(details, destination, untappd);
       item.append(buttons);
       if (!coordinates[postcode(venue.address)]) {
         item.append(element("span", "pub-map__unlocated", "Address search only — no approximate pin"));

@@ -23,7 +23,7 @@ HEADERS = (
     "Cider and perry", "Food", "Visit date (UK)", "Stop order",
     "Visit role", "Visit note", "Wiki profile", "Google Maps",
     "Monday bar", "Tuesday bar", "Wednesday bar", "Thursday bar",
-    "Friday bar", "Saturday bar", "Sunday bar", "Hours source",
+    "Friday bar", "Saturday bar", "Sunday bar", "Hours source", "Untappd",
 )
 CIDER = {
     "documented-real": "Real cider documented; check product and stock",
@@ -90,7 +90,7 @@ def row(venue, rank, stop_info=None, opening=None):
         date, order, role, compact(note, 180),
         SITE + "wiki/venues/" + venue["id"] + "/", maps_url(venue),
         *(compact_hours(opening, day) for day in DAYS),
-        opening["source_url"] if opening else "",
+        opening["source_url"] if opening else "", venue["untappd"]["url"],
     )
 
 

@@ -42,6 +42,14 @@ def first_sentence(text):
     return text
 
 
+
+def untappd_cell(venue):
+    """Link to a matched Untappd venue or clearly labelled search fallback."""
+    entry = venue["untappd"]
+    if entry["kind"] == "venue":
+        return f"[Venue page]({entry['url']}) — menu if maintained, otherwise user check-ins; not guaranteed current stock"
+    return f"[Search for venue]({entry['url']}) — match not confirmed; check the address before trusting check-ins"
+
 def render():
     db = json.loads((ROOT / "data/venues.json").read_text())
     venues = db["venues"]
@@ -75,6 +83,7 @@ def render():
             f"| Priority | {venue['priority'].title()} |",
             f"| Type | {cell(venue['venue_type'])} |",
             f"| Address | {cell(venue['address'])} · [Map search]({map_url}) |",
+            f"| Untappd | {untappd_cell(venue)} |",
             f"| Evidence | {venue['evidence_level']} |",
             f"| Sources checked | {venue['source_checked']} — not a live opening or stock guarantee |", "",
             "## Why visit", "", venue["why_visit"], "",
