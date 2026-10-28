@@ -306,6 +306,87 @@
         ]
       }
     },
+    "augustus-john": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "sun": []
+      },
+      "source_url": "https://camra.org.uk/pubs/augustus-john-liverpool-166520",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "University-run venue: Saturday opening during term time only; summer and Christmas schedules differ."
+    },
+    "azvex-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/azvex-brewery-taproom-liverpool-195914",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "b33r-at-33-horwich": {
       "status": "published",
       "days": {
@@ -391,6 +472,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28",
       "note": "Regular taproom pattern; advertised cider-club meetings or ticketed events may differ."
+    },
+    "baltic-fleet": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/baltic-fleet-liverpool-165741",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "bank-top-ale-house-horwich": {
       "status": "published",
@@ -736,6 +867,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "belvedere": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/belvedere-liverpool-166445",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "black-friar-salford": {
       "status": "published",
       "days": {
@@ -829,6 +1010,105 @@
           ]
         ]
       }
+    },
+    "black-lodge-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
+    "black-lodge-west-kirby": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-lodge-west-kirby-132140",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "blackedge-brewery-bar-horwich": {
       "status": "published",
@@ -1201,6 +1481,101 @@
         ]
       }
     },
+    "bundobust-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      },
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://bundobust.com/locations/liverpool/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "Operator: kitchen closes one hour before the bar. Beer hall and kitchen are the same listed opening period."
+    },
     "cafe-beermoth": {
       "status": "published",
       "days": {
@@ -1350,6 +1725,57 @@
       "source_url": "https://camra.org.uk/pubs/cask-manchester-137734",
       "source_type": "camra",
       "checked_on": "2026-10-28"
+    },
+    "cask-stoneycroft": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cask-liverpool-166044",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA listing last updated 2024; verify hours shortly before a dedicated detour."
     },
     "castle-hotel": {
       "status": "published",
@@ -1941,6 +2367,100 @@
         ]
       }
     },
+    "crown-hotel-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/crown-hotel-liverpool-165905",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
     "crown-inn-stockport": {
       "status": "published",
       "days": {
@@ -1985,6 +2505,57 @@
       "source_url": "https://camra.org.uk/pubs/crown-inn-stockport-167360",
       "source_type": "camra",
       "checked_on": "2026-10-28"
+    },
+    "dead-crafty-beer-company": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA listing last updated 2025; recheck directly."
     },
     "dunham-apple-barn": {
       "status": "published",
