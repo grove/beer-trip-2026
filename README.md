@@ -18,6 +18,7 @@ Flight times are transcribed from the supplied booking screenshots; not live fli
 | --- | --- |
 | **What is best?** | **[Full 1–158 relevance ranking](wiki/rankings.md)** — both overall and within each region, with a distinct top 15 |
 | **What can we actually fit?** | **[9–14 November dated schedule](wiki/five-day-plan.md)** — actual flight constraints, opening-day caveats and 4 full-day walks |
+| **When are the pubs and kitchens open?** | **[9–13 November published-hours comparison](wiki/opening-hours.md)** — sourced bar hours for 157 venues, event-only dates for 1 cidery, kitchen schedules where reported; **not a guarantee of November service** |
 | **Where are the pubs on a map?** | **[Interactive beer-trip map](https://grove.github.io/beer-trip-2026/map/)** — filters, day-by-day walking suggestions, exact-address Google Maps links; **[Google My Maps CSV exports](maps/google-my-maps/README.md)** for sharing all 158 locations |
 | Which pubs have the strongest cask/cider and heritage? | [Shortlists by experience, food and brewery focus](wiki/shortlists.md) |
 | **What exactly should we order?** | **[Cask and real-cider field guide](wiki/what-to-drink.md)** — named 2026 beer leads, tasting prompts, Old Tom after its Nov 7 launch, cider/perry questions |
@@ -57,11 +58,13 @@ This is a planned route, not a guarantee that a listed pint, food service, festi
 
 The expanded edition links **269 distinct venue-source URLs** through **277 venue evidence uses**. **77 venue records** have documented real-cider evidence, **including explicit occasional supply**, so this does not mean 77 guaranteed daily cider ranges. The 2026 updates added Fox & Pine, The Coop, Our Gracie’s, Fell Northern Quarter and other strong candidates, plus current awards for Café Beermoth, Marble Arch and more.
 
+**Opening-hours coverage (researched 28 October 2026):** all **158 venues** now have a separate opening-hours record: **157 normal weekly schedules** and **one event-only producer**. Each venue page cites its operator or CAMRA hours source, displays after-midnight closings explicitly and lists kitchen times separately when documented. These are ordinary *published* schedules, not confirmed trading on your dates. The [venue finder](https://grove.github.io/beer-trip-2026/explore/) can filter by a selected day’s published opening; the [map](https://grove.github.io/beer-trip-2026/map/) shows published hours for its selected trip day. Check critical anchors directly before travel.
+
 Every venue is included for a specific reason. Heritage-only stops without cask and modern-beer specialists are clearly identified as exceptions. The global ranking is an **editorial comparative judgement, not firsthand tasting results**. Each page separates cider evidence from cask and explains opening/food limitations. The complete longlist is for **choice and flexibility**, not for attempting to drink at 158 places.
 
 ## LLM and maintenance use
 
-Start with [llms.txt](llms.txt), the [wiki index](wiki/index.md), the [ranking JSON](data/rankings.json), the [canonical venue JSON](data/venues.json) and the [events JSON](data/events.json). IDs are stable across prose pages and structured records; the [source registry](data/sources.json) records what each URL supports.
+Start with [llms.txt](llms.txt), the [opening-hours data](data/opening-hours.json), the [wiki index](wiki/index.md), the [ranking JSON](data/rankings.json), the [canonical venue JSON](data/venues.json) and the [events JSON](data/events.json). IDs are stable across prose pages and structured records; the [source registry](data/sources.json) records what each URL supports.
 
 Python **3.9+** and no third-party packages:
 
