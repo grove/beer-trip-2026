@@ -6,7 +6,7 @@
 
 City pubs, heritage rooms, cider specialists and selected brewery experiences.
 
-**49 selected venues. Sources checked 2026-10-28.** Priority is relative to the area's specialism; use the [shortlists](../shortlists.md) to choose across the entire trip.
+**51 selected venues. Sources checked 2026-10-28.** Priority is relative to the area's specialism; use the [shortlists](../shortlists.md) to choose across the entire trip.
 
 ## Burnage / Fog Lane
 
@@ -58,6 +58,7 @@ City pubs, heritage rooms, cider specialists and selected brewery experiences.
 | [Balance Brewing & Blending](../venues/balance-brewing-blending.md) | high | One of the most distinctive experiences for travellers who already know Europe’s beer cities. | Real cider documented; reconfirm stock |
 | [Cloudwater Unit 9](../venues/cloudwater-unit-9.md) | high | A substantial modern brewery experience with cask and documented real cider alongside the broader draught range. | Real cider documented; reconfirm stock |
 | [Track Brewery Tap](../venues/track-brewery-tap.md) | high | A brewery experience with a clear cask component, making it a useful modern complement to the traditional-pub days. | Real-cider offering not established |
+| [Pigeon Beer Wanderer](../venues/pigeon-beer-wanderer.md) | specialist | A June 2026 addition to the Piccadilly tasting cluster with an unusually broad advertised cask and keg choice for a new independent arch bar. | Real-cider offering not established |
 | [Steelfish Brewing Company Taproom](../venues/steelfish-taproom.md) | specialist | A useful newer addition for beer hunters who already know Manchester’s established brewery names. | Real cider documented; reconfirm stock |
 | [Sureshot Brewery Taproom](../venues/sureshot-taproom.md) | specialist | A compact railway-arch stop that adds another producer to a Piccadilly brewery afternoon without a separate journey. | Cider reported; qualification needs checking |
 
@@ -86,6 +87,7 @@ City pubs, heritage rooms, cider specialists and selected brewery experiences.
 | [Angel](../venues/angel-manchester.md) | high | A worthwhile traditional-pub stop in Angel Meadow, where the modest old building sits among a rapidly changing skyline. | Cider reported; qualification needs checking |
 | [Bar Fringe](../venues/bar-fringe.md) | high | A long-established continental beer bar with enough changing cask to make it relevant even for visitors who have already explored Belgium and Germany extensively. | Real cider documented; reconfirm stock |
 | [Cask — Ancoats](../venues/cask-ancoats.md) | high | The canal-side branch offers a spacious, modern counterpart to Cask on Liverpool Road. | Real cider documented; reconfirm stock |
+| [Fell Northern Quarter](../venues/fell-northern-quarter.md) | high | A strong addition when your city-centre afternoon is beer-led: Fell's Cumbrian ales, guests and a cider selection sit inside a converted listed building near Port Street and Piccadilly. | Real cider documented; reconfirm stock |
 | [Hare & Hounds](../venues/hare-and-hounds-manchester.md) | high | A particularly rewarding example of the everyday northern pub interior: tiled passage, drinking lobby, front vault and rear lounge. | Real-cider offering not established |
 | [Lower Turks Head](../venues/lower-turks-head.md) | high | A convenient and characterful place to explore Joseph Holt’s beer in the centre. | Real-cider offering not established |
 | [Northern Monk Refectory Manchester](../venues/northern-monk-manchester.md) | specialist | A useful specialist addition when you want Northern Monk’s cask as well as its more widely encountered modern keg beers. | Real cider documented; reconfirm stock |

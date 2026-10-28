@@ -33,7 +33,7 @@ CAMRA documents six changing cask beers, usually from regional independents, alo
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly records real cider/perry in the fridge and cellar and bottled selections; its September 2026 entry records 2026 regional cider recognition.
+**Real cider documented; reconfirm stock.** CAMRA explicitly records real cider/perry in the fridge and cellar and bottled selections; its September 2026 entry records 2026 regional cider recognition. Greater Manchester and North West cider honours were renewed in 2026.
 
 See [how cider is classified](../real-cider.md).
 
@@ -54,6 +54,7 @@ Check [November transport issues](../logistics.md) for date-specific disruption.
 ## Sources and what they establish
 
 - [CAMRA: Petersgate Tap](https://camra.org.uk/pubs/petersgate-tap-stockport-167121) — camra; Address, changing cask, explicit real cider/perry range, food and September 2026 update. (`src-d244538066c7`).
+- [Greater Manchester CAMRA: award winners](https://greatermanchester.camra.org.uk/gmcamra/award-winners/) — camra; Petersgate Tap 2026 Greater Manchester regional cider title. (`src-a91e65967641`).
 
 Recommendations are editorial judgments from these sources; see [methodology](../methodology.md).
 

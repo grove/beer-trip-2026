@@ -6,7 +6,7 @@
 
 Exceptional destinations that compete for an excursion day; choose a corridor rather than collecting towns.
 
-**44 selected venues. Sources checked 2026-10-28.** Priority is relative to the area's specialism; use the [shortlists](../shortlists.md) to choose across the entire trip.
+**50 selected venues. Sources checked 2026-10-28.** Priority is relative to the area's specialism; use the [shortlists](../shortlists.md) to choose across the entire trip.
 
 ## Altrincham and Dunham Massey
 
@@ -20,6 +20,8 @@ Exceptional destinations that compete for an excursion day; choose a corridor ra
 
 | Venue | Priority | Reason to go | Cider evidence |
 | --- | --- | --- | --- |
+| [B33R@33](../venues/b33r-at-33-horwich.md) | high | One of the most purposeful cider stops around Bolton. | Real cider documented; reconfirm stock |
+| [Bank Top Brewery Ale House](../venues/bank-top-ale-house-horwich.md) | high | A purposeful destination for cask-led visitors, particularly lovers of dark mild. | Real cider documented; reconfirm stock |
 | [Bank Top Brewery Tap](../venues/bank-top-brewery-tap-bolton.md) | high | A purposeful detour for lovers of local cask, especially mild. | Cider reported; qualification needs checking |
 | [Olde Man & Scythe](../venues/olde-man-scythe-bolton.md) | high | A memorable traditional stop for low beams, leaded windows, stone flooring and small rooms, with a strong sense of Bolton’s local history. | No real cider reported by the cited evidence |
 | [Blackedge Brewery Bar](../venues/blackedge-brewery-bar-horwich.md) | specialist | A strong brewery visit for people who enjoy tasting a producer’s range where it is made. | Real cider documented; reconfirm stock |
@@ -28,6 +30,7 @@ Exceptional destinations that compete for an excursion day; choose a corridor ra
 
 | Venue | Priority | Reason to go | Cider evidence |
 | --- | --- | --- | --- |
+| [Broad Street Social](../venues/broad-street-social-bury.md) | high | A Bury beer destination whose relevance is backed by the local branch's 2026 town Pub of the Year result. | Cider reported; qualification needs checking |
 | [Irwell Works Brewery Tap](../venues/irwell-works-ramsbottom.md) | high | A satisfying local-brewery destination in an industrial building with a strong sense of place. | Cider reported; qualification needs checking |
 | [The Trackside](../venues/trackside-bury.md) | high | A worthwhile railway-and-beer experience with platform-side seating at the East Lancashire Railway. | Cider reported; qualification needs checking |
 
@@ -79,6 +82,12 @@ Exceptional destinations that compete for an excursion day; choose a corridor ra
 | --- | --- | --- | --- |
 | [The Firkin](../venues/firkin-newton-le-willows.md) | high | An unusually useful small-town stop for a trip between Manchester and Liverpool. | Real cider documented; reconfirm stock |
 
+## Oldham
+
+| Venue | Priority | Reason to go | Cider evidence |
+| --- | --- | --- | --- |
+| [Fox & Pine](../venues/fox-and-pine-oldham.md) | essential | A first-rate destination for enthusiasts who value the drink itself: ten cask handpumps, a deliberate choice of dark ales and an unusually substantial cider/perry offer. | Real cider documented; reconfirm stock |
+
 ## Rivington / Lancashire countryside
 
 | Venue | Priority | Reason to go | Cider evidence |
@@ -89,6 +98,7 @@ Exceptional destinations that compete for an excursion day; choose a corridor ra
 
 | Venue | Priority | Reason to go | Cider evidence |
 | --- | --- | --- | --- |
+| [Our Gracie’s](../venues/our-gracies-rochdale.md) | essential | The key missing stop from the first Rochdale list. | Real cider documented; reconfirm stock |
 | [The Baum](../venues/baum-rochdale.md) | essential | A strong reason to consider Rochdale: intimate traditional rooms, serious changing cask and a substantial food offer in the historic Toad Lane area. | Real cider documented; reconfirm stock |
 | [Flying Horse Hotel](../venues/flying-horse-rochdale.md) | high | Rochdale’s most immediately striking pub stop, facing the town-hall square and combining a handsome traditional building with a substantial cask range. | Cider reported; qualification needs checking |
 
@@ -118,6 +128,12 @@ Exceptional destinations that compete for an excursion day; choose a corridor ra
 | [Runaway Brewery Tap](../venues/runaway-brewery-tap-stockport.md) | high | A strong modern addition to Stockport’s exceptional traditional-pub circuit. | Real cider documented; reconfirm stock |
 | [The Blossoms](../venues/blossoms-stockport.md) | high | Worth the extra journey south of the centre for an unspoilt arrangement of rooms around a lobby bar. | Real-cider offering not established |
 | [Ye Olde Vic](../venues/olde-vic-stockport.md) | high | A characterful counterpoint to the polished brewery pubs: conversation, accumulated memorabilia and a cosy winter atmosphere are central to its appeal. | Real cider documented; reconfirm stock |
+
+## Warrington and west Salford
+
+| Venue | Priority | Reason to go | Cider evidence |
+| --- | --- | --- | --- |
+| [The Grocers](../venues/grocers-cadishead.md) | specialist | A distinctive traditional-drinking experience: there is no conventional public bar, and the proprietor fetches beer from a separate chilled room. | Real cider documented; reconfirm stock |
 
 ## Warrington centre
 

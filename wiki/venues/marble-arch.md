@@ -33,7 +33,7 @@ Marble cask is the main draw; CAMRA lists Manchester Bitter and Pint among the r
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly reports changing real ciders on draught and in bottles; ask what is available and whether any perry is in stock.
+**Real cider documented; reconfirm stock.** CAMRA explicitly reports changing real ciders on draught and in bottles; ask what is available and whether any perry is in stock. Central Manchester CAMRA Cider Pub of the Year 2026.
 
 See [how cider is classified](../real-cider.md).
 
@@ -55,6 +55,7 @@ Check [November transport issues](../logistics.md) for date-specific disruption.
 
 - [Marble Beers: The Marble Arch](https://marblebeers.com/the-marble-arch/) — official; Cask and cider offering, kitchen, address, reservations and Tuesday closure. (`src-8c87b4a338f8`).
 - [CAMRA: Marble Arch](https://camra.org.uk/pubs/marble-arch-manchester-137493) — camra; Historic interior, current cask and explicitly identified real cider. (`src-018e07ec8faf`).
+- [Central Manchester CAMRA: 2026 pub and cider winners](https://www.centralmanchester.camra.org.uk/viewnode.php?id=151519) — camra; Marble Arch named 2026 Central Manchester Cider Pub of the Year. (`src-efd66afb55b8`).
 
 Recommendations are editorial judgments from these sources; see [methodology](../methodology.md).
 

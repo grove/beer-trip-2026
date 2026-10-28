@@ -1,8 +1,14 @@
 # Real cider and perry: plan for the product
 
-[Home](../README.md) · [Shortlists](shortlists.md) · [Complete catalogue](catalogue.md)
+[Home](../README.md) · [Ranking](rankings.md) · [Shortlists](shortlists.md) · [Complete catalogue](catalogue.md)
 
 Real cider deserves its own route decisions on this trip. Manchester and Liverpool offer good leads, but **Petersgate Tap in Stockport and That Beer Place in Chester are particularly strong reasons to consider an excursion**. Their specialist records describe substantial real-cider/perry selections alongside beer. [Petersgate evidence](https://camra.org.uk/pubs/petersgate-tap-stockport-167121) · [That Beer Place evidence](https://camra.org.uk/pubs/that-beer-place-chester-136994).
+
+## New contenders and actual November constraints
+
+**[Fox & Pine, Oldham](venues/fox-and-pine-oldham.md)** reportedly serves five or six qualifying real ciders/perries, alongside ten cask ales. **[Our Gracie’s, Rochdale](venues/our-gracies-rochdale.md)** has a substantial specialist cider fridge and a 2026 branch cider award. **[Turks Head, St Helens](venues/turks-head-st-helens.md)** and **[B33R@33, Horwich](venues/b33r-at-33-horwich.md)** are other high-value cider/cask alternatives to Stockport or Chester. **[The Coop, Crosby](venues/coop-crosby.md)** combines a smaller cider offering with an award-winning real-ale pub.
+
+Crucial flight correction: **’Udders Orchard’s 7–8 November opening was before your Monday 9 November arrival**, so it is not a practicable producer visit unless a new opening is announced. Dunham Apple Barn remains a weekend-only producer possibility; with your Saturday 14 flight at noon, it is not a sensible default for these dates.
 
 ## What the classification means
 

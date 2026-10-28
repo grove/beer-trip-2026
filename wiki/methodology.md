@@ -4,7 +4,7 @@
 
 ## The brief
 
-Two experienced beer travellers have five days in Manchester and Liverpool in November 2026. The priorities are excellent real ale, real cider and perry, memorable traditional pubs, spectacular interiors, and good food where it strengthens the visit. The catalogue is deliberately much larger than a five-day itinerary: it is a set of worthwhile choices, not a completion challenge.
+Two experienced beer travellers fly Oslo → Manchester on **Monday 9 November 2026 (MAN arrival 17:50)**, and Manchester → Oslo **Saturday 14 November (MAN departure 12:25)**. There are **five nights but only four full pub days**, Tuesday 10–Friday 13, plus Monday evening. The priorities are excellent real ale, real cider and perry, memorable traditional pubs, spectacular interiors, and good food where it strengthens the visit. The catalogue is deliberately much larger than a five-day itinerary: it is a set of worthwhile choices, not a completion challenge.
 
 The geographical centre of gravity is Manchester/Salford and Liverpool. Nearby towns and accessible excursions are included when their beer, cider or pub experience justifies travel. A few more distant specialist trips are clearly labelled. They compete for the same limited time; they are not all additions to the default plan.
 
@@ -15,6 +15,10 @@ The geographical centre of gravity is Manchester/Salford and Liverpool. Nearby t
 A venue must offer at least one distinctive reason for these travellers to go: a serious cask programme, convincing cider depth, exceptional surviving pub fabric, a particularly rewarding traditional local, food and beer together, or a brewery experience that adds something beyond another generic taproom. Craft-focused exceptions are included for their specific beer experience and identified as such. A heritage pub without cask is explicitly marked; an attractive room is not evidence of excellent ale.
 
 The recommendations and route choices are editorial judgments based on the cited descriptions. They are not first-hand tasting reports. Avoid treating adjectives in venue marketing as independent quality assessments.
+
+### Overall ranking versus priority tags
+
+The **[complete 1–158 ranking](rankings.md)** is an **editorial relevance order**, not a firsthand beer-condition inspection, star rating or claim of precise objective differences. It prioritises documented cask and qualifying cider/perry range, distinctive heritage or brewing experiences, supported 2026 awards, food and atmosphere. Exceptional surrounding-town destinations appear high even if they **cannot all fit** into four days. The [dated schedule](five-day-plan.md) separately applies opening day, train time, flight and food-window feasibility. [data/rankings.json](../data/rankings.json) is the canonical unique-ID order, rendered with `scripts/build_rankings.py`.
 
 ### Priority labels
 

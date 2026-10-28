@@ -9,6 +9,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlparse
 
 from build_wiki import CIDER, PRIORITY, REGIONS, render
+from build_rankings import render_rankings
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -67,6 +68,30 @@ def main():
             errors.append(f"{event['id']}: invalid November dates")
         if not event["sources"]:
             errors.append(f"{event['id']}: no sources")
+    ranked = json.loads((ROOT / "data/rankings.json").read_text())
+    ranked_ids = ranked.get("ranking_ids", [])
+    if len(ranked_ids) != len(ids) or len(set(ranked_ids)) != len(ids) or set(ranked_ids) != ids:
+        errors.append("Ranking must include every canonical venue exactly once")
+    if ranked.get("trip_dates", {}).get("arrival") != "2026-11-09" or ranked.get("trip_dates", {}).get("departure") != "2026-11-14":
+        errors.append("Ranking travel dates do not match supplied flights")
+    ranking_path = ROOT / "wiki/rankings.md"
+    if not ranking_path.exists() or ranking_path.read_text() != render_rankings():
+        errors.append("Ranked guide differs from canonical ranking data")
+    for event in events["events"]:
+        status = event.get("trip_status")
+        dates = event.get("usable_local_dates")
+        if status not in {"before-arrival", "after-departure", "overlaps-but-requires-replan", "overlaps-and-fits-liverpool"} or not isinstance(dates, list):
+            errors.append(f"{event['id']}: missing trip suitability classification")
+            continue
+        for date in dates:
+            try:
+                day = datetime.date.fromisoformat(date)
+                if not datetime.date(2026, 11, 9) <= day <= datetime.date(2026, 11, 13) or not datetime.date.fromisoformat(event["start_date"]) <= day <= datetime.date.fromisoformat(event["end_date"]):
+                    errors.append(f"{event['id']}: unusable event date {date}")
+            except ValueError:
+                errors.append(f"{event['id']}: invalid usable date {date}")
+        if status in {"before-arrival", "after-departure"} and dates:
+            errors.append(f"{event['id']}: out-of-window event cannot have usable dates")
     links_checked = 0
     for path in list(ROOT.rglob("*.md")) + [ROOT / "llms.txt"]:
         content = path.read_text()

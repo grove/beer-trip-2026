@@ -43,7 +43,7 @@ Street-food visits are documented on selected evenings; verify the actual date a
 
 ## Plan the visit
 
-Community pub reopened in 2017; CAMRA records Greater Manchester Pub of the Year 2026. Check opening and food before travelling.
+Community pub reopened in 2017; CAMRA records Greater Manchester Pub of the Year 2026. Check opening and food before travelling. A CAMRA 2026 national regional finalist; no claim of winning the national title.
 
 **Getting there:** Marple Bridge is a separate excursion; use Marple station and local walking/bus connections.
 
@@ -54,5 +54,6 @@ Check [November transport issues](../logistics.md) for date-specific disruption.
 ## Sources and what they establish
 
 - [CAMRA: Northumberland Arms](https://camra.org.uk/pubs/northumberland-arms-marple-bridge-120589) — camra; Address, community rescue, cask/dark beer offer, food pattern and 2026 award. (`src-1050238b3276`).
+- [CAMRA: 2026 national pub finalists](https://camra.org.uk/awards/pub-of-the-year) — camra; Northumberland Arms appears among 2026 regional final sixteen. (`src-d29e84c32016`).
 
 Recommendations are editorial judgments from these sources; see [methodology](../methodology.md).

@@ -6,7 +6,7 @@
 
 Central Liverpool and Georgian pubs, coastal excursions and distinct Wirral clusters.
 
-**51 selected venues. Sources checked 2026-10-28.** Priority is relative to the area's specialism; use the [shortlists](../shortlists.md) to choose across the entire trip.
+**57 selected venues. Sources checked 2026-10-28.** Priority is relative to the area's specialism; use the [shortlists](../shortlists.md) to choose across the entire trip.
 
 ## Liverpool: Dale Street, Moorfields and Cavern Quarter
 
@@ -43,6 +43,8 @@ Central Liverpool and Georgian pubs, coastal excursions and distinct Wirral clus
 
 | Venue | Priority | Reason to go | Cider evidence |
 | --- | --- | --- | --- |
+| [Black Cat — Rose Lane](../venues/black-cat-rose-lane.md) | high | A purposeful south-Liverpool choice supported by inclusion on Liverpool CAMRA's 2026 Pub of the Year shortlist. | Real-cider offering not established |
+| [Cobden Vaults](../venues/cobden-woolton.md) | high | A worthwhile traditional local from Liverpool CAMRA's 2026 shortlisting, with convivial back-room conversation, changing regional cask and a character distinctly removed from the city-centre show pubs. | Real-cider offering not established |
 | [Handyman Supermarket](../venues/handyman-supermarket.md) | high | A small-scale brewing experience with a distinctive origin: a former hardware shop now houses a pub with the brewing plant visible on a mezzanine above the bar. | Real cider documented; reconfirm stock |
 | [Cask — Stoneycroft](../venues/cask-stoneycroft.md) | specialist | A focused suburban choice for cask, cider and perry rather than grand architecture. | Real cider documented; reconfirm stock |
 
@@ -63,6 +65,13 @@ Central Liverpool and Georgian pubs, coastal excursions and distinct Wirral clus
 | [Baltic Fleet](../venues/baltic-fleet.md) | essential | A highly distinctive dockside building, with its narrow flat-iron shape and nautical character, gives this stop a strong sense of place. | Real-cider offering not established |
 | [Black Lodge Brewery & Taproom](../venues/black-lodge-liverpool.md) | high | The best fit among the central production taprooms when you want to retain a cask component. | Real-cider offering not established |
 | [Azvex Brewery & Taproom](../venues/azvex-taproom.md) | specialist | A purposeful excursion for contemporary beer and the opportunity to see a production brewery. | Real-cider offering not established |
+
+## North coast: Crosby and Waterloo
+
+| Venue | Priority | Reason to go | Cider evidence |
+| --- | --- | --- | --- |
+| [The Coop](../venues/coop-crosby.md) | essential | A particularly strong new reason to consider a north-coast beer excursion. | Real cider documented; reconfirm stock |
+| [Corner Post](../venues/corner-post-crosby.md) | high | A characterful small cask stop in a former post office, complete with the old postbox outside and displays of local history. | Real cider documented; reconfirm stock |
 
 ## North coast: Formby, Hillside and Southport
 
@@ -95,10 +104,17 @@ Central Liverpool and Georgian pubs, coastal excursions and distinct Wirral clus
 | [Glen Affric Brewery Taproom](../venues/glen-affric-taproom.md) | specialist | A useful specialist addition to Birkenhead when you want an extensive own-brewery tasting in a production setting. | Real-cider offering not established |
 | [Stork Hotel](../venues/stork-hotel-birkenhead.md) | specialist | A justified architecture-only exception to the real-ale emphasis. | Real-cider offering not established |
 
+## Wirral: Bromborough and Bebington
+
+| Venue | Priority | Reason to go | Cider evidence |
+| --- | --- | --- | --- |
+| [Bow-Legged Beagle — Bromborough](../venues/bow-legged-beagle-bromborough.md) | high | A strong choice for drinkers who care about a cellar’s consistency. | Real-cider offering not established |
+
 ## Wirral: Heswall and rural south
 
 | Venue | Priority | Reason to go | Cider evidence |
 | --- | --- | --- | --- |
+| [Dee View Inn](../venues/dee-view-inn-heswall.md) | high | A genuine community-pub alternative to modern micropubs, with intimate rooms, local character and a view towards the Dee Estuary. | Real-cider offering not established |
 | [The Beer Lab — Heswall](../venues/beer-lab-heswall.md) | high | A serious cider option worth separating from the usual pub-interior itinerary. | Real cider documented; reconfirm stock |
 | [The Red Fox](../venues/red-fox-thornton-hough.md) | high | One of the most useful out-of-town combinations of a proper meal, cask choice and cider. | Real cider documented; reconfirm stock |
 | [Wheatsheaf Inn — The Thatch](../venues/wheatsheaf-raby.md) | specialist | The outstanding reason to come is the old snug: settles gathered around a table and substantial fireplace, inside a thatched, timber-framed building. | Real-cider offering not established |

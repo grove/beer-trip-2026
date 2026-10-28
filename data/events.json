@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source_checked": "2026-10-28",
   "timezone": "Europe/London",
-  "status_note": "Advertised dates; ticket availability and final programmes must be rechecked. No bookings made.",
+  "status_note": "Only the 12 and 13 November festival sessions are practicable within the confirmed flight times; ticket availability needs direct recheck. No bookings.",
   "events": [
     {
       "id": "bury-beer-festival-2026",
@@ -15,7 +15,10 @@
       "sources": [
         "https://themet.org.uk/event/bury-beer-festival-2026/",
         "https://themet.org.uk/article/bury-beer-fest-26-breweries-sponsors/"
-      ]
+      ],
+      "usable_local_dates": [],
+      "trip_status": "before-arrival",
+      "trip_note": "Ends Saturday 7 November, two days before flights arrive Monday 9. Not feasible."
     },
     {
       "id": "udders-orchard-november-2026",
@@ -27,7 +30,10 @@
       "note": "Explicit producer-announced opening dates; extended cider/perry excursion. No other November dates inferred. Confirm before travelling.",
       "sources": [
         "https://www.uddersorchardcider.co.uk/"
-      ]
+      ],
+      "usable_local_dates": [],
+      "trip_status": "before-arrival",
+      "trip_note": "Producer opens only 7–8 November, before the Monday 9 arrival. Do not infer later opening."
     },
     {
       "id": "independent-salford-beer-festival-2026",
@@ -42,7 +48,13 @@
         "https://www.salfordbeerfest.com/news/isbfxi-the-chilled-sessions",
         "https://www.universe.com/events/independent-salford-beer-festival-isbfxi-tickets-9TGPYD",
         "https://www.ticketmaster.co.uk/the-independent-salford-beer-festival-tickets/artist/5605535"
-      ]
+      ],
+      "usable_local_dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "trip_status": "overlaps-but-requires-replan",
+      "trip_note": "Thursday 12 at 18:00 or Friday 13 at 11:30/18:00, though organiser previously reported Friday sessions sold out. Saturday 14 sessions occur after 12:25 departure and are unusable. Requires swapping Manchester/Liverpool blocks."
     },
     {
       "id": "wirral-beer-festival-2026",
@@ -54,7 +66,13 @@
       "note": "Substantial real-ale selection, cider/perry and food advertised. Friday daytime is the quiet session. Festival venue is separate from the Liverpool pub.",
       "sources": [
         "https://theshipandmitre.uk/event/ship-mitre-22nd-wirral-beer-festival/"
-      ]
+      ],
+      "usable_local_dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "trip_status": "overlaps-and-fits-liverpool",
+      "trip_note": "Thursday 12 opening session 17:00–23:00; Friday 13 quiet session 10:00–16:00 or evening 17:00–23:00. Friday quiet session particularly suitable for serious tasters. Saturday and Sunday sessions unusable given return flight."
     },
     {
       "id": "foam-2026",
@@ -66,7 +84,12 @@
       "note": "New brewery-led modern-beer event and special bottle pours. Main line-up text partly TBC; cask and qualifying real-cider programme not established.",
       "sources": [
         "https://www.foambeerfestival.com/"
-      ]
+      ],
+      "usable_local_dates": [
+        "2026-11-13"
+      ],
+      "trip_status": "overlaps-but-requires-replan",
+      "trip_note": "Only Friday 13, 17:30–22:00 is compatible with the 12:25 Sat return. Saturday sessions are unavailable. £52 published admission; modern beer specialist, cask/real cider unverified, requires Stalybridge detour."
     },
     {
       "id": "hoppy-christmas-liverpool-2026",
@@ -78,7 +101,10 @@
       "note": "Party-oriented craft-drinks event. Lower priority for the real-ale/traditional-pub brief; real-cider qualification not established.",
       "sources": [
         "https://craftbrewfestival.com/liverpool"
-      ]
+      ],
+      "usable_local_dates": [],
+      "trip_status": "after-departure",
+      "trip_note": "Saturday 21 November is after departure 14 November."
     },
     {
       "id": "black-lodge-winterfest-2026",
@@ -91,7 +117,18 @@
       "sources": [
         "https://www.blacklodgebrewing.co.uk/events-3",
         "https://www.eventbrite.co.uk/e/black-lodge-winterfest-tickets-2000260081750"
-      ]
+      ],
+      "usable_local_dates": [],
+      "trip_status": "after-departure",
+      "trip_note": "Friday 27–Saturday 28 November is after departure 14 November."
     }
+  ],
+  "trip_arrival_local": "2026-11-09T17:50",
+  "trip_departure_local": "2026-11-14T12:25",
+  "usable_full_dates": [
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13"
   ]
 }

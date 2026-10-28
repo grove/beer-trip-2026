@@ -60,4 +60,4 @@ Recommendations are editorial judgments from these sources; see [methodology](..
 
 ## Also in this area
 
-[The Baum](baum-rochdale.md). These are area links, not an asserted walking order.
+[Our Gracie’s](our-gracies-rochdale.md), [The Baum](baum-rochdale.md). These are area links, not an asserted walking order.

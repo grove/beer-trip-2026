@@ -2,7 +2,7 @@
 
 > Source-backed wiki for two experienced beer travellers on a five-day November 2026 trip. Priorities: real ale, real cider/perry, traditional and spectacular pubs, worthwhile food. Read uncertainty notes before recommending a visit.
 
-Research date: 2026-10-28. Venue count: 144. Relative links resolve from this repository root. Do not infer current stock, opening or reservations from this snapshot.
+Research date: 2026-10-28. Venue count: 158. Relative links resolve from this repository root. Do not infer current stock, opening or reservations from this snapshot.
 
 ## Start here
 
@@ -38,12 +38,17 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [Azvex Brewery & Taproom](wiki/venues/azvex-taproom.md): North docks / Gibraltar Row; specialist; cider=unverified.
 - [Baltic Fleet](wiki/venues/baltic-fleet.md): Waterfront / Wapping; essential; cider=unverified.
 - [Belvedere Arms](wiki/venues/belvedere.md): Georgian Quarter / Sugnall Street; high; cider=unverified.
+- [Black Cat — Rose Lane](wiki/venues/black-cat-rose-lane.md): Mossley Hill / Rose Lane; high; cider=unverified.
 - [Black Lodge Brewery & Taproom](wiki/venues/black-lodge-liverpool.md): Baltic Triangle / Kings Dock Street; high; cider=unverified.
 - [Black Lodge Brewery Tap — West Kirby](wiki/venues/black-lodge-west-kirby.md): West Kirby; specialist; cider=unverified.
+- [Bow-Legged Beagle — Bromborough](wiki/venues/bow-legged-beagle-bromborough.md): Bromborough; high; cider=unverified.
 - [Bundobust Liverpool](wiki/venues/bundobust-liverpool.md): Bold Street; high; cider=unverified.
 - [Cask — Stoneycroft](wiki/venues/cask-stoneycroft.md): Stoneycroft / Queens Drive; specialist; cider=documented-real.
+- [Cobden Vaults](wiki/venues/cobden-woolton.md): Woolton village; high; cider=unverified.
+- [Corner Post](wiki/venues/corner-post-crosby.md): Crosby / Bridge Road; high; cider=documented-real.
 - [Crown Hotel](wiki/venues/crown-hotel-liverpool.md): Lime Street station; high; cider=unverified.
 - [Dead Crafty Beer Company — Dale Street](wiki/venues/dead-crafty-beer-company.md): Dale Street; specialist; cider=unverified.
+- [Dee View Inn](wiki/venues/dee-view-inn-heswall.md): Heswall / Dee View Road; high; cider=unverified.
 - [Doctor Duncan’s](wiki/venues/doctor-duncans.md): Queen Square / St George’s Hall; high; cider=unverified.
 - [Four Ashes](wiki/venues/four-ashes.md): Waterloo; high; cider=documented-real.
 - [Gallaghers Traditional Pub](wiki/venues/gallaghers-birkenhead.md): Birkenhead / Hamilton Square; high; cider=documented-real.
@@ -67,6 +72,7 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [The Beer Lab — Heswall](wiki/venues/beer-lab-heswall.md): Heswall; high; cider=documented-real.
 - [The Black Toad](wiki/venues/black-toad.md): Hoylake; high; cider=documented-real.
 - [The Bridewell](wiki/venues/bridewell.md): Ropewalks / Campbell Square; essential; cider=unverified.
+- [The Coop](wiki/venues/coop-crosby.md): Crosby / College Road; essential; cider=documented-real.
 - [The Denbigh Castle](wiki/venues/denbigh-castle.md): Dale Street / Hackins Hey; high; cider=documented-real.
 - [The Dispensary](wiki/venues/dispensary.md): Renshaw Street / Ropewalks; high; cider=unverified.
 - [The Freshfield](wiki/venues/freshfield.md): Freshfield / Formby; high; cider=documented-real.
@@ -103,6 +109,7 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [Crown & Kettle](wiki/venues/crown-and-kettle.md): Ancoats / Northern Quarter edge; essential; cider=documented-real.
 - [Eagle Inn](wiki/venues/eagle-inn-salford.md): Salford / Collier Street; high; cider=reported-cider-check-qualification.
 - [Fell Chorlton](wiki/venues/fell-chorlton.md): Chorlton; high; cider=documented-real.
+- [Fell Northern Quarter](wiki/venues/fell-northern-quarter.md): Northern Quarter / Dale Street; high; cider=documented-real.
 - [Fletcher Moss](wiki/venues/fletcher-moss.md): Didsbury; high; cider=unverified.
 - [Gas Lamp](wiki/venues/gas-lamp.md): Bridge Street / western city centre; high; cider=documented-real.
 - [Grey Horse](wiki/venues/grey-horse-manchester.md): Portland Street; high; cider=unverified.
@@ -119,6 +126,7 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [Northern Monk Refectory Manchester](wiki/venues/northern-monk-manchester.md): Northern Quarter / Tariff Street; specialist; cider=documented-real.
 - [Old Wellington](wiki/venues/old-wellington.md): Cathedral / Shambles Square; high; cider=unverified.
 - [Peveril of the Peak](wiki/venues/peveril-of-the-peak.md): Great Bridgewater Street / Oxford Road; essential; cider=unverified.
+- [Pigeon Beer Wanderer](wiki/venues/pigeon-beer-wanderer.md): Piccadilly / Sheffield Street; specialist; cider=unverified.
 - [Port Street Beer House](wiki/venues/port-street-beer-house.md): Northern Quarter / Port Street; essential; cider=documented-real.
 - [Prairie Schooner Taphouse](wiki/venues/prairie-schooner-urmston.md): Urmston; high; cider=documented-real.
 - [Queens Arms — Patricroft](wiki/venues/queens-arms-patricroft.md): Patricroft / Eccles; specialist; cider=unverified.
@@ -136,15 +144,19 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [Wharf](wiki/venues/wharf-manchester.md): Castlefield; high; cider=documented-real.
 - [Albion](wiki/venues/albion-chester.md): Chester / city walls; high; cider=unverified.
 - [Arden Arms](wiki/venues/arden-arms-stockport.md): Stockport centre; essential; cider=unverified.
+- [B33R@33](wiki/venues/b33r-at-33-horwich.md): Horwich / Lee Lane; high; cider=documented-real.
+- [Bank Top Brewery Ale House](wiki/venues/bank-top-ale-house-horwich.md): Horwich / Church Street; high; cider=documented-real.
 - [Bank Top Brewery Tap](wiki/venues/bank-top-brewery-tap-bolton.md): Bolton / Astley Bridge; high; cider=reported-cider-check-qualification.
 - [Beacon](wiki/venues/beacon-altrincham.md): Altrincham; high; cider=documented-real.
 - [Blackedge Brewery Bar](wiki/venues/blackedge-brewery-bar-horwich.md): Horwich; specialist; cider=documented-real.
+- [Broad Street Social](wiki/venues/broad-street-social-bury.md): Bury centre; high; cider=reported-cider-check-qualification.
 - [Costello’s Bar](wiki/venues/costellos-altrincham.md): Altrincham; high; cider=none-reported.
 - [Cotton Tree](wiki/venues/cotton-tree-bollington.md): Bollington; high; cider=documented-real.
 - [Cricketers Arms](wiki/venues/cricketers-arms-st-helens.md): St Helens; high; cider=documented-real.
 - [Crown Inn](wiki/venues/crown-inn-stockport.md): Stockport centre / viaduct; high; cider=unverified.
 - [Dunham Apple Barn](wiki/venues/dunham-apple-barn.md): Dunham Massey / Altrincham; essential; cider=documented-real.
 - [Flying Horse Hotel](wiki/venues/flying-horse-rochdale.md): Rochdale centre; high; cider=reported-cider-check-qualification.
+- [Fox & Pine](wiki/venues/fox-and-pine-oldham.md): Oldham town centre; essential; cider=documented-real.
 - [Heaton Hops](wiki/venues/heaton-hops.md): Stockport / Heaton Chapel; high; cider=documented-real.
 - [Irwell Works Brewery Tap](wiki/venues/irwell-works-ramsbottom.md): Ramsbottom; high; cider=reported-cider-check-qualification.
 - [Lower Angel](wiki/venues/lower-angel-warrington.md): Warrington centre; high; cider=documented-real.
@@ -152,6 +164,7 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [Old Harkers Arms](wiki/venues/old-harkers-arms-chester.md): Chester / canal and station quarter; high; cider=documented-real.
 - [Olde Cottage](wiki/venues/olde-cottage-chester.md): Chester / Brook Street; high; cider=unverified.
 - [Olde Man & Scythe](wiki/venues/olde-man-scythe-bolton.md): Bolton centre; high; cider=none-reported.
+- [Our Gracie’s](wiki/venues/our-gracies-rochdale.md): Rochdale centre; essential; cider=documented-real.
 - [Park Tavern](wiki/venues/park-tavern-macclesfield.md): Macclesfield / Park Lane; high; cider=documented-real.
 - [Petersgate Tap](wiki/venues/petersgate-tap-stockport.md): Stockport centre; essential; cider=documented-real.
 - [Rat & Ratchet](wiki/venues/rat-ratchet-huddersfield.md): Huddersfield centre — extended excursion; specialist; cider=documented-real.
@@ -168,6 +181,7 @@ Research date: 2026-10-28. Venue count: 144. Relative links resolve from this re
 - [The Brewery Tap](wiki/venues/brewery-tap-chester.md): Chester / Lower Bridge Street; essential; cider=documented-real.
 - [The Cellar](wiki/venues/cellar-chester.md): Chester / City Road; high; cider=documented-real.
 - [The Firkin](wiki/venues/firkin-newton-le-willows.md): Newton-le-Willows; high; cider=documented-real.
+- [The Grocers](wiki/venues/grocers-cadishead.md): Cadishead / Irlam; specialist; cider=documented-real.
 - [The Magnet Freehouse](wiki/venues/magnet-stockport.md): Stockport / Heaton Norris; essential; cider=reported-cider-check-qualification.
 - [The Pied Bull](wiki/venues/pied-bull-chester.md): Chester / Northgate Street; high; cider=unverified.
 - [The Sportsman](wiki/venues/sportsman-huddersfield.md): Huddersfield centre — extended excursion; specialist; cider=documented-real.
