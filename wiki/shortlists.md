@@ -32,7 +32,7 @@ The **[global ranking](rankings.md)** places 158 venues in a complete order, whi
 
 | Venue | What makes it distinctive | Role in the trip |
 | --- | --- | --- |
-| [Roscoe Head](venues/roscoe-head.md) | A small independent cask pub with several intimate rooms and no music advertised. | The essential traditional-local experience. |
+| [Roscoe Head](venues/roscoe-head.md) | A small independent cask pub with several intimate rooms and no music advertised. | Essential traditional-local experience; **CAMRA reported a September 2026 sale listing due to licensee retirement**. This is **not a closure notice**; [reconfirm November trading](changes-and-exclusions.md) before relying on it. |
 | [Ship & Mitre](venues/ship-and-mitre.md) | A broad cask/world-beer offer, documented real cider and a useful kitchen. | Beer-and-cider anchor and potential scouse stop on the Dale Street day. |
 | [Lion Tavern](venues/lion-tavern.md) | Intricate surviving pub rooms, cask, cider evidence and pies. | One of the best combinations of pub fabric and a reason to sit at the bar. |
 | [Philharmonic Dining Rooms](venues/philharmonic-dining-rooms.md) | Liverpool's great decorative show pub: wood, glass, mosaic and marble. | The architecture anchor; allow time to look beyond the first room. |
