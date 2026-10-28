@@ -1,6 +1,6 @@
 # Import the 2026 beer trip into Google My Maps
 
-[Start the map explorer](../../website/map.md) · [Trip itinerary](../../wiki/five-day-plan.md) · [All venue profiles](../../wiki/catalogue.md) · [Repo home](../../README.md)
+[Start the map explorer](https://grove.github.io/beer-trip-2026/map/) · [Trip itinerary](../../wiki/five-day-plan.md) · [All venue profiles](../../wiki/catalogue.md) · [Repo home](../../README.md)
 
 These are **ready-to-import CSV layers generated from the 158 canonical venue records**, ranked data and date-aware travel plan. The files are not a published Google map, a GPS survey, or a live pub-stock feed. **No account login, map publication or sharing has been done for you.**
 
@@ -28,7 +28,7 @@ Total if you import all seven: **seven layers**, below My Maps' current ten-laye
 6. **Inspect every imported pin**, especially duplicates and the two entries without postcodes: **Sadler's Cat** and **That Beer Place**. A successful file import is not proof that Google's geocoder chose the correct business or street.
 7. Use the map's **Share** controls to choose who can view/edit it. For a website embed, use My Maps' embed option after you have decided to publish an appropriate map. You control the access settings; an export file itself is not a shared live map.
 
-Google's official [My Maps import instructions](https://support.google.com/mymaps/answer/3024836) document CSV address/place columns and a **2,000-row import cap** (well above 158). [My Maps Help](https://support.google.com/mymaps/) describes styling, sharing and embedding. For navigation between places, prefer the [site's flight-aware map view](../../website/map.md) or Google Maps directions links rather than assuming My Maps imported an optimised walking route.
+Google's official [My Maps import instructions](https://support.google.com/mymaps/answer/3024836) document CSV address/place columns and a **2,000-row import cap** (well above 158). [My Maps Help](https://support.google.com/mymaps/) describes styling, sharing and embedding. For navigation between places, prefer the [site's flight-aware map view](https://grove.github.io/beer-trip-2026/map/) or Google Maps directions links rather than assuming My Maps imported an optimised walking route.
 
 ## What is in each marker?
 
