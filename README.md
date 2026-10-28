@@ -19,6 +19,8 @@ Flight times are transcribed from the supplied booking screenshots; not live fli
 | **What is best?** | **[Full 1–158 relevance ranking](wiki/rankings.md)** — both overall and within each region, with a distinct top 15 |
 | **What can we actually fit?** | **[9–14 November dated schedule](wiki/five-day-plan.md)** — actual flight constraints, opening-day caveats and 4 full-day walks |
 | Which pubs have the strongest cask/cider and heritage? | [Shortlists by experience, food and brewery focus](wiki/shortlists.md) |
+| **What exactly should we order?** | **[Cask and real-cider field guide](wiki/what-to-drink.md)** — named 2026 beer leads, tasting prompts, Old Tom after its Nov 7 launch, cider/perry questions |
+| **Which pubs have the best stories?** | [Manchester's pub secrets](wiki/stories-manchester.md) · [Stockport and excursion lore](wiki/stories-stockport-and-excursions.md) · [Liverpool's characters and buildings](wiki/stories-liverpool.md) |
 | Where are all the candidates? | [158-venue catalogue](wiki/catalogue.md) · [Manchester](wiki/areas/manchester.md) · [Liverpool and Wirral](wiki/areas/liverpool.md) · [Surroundings](wiki/areas/surroundings.md) |
 | Where is *real* cider? | [Real cider and perry criteria and leads](wiki/real-cider.md) |
 | Which excursion beats another? | [Stockport, Oldham, Chester, Rochdale, St Helens, Crosby and more](wiki/excursions.md) |
