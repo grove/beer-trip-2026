@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional community and dining pub |
 | Address | 1 Massams Lane, Freshfield L37 7BD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Freshfield%2C%201%20Massams%20Lane%2C%20Freshfield%20L37%207BD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Freshfield%20Freshfield&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

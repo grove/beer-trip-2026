@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Small traditional brewery pub |
 | Address | 80 Portland Street, Manchester, M1 4QX · [Map search](https://www.google.com/maps/search/?api=1&query=Grey%20Horse%2C%2080%20Portland%20Street%2C%20Manchester%2C%20M1%204QX) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Grey%20Horse%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

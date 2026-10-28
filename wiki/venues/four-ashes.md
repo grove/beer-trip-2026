@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Family-run micropub |
 | Address | 23 Crosby Road North, Waterloo, Liverpool L22 0LD · [Map search](https://www.google.com/maps/search/?api=1&query=Four%20Ashes%2C%2023%20Crosby%20Road%20North%2C%20Waterloo%2C%20Liverpool%20L22%200LD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Four%20Ashes%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
