@@ -26,7 +26,7 @@
     return node;
   }
 
-  function makeCard(venue, baseUrl) {
+  function makeCard(venue, baseUrl, published, day) {
     const card = element("a", "venue-card");
     card.href = new URL(encodeURIComponent(venue.id) + "/", baseUrl).href;
     const top = element("div", "venue-card__head");
@@ -37,6 +37,17 @@
     const why = venue.why_visit || "Read the venue's evidence and practical notes.";
     card.append(element("p", "venue-card__why", why.length > 195 ? why.slice(0, 192).trimEnd() + "…" : why));
     card.append(element("span", "venue-card__cider", CIDER_NAMES[venue.cider_status] || "Check cider evidence"));
+    const formatter = window.BeerTripHours;
+    if (day && formatter) {
+      const label = formatter.LABELS[formatter.DAYS.indexOf(day)];
+      card.append(element("p", "venue-card__hours",
+        "Published " + label + " bar hours: " + formatter.displayHours(published, day)));
+      if (published?.food_days) card.append(element("p", "venue-card__kitchen",
+        "Kitchen: " + formatter.displayHours(published, day, true)));
+    } else {
+      card.append(element("p", "venue-card__hours",
+        "Weekly bar hours and original source on venue profile."));
+    }
     return card;
   }
 
@@ -49,12 +60,15 @@
       region: root.querySelector('[name="region"]'),
       priority: root.querySelector('[name="priority"]'),
       cider: root.querySelector('[name="cider"]'),
+      day: root.querySelector('[name="day"]'),
+      onlyOpen: root.querySelector('[name="onlyOpen"]'),
     };
     const results = root.querySelector(".venue-finder__results");
     const status = root.querySelector(".venue-finder__status");
     const more = root.querySelector(".venue-finder__more");
     const reset = root.querySelector(".venue-finder__reset");
     let venues = [];
+    let openingHours = {};
     let visible = PAGE_SIZE;
     const baseUrl = new URL(root.dataset.venueBase, window.location.href);
 
@@ -64,6 +78,8 @@
         if (controls.region.value && venue.region !== controls.region.value) return false;
         if (controls.priority.value && venue.priority !== controls.priority.value) return false;
         if (controls.cider.value && venue.cider_status !== controls.cider.value) return false;
+        if (controls.onlyOpen.checked && controls.day.value &&
+            !window.BeerTripHours?.isPublishedOpen(openingHours[venue.id], controls.day.value)) return false;
         if (!query) return true;
         const searchable = [venue.name, venue.area, venue.region, venue.venue_type,
           venue.why_visit, venue.beer, venue.cider_note, venue.food,
@@ -75,9 +91,11 @@
     function render() {
       const matches = filtered();
       const fragment = document.createDocumentFragment();
-      matches.slice(0, visible).forEach(venue => fragment.append(makeCard(venue, baseUrl)));
+      matches.slice(0, visible).forEach(venue =>
+        fragment.append(makeCard(venue, baseUrl, openingHours[venue.id], controls.day.value)));
       results.replaceChildren(fragment);
       status.textContent = `${matches.length.toLocaleString("en")} ${matches.length === 1 ? "venue" : "venues"} found`;
+      controls.onlyOpen.disabled = !controls.day.value;
       if (matches.length === 0) {
         results.append(element("p", "venue-finder__empty", "No matches yet. Try fewer filters or a broader search."));
       }
@@ -96,37 +114,46 @@
       render();
     });
     reset.addEventListener("click", () => {
-      for (const control of Object.values(controls)) control.value = "";
+      for (const control of Object.values(controls)) {
+        if (control.type === "checkbox") control.checked = false;
+        else control.value = "";
+      }
       visible = PAGE_SIZE;
       controls.query.focus();
       render();
     });
 
-    fetch(new URL(root.dataset.venuesUrl, window.location.href))
+    const getJson = url => fetch(new URL(url, window.location.href))
       .then(response => {
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         return response.json();
-      })
-      .then(data => {
-        if (!Array.isArray(data.venues)) throw new Error("Invalid venue database");
-        venues = data.venues.slice().sort((a, b) =>
-          (priorityOrder[a.priority] ?? 9) - (priorityOrder[b.priority] ?? 9) ||
-          a.name.localeCompare(b.name, "en"));
-        [...new Set(venues.map(v => v.region))].sort().forEach(region => {
-          const option = element("option", "", REGION_NAMES[region] || region);
-          option.value = region;
-          controls.region.append(option);
-        });
-        render();
-      })
-      .catch(error => {
-        status.textContent = "The directory could not be loaded. Use the alphabetical catalogue instead.";
-        const link = element("a", "", "Open the complete catalogue");
-        link.href = new URL("../wiki/catalogue/", window.location.href).href;
-        results.replaceChildren(link);
-        more.hidden = true;
-        console.error("Venue directory loading error:", error);
       });
+    Promise.all([
+      getJson(root.dataset.venuesUrl),
+      getJson(root.dataset.openingHoursUrl).catch(error => {
+        console.warn("Opening-hours feed not available; listing remains usable", error);
+        return { hours: {} };
+      }),
+    ]).then(([data, schedule]) => {
+      if (!Array.isArray(data.venues)) throw new Error("Invalid venue database");
+      openingHours = schedule.hours || {};
+      venues = data.venues.slice().sort((a, b) =>
+        (priorityOrder[a.priority] ?? 9) - (priorityOrder[b.priority] ?? 9) ||
+        a.name.localeCompare(b.name, "en"));
+      [...new Set(venues.map(v => v.region))].sort().forEach(region => {
+        const option = element("option", "", REGION_NAMES[region] || region);
+        option.value = region;
+        controls.region.append(option);
+      });
+      render();
+    }).catch(error => {
+      status.textContent = "The directory could not be loaded. Use the alphabetical catalogue instead.";
+      const link = element("a", "", "Open the complete catalogue");
+      link.href = new URL("../wiki/catalogue/", window.location.href).href;
+      results.replaceChildren(link);
+      more.hidden = true;
+      console.error("Venue directory loading error:", error);
+    });
   }
 
   function boot() {
