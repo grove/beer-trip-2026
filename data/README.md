@@ -10,6 +10,7 @@
 | [venues.json](venues.json) | Canonical venue records. Object containing `schema_version`, `research_date`, `travel_month`, `scope` and a `venues` array. |
 | [sources.json](sources.json) | Generated, deduplicated venue sources with stable URL-derived IDs and a list of venue claims supported. |
 | [events.json](events.json) | Event dates, sources, `usable_local_dates` for flight-feasible sessions and `trip_status` indicating before/after/overlap. Times in prose are UK local. |
+| [map-routes.json](map-routes.json) | Named *optional/conditional* stop sequences for Mon 9–Fri 13 November. No Saturday venue day. Drives the website's day filter and downloadable My Maps CSV layers. |
 
 ## Venue record
 
@@ -60,9 +61,15 @@ From the repository root, with Python 3.9 or newer and no third-party packages:
 ```bash
 python3 scripts/build_wiki.py
 python3 scripts/build_rankings.py
+python3 scripts/export_maps.py
 python3 scripts/build_wiki.py --check
 python3 scripts/build_rankings.py --check
+python3 scripts/export_maps.py --check
 python3 scripts/validate_wiki.py
 ```
 
 The generators emit the ranked guide and venue pages, three area directories, alphabetical catalogue, source register and `llms.txt`. The validator checks required data and enum values, unique IDs, evidence URL structure, event date bounds, local file links, source-use coverage and generated-page agreement. It does not network-check websites or certify the truth of a recommendation. Static planning essays should be reviewed whenever a linked venue or event changes.
+
+## Maps and geocoding
+
+The [My Maps guide](../maps/google-my-maps/README.md) explains the seven reproducible CSV exports. They use **full addresses** in the Location column and deliberately do not pretend postcode centroids are exact premises coordinates. The [interactive map](https://grove.github.io/beer-trip-2026/map/) reads the same venue IDs, ranking and routes in the browser; postcode centroids are requested from Postcodes.io in up to 100-postcode batches and are visibly labelled approximate. Venues without usable postcodes remain searchable via their full address. Neither route-order data nor CSV export implies guaranteed opening, live beer, booking or directions times. Changes to a canonical venue's address or ID require reviewing the mapped identity and regenerated CSVs.
