@@ -29,7 +29,7 @@ One of the most memorable small pub buildings in either city: a green-tiled wedg
 
 ## Beer
 
-CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord.
+CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord. CAMRA additionally lists Millstone Tiger Rut and Brightside The Mancunian as regulars alongside Titanic Plum Porter and Timothy Taylor Landlord.
 
 ## Cider and perry
 

@@ -29,7 +29,7 @@ An unusually complete match for this trip: a small independent local that takes 
 
 ## Beer
 
-Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests.
+Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests. CAMRA names Tetley Bitter, Timothy Taylor Landlord and Fyne Ales Jarl as regular cask beers; changing suppliers include Colbier. Reconfirm trading and the selection amid the reported sale.
 
 ## Cider and perry
 

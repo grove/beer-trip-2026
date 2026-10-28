@@ -29,7 +29,7 @@ An essential companion to the Philharmonic, with lavish carved wood, copper, ela
 
 ## Beer
 
-CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests.
+CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests. CAMRA lists Ossett Silver King, Titanic Plum Porter, Timothy Taylor Landlord and Theakston Best Bitter as regular cask leads; Beartown and Neptune appear among changing suppliers.
 
 ## Cider and perry
 

@@ -29,7 +29,7 @@ The clearest Salford anchor for a visit driven by cask variety. Its corner-pub r
 
 ## Beer
 
-CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them.
+CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them. CAMRA lists Moorhouse’s White Witch as its house pale and Thornbridge Jaipur as regulars; Wharfedale Porter and Brass Castle Best Bitter have been spotted as changing guests.
 
 ## Cider and perry
 

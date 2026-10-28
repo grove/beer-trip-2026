@@ -29,7 +29,7 @@ One of the best combinations of traditional beer and decorative detail in either
 
 ## Beer
 
-Changing cask ales; official site advertises eight handpumps, while CAMRA’s listed beer count is lower. Do not assume every pump is pouring.
+Changing cask ales; official site advertises eight handpumps, while CAMRA’s listed beer count is lower. Do not assume every pump is pouring. CAMRA lists Otter Bitter as a regular cask lead; changing guests have included Higsons and Love Lane.
 
 ## Cider and perry
 

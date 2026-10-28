@@ -29,7 +29,7 @@ A beer-focused café with enough cask depth to justify a stop even on a traditio
 
 ## Beer
 
-CAMRA reports seven cask lines including a Runaway house beer and changing British guests, plus keg and an extensive international bottle selection.
+CAMRA reports seven cask lines including a Runaway house beer and changing British guests, plus keg and an extensive international bottle selection. CAMRA specifically identifies Runaway Stone’s Throw as its regular house cask; the rest of the seven-line cask selection rotates.
 
 ## Cider and perry
 

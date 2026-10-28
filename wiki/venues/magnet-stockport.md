@@ -29,7 +29,7 @@ One of the strongest reasons to leave central Manchester for Stockport. The Magn
 
 ## Beer
 
-The pub advertises fourteen cask lines plus changing keg and international bottles; numbers describe capacity/normal offering, not a guarantee of availability.
+The pub advertises fourteen cask lines plus changing keg and international bottles; numbers describe capacity/normal offering, not a guarantee of availability. CAMRA names Salopian Oracle as a regular cask and RedWillow and Track among changing suppliers; a recent sighting included Bathams Best Bitter.
 
 ## Cider and perry
 

@@ -29,7 +29,7 @@ A compact city-centre local with the cask depth of a dedicated beer destination.
 
 ## Beer
 
-CAMRA records eight handpumps, mostly rotating beers, with a mild often available and a vegan cask option documented. Ask what is freshly tapped rather than relying on a historic beer list.
+CAMRA records eight handpumps, mostly rotating beers, with a mild often available and a vegan cask option documented. Ask what is freshly tapped rather than relying on a historic beer list. Brightside Odin Blonde is a named regular CAMRA cask lead; most other handpumps and the reported mild selection rotate.
 
 ## Cider and perry
 

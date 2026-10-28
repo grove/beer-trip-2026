@@ -29,7 +29,7 @@ The strongest city-centre starting point when breadth of beer and cider matters 
 
 ## Beer
 
-CAMRA records eight changing cask beers; the pub also maintains a broad continental and bottled selection.
+CAMRA records eight changing cask beers; the pub also maintains a broad continental and bottled selection. CAMRA names Black Lodge and Colbier among changing suppliers, but does not identify a reliable permanent cask-beer line.
 
 ## Cider and perry
 

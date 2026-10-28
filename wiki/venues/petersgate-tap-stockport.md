@@ -29,7 +29,7 @@ A priority for this trip because cider is given the same serious attention as be
 
 ## Beer
 
-CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop.
+CAMRA documents six changing cask beers, usually from regional independents, alongside keg and a bottle shop. Recent CAMRA cask sightings include Vocation Pride & Joy and RedWillow Breakfast Stout; they are changing guests, not guaranteed regulars.
 
 ## Cider and perry
 
