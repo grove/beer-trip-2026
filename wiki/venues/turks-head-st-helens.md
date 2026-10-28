@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Traditional free house and cider specialist |
 | Address | 49 Morley Street, St Helens, WA10 2DQ · [Map search](https://www.google.com/maps/search/?api=1&query=Turks%20Head%2C%2049%20Morley%20Street%2C%20St%20Helens%2C%20WA10%202DQ) |
+| Untappd | [Venue page](https://untappd.com/v/turks-head/6971682) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

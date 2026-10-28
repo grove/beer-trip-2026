@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Heritage railway station pub |
 | Address | Bolton Street Station, East Lancashire Railway, Bury, BL9 0EY · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Trackside%2C%20Bolton%20Street%20Station%2C%20East%20Lancashire%20Railway%2C%20Bury%2C%20BL9%200EY) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Trackside%20Bury&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

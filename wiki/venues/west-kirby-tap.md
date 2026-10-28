@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Spitting Feathers brewery-owned ale house |
 | Address | Grange Road, West Kirby CH48 4DY · [Map search](https://www.google.com/maps/search/?api=1&query=West%20Kirby%20Tap%2C%20Grange%20Road%2C%20West%20Kirby%20CH48%204DY) |
+| Untappd | [Venue page](https://untappd.com/v/the-west-kirby-tap/1691474) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

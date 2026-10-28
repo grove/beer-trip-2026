@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Grand Edwardian show pub |
 | Address | 81 Lime Street, Liverpool L1 1JQ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Vines%20%E2%80%94%20The%20Big%20House%2C%2081%20Lime%20Street%2C%20Liverpool%20L1%201JQ) |
+| Untappd | [Venue page](https://untappd.com/v/the-vines-the-big-house/2036534) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

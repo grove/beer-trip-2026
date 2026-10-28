@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional independent free house |
 | Address | 69 Dale Street, Liverpool L2 2HJ · [Map search](https://www.google.com/maps/search/?api=1&query=Vernon%20Arms%2C%2069%20Dale%20Street%2C%20Liverpool%20L2%202HJ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Vernon%20Arms%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

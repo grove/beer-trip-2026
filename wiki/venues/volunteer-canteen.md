@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Preserved terraced-house pub |
 | Address | 45 East Street, Waterloo, Liverpool L22 8QR · [Map search](https://www.google.com/maps/search/?api=1&query=Volunteer%20Canteen%2C%2045%20East%20Street%2C%20Waterloo%2C%20Liverpool%20L22%208QR) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Volunteer%20Canteen%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

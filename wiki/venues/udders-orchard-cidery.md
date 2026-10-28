@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Cidery with limited taproom openings |
 | Address | 70A Acre Street, Lindley, Huddersfield, HD3 3EL · [Map search](https://www.google.com/maps/search/?api=1&query=%E2%80%99Udders%20Orchard%20Cidery%20%26%20Tasting%20Rooms%2C%2070A%20Acre%20Street%2C%20Lindley%2C%20Huddersfield%2C%20HD3%203EL) |
+| Untappd | [Search for venue](https://untappd.com/search?q=%27Udders%20Orchard%20Cidery%20%26%20Tasting%20Rooms%20Huddersfield&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

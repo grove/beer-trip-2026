@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Working-brewery taproom |
 | Address | Unit 18, Piccadilly Trading Estate, Manchester, M1 2NP · [Map search](https://www.google.com/maps/search/?api=1&query=Track%20Brewery%20Tap%2C%20Unit%2018%2C%20Piccadilly%20Trading%20Estate%2C%20Manchester%2C%20M1%202NP) |
+| Untappd | [Venue page](https://untappd.com/v/track-brewing-co-taproom-20/10905443) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
