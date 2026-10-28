@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Brewery neighbourhood bar |
 | Address | 518 Wilbraham Road, Chorlton-cum-Hardy, M21 9AW · [Map search](https://www.google.com/maps/search/?api=1&query=Fell%20Chorlton%2C%20518%20Wilbraham%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%209AW) |
+| Untappd | [Venue page](https://untappd.com/v/fell-bar-chorlton/10048293) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

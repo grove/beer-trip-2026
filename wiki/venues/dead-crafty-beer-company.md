@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Craft keg bar and bottle shop |
 | Address | 92 Dale Street, Liverpool L2 5TF · [Map search](https://www.google.com/maps/search/?api=1&query=Dead%20Crafty%20Beer%20Company%20%E2%80%94%20Dale%20Street%2C%2092%20Dale%20Street%2C%20Liverpool%20L2%205TF) |
+| Untappd | [Venue page](https://untappd.com/v/the-dead-crafty-beer-company/4480846) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

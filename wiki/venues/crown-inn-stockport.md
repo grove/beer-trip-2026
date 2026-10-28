@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional multi-room free house |
 | Address | 154 Heaton Lane, Stockport, SK4 1AR · [Map search](https://www.google.com/maps/search/?api=1&query=Crown%20Inn%2C%20154%20Heaton%20Lane%2C%20Stockport%2C%20SK4%201AR) |
+| Untappd | [Venue page](https://untappd.com/v/the-crown-inn/38126) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

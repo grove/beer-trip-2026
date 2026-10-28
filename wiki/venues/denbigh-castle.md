@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Independent city pub |
 | Address | 10 Hackins Hey, Liverpool L2 2AW · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Denbigh%20Castle%2C%2010%20Hackins%20Hey%2C%20Liverpool%20L2%202AW) |
+| Untappd | [Venue page](https://untappd.com/v/the-denbigh-castle/10077688) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

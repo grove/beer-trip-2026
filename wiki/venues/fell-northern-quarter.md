@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Brewery-operated cask and cider beer bar |
 | Address | 35 Dale Street, Manchester, M1 2HF · [Map search](https://www.google.com/maps/search/?api=1&query=Fell%20Northern%20Quarter%2C%2035%20Dale%20Street%2C%20Manchester%2C%20M1%202HF) |
+| Untappd | [Venue page](https://untappd.com/v/fell-northern-quarter/13004450) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
