@@ -1784,6 +1784,100 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "flying-horse-rochdale": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "09:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/flying-horse-hotel-rochdale-152986",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "11:30",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
     "gas-lamp": {
       "status": "published",
       "days": {
@@ -1933,6 +2027,125 @@
       "source_url": "https://camra.org.uk/pubs/hare-hounds-manchester-137462",
       "source_type": "camra",
       "checked_on": "2026-10-28"
+    },
+    "heaton-hops": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:30",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:30",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:30",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/heaton-hops-heaton-chapel-167108",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "irwell-works-ramsbottom": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/irwell-works-brewery-tap-ramsbottom-152570",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [],
+        "fri": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:00"
+          ]
+        ]
+      }
     },
     "kings-arms-salford": {
       "status": "published",
@@ -2228,6 +2441,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28",
       "note": "CAMRA explicitly says closing may be 'or later'; confirm on the day."
+    },
+    "lower-angel-warrington": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:30"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/index.php/pubs/lower-angel-warrington-138136",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "lower-turks-head": {
       "status": "published",
@@ -2698,6 +2961,150 @@
         ]
       }
     },
+    "northumberland-arms-marple-bridge": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/northumberland-arms-marple-bridge-120589",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "old-harkers-arms-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:30",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:30",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/old-harkers-arms-chester-137108",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:30"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
     "old-wellington": {
       "status": "published",
       "days": {
@@ -2745,6 +3152,230 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/old-wellington-manchester-137520",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "olde-cottage-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/olde-cottage-chester-137106",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "olde-man-scythe-bolton": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:30"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/olde-man-scythe-bolton-122503",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "park-tavern-macclesfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/index.php/pubs/park-tavern-macclesfield-173129",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
+    "petersgate-tap-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/petersgate-tap-stockport-167121",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
