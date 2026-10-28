@@ -1,6 +1,6 @@
 # What to drink: a field guide to northern cask ale, real cider and perry
 
-[Home](../README.md) · [Wiki index](index.md) · [Cider evidence guide](real-cider.md) · [Manchester stories](stories-manchester.md) · [Stockport stories](stories-stockport-and-excursions.md) · [Liverpool stories](stories-liverpool.md)
+[Home](../README.md) · [Wiki index](index.md) · [Cider evidence guide](real-cider.md) · [All 158 venue drink leads](drinks-by-venue.md) · [Manchester stories](stories-manchester.md) · [Stockport stories](stories-stockport-and-excursions.md) · [Liverpool stories](stories-liverpool.md)
 
 This is an **explorer's menu, not a forecast of 9–13 November 2026 stock**. It brings named beers, brewery heritage, cider leads and better questions to the bar. Labels such as *regular*, *changing*, *festival*, *bottled* and *cask* must not be flattened into "definitely pouring"; dates below refer to the operator or CAMRA **source**, checked 28 October 2026. See the [158 venue profiles](catalogue.md) for food, hours, transport and evidence states.
 

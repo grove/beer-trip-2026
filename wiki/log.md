@@ -2,6 +2,13 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — brewery and cider leads for each of 158 venues
+
+Added a source-linked [all-venue beer and cider guide](drinks-by-venue.md) with the existing independent beer/cider evidence on each of the 158 records, supplementing that with **56 specific beer/producer research leads** and **11 additional cider/perry leads**. The named examples distinguish operator/CAMRA regulars, rotating suppliers, seasonal exceptions and recently spotted beers; the guide gives a shorter version for the travel-feasible 9–13 November route. Research uses dated CAMRA/branch listings, existing operator sources and a clearly identified changing public menu snapshot.
+
+Retained the canonical venue status, cider evidence classifications and the independent opening-hours dataset. A named beer or cider producer is not a November stock guarantee, and the particular cider product still needs qualification against current CAMRA rules. No venues were contacted and no bookings or purchases were made.
+
+
 ## 2026-10-28 — published opening hours for all 158 venues
 
 Researched ordinary published *bar* opening schedules for **157 venues**, from the linked CAMRA pub guide/local branch or official operator pages, and retained **’Udders Orchard as event-only** (published November 7–8 producer dates are before arrival). Recorded source URL, source type, date (28 October 2026), seven local weekdays, exceptional midnight crossover and separate kitchen hours where independently published in [data/opening-hours.json](../data/opening-hours.json). This is **not** live trading verification or guaranteed November 9–13 opening; an empty published weekday means source-listed closed for an ordinary week, while missing food times mean *unverified*, not no meals.

@@ -33,6 +33,7 @@ FEATURED = {
         ("Real cider & perry", "wiki/real-cider.md"),
         ("Beer & pub culture", "wiki/beer-and-pub-culture.md"),
         ("What to drink: cask & cider", "wiki/what-to-drink.md"),
+        ("Beer & cider by venue", "wiki/drinks-by-venue.md"),
         ("Manchester pub stories", "wiki/stories-manchester.md"),
         ("Stockport & excursion stories", "wiki/stories-stockport-and-excursions.md"),
         ("Liverpool pub stories", "wiki/stories-liverpool.md"),
