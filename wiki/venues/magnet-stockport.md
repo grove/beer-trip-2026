@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Independent multi-room ale pub |
 | Address | 51 Wellington Road North, Stockport, SK4 1HJ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Magnet%20Freehouse%2C%2051%20Wellington%20Road%20North%2C%20Stockport%2C%20SK4%201HJ) |
+| Untappd | [Venue page](https://untappd.com/v/the-magnet/10834) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

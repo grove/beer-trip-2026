@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Historic chop-house pub |
 | Address | 52 Cross Street, Manchester, M2 7AR · [Map search](https://www.google.com/maps/search/?api=1&query=Mr%20Thomas%E2%80%99s%20Chop%20House%2C%2052%20Cross%20Street%2C%20Manchester%2C%20M2%207AR) |
+| Untappd | [Venue page](https://untappd.com/v/mr-thomass-chop-house/47022) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

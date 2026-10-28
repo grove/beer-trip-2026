@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Brewery beer bar |
 | Address | 10 Tariff Street, Manchester, M1 2FF · [Map search](https://www.google.com/maps/search/?api=1&query=Northern%20Monk%20Refectory%20Manchester%2C%2010%20Tariff%20Street%2C%20Manchester%2C%20M1%202FF) |
+| Untappd | [Venue page](https://untappd.com/v/northern-monk-refectory-mcr/8238071) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

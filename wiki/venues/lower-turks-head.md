@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional Joseph Holt pub |
 | Address | 36 Shudehill, Manchester, M4 1EZ · [Map search](https://www.google.com/maps/search/?api=1&query=Lower%20Turks%20Head%2C%2036%20Shudehill%2C%20Manchester%2C%20M4%201EZ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Lower%20Turks%20Head%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

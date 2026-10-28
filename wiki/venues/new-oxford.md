@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Traditional specialist free house |
 | Address | 11 Bexley Square, Salford, M3 6DB · [Map search](https://www.google.com/maps/search/?api=1&query=New%20Oxford%2C%2011%20Bexley%20Square%2C%20Salford%2C%20M3%206DB) |
+| Untappd | [Venue page](https://untappd.com/v/the-new-oxford/25568) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
