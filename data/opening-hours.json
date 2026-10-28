@@ -2557,6 +2557,100 @@
       "checked_on": "2026-10-28",
       "note": "CAMRA listing last updated 2025; recheck directly."
     },
+    "doctor-duncans": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/doctor-duncans-liverpool-166406",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
     "dunham-apple-barn": {
       "status": "published",
       "days": {
@@ -2912,6 +3006,46 @@
         ]
       }
     },
+    "four-ashes": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/four-ashes-liverpool-166246",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "fox-and-pine-oldham": {
       "status": "published",
       "days": {
@@ -2991,6 +3125,100 @@
         ]
       }
     },
+    "gallaghers-birkenhead": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "15:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:15"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "20:15"
+          ]
+        ]
+      }
+    },
     "gas-lamp": {
       "status": "published",
       "days": {
@@ -3038,6 +3266,41 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/gas-lamp-manchester-137758",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "glen-affric-taproom": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -3128,6 +3391,145 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/grocers-cadishead-170709",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "guest-house-southport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/guest-house-southport-147054",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "14:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ]
+      }
+    },
+    "handyman-supermarket": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/handyman-supermarket-liverpool-166269",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -3544,6 +3946,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "liverpool-brewing-company-tap": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/liverpool-brewing-company-tap-liverpool-166256",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "longford-tap": {
       "status": "published",
       "days": {
@@ -3695,6 +4147,100 @@
       "source_type": "camra",
       "checked_on": "2026-10-28",
       "note": "May close earlier when quiet, according to CAMRA."
+    },
+    "magazine-hotel": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/magazine-hotel-new-brighton-132001",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
     },
     "magnet-stockport": {
       "status": "published",
@@ -4043,6 +4589,42 @@
           ]
         ]
       }
+    },
+    "neptune-beerhouse": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/neptune-beerhouse-liverpool-196857",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA details last updated in 2025, despite recent crawling; verify with operator before travelling."
     },
     "new-oxford": {
       "status": "published",
@@ -4641,6 +5223,56 @@
           ]
         ]
       }
+    },
+    "peter-kavanaghs": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/peter-kavanaghs-liverpool-165622",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "petersgate-tap-stockport": {
       "status": "published",
