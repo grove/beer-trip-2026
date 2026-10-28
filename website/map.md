@@ -8,7 +8,7 @@ title: Explore the beer map
 
 See where the beer and cider stops are, filter the **158 curated venues**, and switch between the complete research catalogue and each *feasible* travel day. The pub profiles remain the authority on beer, cider qualification, food, opening caveats and sources.
 
-**Important:** this website draws **approximate UK postcode-centre pins**, fetched from [Postcodes.io](https://postcodes.io/) when the map opens. **They are not individual building entrances.** Two venues in the catalogue have no reliable postcode and appear as address-search links instead. Open **Google Maps directions** on each card for a full street-address search and confirm the correct venue before travelling. The native map does *not* track your location or compute live transit times.
+**Important:** this website draws **approximate UK postcode-centre pins**, fetched from [Postcodes.io](https://postcodes.io/) when the map opens. **They are not individual building entrances.** Two venues in the catalogue have no reliable postcode and appear as address-search links instead. Open the **Google Maps** link on each card for a full street-address search and confirm the correct venue before travelling. The native map does *not* track your location or compute live transit times.
 
 <div id="beer-map-app" class="pub-map"
   data-venues-url="../data/venues.json"
@@ -71,7 +71,7 @@ See where the beer and cider stops are, filter the **158 curated venues**, and s
   <div class="pub-map__results" aria-live="polite"></div>
   <button type="button" class="pub-map__more" hidden>Show more places</button>
   <noscript>
-    <p>JavaScript is needed for map pins and filters. The full <a href="../wiki/catalogue.md">venue catalogue</a> and importable Google My Maps CSVs below still work.</p>
+    <p>JavaScript is needed for map pins and filters. The full <a href="../wiki/catalogue/">venue catalogue</a> and importable Google My Maps CSVs below still work.</p>
   </noscript>
 </div>
 
