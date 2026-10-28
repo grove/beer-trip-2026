@@ -29,11 +29,11 @@ An outstanding combination of pub design, cask beer and cider, but outside the c
 
 ## Beer
 
-CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change.
+CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change. CAMRA lists Timothy Taylor Boltmaker as regular and Mallinsons, Thornbridge and Vocation among the changing breweries.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** Operator explicitly promotes real cider; CAMRA documents changing ciders including regional makers and 2022–25 branch cider awards.
+**Real cider documented; reconfirm stock.** Operator explicitly promotes real cider; CAMRA documents changing ciders including regional makers and 2022–25 branch cider awards. CAMRA names ’Udders Orchard and Ross-on-Wye as changing real-cider makers; the exact product and perry stock require checking.
 
 See [how cider is classified](../real-cider.md).
 

@@ -29,7 +29,7 @@ A complete beer-and-food stop in a former canalside warehouse, with timber floor
 
 ## Beer
 
-CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes.
+CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes. CAMRA lists Weetwood Cheshire Cat and Eastgate, Phoenix Boss Man’s Brew and Facer’s Plum Porter among regular cask beers.
 
 ## Cider and perry
 

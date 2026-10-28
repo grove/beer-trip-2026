@@ -29,7 +29,7 @@ An unusually complete pub experience: distinctive old rooms, local cask beer and
 
 ## Beer
 
-Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up.
+Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up. CAMRA lists Robinsons Unicorn and Dizzy Blonde among the regular brewery casks. Old Tom is seasonal and not guaranteed after its 7 November launch.
 
 ## Cider and perry
 

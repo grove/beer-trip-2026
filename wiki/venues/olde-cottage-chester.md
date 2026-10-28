@@ -29,7 +29,7 @@ A rewarding small traditional pub on an easy route between the station and city 
 
 ## Beer
 
-CAMRA documents four handpumps with changing guests, including a permitted local beer outside the main supply list.
+CAMRA documents four handpumps with changing guests, including a permitted local beer outside the main supply list. CAMRA lists Otter Bitter and Wye Valley HPA as regulars; changing examples include Merlin Dark Magic and Draught Bass.
 
 ## Cider and perry
 

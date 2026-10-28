@@ -29,11 +29,11 @@ A particularly efficient excursion for beer travellers because it is close to bo
 
 ## Beer
 
-Official site advertises seven changing real ales and a broad bottle range; current choices are linked from its live board.
+Official site advertises seven changing real ales and a broad bottle range; current choices are linked from its live board. Its regular Signal house bitter is brewed by Bank Top (based on Flat Cap); recent changing casks include Brass Castle Bad Kitty and Bank Top Hercules.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA marks real cider; the venue specialises in ale and cider and advertises a changing cider selection. Verify the individual pour.
+**Real cider documented; reconfirm stock.** CAMRA marks real cider; the venue specialises in ale and cider and advertises a changing cider selection. Verify the individual pour. CAMRA reports rotating draught ciders and perries without fixing one producer or product.
 
 See [how cider is classified](../real-cider.md).
 

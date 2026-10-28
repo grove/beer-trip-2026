@@ -29,7 +29,7 @@ A first-rate destination for enthusiasts who value the drink itself: ten cask ha
 
 ## Beer
 
-Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record.
+Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record. CAMRA names Durham, Mallinsons and Pictish among its changing brewers, alongside its Draught Bass offering; these are examples rather than November commitments.
 
 ## Cider and perry
 

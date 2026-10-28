@@ -29,11 +29,11 @@ A strong reason to consider Rochdale: intimate traditional rooms, serious changi
 
 ## Beer
 
-CAMRA documents seven changing real ales, plus continental draught and bottled options.
+CAMRA documents seven changing real ales, plus continental draught and bottled options. CAMRA names Wakey Wakey Bright and Early and Serious Moonlight stout as regulars, alongside Pictish-brewed Lancashire Bitter house cask.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly records real cider, sometimes on handpull; ask for the current list.
+**Real cider documented; reconfirm stock.** CAMRA explicitly records real cider, sometimes on handpull; ask for the current list. CAMRA reports Seacider on handpump, but confirm the connected product qualifies and is currently pouring.
 
 See [how cider is classified](../real-cider.md).
 

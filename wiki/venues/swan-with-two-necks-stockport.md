@@ -29,7 +29,7 @@ A small frontage conceals one of the most rewarding traditional interiors in the
 
 ## Beer
 
-Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure.
+Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure. Robinsons Dizzy Blonde is a documented regular; Old Tom is winter-only and remains conditional after the 7 November cask launch.
 
 ## Cider and perry
 

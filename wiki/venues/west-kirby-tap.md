@@ -29,7 +29,7 @@ An excellent endpoint for a Wirral rail excursion, combining a substantial beer 
 
 ## Beer
 
-Spitting Feathers cask and rotating guests are documented; choose from the actual board rather than assuming a fixed total.
+Spitting Feathers cask and rotating guests are documented; choose from the actual board rather than assuming a fixed total. CAMRA lists Spitting Feathers Session Beer and Thirstquencher as regular casks, with Big Hand and Peerless among changing breweries.
 
 ## Cider and perry
 
