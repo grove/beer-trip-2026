@@ -29,7 +29,7 @@ The Grapes on Roscoe Street is the one to target for smaller-brewery cask, a con
 
 ## Beer
 
-CAMRA describes handpumps mainly serving local and regional smaller breweries.
+CAMRA describes handpumps mainly serving local and regional smaller breweries. CAMRA names Colbier and Neptune as typical changing cask producers; neither is a permanent fixture.
 
 ## Cider and perry
 

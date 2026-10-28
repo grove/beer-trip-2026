@@ -29,7 +29,7 @@ Come for the green tiled room and stay for a local beer and a meal. The former i
 
 ## Beer
 
-The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service.
+The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service. CAMRA identifies Beartown Best Bitter as a regular cask lead.
 
 ## Cider and perry
 

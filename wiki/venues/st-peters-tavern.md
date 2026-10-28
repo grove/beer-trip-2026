@@ -29,7 +29,7 @@ A spectacular recent addition to Liverpool’s beer circuit: the former church i
 
 ## Beer
 
-The operator advertises sixteen cask ales, primarily from local breweries; CAMRA records a substantial smaller count. Treat either figure as an indication of ambition, not guaranteed live availability.
+The operator advertises sixteen cask ales, primarily from local breweries; CAMRA records a substantial smaller count. Treat either figure as an indication of ambition, not guaranteed live availability. CAMRA names Black Lodge, Love Lane and Neptune among changing suppliers and recently recorded Salopian Entire Butt and Weetwood Silverback Stout. None is a fixed November line.
 
 ## Cider and perry
 

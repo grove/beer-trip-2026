@@ -29,7 +29,7 @@ An excellent antidote to an over-managed heritage itinerary: a rambling collecti
 
 ## Beer
 
-CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival.
+CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival. CAMRA’s changing-cask listing names Higsons and Ossett as brewery examples; verify the actual clip on arrival.
 
 ## Cider and perry
 

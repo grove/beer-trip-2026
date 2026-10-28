@@ -29,7 +29,7 @@ The most individual of Liverpool’s historic pubs: a former landlord’s extrao
 
 ## Beer
 
-CAMRA confirms cask ale; check the current handpumps rather than expecting a fixed brewery line-up.
+CAMRA confirms cask ale; check the current handpumps rather than expecting a fixed brewery line-up. CAMRA currently lists Greene King Abbot and Timothy Taylor Landlord as regular cask beers; the rest of the selection is less predictable.
 
 ## Cider and perry
 

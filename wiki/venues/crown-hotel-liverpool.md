@@ -29,7 +29,7 @@ An architectural reward almost immediately outside the station. The highly model
 
 ## Beer
 
-CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales.
+CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales. CAMRA lists Sharp’s Doom Bar, Timothy Taylor Landlord and Oakham Citra as regular cask examples, with Titanic among changing breweries.
 
 ## Cider and perry
 

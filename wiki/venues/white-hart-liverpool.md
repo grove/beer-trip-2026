@@ -29,7 +29,7 @@ A useful contemporary addition to an old-pub itinerary: a historic townhouse arr
 
 ## Beer
 
-CAMRA lists several regular and changing cask beers, including local brewers among the guests.
+CAMRA lists several regular and changing cask beers, including local brewers among the guests. CAMRA lists Ossett White Rat as a regular cask beer, with Black Lodge and Neptune among the changing guests.
 
 ## Cider and perry
 

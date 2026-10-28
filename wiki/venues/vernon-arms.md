@@ -29,7 +29,7 @@ A particularly useful choice for the feel of a working city-centre local alongsi
 
 ## Beer
 
-CAMRA records regular and changing cask, with regional brewers from north-west England and Wales represented.
+CAMRA records regular and changing cask, with regional brewers from north-west England and Wales represented. CAMRA lists Brains Rev James Original and Ossett White Rat as regular cask leads, with Brimstage and Coach House among changing breweries.
 
 ## Cider and perry
 

@@ -29,7 +29,7 @@ A particularly persuasive rail-accessible choice for a west-Wirral beer day. The
 
 ## Beer
 
-CAMRA records changing cask from regional brewers and a deliberate balance of styles.
+CAMRA records changing cask from regional brewers and a deliberate balance of styles. CAMRA identifies Purple Moose, RedWillow and Tatton as typical changing breweries, rather than fixed individual beers.
 
 ## Cider and perry
 

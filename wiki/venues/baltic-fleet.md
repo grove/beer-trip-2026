@@ -29,7 +29,7 @@ A highly distinctive dockside building, with its narrow flat-iron shape and naut
 
 ## Beer
 
-Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing.
+Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing. CAMRA has also recently recorded Salopian Darwin’s Origin and Spitting Feathers Thirstquencher among changing beers, separate from the Brimstage regular.
 
 ## Cider and perry
 
