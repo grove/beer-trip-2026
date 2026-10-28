@@ -33,7 +33,7 @@ The operator advertises two casks and ten keg lines each week, plus bottled beer
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly lists real cider in bottles/cans, with Thornborough and Ascension examples. Ask which products are currently stocked.
+**Real cider documented; reconfirm stock.** CAMRA explicitly lists real cider in bottles/cans, with Thornborough and Ascension examples. Ask which products are currently stocked. The CAMRA listing identifies Thornborough Medium Dry bottles and Ascension Pilot cans as examples. These are not guaranteed in stock and need product-by-product confirmation.
 
 See [how cider is classified](../real-cider.md).
 

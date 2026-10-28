@@ -29,7 +29,7 @@ The strongest anchor for a St Helens excursion: a distinctive turreted Tudor-rev
 
 ## Beer
 
-CAMRA’s October 2026 record describes fourteen rotating cask handpulls; current beers and the number pouring should be checked.
+CAMRA’s October 2026 record describes fourteen rotating cask handpulls; current beers and the number pouring should be checked. Recent CAMRA cask sightings include Thornbridge Old Badequella and Imperial Stout; the large guest selection remains rotational.
 
 ## Cider and perry
 

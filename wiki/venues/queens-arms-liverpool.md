@@ -29,7 +29,7 @@ A fresh reason to revisit Liverpool for experienced pub travellers. This March 2
 
 ## Beer
 
-Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary.
+Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary. CAMRA lists Timothy Taylor Landlord and JW Lees Boddingtons Bitter as regulars, with Neptune Abyss stout a recent changing guest.
 
 ## Cider and perry
 

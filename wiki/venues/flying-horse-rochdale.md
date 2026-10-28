@@ -29,7 +29,7 @@ Rochdale’s most immediately striking pub stop, facing the town-hall square and
 
 ## Beer
 
-CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary.
+CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary. CAMRA lists Pictish-brewed Lancashire Bitter as its house cask and Phoenix, Pictish and Serious among changing breweries.
 
 ## Cider and perry
 

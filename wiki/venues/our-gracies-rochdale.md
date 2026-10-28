@@ -29,7 +29,7 @@ The key missing stop from the first Rochdale list. Five rotating local casks are
 
 ## Beer
 
-Five changing cask ales with local producers prominent, plus keg from regional breweries.
+Five changing cask ales with local producers prominent, plus keg from regional breweries. CAMRA names Phoenix, Wakey Wakey and Whitworth Valley among its changing breweries, with Front Row Pause stout a recent example.
 
 ## Cider and perry
 

@@ -29,7 +29,7 @@ A characterful counterpoint to the polished brewery pubs: conversation, accumula
 
 ## Beer
 
-CAMRA documents six changing guest ales and tasting thirds; styles and breweries rotate.
+CAMRA documents six changing guest ales and tasting thirds; styles and breweries rotate. Recent CAMRA cask sightings include Fyne Ales Jarl, Oakham Citra and Brew York Tonkoko, but no permanent named beer is established.
 
 ## Cider and perry
 

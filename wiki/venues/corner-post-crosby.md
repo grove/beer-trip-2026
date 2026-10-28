@@ -29,7 +29,7 @@ A characterful small cask stop in a former post office, complete with the old po
 
 ## Beer
 
-Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers.
+Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers. Recent CAMRA sightings include Hawkshead Iti, Reedley Hallows Filly Close Blonde and Ossett Jet, in addition to the reported Colbier and Rock the Boat guest producers.
 
 ## Cider and perry
 

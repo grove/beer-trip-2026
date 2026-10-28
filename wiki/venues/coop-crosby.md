@@ -29,7 +29,7 @@ A particularly strong new reason to consider a north-coast beer excursion. Liver
 
 ## Beer
 
-Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day.
+Five changing cask ales from independent breweries; the choice rotates and is not guaranteed until checked on the day. CAMRA names Black Lodge, Salopian and Thornbridge as changing cask suppliers; no individual beer is fixed.
 
 ## Cider and perry
 

@@ -29,11 +29,11 @@ A purposeful Warrington stop for traditional pub character and beer variety, esp
 
 ## Beer
 
-CAMRA’s August 2026 record reports nine rotating guest ales, usually including dark mild and stout or porter.
+CAMRA’s August 2026 record reports nine rotating guest ales, usually including dark mild and stout or porter. CAMRA identifies Wily Fox Warrington Wire Best Bitter (based on Crafty Fox) as its house regular alongside changing casks.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** Current CAMRA listing carries a real-cider badge; the specific producer and day’s availability remain to be checked.
+**Real cider documented; reconfirm stock.** Current CAMRA listing carries a real-cider badge; the specific producer and day’s availability remain to be checked. CAMRA identifies Saxby’s as a cider supplier but does not name a particular qualifying product. Verify the current cider.
 
 See [how cider is classified](../real-cider.md).
 
