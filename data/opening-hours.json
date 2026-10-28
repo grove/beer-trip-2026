@@ -867,6 +867,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "beer-lab-heswall": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/beer-lab-heswall-132241",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "belvedere": {
       "status": "published",
       "days": {
@@ -5369,6 +5419,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "philharmonic-dining-rooms": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/philharmonic-dining-rooms-liverpool-165633",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "pied-bull-chester": {
       "status": "published",
       "days": {
@@ -5503,6 +5603,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "plasterers-arms-hoylake": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/plasterers-arms-hoylake-131966",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "port-street-beer-house": {
       "status": "published",
       "days": {
@@ -5600,6 +5750,56 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/prairie-schooner-taphouse-urmston-129838",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "queens-arms-liverpool": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/queens-arms-liverpool-199909",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -6015,6 +6215,57 @@
         ]
       }
     },
+    "roscoe-head": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/roscoe-head-liverpool-166037",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA reported the pub was listed for sale September 2026 due to licensee retirement; a sale does not establish closure. Reconfirm operation before 13 November."
+    },
     "runaway-brewery-tap-stockport": {
       "status": "published",
       "days": {
@@ -6369,6 +6620,190 @@
         ]
       }
     },
+    "scotch-piper": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/scotch-piper-liverpool-165785",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      }
+    },
+    "ship-and-mitre": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/ship-mitre-liverpool-165654",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "CAMRA currently lists no kitchen service Monday and only evening food Tuesday: do not equate bar opening with lunch.",
+      "food_days": {
+        "mon": [],
+        "tue": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
     "sinclairs-oyster-bar": {
       "status": "published",
       "days": {
@@ -6563,6 +6998,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "st-peters-tavern": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "26:30"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "25:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/st-peters-tavern-liverpool-198428",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "stalybridge-buffet-bar": {
       "status": "published",
       "days": {
@@ -6692,6 +7177,57 @@
       "source_type": "camra",
       "checked_on": "2026-10-28",
       "note": "CAMRA explicitly warns that these recently opened premises' hours may vary."
+    },
+    "stork-hotel-birkenhead": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/stork-hotel-birkenhead-131918",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Currently an interior-heritage stop, not proof of current real-ale availability."
     },
     "sureshot-taproom": {
       "status": "published",
@@ -6874,6 +7410,56 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/swan-with-two-necks-stockport-167694",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "tap-and-bottles": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/tap-bottles-southport-147072",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
