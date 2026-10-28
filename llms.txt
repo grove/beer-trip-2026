@@ -1,0 +1,180 @@
+# Manchester and Liverpool Beer Trip 2026
+
+> Source-backed wiki for two experienced beer travellers on a five-day November 2026 trip. Priorities: real ale, real cider/perry, traditional and spectacular pubs, worthwhile food. Read uncertainty notes before recommending a visit.
+
+Research date: 2026-10-28. Venue count: 144. Relative links resolve from this repository root. Do not infer current stock, opening or reservations from this snapshot.
+
+## Start here
+
+- [README](README.md): navigation and trip priorities.
+- [Wiki index](wiki/index.md): topic map.
+- [Methodology](wiki/methodology.md): scope, evidence hierarchy and limitations.
+- [Cider guide](wiki/real-cider.md): evidence states and product qualification.
+- [Shortlists](wiki/shortlists.md): strongest matches by interest.
+- [Five-day plan](wiki/five-day-plan.md): modular route with substitutions.
+- [Excursions](wiki/excursions.md): time and interest tradeoffs.
+- [November events](wiki/november-events.md): advertised 2026 opportunities.
+- [Logistics](wiki/logistics.md): confirmed November transport cautions.
+- [Changes and exclusions](wiki/changes-and-exclusions.md): closures and conflicting evidence.
+- [Research log](wiki/log.md): material changes and follow-up work.
+
+## Canonical data
+
+- [Venue data](data/venues.json): canonical records, stable IDs, sources and qualifications.
+- [Source register](data/sources.json): source-to-venue provenance.
+- [Events](data/events.json): advertised dates and caveats.
+- [Data guide](data/README.md): schema and update workflow.
+- [Catalogue](wiki/catalogue.md): all selected venues.
+
+## Area directories
+
+- [Manchester, Salford and nearby suburbs](wiki/areas/manchester.md)
+- [Liverpool, the north coast and Wirral](wiki/areas/liverpool.md)
+- [Surrounding towns and worthwhile excursions](wiki/areas/surroundings.md)
+
+## Venue pages
+
+- [Augustus John](wiki/venues/augustus-john.md): University Quarter; high; cider=documented-real.
+- [Azvex Brewery & Taproom](wiki/venues/azvex-taproom.md): North docks / Gibraltar Row; specialist; cider=unverified.
+- [Baltic Fleet](wiki/venues/baltic-fleet.md): Waterfront / Wapping; essential; cider=unverified.
+- [Belvedere Arms](wiki/venues/belvedere.md): Georgian Quarter / Sugnall Street; high; cider=unverified.
+- [Black Lodge Brewery & Taproom](wiki/venues/black-lodge-liverpool.md): Baltic Triangle / Kings Dock Street; high; cider=unverified.
+- [Black Lodge Brewery Tap — West Kirby](wiki/venues/black-lodge-west-kirby.md): West Kirby; specialist; cider=unverified.
+- [Bundobust Liverpool](wiki/venues/bundobust-liverpool.md): Bold Street; high; cider=unverified.
+- [Cask — Stoneycroft](wiki/venues/cask-stoneycroft.md): Stoneycroft / Queens Drive; specialist; cider=documented-real.
+- [Crown Hotel](wiki/venues/crown-hotel-liverpool.md): Lime Street station; high; cider=unverified.
+- [Dead Crafty Beer Company — Dale Street](wiki/venues/dead-crafty-beer-company.md): Dale Street; specialist; cider=unverified.
+- [Doctor Duncan’s](wiki/venues/doctor-duncans.md): Queen Square / St George’s Hall; high; cider=unverified.
+- [Four Ashes](wiki/venues/four-ashes.md): Waterloo; high; cider=documented-real.
+- [Gallaghers Traditional Pub](wiki/venues/gallaghers-birkenhead.md): Birkenhead / Hamilton Square; high; cider=documented-real.
+- [Glen Affric Brewery Taproom](wiki/venues/glen-affric-taproom.md): Birkenhead / Knox Street; specialist; cider=unverified.
+- [Guest House](wiki/venues/guest-house-southport.md): Southport centre; high; cider=unverified.
+- [Handyman Supermarket](wiki/venues/handyman-supermarket.md): Wavertree / Smithdown Road; high; cider=documented-real.
+- [Lion Tavern](wiki/venues/lion-tavern.md): Moorfields / Dale Street; essential; cider=documented-real.
+- [Liverpool Brewing Company Tap — formerly Sanctuary](wiki/venues/liverpool-brewing-company-tap.md): Lime Street; high; cider=reported-cider-check-qualification.
+- [Magazine Hotel](wiki/venues/magazine-hotel.md): New Brighton / Magazine Brow; high; cider=documented-real.
+- [Neptune Beerhouse](wiki/venues/neptune-beerhouse.md): Maghull; high; cider=documented-real.
+- [Peter Kavanagh’s](wiki/venues/peter-kavanaghs.md): Georgian Quarter / Egerton Street; essential; cider=unverified.
+- [Philharmonic Dining Rooms](wiki/venues/philharmonic-dining-rooms.md): Hope Street / Georgian Quarter; essential; cider=unverified.
+- [Plasterers Arms](wiki/venues/plasterers-arms-hoylake.md): Hoylake; high; cider=unverified.
+- [Queen’s Arms](wiki/venues/queens-arms-liverpool.md): Victoria Street / city centre; high; cider=unverified.
+- [Roscoe Head](wiki/venues/roscoe-head.md): Ropewalks / Roscoe Street; essential; cider=reported-cider-check-qualification.
+- [Scotch Piper](wiki/venues/scotch-piper.md): Lydiate; high; cider=unverified.
+- [Ship & Mitre](wiki/venues/ship-and-mitre.md): Dale Street; essential; cider=documented-real.
+- [St Peter’s Tavern](wiki/venues/st-peters-tavern.md): Ropewalks / Seel Street; essential; cider=documented-real.
+- [Stork Hotel](wiki/venues/stork-hotel-birkenhead.md): Birkenhead; specialist; cider=unverified.
+- [Tap & Bottles](wiki/venues/tap-and-bottles.md): Southport centre; high; cider=documented-real.
+- [The Beer Lab — Heswall](wiki/venues/beer-lab-heswall.md): Heswall; high; cider=documented-real.
+- [The Black Toad](wiki/venues/black-toad.md): Hoylake; high; cider=documented-real.
+- [The Bridewell](wiki/venues/bridewell.md): Ropewalks / Campbell Square; essential; cider=unverified.
+- [The Denbigh Castle](wiki/venues/denbigh-castle.md): Dale Street / Hackins Hey; high; cider=documented-real.
+- [The Dispensary](wiki/venues/dispensary.md): Renshaw Street / Ropewalks; high; cider=unverified.
+- [The Freshfield](wiki/venues/freshfield.md): Freshfield / Formby; high; cider=documented-real.
+- [The Grapes — Roscoe Street](wiki/venues/grapes-roscoe-street.md): Ropewalks / Roscoe Street; high; cider=documented-real.
+- [The Grasshopper](wiki/venues/grasshopper-hillside.md): Hillside / Southport; high; cider=documented-real.
+- [The Lazy Landlord](wiki/venues/lazy-landlord.md): Liscard / Wallasey; high; cider=documented-real.
+- [The Monro](wiki/venues/monro.md): Ropewalks / Duke Street; high; cider=unverified.
+- [The Pen Factory](wiki/venues/pen-factory.md): Hope Street; high; cider=unverified.
+- [The Red Fox](wiki/venues/red-fox-thornton-hough.md): Thornton Hough; high; cider=documented-real.
+- [The Vines — The Big House](wiki/venues/vines.md): Lime Street; essential; cider=unverified.
+- [Thomas Rigby’s](wiki/venues/thomas-rigbys.md): Dale Street; high; cider=unverified.
+- [Vernon Arms](wiki/venues/vernon-arms.md): Dale Street; high; cider=documented-real.
+- [Volunteer Canteen](wiki/venues/volunteer-canteen.md): Waterloo; high; cider=unverified.
+- [West Kirby Tap](wiki/venues/west-kirby-tap.md): West Kirby; high; cider=documented-real.
+- [Wheatsheaf Inn — The Thatch](wiki/venues/wheatsheaf-raby.md): Raby; specialist; cider=unverified.
+- [White Hart / The Engineer](wiki/venues/white-hart-liverpool.md): Hope Street; high; cider=documented-real.
+- [White Star](wiki/venues/white-star-liverpool.md): Cavern Quarter / Rainford Gardens; high; cider=unverified.
+- [Ye Cracke](wiki/venues/ye-cracke.md): Georgian Quarter / Rice Street; high; cider=unverified.
+- [Angel](wiki/venues/angel-manchester.md): Angel Meadow / northern city centre; high; cider=reported-cider-check-qualification.
+- [Balance Brewing & Blending](wiki/venues/balance-brewing-blending.md): Piccadilly / Sheffield Street; high; cider=documented-real.
+- [Bar Fringe](wiki/venues/bar-fringe.md): Northern Quarter / Swan Street; high; cider=documented-real.
+- [Beer House](wiki/venues/beer-house-chorlton.md): Chorlton; high; cider=documented-real.
+- [Black Friar](wiki/venues/black-friar-salford.md): Salford / Blackfriars Road; high; cider=unverified.
+- [Britons Protection](wiki/venues/britons-protection.md): Great Bridgewater Street / Deansgate; essential; cider=reported-cider-check-qualification.
+- [Bundobust Brewery](wiki/venues/bundobust-brewery-manchester.md): Oxford Street / city centre; high; cider=documented-real.
+- [Cafe Beermoth](wiki/venues/cafe-beermoth.md): Central Manchester / Brown Street; high; cider=unverified.
+- [Cask — Ancoats](wiki/venues/cask-ancoats.md): Ancoats / New Islington; high; cider=documented-real.
+- [Cask — Liverpool Road](wiki/venues/cask-liverpool-road.md): Castlefield / Liverpool Road; high; cider=documented-real.
+- [Castle Hotel](wiki/venues/castle-hotel.md): Northern Quarter / Oldham Street; essential; cider=unverified.
+- [Chorlton Tap](wiki/venues/chorlton-tap.md): Chorlton; high; cider=documented-real.
+- [Circus Tavern](wiki/venues/circus-tavern.md): Portland Street; high; cider=unverified.
+- [City Arms](wiki/venues/city-arms.md): Town Hall / Kennedy Street; essential; cider=reported-cider-check-qualification.
+- [Cloudwater Unit 9](wiki/venues/cloudwater-unit-9.md): Piccadilly Trading Estate; high; cider=documented-real.
+- [Crown & Kettle](wiki/venues/crown-and-kettle.md): Ancoats / Northern Quarter edge; essential; cider=documented-real.
+- [Eagle Inn](wiki/venues/eagle-inn-salford.md): Salford / Collier Street; high; cider=reported-cider-check-qualification.
+- [Fell Chorlton](wiki/venues/fell-chorlton.md): Chorlton; high; cider=documented-real.
+- [Fletcher Moss](wiki/venues/fletcher-moss.md): Didsbury; high; cider=unverified.
+- [Gas Lamp](wiki/venues/gas-lamp.md): Bridge Street / western city centre; high; cider=documented-real.
+- [Grey Horse](wiki/venues/grey-horse-manchester.md): Portland Street; high; cider=unverified.
+- [Hare & Hounds](wiki/venues/hare-and-hounds-manchester.md): Shudehill; high; cider=unverified.
+- [Kings Arms](wiki/venues/kings-arms-salford.md): Salford / Bloom Street; high; cider=unverified.
+- [Lamb Hotel](wiki/venues/lamb-hotel-eccles.md): Eccles; high; cider=unverified.
+- [Lass O’Gowrie](wiki/venues/lass-ogowrie.md): Oxford Road / Charles Street; high; cider=unverified.
+- [Longford Tap](wiki/venues/longford-tap.md): Stretford; specialist; cider=unverified.
+- [Lower Turks Head](wiki/venues/lower-turks-head.md): Shudehill; high; cider=unverified.
+- [Marble Arch](wiki/venues/marble-arch.md): Angel Meadow / northern city centre; essential; cider=documented-real.
+- [Molly House](wiki/venues/molly-house.md): Gay Village / Richmond Street; high; cider=documented-real.
+- [Mr Thomas’s Chop House](wiki/venues/mr-thomass-chop-house.md): Cross Street / Royal Exchange; essential; cider=unverified.
+- [New Oxford](wiki/venues/new-oxford.md): Salford / Bexley Square; essential; cider=unverified.
+- [Northern Monk Refectory Manchester](wiki/venues/northern-monk-manchester.md): Northern Quarter / Tariff Street; specialist; cider=documented-real.
+- [Old Wellington](wiki/venues/old-wellington.md): Cathedral / Shambles Square; high; cider=unverified.
+- [Peveril of the Peak](wiki/venues/peveril-of-the-peak.md): Great Bridgewater Street / Oxford Road; essential; cider=unverified.
+- [Port Street Beer House](wiki/venues/port-street-beer-house.md): Northern Quarter / Port Street; essential; cider=documented-real.
+- [Prairie Schooner Taphouse](wiki/venues/prairie-schooner-urmston.md): Urmston; high; cider=documented-real.
+- [Queens Arms — Patricroft](wiki/venues/queens-arms-patricroft.md): Patricroft / Eccles; specialist; cider=unverified.
+- [Reasons to be Cheerful](wiki/venues/reasons-to-be-cheerful.md): Burnage / Fog Lane; high; cider=documented-real.
+- [Rising Sun](wiki/venues/rising-sun-manchester.md): Queen Street / Deansgate; specialist; cider=unverified.
+- [Sadler’s Cat](wiki/venues/sadlers-cat.md): NOMA / Manchester Victoria; specialist; cider=unverified.
+- [Salisbury Ale House](wiki/venues/salisbury-ale-house.md): Oxford Road / Little Ireland; high; cider=none-reported.
+- [Salutation](wiki/venues/salutation-hulme.md): Hulme / Oxford Road university area; high; cider=reported-cider-check-qualification.
+- [Sam’s Chop House](wiki/venues/sams-chop-house.md): Chapel Walks / Cross Street; high; cider=unverified.
+- [Sinclair’s Oyster Bar](wiki/venues/sinclairs-oyster-bar.md): Cathedral / Shambles Square; specialist; cider=unverified.
+- [Smithfield Market Tavern](wiki/venues/smithfield-market-tavern.md): Northern Quarter / Swan Street; essential; cider=documented-real.
+- [Steelfish Brewing Company Taproom](wiki/venues/steelfish-taproom.md): Piccadilly / Temperance Street; specialist; cider=documented-real.
+- [Sureshot Brewery Taproom](wiki/venues/sureshot-taproom.md): Piccadilly / Sheffield Street; specialist; cider=reported-cider-check-qualification.
+- [Track Brewery Tap](wiki/venues/track-brewery-tap.md): Piccadilly Trading Estate; high; cider=unverified.
+- [Wharf](wiki/venues/wharf-manchester.md): Castlefield; high; cider=documented-real.
+- [Albion](wiki/venues/albion-chester.md): Chester / city walls; high; cider=unverified.
+- [Arden Arms](wiki/venues/arden-arms-stockport.md): Stockport centre; essential; cider=unverified.
+- [Bank Top Brewery Tap](wiki/venues/bank-top-brewery-tap-bolton.md): Bolton / Astley Bridge; high; cider=reported-cider-check-qualification.
+- [Beacon](wiki/venues/beacon-altrincham.md): Altrincham; high; cider=documented-real.
+- [Blackedge Brewery Bar](wiki/venues/blackedge-brewery-bar-horwich.md): Horwich; specialist; cider=documented-real.
+- [Costello’s Bar](wiki/venues/costellos-altrincham.md): Altrincham; high; cider=none-reported.
+- [Cotton Tree](wiki/venues/cotton-tree-bollington.md): Bollington; high; cider=documented-real.
+- [Cricketers Arms](wiki/venues/cricketers-arms-st-helens.md): St Helens; high; cider=documented-real.
+- [Crown Inn](wiki/venues/crown-inn-stockport.md): Stockport centre / viaduct; high; cider=unverified.
+- [Dunham Apple Barn](wiki/venues/dunham-apple-barn.md): Dunham Massey / Altrincham; essential; cider=documented-real.
+- [Flying Horse Hotel](wiki/venues/flying-horse-rochdale.md): Rochdale centre; high; cider=reported-cider-check-qualification.
+- [Heaton Hops](wiki/venues/heaton-hops.md): Stockport / Heaton Chapel; high; cider=documented-real.
+- [Irwell Works Brewery Tap](wiki/venues/irwell-works-ramsbottom.md): Ramsbottom; high; cider=reported-cider-check-qualification.
+- [Lower Angel](wiki/venues/lower-angel-warrington.md): Warrington centre; high; cider=documented-real.
+- [Northumberland Arms](wiki/venues/northumberland-arms-marple-bridge.md): Marple Bridge; high; cider=unverified.
+- [Old Harkers Arms](wiki/venues/old-harkers-arms-chester.md): Chester / canal and station quarter; high; cider=documented-real.
+- [Olde Cottage](wiki/venues/olde-cottage-chester.md): Chester / Brook Street; high; cider=unverified.
+- [Olde Man & Scythe](wiki/venues/olde-man-scythe-bolton.md): Bolton centre; high; cider=none-reported.
+- [Park Tavern](wiki/venues/park-tavern-macclesfield.md): Macclesfield / Park Lane; high; cider=documented-real.
+- [Petersgate Tap](wiki/venues/petersgate-tap-stockport.md): Stockport centre; essential; cider=documented-real.
+- [Rat & Ratchet](wiki/venues/rat-ratchet-huddersfield.md): Huddersfield centre — extended excursion; specialist; cider=documented-real.
+- [RedWillow Macclesfield](wiki/venues/redwillow-macclesfield.md): Macclesfield centre; essential; cider=documented-real.
+- [Riverhead Brewery Tap](wiki/venues/riverhead-marsden.md): Marsden — extended excursion; specialist; cider=documented-real.
+- [Rivington Brewing Co. Taproom](wiki/venues/rivington-brewery-tap.md): Rivington / Lancashire countryside; specialist; cider=documented-real.
+- [Runaway Brewery Tap](wiki/venues/runaway-brewery-tap-stockport.md): Stockport centre / Astley Street; high; cider=documented-real.
+- [Stalybridge Buffet Bar](wiki/venues/stalybridge-buffet-bar.md): Stalybridge; essential; cider=documented-real.
+- [Swan & Railway Hotel](wiki/venues/swan-railway-wigan.md): Wigan station quarter; high; cider=reported-cider-check-qualification.
+- [Swan with Two Necks](wiki/venues/swan-with-two-necks-stockport.md): Stockport centre; essential; cider=unverified.
+- [That Beer Place](wiki/venues/that-beer-place-chester.md): Chester centre; essential; cider=documented-real.
+- [The Baum](wiki/venues/baum-rochdale.md): Rochdale centre; essential; cider=documented-real.
+- [The Blossoms](wiki/venues/blossoms-stockport.md): Stockport / Heaviley; high; cider=unverified.
+- [The Brewery Tap](wiki/venues/brewery-tap-chester.md): Chester / Lower Bridge Street; essential; cider=documented-real.
+- [The Cellar](wiki/venues/cellar-chester.md): Chester / City Road; high; cider=documented-real.
+- [The Firkin](wiki/venues/firkin-newton-le-willows.md): Newton-le-Willows; high; cider=documented-real.
+- [The Magnet Freehouse](wiki/venues/magnet-stockport.md): Stockport / Heaton Norris; essential; cider=reported-cider-check-qualification.
+- [The Pied Bull](wiki/venues/pied-bull-chester.md): Chester / Northgate Street; high; cider=unverified.
+- [The Sportsman](wiki/venues/sportsman-huddersfield.md): Huddersfield centre — extended excursion; specialist; cider=documented-real.
+- [The Trackside](wiki/venues/trackside-bury.md): Bury; high; cider=reported-cider-check-qualification.
+- [Torr Vale Tap](wiki/venues/torr-vale-tap-new-mills.md): New Mills; high; cider=unverified.
+- [Turks Head](wiki/venues/turks-head-st-helens.md): St Helens; essential; cider=documented-real.
+- [Waters Green Tavern](wiki/venues/waters-green-tavern-macclesfield.md): Macclesfield centre; high; cider=documented-real.
+- [Wigan Central](wiki/venues/wigan-central.md): Wigan station quarter; essential; cider=documented-real.
+- [Ye Olde Vic](wiki/venues/olde-vic-stockport.md): Stockport / Edgeley; high; cider=documented-real.
+- [’Udders Orchard Cidery & Tasting Rooms](wiki/venues/udders-orchard-cidery.md): Lindley, Huddersfield — extended excursion; specialist; cider=documented-real.

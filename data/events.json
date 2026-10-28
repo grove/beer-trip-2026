@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "source_checked": "2026-10-28",
+  "timezone": "Europe/London",
+  "status_note": "Advertised dates; ticket availability and final programmes must be rechecked. No bookings made.",
+  "events": [
+    {
+      "id": "bury-beer-festival-2026",
+      "name": "Bury Beer Festival",
+      "start_date": "2026-11-06",
+      "end_date": "2026-11-07",
+      "location": "Derby Hall at The Met, Bury",
+      "fit": "strong",
+      "note": "Cask and keg from local breweries; cider/perry bar advertised. Session tickets required; verify actual lists.",
+      "sources": [
+        "https://themet.org.uk/event/bury-beer-festival-2026/",
+        "https://themet.org.uk/article/bury-beer-fest-26-breweries-sponsors/"
+      ]
+    },
+    {
+      "id": "udders-orchard-november-2026",
+      "name": "’Udders Orchard November taproom opening",
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "location": "70A Acre Street, Lindley, Huddersfield",
+      "fit": "specialist",
+      "note": "Explicit producer-announced opening dates; extended cider/perry excursion. No other November dates inferred. Confirm before travelling.",
+      "sources": [
+        "https://www.uddersorchardcider.co.uk/"
+      ]
+    },
+    {
+      "id": "independent-salford-beer-festival-2026",
+      "name": "Independent Salford Beer Festival (ISBFXI)",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-14",
+      "location": "Hemsley House, Salford",
+      "fit": "strong",
+      "note": "Cask, keg, cider and perry. Organiser's 18 September update says both Friday sessions and Saturday lunchtime sold out; verify remaining sessions before planning.",
+      "sources": [
+        "https://www.salfordbeerfest.com/news/isbfxi-is-go",
+        "https://www.salfordbeerfest.com/news/isbfxi-the-chilled-sessions",
+        "https://www.universe.com/events/independent-salford-beer-festival-isbfxi-tickets-9TGPYD",
+        "https://www.ticketmaster.co.uk/the-independent-salford-beer-festival-tickets/artist/5605535"
+      ]
+    },
+    {
+      "id": "wirral-beer-festival-2026",
+      "name": "Ship & Mitre 22nd Wirral Beer Festival",
+      "start_date": "2026-11-12",
+      "end_date": "2026-11-15",
+      "location": "Hulme Hall, 23 Bolton Road, Bebington, Wirral, CH62 5DH",
+      "fit": "strong",
+      "note": "Substantial real-ale selection, cider/perry and food advertised. Friday daytime is the quiet session. Festival venue is separate from the Liverpool pub.",
+      "sources": [
+        "https://theshipandmitre.uk/event/ship-mitre-22nd-wirral-beer-festival/"
+      ]
+    },
+    {
+      "id": "foam-2026",
+      "name": "FOAM Beer Festival",
+      "start_date": "2026-11-13",
+      "end_date": "2026-11-14",
+      "location": "Stalybridge Civic Hall",
+      "fit": "specialist",
+      "note": "New brewery-led modern-beer event and special bottle pours. Main line-up text partly TBC; cask and qualifying real-cider programme not established.",
+      "sources": [
+        "https://www.foambeerfestival.com/"
+      ]
+    },
+    {
+      "id": "hoppy-christmas-liverpool-2026",
+      "name": "Liverpool Craft Brew Festival: A Hoppy Christmas",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "location": "Invisible Wind Factory, Liverpool",
+      "fit": "alternative",
+      "note": "Party-oriented craft-drinks event. Lower priority for the real-ale/traditional-pub brief; real-cider qualification not established.",
+      "sources": [
+        "https://craftbrewfestival.com/liverpool"
+      ]
+    },
+    {
+      "id": "black-lodge-winterfest-2026",
+      "name": "Black Lodge Winterfest",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-28",
+      "location": "Black Lodge Brewing, Liverpool",
+      "fit": "specialist",
+      "note": "2026 dates in brewery indexed listing; organiser ticket page corroborates dates. Main archive retrieval exposed older content and session-end details conflict; confirm live session times. Cask/cider lists not established.",
+      "sources": [
+        "https://www.blacklodgebrewing.co.uk/events-3",
+        "https://www.eventbrite.co.uk/e/black-lodge-winterfest-tickets-2000260081750"
+      ]
+    }
+  ]
+}
