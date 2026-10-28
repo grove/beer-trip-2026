@@ -1,6 +1,6 @@
 # The beer experience to look for
 
-[Home](../README.md) · [Shortlists](shortlists.md) · [Real cider](real-cider.md)
+[Home](../README.md) · [Shortlists](shortlists.md) · [Real cider](real-cider.md) · **[What to drink](what-to-drink.md)** · [Manchester stories](stories-manchester.md) · [Stockport stories](stories-stockport-and-excursions.md) · [Liverpool stories](stories-liverpool.md)
 
 The rewarding comparison here is between brewery traditions, cellar work and different kinds of pub. You already know how to hunt beer; this page explains the choices this particular wiki makes.
 
