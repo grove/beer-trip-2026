@@ -32,7 +32,7 @@ Google's official [My Maps import instructions](https://support.google.com/mymap
 
 ## What is in each marker?
 
-The exports include stable **ID**, **Name**, geocoding **Location**, **Address**, **Area**, **Region**, editorial **Rank**, **Priority**, nuanced **Real cider evidence**, concise **Why visit**, **Beer**, **Cider and perry**, **Food**, any suggested UK **Visit date**, **Stop order/role/note**, a direct **Wiki profile**, and a separate **Google Maps** search URL. Each venue's profile has its sources, caveats and fuller story.
+The exports include **Monday–Sunday bar opening-hour columns and an Hours source URL**, with “Closed” only where an ordinary published schedule says so and “Event-only” for producer sessions without a regular weekly timetable. Hours after midnight show “(+1 day)”. These are checked schedules, **not a promise of opening on the travel dates**. Full kitchen hours and exceptions are on the linked venue profiles. The exports also include stable **ID**, **Name**, geocoding **Location**, **Address**, **Area**, **Region**, editorial **Rank**, **Priority**, nuanced **Real cider evidence**, concise **Why visit**, **Beer**, **Cider and perry**, **Food**, any suggested UK **Visit date**, **Stop order/role/note**, a direct **Wiki profile**, and a separate **Google Maps** search URL. Each venue's profile has its sources, caveats and fuller story.
 
 Only the **real-cider evidence state** is structured; it is **not** a promise of today's product, real-cider qualification or on-hand quantity. The 2026-10-28 research snapshot can become stale. Review the linked source pages before travelling.
 
@@ -43,7 +43,7 @@ The CSV **Location** is for Google My Maps to geocode the full address. It is in
 The CSVs are **generated files**. Never fix them by hand. When the database, ranking or itinerary changes:
 
 1. Update [canonical venues](../../data/venues.json), [rankings](../../data/rankings.json) or [map-routes.json](../../data/map-routes.json), preserving the documented uncertainty.
-2. Run **python3 scripts/export_maps.py** from the repository root, and check using **python3 scripts/export_maps.py --check**.
+2. Run **python3 scripts/build_wiki.py** to refresh 158 venue pages, then **python3 scripts/export_maps.py** from the repository root, and check using **python3 scripts/export_maps.py --check**.
 3. Run the usual wiki and website validation checks. Commit canonical changes **together** with the regenerated CSVs; the CI check detects stale export files.
 4. Reimport the updated CSV in My Maps. **My Maps does not automatically sync with GitHub**; the website map, however, reads the repository data whenever it loads.
 
