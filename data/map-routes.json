@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "trip_dates": {
+    "arrival": "2026-11-09",
+    "departure": "2026-11-14"
+  },
+  "route_notes": "Suggested visit order only, based on the 28 October 2026 itinerary. Not a guarantee of opening, stock, kitchen service or transport; alternatives replace rather than extend the route. No Saturday pub crawl.",
+  "routes": [
+    {
+      "id": "mon-09",
+      "date": "2026-11-09",
+      "title": "Mon 9 · Arrival evening",
+      "area": "Manchester",
+      "note": "Marble Arch only if the flight and transfer permit. Monday kitchen last orders were published as 20:00; Tuesday closed. Dinner may need to be elsewhere.",
+      "stops": [
+        {
+          "venue_id": "marble-arch",
+          "role": "conditional",
+          "note": "If flight arrival permits; do not assume a meal."
+        }
+      ]
+    },
+    {
+      "id": "tue-10",
+      "date": "2026-11-10",
+      "title": "Tue 10 · Historic Manchester",
+      "area": "Manchester",
+      "note": "Lunch at Mr Thomas's then a manageable central heritage-and-cask route. Café Beermoth or Fell is an alternative evening add-on, not an extra compulsory stop.",
+      "stops": [
+        {
+          "venue_id": "mr-thomass-chop-house",
+          "role": "lunch",
+          "note": "Lunch and tiled interior; confirm kitchen."
+        },
+        {
+          "venue_id": "city-arms",
+          "role": "anchor",
+          "note": "Ask for mild or a well-kept local bitter."
+        },
+        {
+          "venue_id": "peveril-of-the-peak",
+          "role": "anchor",
+          "note": "Green tiles, historic rooms and bell pushes."
+        },
+        {
+          "venue_id": "britons-protection",
+          "role": "anchor",
+          "note": "Historic service hatches and rooms."
+        },
+        {
+          "venue_id": "gas-lamp",
+          "role": "optional",
+          "note": "Cask and Little Pomona cider lead; check actual product."
+        }
+      ]
+    },
+    {
+      "id": "wed-11",
+      "date": "2026-11-11",
+      "title": "Wed 11 · Stockport",
+      "area": "Stockport",
+      "note": "Stockport's beer/cider-and-heritage day. Magnet is a later opener. The Old Tom seasonal cask is only a possible remaining pint after its 7 November launch.",
+      "stops": [
+        {
+          "venue_id": "arden-arms-stockport",
+          "role": "lunch",
+          "note": "Lunch and historic snug; confirm kitchen hours."
+        },
+        {
+          "venue_id": "swan-with-two-necks-stockport",
+          "role": "anchor",
+          "note": "Robinsons cask and heritage rooms."
+        },
+        {
+          "venue_id": "petersgate-tap-stockport",
+          "role": "anchor",
+          "note": "Ask for the cellar, fridge and perry list."
+        },
+        {
+          "venue_id": "magnet-stockport",
+          "role": "optional",
+          "note": "Later-opening cask specialist; don't assume Wednesday pizza."
+        }
+      ]
+    },
+    {
+      "id": "thu-12",
+      "date": "2026-11-12",
+      "title": "Thu 12 · Liverpool Dale Street",
+      "area": "Liverpool",
+      "note": "Arrival in Liverpool; compare splendid rooms with specialist cask. The Wirral Beer Festival is an evening alternative, not a fourth mandatory pub.",
+      "stops": [
+        {
+          "venue_id": "vines",
+          "role": "anchor",
+          "note": "Grand Edwardian interior and returned cask."
+        },
+        {
+          "venue_id": "lion-tavern",
+          "role": "anchor",
+          "note": "Magnificent tiled corridor; real cider lead."
+        },
+        {
+          "venue_id": "ship-and-mitre",
+          "role": "anchor",
+          "note": "World beer, real cider and possible food; confirm kitchen."
+        }
+      ]
+    },
+    {
+      "id": "fri-13",
+      "date": "2026-11-13",
+      "title": "Fri 13 · Liverpool Georgian Quarter",
+      "area": "Liverpool",
+      "note": "Roscoe Head was advertised for sale September 2026: sale is not closure, but reconfirm operation. Travel back to Manchester on Friday night if following the preferred hotel pattern.",
+      "stops": [
+        {
+          "venue_id": "roscoe-head",
+          "role": "anchor",
+          "note": "Trading must be reconfirmed after 2026 sale notice."
+        },
+        {
+          "venue_id": "philharmonic-dining-rooms",
+          "role": "anchor",
+          "note": "Magnificent Grade I heritage rooms."
+        },
+        {
+          "venue_id": "peter-kavanaghs",
+          "role": "optional",
+          "note": "Extra walking for remarkable murals and drinking tables."
+        }
+      ]
+    }
+  ]
+}
