@@ -442,6 +442,100 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "baum-rochdale": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/baum-rochdale-152799",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:00"
+          ]
+        ]
+      }
+    },
     "beacon-altrincham": {
       "status": "published",
       "days": {
@@ -3620,6 +3714,56 @@
       "checked_on": "2026-10-28",
       "note": "Heritage-only exception; do not assume cask availability."
     },
+    "rat-ratchet-huddersfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/rat-ratchet-huddersfield-178787",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "reasons-to-be-cheerful": {
       "status": "published",
       "days": {
@@ -3657,6 +3801,56 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/reasons-to-be-cheerful-burnage-167218",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "redwillow-macclesfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/redwillow-macclesfield-173309",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -3709,6 +3903,242 @@
       "source_url": "https://camra.org.uk/pubs/rising-sun-manchester-137719",
       "source_type": "camra",
       "checked_on": "2026-10-28"
+    },
+    "riverhead-marsden": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/riverhead-brewery-tap-marsden-178796",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "15:00"
+          ],
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
+    "rivington-brewery-tap": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/rivington-brewery-co-tap-rivington-180304",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Rural brewery tap; operator events and bank-holiday hours can differ. Tuesday closed.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "19:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "17:30"
+          ]
+        ]
+      }
+    },
+    "runaway-brewery-tap-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "15:00",
+            "21:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/runaway-brewery-tap-stockport-196567",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Closed Wednesday; do not include as a Wednesday Stockport stop without an explicitly announced event.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "16:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "18:30"
+          ]
+        ]
+      }
     },
     "sadlers-cat": {
       "status": "published",
@@ -4143,6 +4573,100 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "stalybridge-buffet-bar": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/station-buffet-bar-stalybridge-120842",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
     "steelfish-taproom": {
       "status": "published",
       "days": {
@@ -4216,6 +4740,200 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/sureshot-brewery-taproom-manchester-196628",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "swan-railway-wigan": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/swan-railway-hotel-wigan-172297",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
+    "swan-with-two-necks-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "11:30",
+            "21:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/swan-with-two-necks-stockport-167694",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "that-beer-place-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/that-beer-place-chester-136994",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
