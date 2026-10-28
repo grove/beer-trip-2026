@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic Joseph Holt pub |
 | Address | 33 Regent Street, Eccles, M30 0BP · [Map search](https://www.google.com/maps/search/?api=1&query=Lamb%20Hotel%2C%2033%20Regent%20Street%2C%20Eccles%2C%20M30%200BP) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Lamb%20Hotel%20Eccles&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

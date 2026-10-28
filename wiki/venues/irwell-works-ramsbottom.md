@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Brewery tap in former engineering works |
 | Address | Irwell Street, Ramsbottom, BL0 9YQ · [Map search](https://www.google.com/maps/search/?api=1&query=Irwell%20Works%20Brewery%20Tap%2C%20Irwell%20Street%2C%20Ramsbottom%2C%20BL0%209YQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Irwell%20Works%20Brewery%20Tap%20Ramsbottom&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

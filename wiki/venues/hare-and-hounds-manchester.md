@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic traditional pub |
 | Address | 46 Shudehill, Manchester, M4 4AA · [Map search](https://www.google.com/maps/search/?api=1&query=Hare%20%26%20Hounds%2C%2046%20Shudehill%2C%20Manchester%2C%20M4%204AA) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Hare%20%26%20Hounds%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

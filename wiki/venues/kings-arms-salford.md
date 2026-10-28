@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional pub and theatre |
 | Address | 11 Bloom Street, Salford, M3 6AN · [Map search](https://www.google.com/maps/search/?api=1&query=Kings%20Arms%2C%2011%20Bloom%20Street%2C%20Salford%2C%20M3%206AN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Kings%20Arms%20Salford&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

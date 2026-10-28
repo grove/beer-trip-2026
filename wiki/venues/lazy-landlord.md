@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Independent cask and cider micropub |
 | Address | 56 Mill Lane, Liscard, Wallasey CH44 5UG · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Lazy%20Landlord%2C%2056%20Mill%20Lane%2C%20Liscard%2C%20Wallasey%20CH44%205UG) |
+| Untappd | [Venue page](https://untappd.com/v/the-lazy-landlord-micro-pub/2477823) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

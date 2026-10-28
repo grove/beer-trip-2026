@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Historic multiroom real-ale pub |
 | Address | 16 Union Street, Southport PR9 0QE · [Map search](https://www.google.com/maps/search/?api=1&query=Guest%20House%2C%2016%20Union%20Street%2C%20Southport%20PR9%200QE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Guest%20House%20Southport&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

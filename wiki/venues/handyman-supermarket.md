@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Neighbourhood brewpub |
 | Address | 461 Smithdown Road, Liverpool L15 3JL · [Map search](https://www.google.com/maps/search/?api=1&query=Handyman%20Supermarket%2C%20461%20Smithdown%20Road%2C%20Liverpool%20L15%203JL) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Handyman%20Supermarket%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

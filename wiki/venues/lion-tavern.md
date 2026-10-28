@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Historic cask pub |
 | Address | 67 Moorfields, Liverpool L2 2BP · [Map search](https://www.google.com/maps/search/?api=1&query=Lion%20Tavern%2C%2067%20Moorfields%2C%20Liverpool%20L2%202BP) |
+| Untappd | [Venue page](https://untappd.com/v/lion-tavern/134294) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

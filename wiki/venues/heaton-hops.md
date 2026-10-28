@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Bottle shop and small tap house |
 | Address | 7 School Lane, Heaton Chapel, SK4 5DE · [Map search](https://www.google.com/maps/search/?api=1&query=Heaton%20Hops%2C%207%20School%20Lane%2C%20Heaton%20Chapel%2C%20SK4%205DE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Heaton%20Hops%20Heaton%20Chapel&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
