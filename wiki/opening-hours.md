@@ -8,163 +8,163 @@
 
 | Venue | Area | Mon 9 | Tue 10 | Wed 11 | Thu 12 | Fri 13 |
 | --- | --- | --- | --- | --- | --- | --- |
-| [Arden Arms](arden-arms-stockport.md) | Stockport centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Baltic Fleet](baltic-fleet.md) | Waterfront / Wapping | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [Britons Protection](britons-protection.md) | Great Bridgewater Street / Deansgate | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 11:00–00:00 (+1 day) |
-| [Castle Hotel](castle-hotel.md) | Northern Quarter / Oldham Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [City Arms](city-arms.md) | Town Hall / Kennedy Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Crown & Kettle](crown-and-kettle.md) | Ancoats / Northern Quarter edge | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Dunham Apple Barn](dunham-apple-barn.md) | Dunham Massey / Altrincham | Closed | Closed | Closed | Closed | Closed |
-| [Fox & Pine](fox-and-pine-oldham.md) | Oldham town centre | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 |
-| [Lion Tavern](lion-tavern.md) | Moorfields / Dale Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [Marble Arch](marble-arch.md) | Angel Meadow / northern city centre | 12:00–22:00 | Closed | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 |
-| [Mr Thomas’s Chop House](mr-thomass-chop-house.md) | Cross Street / Royal Exchange | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
-| [New Oxford](new-oxford.md) | Salford / Bexley Square | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
-| [Our Gracie’s](our-gracies-rochdale.md) | Rochdale centre | Closed | Closed | 13:00–21:30 | 13:00–22:30 | 13:00–23:30 |
-| [Peter Kavanagh’s](peter-kavanaghs.md) | Georgian Quarter / Egerton Street | 12:00–23:00 | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
-| [Petersgate Tap](petersgate-tap-stockport.md) | Stockport centre | Closed | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 |
-| [Peveril of the Peak](peveril-of-the-peak.md) | Great Bridgewater Street / Oxford Road | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 | 12:00–00:00 (+1 day) |
-| [Philharmonic Dining Rooms](philharmonic-dining-rooms.md) | Hope Street / Georgian Quarter | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–00:00 (+1 day) |
-| [Port Street Beer House](port-street-beer-house.md) | Northern Quarter / Port Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [RedWillow Macclesfield](redwillow-macclesfield.md) | Macclesfield centre | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 12:00–22:00 | 12:00–00:00 (+1 day) |
-| [Roscoe Head](roscoe-head.md) | Ropewalks / Roscoe Street | 11:30–23:00 | 11:30–23:00 | 11:30–00:00 (+1 day) | 11:30–00:00 (+1 day) | 11:30–00:00 (+1 day) |
-| [Ship & Mitre](ship-and-mitre.md) | Dale Street | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–00:00 (+1 day) |
-| [Smithfield Market Tavern](smithfield-market-tavern.md) | Northern Quarter / Swan Street | 16:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 12:00–00:00 (+1 day) |
-| [St Peter’s Tavern](st-peters-tavern.md) | Ropewalks / Seel Street | 12:00–01:30 (+1 day) | 12:00–01:30 (+1 day) | 12:00–01:30 (+1 day) | 12:00–02:30 (+1 day) | 12:00–02:30 (+1 day) |
-| [Stalybridge Buffet Bar](stalybridge-buffet-bar.md) | Stalybridge | 11:00–22:00 | 11:00–22:00 | 11:00–22:00 | 11:00–22:00 | 11:00–00:00 (+1 day) |
-| [Swan with Two Necks](swan-with-two-necks-stockport.md) | Stockport centre | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 |
-| [That Beer Place](that-beer-place-chester.md) | Chester centre | 12:00–21:00 | 12:00–21:00 | 12:00–21:00 | 12:00–23:00 | 12:00–23:00 |
-| [The Baum](baum-rochdale.md) | Rochdale centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [The Brewery Tap](brewery-tap-chester.md) | Chester / Lower Bridge Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [The Bridewell](bridewell.md) | Ropewalks / Campbell Square | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [The Coop](coop-crosby.md) | Crosby / College Road | 16:00–21:00 | 16:00–21:00 | 16:00–21:00 | 16:00–21:00 | 15:00–21:30 |
-| [The Magnet Freehouse](magnet-stockport.md) | Stockport / Heaton Norris | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 12:00–23:00 |
-| [The Vines — The Big House](vines.md) | Lime Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
-| [Turks Head](turks-head-st-helens.md) | St Helens | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Wigan Central](wigan-central.md) | Wigan station quarter | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Albion](albion-chester.md) | Chester / city walls | 12:00–15:00, 17:00–22:30 | 12:00–15:00, 17:00–22:30 | Closed | 12:00–15:00, 17:00–23:00 | 12:00–15:00, 17:00–23:00 |
-| [Angel](angel-manchester.md) | Angel Meadow / northern city centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–01:00 (+1 day) |
-| [Augustus John](augustus-john.md) | University Quarter | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 |
-| [B33R@33](b33r-at-33-horwich.md) | Horwich / Lee Lane | 18:00–22:00 | 18:00–22:00 | 16:00–22:30 | 16:00–23:00 | 13:00–23:30 |
-| [Balance Brewing & Blending](balance-brewing-blending.md) | Piccadilly / Sheffield Street | Closed | Closed | Closed | 17:00–22:00 | 14:00–22:00 |
-| [Bank Top Brewery Ale House](bank-top-ale-house-horwich.md) | Horwich / Church Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
-| [Bank Top Brewery Tap](bank-top-brewery-tap-bolton.md) | Bolton / Astley Bridge | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
-| [Bar Fringe](bar-fringe.md) | Northern Quarter / Swan Street | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–00:00 (+1 day) |
-| [Beacon](beacon-altrincham.md) | Altrincham | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Beer House](beer-house-chorlton.md) | Chorlton | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
-| [Belvedere Arms](belvedere.md) | Georgian Quarter / Sugnall Street | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) |
-| [Black Cat — Rose Lane](black-cat-rose-lane.md) | Mossley Hill / Rose Lane | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–00:00 (+1 day) |
-| [Black Friar](black-friar-salford.md) | Salford / Blackfriars Road | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 |
-| [Black Lodge Brewery & Taproom](black-lodge-liverpool.md) | Baltic Triangle / Kings Dock Street | Closed | Closed | Closed | 16:00–21:00 | 16:00–21:00 |
-| [Bow-Legged Beagle — Bromborough](bow-legged-beagle-bromborough.md) | Bromborough | 13:00–22:00 | 13:00–22:00 | 13:00–22:00 | 13:00–22:00 | 13:00–23:00 |
-| [Broad Street Social](broad-street-social-bury.md) | Bury centre | Closed | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 12:00–00:30 (+1 day) |
-| [Bundobust Brewery](bundobust-brewery-manchester.md) | Oxford Street / city centre | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
-| [Bundobust Liverpool](bundobust-liverpool.md) | Bold Street | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
-| [Cafe Beermoth](cafe-beermoth.md) | Central Manchester / Brown Street | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Cask — Ancoats](cask-ancoats.md) | Ancoats / New Islington | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 | 12:00–23:30 |
-| [Cask — Liverpool Road](cask-liverpool-road.md) | Castlefield / Liverpool Road | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [Chorlton Tap](chorlton-tap.md) | Chorlton | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–00:00 (+1 day) | 14:00–00:00 (+1 day) |
-| [Circus Tavern](circus-tavern.md) | Portland Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
-| [Cloudwater Unit 9](cloudwater-unit-9.md) | Piccadilly Trading Estate | 14:00–22:00 | 14:00–22:00 | 14:00–22:00 | 14:00–22:00 | 12:00–22:00 |
-| [Cobden Vaults](cobden-woolton.md) | Woolton village | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 12:00–23:00 |
-| [Corner Post](corner-post-crosby.md) | Crosby / Bridge Road | Closed | 16:00–21:00 | 16:00–21:00 | 16:00–21:00 | 15:00–21:30 |
-| [Costello’s Bar](costellos-altrincham.md) | Altrincham | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:30 (+1 day) |
-| [Cotton Tree](cotton-tree-bollington.md) | Bollington | 15:00–22:30 | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 15:00–23:30 |
-| [Cricketers Arms](cricketers-arms-st-helens.md) | St Helens | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Crown Hotel](crown-hotel-liverpool.md) | Lime Street station | 10:00–22:30 | 10:00–22:30 | 10:00–22:30 | 10:00–22:30 | 10:00–00:00 (+1 day) |
-| [Crown Inn](crown-inn-stockport.md) | Stockport centre / viaduct | Closed | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Dee View Inn](dee-view-inn-heswall.md) | Heswall / Dee View Road | 13:00–21:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–00:00 (+1 day) |
-| [Doctor Duncan’s](doctor-duncans.md) | Queen Square / St George’s Hall | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
-| [Eagle Inn](eagle-inn-salford.md) | Salford / Collier Street | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 12:00–02:00 (+1 day) |
-| [Fell Chorlton](fell-chorlton.md) | Chorlton | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 15:00–00:00 (+1 day) |
-| [Fell Northern Quarter](fell-northern-quarter.md) | Northern Quarter / Dale Street | 14:00–22:00 | 14:00–22:00 | 12:00–22:00 | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Fletcher Moss](fletcher-moss.md) | Didsbury | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Flying Horse Hotel](flying-horse-rochdale.md) | Rochdale centre | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 09:00–23:00 | 10:00–01:00 (+1 day) |
-| [Four Ashes](four-ashes.md) | Waterloo | Closed | Closed | 16:00–22:00 | 16:00–22:00 | 16:00–22:00 |
-| [Gallaghers Traditional Pub](gallaghers-birkenhead.md) | Birkenhead / Hamilton Square | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Gas Lamp](gas-lamp.md) | Bridge Street / western city centre | 16:00–00:00 (+1 day) | 16:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) | 12:00–02:00 (+1 day) |
-| [Grey Horse](grey-horse-manchester.md) | Portland Street | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) | 11:30–00:00 (+1 day) |
-| [Guest House](guest-house-southport.md) | Southport centre | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–00:00 (+1 day) |
-| [Handyman Supermarket](handyman-supermarket.md) | Wavertree / Smithdown Road | 15:00–23:30 | 15:00–23:30 | 15:00–23:30 | 15:00–23:30 | 12:00–23:30 |
-| [Hare & Hounds](hare-and-hounds-manchester.md) | Shudehill | 11:00–22:00 | 11:00–22:00 | 11:00–22:00 | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) |
-| [Heaton Hops](heaton-hops.md) | Stockport / Heaton Chapel | Closed | 16:00–21:00 | 16:00–22:00 | 16:00–22:00 | 13:30–22:00 |
-| [Irwell Works Brewery Tap](irwell-works-ramsbottom.md) | Ramsbottom | 14:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [Kings Arms](kings-arms-salford.md) | Salford / Bloom Street | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 12:00–00:00 (+1 day) |
-| [Lamb Hotel](lamb-hotel-eccles.md) | Eccles | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
-| [Lass O’Gowrie](lass-ogowrie.md) | Oxford Road / Charles Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–01:00 (+1 day) |
-| [Liverpool Brewing Company Tap — formerly Sanctuary](liverpool-brewing-company-tap.md) | Lime Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Lower Angel](lower-angel-warrington.md) | Warrington centre | 10:00–23:30 | 10:00–23:30 | 10:00–23:30 | 10:00–23:30 | 10:00–00:00 (+1 day) |
-| [Lower Turks Head](lower-turks-head.md) | Shudehill | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Magazine Hotel](magazine-hotel.md) | New Brighton / Magazine Brow | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
-| [Molly House](molly-house.md) | Gay Village / Richmond Street | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–01:30 (+1 day) |
-| [Neptune Beerhouse](neptune-beerhouse.md) | Maghull | Closed | Closed | Closed | 14:00–22:00 | 14:00–22:00 |
-| [Northumberland Arms](northumberland-arms-marple-bridge.md) | Marple Bridge | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 13:00–23:00 |
-| [Old Harkers Arms](old-harkers-arms-chester.md) | Chester / canal and station quarter | 10:30–23:00 | 10:30–23:00 | 10:30–23:00 | 10:30–23:00 | 10:30–23:00 |
-| [Old Wellington](old-wellington.md) | Cathedral / Shambles Square | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 10:00–00:00 (+1 day) |
-| [Olde Cottage](olde-cottage-chester.md) | Chester / Brook Street | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 |
-| [Olde Man & Scythe](olde-man-scythe-bolton.md) | Bolton centre | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–00:30 (+1 day) |
-| [Park Tavern](park-tavern-macclesfield.md) | Macclesfield / Park Lane | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 12:00–00:00 (+1 day) |
-| [Plasterers Arms](plasterers-arms-hoylake.md) | Hoylake | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Prairie Schooner Taphouse](prairie-schooner-urmston.md) | Urmston | 15:00–21:00 | 15:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
-| [Queen’s Arms](queens-arms-liverpool.md) | Victoria Street / city centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [Reasons to be Cheerful](reasons-to-be-cheerful.md) | Burnage / Fog Lane | Closed | Closed | 16:00–22:00 | 16:00–22:00 | 16:00–23:00 |
-| [Runaway Brewery Tap](runaway-brewery-tap-stockport.md) | Stockport centre / Astley Street | Closed | Closed | Closed | 15:00–21:30 | 13:00–22:00 |
-| [Salisbury Ale House](salisbury-ale-house.md) | Oxford Road / Little Ireland | 12:00–01:00 (+1 day) | 12:00–01:00 (+1 day) | 12:00–01:00 (+1 day) | 12:00–02:00 (+1 day) | 12:00–02:00 (+1 day) |
-| [Salutation](salutation-hulme.md) | Hulme / Oxford Road university area | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 |
-| [Sam’s Chop House](sams-chop-house.md) | Chapel Walks / Cross Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Scotch Piper](scotch-piper.md) | Lydiate | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–00:00 (+1 day) |
-| [Swan & Railway Hotel](swan-railway-wigan.md) | Wigan station quarter | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Tap & Bottles](tap-and-bottles.md) | Southport centre | 12:00–21:30 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [The Beer Lab — Heswall](beer-lab-heswall.md) | Heswall | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 15:00–23:00 | 15:00–23:00 |
-| [The Black Toad](black-toad.md) | Hoylake | 13:00–22:30 | 13:00–22:30 | 13:00–22:30 | 13:00–22:30 | 13:00–22:30 |
-| [The Blossoms](blossoms-stockport.md) | Stockport / Heaviley | 15:00–22:00 | Closed | 15:00–22:00 | 15:00–22:00 | 15:00–00:00 (+1 day) |
-| [The Cellar](cellar-chester.md) | Chester / City Road | 16:00–00:30 (+1 day) | 16:00–00:30 (+1 day) | 16:00–00:30 (+1 day) | 16:00–00:30 (+1 day) | 12:00–01:30 (+1 day) |
-| [The Denbigh Castle](denbigh-castle.md) | Dale Street / Hackins Hey | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [The Dispensary](dispensary.md) | Renshaw Street / Ropewalks | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
-| [The Firkin](firkin-newton-le-willows.md) | Newton-le-Willows | Closed | Closed | Closed | 17:30–23:00 | 14:00–23:30 |
-| [The Freshfield](freshfield.md) | Freshfield / Formby | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [The Grapes — Roscoe Street](grapes-roscoe-street.md) | Ropewalks / Roscoe Street | 15:30–01:00 (+1 day) | 15:30–01:00 (+1 day) | 15:30–01:00 (+1 day) | 15:30–02:00 (+1 day) | 12:00–02:00 (+1 day) |
-| [The Grasshopper](grasshopper-hillside.md) | Hillside / Southport | 16:00–22:30 | 16:00–22:30 | 16:00–22:30 | 16:00–22:30 | 16:00–23:00 |
-| [The Lazy Landlord](lazy-landlord.md) | Liscard / Wallasey | Closed | 16:00–22:00 | 16:00–22:00 | 16:00–22:00 | 14:00–22:00 |
-| [The Monro](monro.md) | Ropewalks / Duke Street | 12:00–00:30 (+1 day) | 12:00–00:30 (+1 day) | 12:00–00:30 (+1 day) | 12:00–01:30 (+1 day) | 12:00–02:30 (+1 day) |
-| [The Pen Factory](pen-factory.md) | Hope Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [The Pied Bull](pied-bull-chester.md) | Chester / Northgate Street | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–00:00 (+1 day) |
-| [The Red Fox](red-fox-thornton-hough.md) | Thornton Hough | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 |
-| [The Trackside](trackside-bury.md) | Bury | Closed | Closed | 12:00–22:00 | 12:00–22:00 | 12:00–22:30 |
-| [Thomas Rigby’s](thomas-rigbys.md) | Dale Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [Torr Vale Tap](torr-vale-tap-new-mills.md) | New Mills | Closed | Closed | 10:00–17:00 | 10:00–22:00 | 10:00–22:00 |
-| [Track Brewery Tap](track-brewery-tap.md) | Piccadilly Trading Estate | Closed | 14:00–22:00 | 14:00–22:00 | 14:00–22:00 | 12:00–22:00 |
-| [Vernon Arms](vernon-arms.md) | Dale Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Volunteer Canteen](volunteer-canteen.md) | Waterloo | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 14:00–00:00 (+1 day) |
-| [Waters Green Tavern](waters-green-tavern-macclesfield.md) | Macclesfield centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
-| [West Kirby Tap](west-kirby-tap.md) | West Kirby | 12:00–21:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
-| [Wharf](wharf-manchester.md) | Castlefield | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [White Hart / The Engineer](white-hart-liverpool.md) | Hope Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [White Star](white-star-liverpool.md) | Cavern Quarter / Rainford Gardens | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 | 11:30–23:00 | 11:30–23:00 |
-| [Ye Cracke](ye-cracke.md) | Georgian Quarter / Rice Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Ye Olde Vic](olde-vic-stockport.md) | Stockport / Edgeley | Closed | Closed | 17:00–23:00 | 17:00–23:00 | 17:00–23:00 |
-| [Azvex Brewery & Taproom](azvex-taproom.md) | North docks / Gibraltar Row | Closed | Closed | Closed | 16:00–22:00 | 16:00–22:00 |
-| [Black Lodge Brewery Tap — West Kirby](black-lodge-west-kirby.md) | West Kirby | Closed | 16:00–22:00 | 15:00–22:00 | 15:00–22:00 | 13:00–00:00 (+1 day) |
-| [Blackedge Brewery Bar](blackedge-brewery-bar-horwich.md) | Horwich | Closed | Closed | 16:00–22:30 | 16:00–22:30 | 15:00–23:00 |
-| [Cask — Stoneycroft](cask-stoneycroft.md) | Stoneycroft / Queens Drive | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 |
-| [Dead Crafty Beer Company — Dale Street](dead-crafty-beer-company.md) | Dale Street | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 12:00–00:00 (+1 day) |
-| [Glen Affric Brewery Taproom](glen-affric-taproom.md) | Birkenhead / Knox Street | Closed | Closed | Closed | 17:00–21:00 | 15:00–23:00 |
-| [Longford Tap](longford-tap.md) | Stretford | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
-| [Northern Monk Refectory Manchester](northern-monk-manchester.md) | Northern Quarter / Tariff Street | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
-| [Pigeon Beer Wanderer](pigeon-beer-wanderer.md) | Piccadilly / Sheffield Street | Closed | Closed | 16:00–22:00 | 16:00–22:00 | 12:00–23:30 |
-| [Queens Arms — Patricroft](queens-arms-patricroft.md) | Patricroft / Eccles | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 |
-| [Rat & Ratchet](rat-ratchet-huddersfield.md) | Huddersfield centre — extended excursion | 15:00–23:00 | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Rising Sun](rising-sun-manchester.md) | Queen Street / Deansgate | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
-| [Riverhead Brewery Tap](riverhead-marsden.md) | Marsden — extended excursion | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Rivington Brewing Co. Taproom](rivington-brewery-tap.md) | Rivington / Lancashire countryside | Closed | Closed | 12:00–20:30 | 12:00–20:30 | 12:00–20:30 |
-| [Sadler’s Cat](sadlers-cat.md) | NOMA / Manchester Victoria | 16:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–00:00 (+1 day) |
-| [Sinclair’s Oyster Bar](sinclairs-oyster-bar.md) | Cathedral / Shambles Square | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 |
-| [Steelfish Brewing Company Taproom](steelfish-taproom.md) | Piccadilly / Temperance Street | Closed | Closed | Closed | 18:00–22:00 | 14:00–22:00 |
-| [Stork Hotel](stork-hotel-birkenhead.md) | Birkenhead | 13:00–23:00 | 14:00–22:00 | 13:00–22:00 | 14:00–22:30 | 12:00–01:00 (+1 day) |
-| [Sureshot Brewery Taproom](sureshot-taproom.md) | Piccadilly / Sheffield Street | Closed | Closed | 17:00–22:00 | 17:00–22:00 | 12:00–23:00 |
-| [The Grocers](grocers-cadishead.md) | Cadishead / Irlam | Closed | Closed | 17:00–21:00 | 17:00–21:00 | 17:00–21:00 |
-| [The Sportsman](sportsman-huddersfield.md) | Huddersfield centre — extended excursion | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
-| [Wheatsheaf Inn — The Thatch](wheatsheaf-raby.md) | Raby | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 |
-| [’Udders Orchard Cidery & Tasting Rooms](udders-orchard-cidery.md) | Lindley, Huddersfield — extended excursion | Event-only | Event-only | Event-only | Event-only | Event-only |
+| [Arden Arms](venues/arden-arms-stockport.md) | Stockport centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Baltic Fleet](venues/baltic-fleet.md) | Waterfront / Wapping | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [Britons Protection](venues/britons-protection.md) | Great Bridgewater Street / Deansgate | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 11:00–00:00 (+1 day) |
+| [Castle Hotel](venues/castle-hotel.md) | Northern Quarter / Oldham Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [City Arms](venues/city-arms.md) | Town Hall / Kennedy Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Crown & Kettle](venues/crown-and-kettle.md) | Ancoats / Northern Quarter edge | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Dunham Apple Barn](venues/dunham-apple-barn.md) | Dunham Massey / Altrincham | Closed | Closed | Closed | Closed | Closed |
+| [Fox & Pine](venues/fox-and-pine-oldham.md) | Oldham town centre | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 |
+| [Lion Tavern](venues/lion-tavern.md) | Moorfields / Dale Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [Marble Arch](venues/marble-arch.md) | Angel Meadow / northern city centre | 12:00–22:00 | Closed | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 |
+| [Mr Thomas’s Chop House](venues/mr-thomass-chop-house.md) | Cross Street / Royal Exchange | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
+| [New Oxford](venues/new-oxford.md) | Salford / Bexley Square | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
+| [Our Gracie’s](venues/our-gracies-rochdale.md) | Rochdale centre | Closed | Closed | 13:00–21:30 | 13:00–22:30 | 13:00–23:30 |
+| [Peter Kavanagh’s](venues/peter-kavanaghs.md) | Georgian Quarter / Egerton Street | 12:00–23:00 | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
+| [Petersgate Tap](venues/petersgate-tap-stockport.md) | Stockport centre | Closed | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 |
+| [Peveril of the Peak](venues/peveril-of-the-peak.md) | Great Bridgewater Street / Oxford Road | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 | 12:00–00:00 (+1 day) |
+| [Philharmonic Dining Rooms](venues/philharmonic-dining-rooms.md) | Hope Street / Georgian Quarter | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–00:00 (+1 day) |
+| [Port Street Beer House](venues/port-street-beer-house.md) | Northern Quarter / Port Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [RedWillow Macclesfield](venues/redwillow-macclesfield.md) | Macclesfield centre | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 12:00–22:00 | 12:00–00:00 (+1 day) |
+| [Roscoe Head](venues/roscoe-head.md) | Ropewalks / Roscoe Street | 11:30–23:00 | 11:30–23:00 | 11:30–00:00 (+1 day) | 11:30–00:00 (+1 day) | 11:30–00:00 (+1 day) |
+| [Ship & Mitre](venues/ship-and-mitre.md) | Dale Street | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–00:00 (+1 day) |
+| [Smithfield Market Tavern](venues/smithfield-market-tavern.md) | Northern Quarter / Swan Street | 16:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 12:00–00:00 (+1 day) |
+| [St Peter’s Tavern](venues/st-peters-tavern.md) | Ropewalks / Seel Street | 12:00–01:30 (+1 day) | 12:00–01:30 (+1 day) | 12:00–01:30 (+1 day) | 12:00–02:30 (+1 day) | 12:00–02:30 (+1 day) |
+| [Stalybridge Buffet Bar](venues/stalybridge-buffet-bar.md) | Stalybridge | 11:00–22:00 | 11:00–22:00 | 11:00–22:00 | 11:00–22:00 | 11:00–00:00 (+1 day) |
+| [Swan with Two Necks](venues/swan-with-two-necks-stockport.md) | Stockport centre | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 |
+| [That Beer Place](venues/that-beer-place-chester.md) | Chester centre | 12:00–21:00 | 12:00–21:00 | 12:00–21:00 | 12:00–23:00 | 12:00–23:00 |
+| [The Baum](venues/baum-rochdale.md) | Rochdale centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [The Brewery Tap](venues/brewery-tap-chester.md) | Chester / Lower Bridge Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [The Bridewell](venues/bridewell.md) | Ropewalks / Campbell Square | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [The Coop](venues/coop-crosby.md) | Crosby / College Road | 16:00–21:00 | 16:00–21:00 | 16:00–21:00 | 16:00–21:00 | 15:00–21:30 |
+| [The Magnet Freehouse](venues/magnet-stockport.md) | Stockport / Heaton Norris | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 12:00–23:00 |
+| [The Vines — The Big House](venues/vines.md) | Lime Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
+| [Turks Head](venues/turks-head-st-helens.md) | St Helens | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Wigan Central](venues/wigan-central.md) | Wigan station quarter | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Albion](venues/albion-chester.md) | Chester / city walls | 12:00–15:00, 17:00–22:30 | 12:00–15:00, 17:00–22:30 | Closed | 12:00–15:00, 17:00–23:00 | 12:00–15:00, 17:00–23:00 |
+| [Angel](venues/angel-manchester.md) | Angel Meadow / northern city centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–01:00 (+1 day) |
+| [Augustus John](venues/augustus-john.md) | University Quarter | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 |
+| [B33R@33](venues/b33r-at-33-horwich.md) | Horwich / Lee Lane | 18:00–22:00 | 18:00–22:00 | 16:00–22:30 | 16:00–23:00 | 13:00–23:30 |
+| [Balance Brewing & Blending](venues/balance-brewing-blending.md) | Piccadilly / Sheffield Street | Closed | Closed | Closed | 17:00–22:00 | 14:00–22:00 |
+| [Bank Top Brewery Ale House](venues/bank-top-ale-house-horwich.md) | Horwich / Church Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
+| [Bank Top Brewery Tap](venues/bank-top-brewery-tap-bolton.md) | Bolton / Astley Bridge | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
+| [Bar Fringe](venues/bar-fringe.md) | Northern Quarter / Swan Street | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–00:00 (+1 day) |
+| [Beacon](venues/beacon-altrincham.md) | Altrincham | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Beer House](venues/beer-house-chorlton.md) | Chorlton | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
+| [Belvedere Arms](venues/belvedere.md) | Georgian Quarter / Sugnall Street | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) | 13:00–00:00 (+1 day) |
+| [Black Cat — Rose Lane](venues/black-cat-rose-lane.md) | Mossley Hill / Rose Lane | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–00:00 (+1 day) |
+| [Black Friar](venues/black-friar-salford.md) | Salford / Blackfriars Road | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 |
+| [Black Lodge Brewery & Taproom](venues/black-lodge-liverpool.md) | Baltic Triangle / Kings Dock Street | Closed | Closed | Closed | 16:00–21:00 | 16:00–21:00 |
+| [Bow-Legged Beagle — Bromborough](venues/bow-legged-beagle-bromborough.md) | Bromborough | 13:00–22:00 | 13:00–22:00 | 13:00–22:00 | 13:00–22:00 | 13:00–23:00 |
+| [Broad Street Social](venues/broad-street-social-bury.md) | Bury centre | Closed | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 12:00–00:30 (+1 day) |
+| [Bundobust Brewery](venues/bundobust-brewery-manchester.md) | Oxford Street / city centre | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
+| [Bundobust Liverpool](venues/bundobust-liverpool.md) | Bold Street | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
+| [Cafe Beermoth](venues/cafe-beermoth.md) | Central Manchester / Brown Street | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Cask — Ancoats](venues/cask-ancoats.md) | Ancoats / New Islington | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 | 12:00–23:30 |
+| [Cask — Liverpool Road](venues/cask-liverpool-road.md) | Castlefield / Liverpool Road | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [Chorlton Tap](venues/chorlton-tap.md) | Chorlton | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–00:00 (+1 day) | 14:00–00:00 (+1 day) |
+| [Circus Tavern](venues/circus-tavern.md) | Portland Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
+| [Cloudwater Unit 9](venues/cloudwater-unit-9.md) | Piccadilly Trading Estate | 14:00–22:00 | 14:00–22:00 | 14:00–22:00 | 14:00–22:00 | 12:00–22:00 |
+| [Cobden Vaults](venues/cobden-woolton.md) | Woolton village | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 12:00–23:00 |
+| [Corner Post](venues/corner-post-crosby.md) | Crosby / Bridge Road | Closed | 16:00–21:00 | 16:00–21:00 | 16:00–21:00 | 15:00–21:30 |
+| [Costello’s Bar](venues/costellos-altrincham.md) | Altrincham | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:30 (+1 day) |
+| [Cotton Tree](venues/cotton-tree-bollington.md) | Bollington | 15:00–22:30 | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 15:00–23:30 |
+| [Cricketers Arms](venues/cricketers-arms-st-helens.md) | St Helens | 14:00–23:00 | 14:00–23:00 | 14:00–23:00 | 14:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Crown Hotel](venues/crown-hotel-liverpool.md) | Lime Street station | 10:00–22:30 | 10:00–22:30 | 10:00–22:30 | 10:00–22:30 | 10:00–00:00 (+1 day) |
+| [Crown Inn](venues/crown-inn-stockport.md) | Stockport centre / viaduct | Closed | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Dee View Inn](venues/dee-view-inn-heswall.md) | Heswall / Dee View Road | 13:00–21:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–00:00 (+1 day) |
+| [Doctor Duncan’s](venues/doctor-duncans.md) | Queen Square / St George’s Hall | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
+| [Eagle Inn](venues/eagle-inn-salford.md) | Salford / Collier Street | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 12:00–02:00 (+1 day) |
+| [Fell Chorlton](venues/fell-chorlton.md) | Chorlton | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 15:00–00:00 (+1 day) |
+| [Fell Northern Quarter](venues/fell-northern-quarter.md) | Northern Quarter / Dale Street | 14:00–22:00 | 14:00–22:00 | 12:00–22:00 | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Fletcher Moss](venues/fletcher-moss.md) | Didsbury | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Flying Horse Hotel](venues/flying-horse-rochdale.md) | Rochdale centre | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 09:00–23:00 | 10:00–01:00 (+1 day) |
+| [Four Ashes](venues/four-ashes.md) | Waterloo | Closed | Closed | 16:00–22:00 | 16:00–22:00 | 16:00–22:00 |
+| [Gallaghers Traditional Pub](venues/gallaghers-birkenhead.md) | Birkenhead / Hamilton Square | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Gas Lamp](venues/gas-lamp.md) | Bridge Street / western city centre | 16:00–00:00 (+1 day) | 16:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) | 12:00–02:00 (+1 day) |
+| [Grey Horse](venues/grey-horse-manchester.md) | Portland Street | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) | 11:30–00:00 (+1 day) |
+| [Guest House](venues/guest-house-southport.md) | Southport centre | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–23:00 | 11:30–00:00 (+1 day) |
+| [Handyman Supermarket](venues/handyman-supermarket.md) | Wavertree / Smithdown Road | 15:00–23:30 | 15:00–23:30 | 15:00–23:30 | 15:00–23:30 | 12:00–23:30 |
+| [Hare & Hounds](venues/hare-and-hounds-manchester.md) | Shudehill | 11:00–22:00 | 11:00–22:00 | 11:00–22:00 | 11:00–00:00 (+1 day) | 11:00–00:00 (+1 day) |
+| [Heaton Hops](venues/heaton-hops.md) | Stockport / Heaton Chapel | Closed | 16:00–21:00 | 16:00–22:00 | 16:00–22:00 | 13:30–22:00 |
+| [Irwell Works Brewery Tap](venues/irwell-works-ramsbottom.md) | Ramsbottom | 14:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [Kings Arms](venues/kings-arms-salford.md) | Salford / Bloom Street | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 12:00–00:00 (+1 day) |
+| [Lamb Hotel](venues/lamb-hotel-eccles.md) | Eccles | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
+| [Lass O’Gowrie](venues/lass-ogowrie.md) | Oxford Road / Charles Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–01:00 (+1 day) |
+| [Liverpool Brewing Company Tap — formerly Sanctuary](venues/liverpool-brewing-company-tap.md) | Lime Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Lower Angel](venues/lower-angel-warrington.md) | Warrington centre | 10:00–23:30 | 10:00–23:30 | 10:00–23:30 | 10:00–23:30 | 10:00–00:00 (+1 day) |
+| [Lower Turks Head](venues/lower-turks-head.md) | Shudehill | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Magazine Hotel](venues/magazine-hotel.md) | New Brighton / Magazine Brow | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
+| [Molly House](venues/molly-house.md) | Gay Village / Richmond Street | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–23:00 | 13:00–01:30 (+1 day) |
+| [Neptune Beerhouse](venues/neptune-beerhouse.md) | Maghull | Closed | Closed | Closed | 14:00–22:00 | 14:00–22:00 |
+| [Northumberland Arms](venues/northumberland-arms-marple-bridge.md) | Marple Bridge | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 13:00–23:00 |
+| [Old Harkers Arms](venues/old-harkers-arms-chester.md) | Chester / canal and station quarter | 10:30–23:00 | 10:30–23:00 | 10:30–23:00 | 10:30–23:00 | 10:30–23:00 |
+| [Old Wellington](venues/old-wellington.md) | Cathedral / Shambles Square | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 10:00–00:00 (+1 day) |
+| [Olde Cottage](venues/olde-cottage-chester.md) | Chester / Brook Street | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 |
+| [Olde Man & Scythe](venues/olde-man-scythe-bolton.md) | Bolton centre | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–00:30 (+1 day) |
+| [Park Tavern](venues/park-tavern-macclesfield.md) | Macclesfield / Park Lane | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 12:00–00:00 (+1 day) |
+| [Plasterers Arms](venues/plasterers-arms-hoylake.md) | Hoylake | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Prairie Schooner Taphouse](venues/prairie-schooner-urmston.md) | Urmston | 15:00–21:00 | 15:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
+| [Queen’s Arms](venues/queens-arms-liverpool.md) | Victoria Street / city centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [Reasons to be Cheerful](venues/reasons-to-be-cheerful.md) | Burnage / Fog Lane | Closed | Closed | 16:00–22:00 | 16:00–22:00 | 16:00–23:00 |
+| [Runaway Brewery Tap](venues/runaway-brewery-tap-stockport.md) | Stockport centre / Astley Street | Closed | Closed | Closed | 15:00–21:30 | 13:00–22:00 |
+| [Salisbury Ale House](venues/salisbury-ale-house.md) | Oxford Road / Little Ireland | 12:00–01:00 (+1 day) | 12:00–01:00 (+1 day) | 12:00–01:00 (+1 day) | 12:00–02:00 (+1 day) | 12:00–02:00 (+1 day) |
+| [Salutation](venues/salutation-hulme.md) | Hulme / Oxford Road university area | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 |
+| [Sam’s Chop House](venues/sams-chop-house.md) | Chapel Walks / Cross Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Scotch Piper](venues/scotch-piper.md) | Lydiate | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–00:00 (+1 day) |
+| [Swan & Railway Hotel](venues/swan-railway-wigan.md) | Wigan station quarter | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Tap & Bottles](venues/tap-and-bottles.md) | Southport centre | 12:00–21:30 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [The Beer Lab — Heswall](venues/beer-lab-heswall.md) | Heswall | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 15:00–23:00 | 15:00–23:00 |
+| [The Black Toad](venues/black-toad.md) | Hoylake | 13:00–22:30 | 13:00–22:30 | 13:00–22:30 | 13:00–22:30 | 13:00–22:30 |
+| [The Blossoms](venues/blossoms-stockport.md) | Stockport / Heaviley | 15:00–22:00 | Closed | 15:00–22:00 | 15:00–22:00 | 15:00–00:00 (+1 day) |
+| [The Cellar](venues/cellar-chester.md) | Chester / City Road | 16:00–00:30 (+1 day) | 16:00–00:30 (+1 day) | 16:00–00:30 (+1 day) | 16:00–00:30 (+1 day) | 12:00–01:30 (+1 day) |
+| [The Denbigh Castle](venues/denbigh-castle.md) | Dale Street / Hackins Hey | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [The Dispensary](venues/dispensary.md) | Renshaw Street / Ropewalks | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
+| [The Firkin](venues/firkin-newton-le-willows.md) | Newton-le-Willows | Closed | Closed | Closed | 17:30–23:00 | 14:00–23:30 |
+| [The Freshfield](venues/freshfield.md) | Freshfield / Formby | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [The Grapes — Roscoe Street](venues/grapes-roscoe-street.md) | Ropewalks / Roscoe Street | 15:30–01:00 (+1 day) | 15:30–01:00 (+1 day) | 15:30–01:00 (+1 day) | 15:30–02:00 (+1 day) | 12:00–02:00 (+1 day) |
+| [The Grasshopper](venues/grasshopper-hillside.md) | Hillside / Southport | 16:00–22:30 | 16:00–22:30 | 16:00–22:30 | 16:00–22:30 | 16:00–23:00 |
+| [The Lazy Landlord](venues/lazy-landlord.md) | Liscard / Wallasey | Closed | 16:00–22:00 | 16:00–22:00 | 16:00–22:00 | 14:00–22:00 |
+| [The Monro](venues/monro.md) | Ropewalks / Duke Street | 12:00–00:30 (+1 day) | 12:00–00:30 (+1 day) | 12:00–00:30 (+1 day) | 12:00–01:30 (+1 day) | 12:00–02:30 (+1 day) |
+| [The Pen Factory](venues/pen-factory.md) | Hope Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [The Pied Bull](venues/pied-bull-chester.md) | Chester / Northgate Street | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–00:00 (+1 day) |
+| [The Red Fox](venues/red-fox-thornton-hough.md) | Thornton Hough | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 | 10:00–23:00 |
+| [The Trackside](venues/trackside-bury.md) | Bury | Closed | Closed | 12:00–22:00 | 12:00–22:00 | 12:00–22:30 |
+| [Thomas Rigby’s](venues/thomas-rigbys.md) | Dale Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [Torr Vale Tap](venues/torr-vale-tap-new-mills.md) | New Mills | Closed | Closed | 10:00–17:00 | 10:00–22:00 | 10:00–22:00 |
+| [Track Brewery Tap](venues/track-brewery-tap.md) | Piccadilly Trading Estate | Closed | 14:00–22:00 | 14:00–22:00 | 14:00–22:00 | 12:00–22:00 |
+| [Vernon Arms](venues/vernon-arms.md) | Dale Street | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Volunteer Canteen](venues/volunteer-canteen.md) | Waterloo | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 16:00–23:00 | 14:00–00:00 (+1 day) |
+| [Waters Green Tavern](venues/waters-green-tavern-macclesfield.md) | Macclesfield centre | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 |
+| [West Kirby Tap](venues/west-kirby-tap.md) | West Kirby | 12:00–21:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:30 |
+| [Wharf](venues/wharf-manchester.md) | Castlefield | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [White Hart / The Engineer](venues/white-hart-liverpool.md) | Hope Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [White Star](venues/white-star-liverpool.md) | Cavern Quarter / Rainford Gardens | 11:30–22:30 | 11:30–22:30 | 11:30–22:30 | 11:30–23:00 | 11:30–23:00 |
+| [Ye Cracke](venues/ye-cracke.md) | Georgian Quarter / Rice Street | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Ye Olde Vic](venues/olde-vic-stockport.md) | Stockport / Edgeley | Closed | Closed | 17:00–23:00 | 17:00–23:00 | 17:00–23:00 |
+| [Azvex Brewery & Taproom](venues/azvex-taproom.md) | North docks / Gibraltar Row | Closed | Closed | Closed | 16:00–22:00 | 16:00–22:00 |
+| [Black Lodge Brewery Tap — West Kirby](venues/black-lodge-west-kirby.md) | West Kirby | Closed | 16:00–22:00 | 15:00–22:00 | 15:00–22:00 | 13:00–00:00 (+1 day) |
+| [Blackedge Brewery Bar](venues/blackedge-brewery-bar-horwich.md) | Horwich | Closed | Closed | 16:00–22:30 | 16:00–22:30 | 15:00–23:00 |
+| [Cask — Stoneycroft](venues/cask-stoneycroft.md) | Stoneycroft / Queens Drive | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 | 15:00–22:00 |
+| [Dead Crafty Beer Company — Dale Street](venues/dead-crafty-beer-company.md) | Dale Street | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 15:00–23:00 | 12:00–00:00 (+1 day) |
+| [Glen Affric Brewery Taproom](venues/glen-affric-taproom.md) | Birkenhead / Knox Street | Closed | Closed | Closed | 17:00–21:00 | 15:00–23:00 |
+| [Longford Tap](venues/longford-tap.md) | Stretford | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–22:30 | 12:00–23:00 |
+| [Northern Monk Refectory Manchester](venues/northern-monk-manchester.md) | Northern Quarter / Tariff Street | 12:00–22:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) | 12:00–01:00 (+1 day) |
+| [Pigeon Beer Wanderer](venues/pigeon-beer-wanderer.md) | Piccadilly / Sheffield Street | Closed | Closed | 16:00–22:00 | 16:00–22:00 | 12:00–23:30 |
+| [Queens Arms — Patricroft](venues/queens-arms-patricroft.md) | Patricroft / Eccles | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 |
+| [Rat & Ratchet](venues/rat-ratchet-huddersfield.md) | Huddersfield centre — extended excursion | 15:00–23:00 | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 15:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Rising Sun](venues/rising-sun-manchester.md) | Queen Street / Deansgate | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) | 12:00–00:00 (+1 day) |
+| [Riverhead Brewery Tap](venues/riverhead-marsden.md) | Marsden — extended excursion | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Rivington Brewing Co. Taproom](venues/rivington-brewery-tap.md) | Rivington / Lancashire countryside | Closed | Closed | 12:00–20:30 | 12:00–20:30 | 12:00–20:30 |
+| [Sadler’s Cat](venues/sadlers-cat.md) | NOMA / Manchester Victoria | 16:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–00:00 (+1 day) |
+| [Sinclair’s Oyster Bar](venues/sinclairs-oyster-bar.md) | Cathedral / Shambles Square | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 | 11:00–23:00 |
+| [Steelfish Brewing Company Taproom](venues/steelfish-taproom.md) | Piccadilly / Temperance Street | Closed | Closed | Closed | 18:00–22:00 | 14:00–22:00 |
+| [Stork Hotel](venues/stork-hotel-birkenhead.md) | Birkenhead | 13:00–23:00 | 14:00–22:00 | 13:00–22:00 | 14:00–22:30 | 12:00–01:00 (+1 day) |
+| [Sureshot Brewery Taproom](venues/sureshot-taproom.md) | Piccadilly / Sheffield Street | Closed | Closed | 17:00–22:00 | 17:00–22:00 | 12:00–23:00 |
+| [The Grocers](venues/grocers-cadishead.md) | Cadishead / Irlam | Closed | Closed | 17:00–21:00 | 17:00–21:00 | 17:00–21:00 |
+| [The Sportsman](venues/sportsman-huddersfield.md) | Huddersfield centre — extended excursion | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–23:00 | 12:00–00:00 (+1 day) |
+| [Wheatsheaf Inn — The Thatch](venues/wheatsheaf-raby.md) | Raby | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–22:00 | 12:00–23:00 |
+| [’Udders Orchard Cidery & Tasting Rooms](venues/udders-orchard-cidery.md) | Lindley, Huddersfield — extended excursion | Event-only | Event-only | Event-only | Event-only | Event-only |
 
 **Evidence:** Open each venue page for a direct link to the operator/CAMRA schedule, research date, conflicting hours, exceptions and kitchen notes. Event-only venues are not assumed closed or open on normal weekdays.
