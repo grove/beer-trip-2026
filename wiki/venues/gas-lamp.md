@@ -29,7 +29,7 @@ A distinctive tiled basement with a particularly compelling combination of Pomon
 
 ## Beer
 
-CAMRA documents four changing cask lines, commonly including Pomona Island and other smaller breweries.
+CAMRA documents four changing cask lines, commonly including Pomona Island and other smaller breweries. Pomona Island is a recurring changing-cask supplier here, alongside smaller guest brewers.
 
 ## Cider and perry
 

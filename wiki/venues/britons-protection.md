@@ -29,7 +29,7 @@ A substantial traditional pub experience built around a succession of rooms, a t
 
 ## Beer
 
-The current official site advertises cask ale. Local CAMRA reports cellar refurbishment in April 2026 and provision for eight casks; actual availability may be lower.
+The current official site advertises cask ale. Local CAMRA reports cellar refurbishment in April 2026 and provision for eight casks; actual availability may be lower. The [CAMRA beer listing](https://camra.org.uk/pubs/britons-protection-manchester-137669) recently recorded Theakston Old Peculier, Draught Bass and Beartown Skinful; these are past sightings, not established permanent lines.
 
 ## Cider and perry
 

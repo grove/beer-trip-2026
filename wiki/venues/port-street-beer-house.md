@@ -29,11 +29,11 @@ A strong anchor for the beer-discovery side of the trip. The substantial cask of
 
 ## Beer
 
-Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection.
+Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection. The rotating cask range recently included Colbier Forte and Thornbridge Old Badequella, according to CAMRA. Neither is a fixed beer.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly flags real cider and names Hogan’s bottles. Ask which bottles currently qualify and are available.
+**Real cider documented; reconfirm stock.** CAMRA explicitly flags real cider and names Hogan’s bottles. Ask which bottles currently qualify and are available. CAMRA mentions Hogan’s bottled cider and Pulp cans; verify the individual product and real-cider qualification, since a can alone proves nothing.
 
 See [how cider is classified](../real-cider.md).
 

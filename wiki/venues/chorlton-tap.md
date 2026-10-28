@@ -29,11 +29,11 @@ A particularly useful Chorlton stop because it combines regional cask, a meaning
 
 ## Beer
 
-Changing cask from local and wider independent breweries, with keg and bottles alongside.
+Changing cask from local and wider independent breweries, with keg and bottles alongside. CAMRA identifies Marble, Pictish and Pomona Island among its changing cask brewers.
 
 ## Cider and perry
 
-**Real cider documented; reconfirm stock.** CAMRA explicitly says some bag-in-box products meet its real-cider guidelines and occasionally perry is stocked. Ask which products qualify; the whole selection is not automatically real cider.
+**Real cider documented; reconfirm stock.** CAMRA explicitly says some bag-in-box products meet its real-cider guidelines and occasionally perry is stocked. Ask which products qualify; the whole selection is not automatically real cider. CAMRA also names Celtic Marches and Seacider among boxed cider leads; qualification must be checked for the particular product, not inferred from the maker alone.
 
 See [how cider is classified](../real-cider.md).
 

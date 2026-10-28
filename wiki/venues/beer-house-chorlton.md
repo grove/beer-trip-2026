@@ -29,7 +29,7 @@ The strongest anchor for a Chorlton beer excursion. Formerly the Marble Beer Hou
 
 ## Beer
 
-Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range.
+Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range. CAMRA lists Marble Manchester Bitter and Pint as regulars; changing casks have included Abbeydale, Blackjack and RedWillow. This is not a November stock promise.
 
 ## Cider and perry
 

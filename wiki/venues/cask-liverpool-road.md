@@ -29,7 +29,7 @@ A useful Castlefield stop combining changing cask with a serious continental ran
 
 ## Beer
 
-Four handpumps with changing local and Yorkshire cask are documented, alongside continental bottles and keg.
+Four handpumps with changing local and Yorkshire cask are documented, alongside continental bottles and keg. CAMRA names Mallinsons, Pictish and Rooster’s as typical changing suppliers and recently recorded Abbeydale Deception. None is guaranteed for November.
 
 ## Cider and perry
 

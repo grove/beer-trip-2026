@@ -29,7 +29,7 @@ One of the best choices for combining a spectacular pub interior with a proper m
 
 ## Beer
 
-CAMRA reports cask handpumps in the front and main rooms, with four of six in use at survey; regional and established British beers feature.
+CAMRA reports cask handpumps in the front and main rooms, with four of six in use at survey; regional and established British beers feature. CAMRA lists Timothy Taylor Landlord and Boltmaker as regulars; JW Lees Boddingtons Bitter is a recently reported guest, not a November promise.
 
 ## Cider and perry
 

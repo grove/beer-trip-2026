@@ -29,7 +29,7 @@ A strong addition when your city-centre afternoon is beer-led: Fell's Cumbrian a
 
 ## Beer
 
-Four changing cask lines alongside a larger keg selection; check whether any porter or mild is currently pouring.
+Four changing cask lines alongside a larger keg selection; check whether any porter or mild is currently pouring. CAMRA says the changing cask is usually brewed by Fell, although an individual release is not a permanent fixture.
 
 ## Cider and perry
 

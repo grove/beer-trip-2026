@@ -29,7 +29,7 @@ A relaxed neighbourhood route into Fell’s Cumbrian brewing, especially useful 
 
 ## Beer
 
-The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen.
+The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen. Fell Dark Mild 3.4% is one recently reported cask example rather than a permanent listed pour.
 
 ## Cider and perry
 

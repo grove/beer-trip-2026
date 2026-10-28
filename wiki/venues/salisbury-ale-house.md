@@ -29,7 +29,7 @@ A characterful rock pub in the hollow below Oxford Road station, with a tiled ex
 
 ## Beer
 
-CAMRA documents up to six real ales and notes a traditional strong ale among the selection; ask what is actually on.
+CAMRA documents up to six real ales and notes a traditional strong ale among the selection; ask what is actually on. Theakston Old Peculier appears frequently in its CAMRA record; recent sightings include Millstone Stout. These are leads rather than a fixed beer list.
 
 ## Cider and perry
 
