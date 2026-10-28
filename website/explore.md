@@ -41,4 +41,4 @@ Search the entire curated collection by venue, neighbourhood, speciality or desc
   <noscript>JavaScript is needed for filtering. You can still browse the <a href="../wiki/catalogue/">full alphabetical catalogue</a>.</noscript>
 </div>
 
-For curated routes instead of a full search, start with the [shortlists](wiki/shortlists.md) or [five-day plan](wiki/five-day-plan.md). Real-cider evidence is a dated classification, not a promise about today's selection. See the [methodology](wiki/methodology.md).
+For curated routes instead of a full search, start with the [shortlists](../wiki/shortlists.md) or [five-day plan](../wiki/five-day-plan.md). Real-cider evidence is a dated classification, not a promise about today's selection. See the [methodology](../wiki/methodology.md).

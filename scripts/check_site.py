@@ -7,8 +7,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 output = ROOT / ".site/public"
 required = (
-    "index.html", "explore/index.html", "README/index.html",
-    "wiki/index/index.html", "wiki/catalogue/index.html",
+    "index.html", "explore/index.html", "overview/index.html",
+    "wiki/index.html", "wiki/catalogue/index.html",
     "data/venues.json", "data/sources.json", "llms.txt",
     "assets/site.css", "assets/venue-finder.js",
 )

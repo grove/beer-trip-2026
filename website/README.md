@@ -2,7 +2,7 @@
 
 This directory contains **presentation only**. The canonical content remains in `data/` and `wiki/`; never hand-edit generated venue pages to fix the website.
 
-The site uses [Zensical](https://zensical.org/) for a responsive, searchable static site. `scripts/prepare_site.py` builds a disposable `.site/docs/` staging tree, copying the wiki and data **without rewriting their links or source files**. It adds a landing page, searchable venue explorer, styling and an automatically generated navigation structure from `data/venues.json`. All original Markdown is available, plus the repository-root README, agent instructions, JSON data, and `llms.txt`.
+The site uses [Zensical](https://zensical.org/) for a responsive, searchable static site. `scripts/prepare_site.py` builds a disposable `.site/docs/` staging tree, copying the wiki and data **without rewriting their links or source files**. It adds a landing page, searchable venue explorer, styling and an automatically generated navigation structure from `data/venues.json`. All original Markdown is available; the repository-root README appears at `/overview/`, while wiki Home links go to the website landing page. Agent instructions, JSON data and `llms.txt` are also included.
 
 ## Local preview
 

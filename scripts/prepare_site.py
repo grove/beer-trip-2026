@@ -20,7 +20,7 @@ REGIONS = {
 }
 FEATURED = {
     "Plan the trip": [
-        ("Trip overview", "README.md"),
+        ("Trip overview", "overview.md"),
         ("Curated shortlists", "wiki/shortlists.md"),
         ("Five-day itinerary", "wiki/five-day-plan.md"),
         ("Choosing an excursion", "wiki/excursions.md"),
@@ -67,7 +67,7 @@ def navigation(docs, venues):
         included.add(path)
         return {label: path}
 
-    nav = [item("Home", "index.md")]
+    nav = [item("Home", "README.md")]
     nav.append({"Plan the trip": [item(label, path) for label, path in FEATURED["Plan the trip"]]})
 
     explore = [item("Find a venue", "explore.md")]
@@ -116,6 +116,12 @@ def navigation(docs, venues):
     return nav
 
 
+def site_template(root, name):
+    """Resolve website-only links in staging, leaving the source wiki untouched."""
+    text = (root / "website" / name).read_text(encoding="utf-8")
+    return text.replace("](../wiki/", "](wiki/").replace("](../README.md)", "](overview.md)")
+
+
 def prepare(root=ROOT):
     stage = root / ".site"
     docs = stage / "docs"
@@ -125,9 +131,10 @@ def prepare(root=ROOT):
     shutil.copytree(root / "wiki", docs / "wiki")
     shutil.copytree(root / "data", docs / "data")
     shutil.copytree(root / "website/assets", docs / "assets")
-    for path in ("README.md", "AGENTS.md", "LICENSE", "llms.txt"):
+    for path in ("AGENTS.md", "LICENSE", "llms.txt"):
         shutil.copy2(root / path, docs / path)
-    shutil.copy2(root / "website/explore.md", docs / "explore.md")
+    shutil.copy2(root / "README.md", docs / "overview.md")
+    (docs / "explore.md").write_text(site_template(root, "explore.md"), encoding="utf-8")
 
     venues_db = json.loads((root / "data/venues.json").read_text(encoding="utf-8"))
     source_db = json.loads((root / "data/sources.json").read_text(encoding="utf-8"))
@@ -137,10 +144,10 @@ def prepare(root=ROOT):
         "{{SOURCE_COUNT}}": str(len(source_db["sources"])),
         "{{RESEARCH_DATE}}": f"{research_date.day} {research_date:%B %Y}",
     }
-    landing = (root / "website/index.md").read_text(encoding="utf-8")
+    landing = site_template(root, "index.md")
     for token, value in substitutions.items():
         landing = landing.replace(token, value)
-    (docs / "index.md").write_text(landing, encoding="utf-8")
+    (docs / "README.md").write_text(landing, encoding="utf-8")
 
     nav = navigation(docs, venues_db["venues"])
     config = (root / "website/mkdocs.yml").read_text(encoding="utf-8").rstrip()

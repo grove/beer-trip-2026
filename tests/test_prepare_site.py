@@ -27,7 +27,7 @@ class SitePreparationTests(unittest.TestCase):
                     dest = root / filename
                     dest.parent.mkdir(parents=True, exist_ok=True)
                     dest.write_text("# Example\n")
-            for filename in ("index.md", "explore.md", "wiki/catalogue.md",
+            for filename in ("README.md", "overview.md", "explore.md", "wiki/catalogue.md",
                              "wiki/areas/manchester.md", "wiki/venues/new-pub.md",
                              "wiki/new-topic.md"):
                 dest = root / filename
@@ -62,7 +62,8 @@ class SitePreparationTests(unittest.TestCase):
             prepare(root)
             self.assertEqual((root / "wiki/venues/new-pub.md").read_bytes(), original)
             self.assertEqual((root / ".site/docs/wiki/venues/new-pub.md").read_bytes(), original)
-            self.assertIn("0 / 0 / 28 October 2026", (root / ".site/docs/index.md").read_text())
+            self.assertIn("0 / 0 / 28 October 2026", (root / ".site/docs/README.md").read_text())
+            self.assertEqual((root / ".site/docs/overview.md").read_text(), "original content\n")
 
 
 if __name__ == "__main__":
