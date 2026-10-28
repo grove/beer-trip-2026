@@ -6,7 +6,7 @@ title: Explore the beer map
 
 [Trip overview](../README.md) · [All 158 venue profiles](../wiki/catalogue.md) · [Actual 9–14 November itinerary](../wiki/five-day-plan.md) · [Google My Maps export instructions](../maps/google-my-maps/README.md)
 
-See where the beer and cider stops are, filter the **158 curated venues**, and switch between the complete research catalogue and each *feasible* travel day. The pub profiles remain the authority on beer, cider qualification, food, opening caveats and sources.
+See where the beer and cider stops are, filter the **158 curated venues**, and switch between the complete research catalogue and each *feasible* travel day. Selecting a trip date also shows **published bar hours**, any separately documented **kitchen hours**, and the original operator or CAMRA source on every mapped venue card. The pub profiles remain the authority on beer, cider qualification, food, opening caveats and sources.
 
 **Important:** this website draws **approximate UK postcode-centre pins**, fetched from [Postcodes.io](https://postcodes.io/) when the map opens. **They are not individual building entrances.** Two venues in the catalogue have no reliable postcode and appear as address-search links instead. Open the **Google Maps** link on each card for a full street-address search and confirm the correct venue before travelling. The native map does *not* track your location or compute live transit times.
 
@@ -14,6 +14,7 @@ See where the beer and cider stops are, filter the **158 curated venues**, and s
   data-venues-url="../data/venues.json"
   data-routes-url="../data/map-routes.json"
   data-rankings-url="../data/rankings.json"
+  data-opening-hours-url="../data/opening-hours.json"
   data-venue-base="../wiki/venues/">
   <div class="pub-map__controls">
     <label>Search venues, drinks or neighbourhoods
@@ -74,6 +75,8 @@ See where the beer and cider stops are, filter the **158 curated venues**, and s
     <p>JavaScript is needed for map pins and filters. The full <a href="../wiki/catalogue/">venue catalogue</a> and importable Google My Maps CSVs below still work.</p>
   </noscript>
 </div>
+
+**Opening-hours caveat:** the week-at-a-glance schedules are dated research, **not live open-now status or date-specific confirmation**. An “event-only” cidery has no reliable regular hours. Use the [complete 158-venue opening-hours table](../wiki/opening-hours.md) and verify the operator source immediately before visiting. A time marked **(+1 day)** is a close after midnight.
 
 ## Google My Maps: your shareable map
 
