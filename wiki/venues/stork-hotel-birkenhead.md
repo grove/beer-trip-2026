@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Exceptional historic pub interior |
 | Address | 41–43 Price Street, Birkenhead CH41 6JN · [Map search](https://www.google.com/maps/search/?api=1&query=Stork%20Hotel%2C%2041%E2%80%9343%20Price%20Street%2C%20Birkenhead%20CH41%206JN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Stork%20Hotel%20Birkenhead&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Small brewery taproom |
 | Address | 108 Temperance Street, Manchester, M12 6HR · [Map search](https://www.google.com/maps/search/?api=1&query=Steelfish%20Brewing%20Company%20Taproom%2C%20108%20Temperance%20Street%2C%20Manchester%2C%20M12%206HR) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Steelfish%20Brewing%20Company%20Taproom%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

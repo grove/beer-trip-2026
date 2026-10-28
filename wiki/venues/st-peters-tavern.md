@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Spectacular church conversion and ale house |
 | Address | 74 Seel Street, Liverpool L1 4BH · [Map search](https://www.google.com/maps/search/?api=1&query=St%20Peter%E2%80%99s%20Tavern%2C%2074%20Seel%20Street%2C%20Liverpool%20L1%204BH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=St%20Peter%27s%20Tavern%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

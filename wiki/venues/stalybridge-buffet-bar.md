@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Victorian station buffet pub |
 | Address | Platform 4, Stalybridge Railway Station, Rassbottom Street, Stalybridge, SK15 1RF · [Map search](https://www.google.com/maps/search/?api=1&query=Stalybridge%20Buffet%20Bar%2C%20Platform%204%2C%20Stalybridge%20Railway%20Station%2C%20Rassbottom%20Street%2C%20Stalybridge%2C%20SK15%201RF) |
+| Untappd | [Venue page](https://untappd.com/v/stalybridge-buffet-bar/103951) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

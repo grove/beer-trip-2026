@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Art Deco heritage ale and cider pub |
 | Address | 1 St John’s Road, Huddersfield, HD1 5AY · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Sportsman%2C%201%20St%20John%E2%80%99s%20Road%2C%20Huddersfield%2C%20HD1%205AY) |
+| Untappd | [Venue page](https://untappd.com/v/the-sportsman/89962) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

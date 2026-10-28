@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Restored Victorian railway pub |
 | Address | 80 Wallgate, Wigan, WN1 1BA · [Map search](https://www.google.com/maps/search/?api=1&query=Swan%20%26%20Railway%20Hotel%2C%2080%20Wallgate%2C%20Wigan%2C%20WN1%201BA) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Swan%20%26%20Railway%20Hotel%20Wigan&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
