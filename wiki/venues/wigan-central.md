@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Railway-arch ale and cider bar |
 | Address | Arches 1 & 2, Queen Street, Wigan, WN3 4DY · [Map search](https://www.google.com/maps/search/?api=1&query=Wigan%20Central%2C%20Arches%201%20%26%202%2C%20Queen%20Street%2C%20Wigan%2C%20WN3%204DY) |
+| Untappd | [Venue page](https://untappd.com/v/wigan-central/2344333) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
