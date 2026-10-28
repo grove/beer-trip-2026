@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Brewery taproom and shop |
 | Address | Unit 9, Piccadilly Trading Estate, Gidding Road, Manchester, M1 2NP · [Map search](https://www.google.com/maps/search/?api=1&query=Cloudwater%20Unit%209%2C%20Unit%209%2C%20Piccadilly%20Trading%20Estate%2C%20Gidding%20Road%2C%20Manchester%2C%20M1%202NP) |
+| Untappd | [Venue page](https://untappd.com/v/unit-9-cloudwater-taproom/7990731) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

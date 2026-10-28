@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Essential |
 | Type | Traditional two-room pub |
 | Address | 46–48 Kennedy Street, Manchester, M2 4BQ · [Map search](https://www.google.com/maps/search/?api=1&query=City%20Arms%2C%2046%E2%80%9348%20Kennedy%20Street%2C%20Manchester%2C%20M2%204BQ) |
+| Untappd | [Venue page](https://untappd.com/v/city-arms/31033) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

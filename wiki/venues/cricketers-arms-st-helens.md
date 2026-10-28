@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional community pub with onsite brewery |
 | Address | 64 Peter Street, St Helens, WA10 2EB · [Map search](https://www.google.com/maps/search/?api=1&query=Cricketers%20Arms%2C%2064%20Peter%20Street%2C%20St%20Helens%2C%20WA10%202EB) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Cricketers%20Arms%20St%20Helens&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

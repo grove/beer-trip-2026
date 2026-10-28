@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Independent cask and craft bar |
 | Address | 19–21 City Road, Chester, CH1 3AE · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Cellar%2C%2019%E2%80%9321%20City%20Road%2C%20Chester%2C%20CH1%203AE) |
+| Untappd | [Venue page](https://untappd.com/v/the-cellar/118414) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

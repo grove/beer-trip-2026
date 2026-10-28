@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Tiny historic beerhouse |
 | Address | 86 Portland Street, Manchester, M1 4GX · [Map search](https://www.google.com/maps/search/?api=1&query=Circus%20Tavern%2C%2086%20Portland%20Street%2C%20Manchester%2C%20M1%204GX) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Circus%20Tavern%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

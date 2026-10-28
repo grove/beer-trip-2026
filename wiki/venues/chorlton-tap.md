@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Neighbourhood beer bar |
 | Address | 533 Wilbraham Road, Chorlton-cum-Hardy, M21 0UE · [Map search](https://www.google.com/maps/search/?api=1&query=Chorlton%20Tap%2C%20533%20Wilbraham%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%200UE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Chorlton%20Tap%20Chorlton-cum-Hardy&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
