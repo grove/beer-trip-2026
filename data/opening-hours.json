@@ -306,6 +306,56 @@
         ]
       }
     },
+    "b33r-at-33-horwich": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "18:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/b33r-at-33-horwich-195547",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "balance-brewing-blending": {
       "status": "published",
       "days": {
@@ -341,6 +391,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28",
       "note": "Regular taproom pattern; advertised cider-club meetings or ticketed events may differ."
+    },
+    "bank-top-ale-house-horwich": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bank-top-brewery-ale-house-horwich-122462",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "bank-top-brewery-tap-bolton": {
       "status": "published",
@@ -960,6 +1060,51 @@
       "source_type": "official",
       "checked_on": "2026-10-28",
       "note": "Hours shown on the official operator website. '00:00' means closing at midnight after the named day."
+    },
+    "broad-street-social-bury": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "14:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/broad-street-social-bury-152888",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "bundobust-brewery-manchester": {
       "status": "published",
@@ -2196,6 +2341,85 @@
         ]
       }
     },
+    "fox-and-pine-oldham": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/fox-pine-oldham-152891",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ]
+      }
+    },
     "gas-lamp": {
       "status": "published",
       "days": {
@@ -2293,6 +2517,46 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/grey-horse-manchester-137605",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "grocers-cadishead": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "17:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "15:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/grocers-cadishead-170709",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -3645,6 +3909,86 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/olde-man-scythe-bolton-122503",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "olde-vic-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:30",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "17:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/olde-vic-stockport-167522",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "our-gracies-rochdale": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "13:00",
+            "21:30"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/our-gracies-rochdale-194611",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -5702,6 +6046,103 @@
         ]
       }
     },
+    "udders-orchard-cidery": {
+      "status": "event-only",
+      "source_url": "https://www.uddersorchardcider.co.uk/",
+      "source_type": "official",
+      "checked_on": "2026-10-28",
+      "note": "No regular weekly opening. Producer advertises Saturday 7 November 2026 noon–20:00 and Sunday 8 November noon–19:00, both BEFORE the trip starts Monday 9 November; December openings are not relevant. Do not convert these events into ordinary weekly hours."
+    },
+    "waters-green-tavern-macclesfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/waters-green-tavern-macclesfield-173047",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Sunday may close later than 18:30 depending on custom.",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "14:00"
+          ]
+        ],
+        "sun": []
+      }
+    },
     "wharf-manchester": {
       "status": "published",
       "days": {
@@ -5795,6 +6236,56 @@
           ]
         ]
       }
+    },
+    "wigan-central": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/wigan-central-wigan-171968",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     }
   }
 }
