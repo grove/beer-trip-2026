@@ -1160,6 +1160,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "black-toad": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "tue": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "wed": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "thu": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "fri": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "13:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/black-toad-hoylake-132582",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "blackedge-brewery-bar-horwich": {
       "status": "published",
       "days": {
@@ -1339,6 +1389,56 @@
           ]
         ]
       }
+    },
+    "bridewell": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/bridewell-liverpool-166374",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "britons-protection": {
       "status": "published",
@@ -2607,6 +2707,106 @@
       "checked_on": "2026-10-28",
       "note": "CAMRA listing last updated 2025; recheck directly."
     },
+    "denbigh-castle": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/denbigh-castle-liverpool-166435",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "dispensary": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/dispensary-liverpool-165589",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "doctor-duncans": {
       "status": "published",
       "days": {
@@ -3175,6 +3375,56 @@
         ]
       }
     },
+    "freshfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:30",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:30",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/freshfield-freshfield-146997",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "gallaghers-birkenhead": {
       "status": "published",
       "days": {
@@ -3351,6 +3601,56 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "grapes-roscoe-street": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ],
+        "tue": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ],
+        "wed": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:30",
+            "26:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:30",
+            "25:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/grapes-liverpool-166102",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -3945,6 +4245,51 @@
           ]
         ]
       }
+    },
+    "lazy-landlord": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/lazy-landlord-ale-house-liscard-132150",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "lion-tavern": {
       "status": "published",
@@ -4545,6 +4890,56 @@
           ]
         ]
       }
+    },
+    "monro": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "26:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/monro-liverpool-166467",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
     },
     "mr-thomass-chop-house": {
       "status": "published",
@@ -5274,6 +5669,100 @@
         ]
       }
     },
+    "pen-factory": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/pen-factory-liverpool-166023",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ]
+      }
+    },
     "peter-kavanaghs": {
       "status": "published",
       "days": {
@@ -5943,6 +6432,100 @@
       "source_url": "https://camra.org.uk/pubs/reasons-to-be-cheerful-burnage-167218",
       "source_type": "camra",
       "checked_on": "2026-10-28"
+    },
+    "red-fox-thornton-hough": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/red-fox-thornton-hough-132147",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "20:30"
+          ]
+        ]
+      }
     },
     "redwillow-macclesfield": {
       "status": "published",
