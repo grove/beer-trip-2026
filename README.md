@@ -22,7 +22,7 @@ Flight times are transcribed from the supplied booking screenshots; not live fli
 | **Where are the pubs on a map?** | **[Interactive beer-trip map](https://grove.github.io/beer-trip-2026/map/)** — filters, day-by-day walking suggestions, exact-address Google Maps links; **[Google My Maps CSV exports](maps/google-my-maps/README.md)** for sharing all 158 locations |
 | Which pubs have the strongest cask/cider and heritage? | [Shortlists by experience, food and brewery focus](wiki/shortlists.md) |
 | **What exactly should we order?** | **[Cask and real-cider field guide](wiki/what-to-drink.md)** — named 2026 beer leads, tasting prompts, Old Tom after its Nov 7 launch, cider/perry questions |
-| **What beer and cider might be at each venue?** | **[All 158 venue-specific beer and cider leads](wiki/drinks-by-venue.md)** — documented regulars, recently seen beers, rotating breweries, cider makers and uncertainties |
+| **What beer and cider might be at each venue?** | **[All 158 venue-specific beer and cider leads](wiki/drinks-by-venue.md)** — documented regulars, recently seen beers, rotating breweries, cider makers and uncertainties — also links to Untappd venue profiles or clearly labelled searches |
 | **Which pubs have the best stories?** | [Manchester's pub secrets](wiki/stories-manchester.md) · [Stockport and excursion lore](wiki/stories-stockport-and-excursions.md) · [Liverpool's characters and buildings](wiki/stories-liverpool.md) |
 | Where are all the candidates? | [158-venue catalogue](wiki/catalogue.md) · [Manchester](wiki/areas/manchester.md) · [Liverpool and Wirral](wiki/areas/liverpool.md) · [Surroundings](wiki/areas/surroundings.md) |
 | Where is *real* cider? | [Real cider and perry criteria and leads](wiki/real-cider.md) |
