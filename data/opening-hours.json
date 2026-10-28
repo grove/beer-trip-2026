@@ -771,6 +771,145 @@
       "checked_on": "2026-10-28",
       "note": "CAMRA's matching food times may reflect snacks/pop-ups only; no dependable full daily kitchen is established."
     },
+    "blossoms-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "tue": [],
+        "wed": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "15:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "15:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/blossoms-stockport-167301",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "brewery-tap-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/brewery-tap-chester-137016",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
     "britons-protection": {
       "status": "published",
       "days": {
@@ -1114,6 +1253,56 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/castle-hotel-manchester-137416",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "cellar-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "24:30"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "25:30"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "24:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/cellar-chester-137085",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -1825,6 +2014,41 @@
         ]
       },
       "source_url": "https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
+    "firkin-newton-le-willows": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:30",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "14:00",
+            "23:30"
+          ]
+        ],
+        "sat": [
+          [
+            "14:00",
+            "23:30"
+          ]
+        ],
+        "sun": [
+          [
+            "14:00",
+            "22:30"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/firkin-newton-le-willows-171124",
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
@@ -2636,6 +2860,81 @@
       "source_type": "camra",
       "checked_on": "2026-10-28",
       "note": "May close earlier when quiet, according to CAMRA."
+    },
+    "magnet-stockport": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "16:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/magnet-stockport-167490",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "note": "Wednesday kitchen no service; Thursday–Saturday evening food only per CAMRA.",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [],
+        "thu": [
+          [
+            "17:30",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "17:30",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "17:30",
+            "21:00"
+          ]
+        ],
+        "sun": []
+      }
     },
     "marble-arch": {
       "status": "published",
@@ -3522,6 +3821,100 @@
       "source_url": "https://camra.org.uk/pubs/peveril-of-the-peak-manchester-137712",
       "source_type": "camra",
       "checked_on": "2026-10-28"
+    },
+    "pied-bull-chester": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/pied-bull-chester-137130",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "tue": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "wed": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "thu": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "11:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "11:00",
+            "20:00"
+          ]
+        ]
+      }
     },
     "pigeon-beer-wanderer": {
       "status": "published",
@@ -4573,6 +4966,56 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "sportsman-huddersfield": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/sportsman-huddersfield-178836",
+      "source_type": "camra",
+      "checked_on": "2026-10-28"
+    },
     "stalybridge-buffet-bar": {
       "status": "published",
       "days": {
@@ -4937,6 +5380,80 @@
       "source_type": "camra",
       "checked_on": "2026-10-28"
     },
+    "torr-vale-tap-new-mills": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/torr-vale-tap-new-mills-121072",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "10:00",
+            "16:00"
+          ]
+        ],
+        "thu": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "fri": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "21:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "19:00"
+          ]
+        ]
+      }
+    },
     "track-brewery-tap": {
       "status": "published",
       "days": {
@@ -5013,6 +5530,174 @@
           [
             "12:00",
             "17:00"
+          ]
+        ]
+      }
+    },
+    "trackside-bury": {
+      "status": "published",
+      "days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "22:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "22:30"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "22:30"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/trackside-bury-153438",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [],
+        "tue": [],
+        "wed": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "15:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "10:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "10:00",
+            "17:00"
+          ]
+        ]
+      }
+    },
+    "turks-head-st-helens": {
+      "status": "published",
+      "days": {
+        "mon": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "24:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "23:00"
+          ]
+        ]
+      },
+      "source_url": "https://camra.org.uk/pubs/turks-head-st-helens-145236",
+      "source_type": "camra",
+      "checked_on": "2026-10-28",
+      "food_days": {
+        "mon": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "tue": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "wed": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "thu": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "fri": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sat": [
+          [
+            "12:00",
+            "20:00"
+          ]
+        ],
+        "sun": [
+          [
+            "12:00",
+            "19:00"
           ]
         ]
       }
