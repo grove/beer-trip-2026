@@ -7,6 +7,7 @@ Two travellers, one Monday evening arrival, **four full days** Tue 10–Fri 13 a
 
 - **[Overall relevance ranking — 1 to 158](rankings.md):** opinionated top 15, complete order and per-region rankings; combines cask quality evidence, cider/perry, spectacular rooms, traditional character and food.
 - **[Actual dated day-by-day routes](five-day-plan.md):** airport arrival, Tuesday Manchester, Wednesday Stockport, Thursday and Friday Liverpool, Saturday home.
+- **[Interactive map and day filters](https://grove.github.io/beer-trip-2026/map/):** approximate postcode pins for all mappable venues, plus full-address Google Maps links; [download/shareable My Maps CSV layers](../maps/google-my-maps/README.md).
 - [Shortlists](shortlists.md): cask, cider, interiors, food and brewery choices.
 - [Real cider guide](real-cider.md): evidence status and product qualification.
 - [Excursion choices](excursions.md): Stockport, Chester, Oldham, Rochdale, St Helens, Wirral and other towns.

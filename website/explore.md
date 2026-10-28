@@ -4,6 +4,8 @@ title: Explore venues
 
 # Find somewhere worth the journey
 
+Prefer pins and a route filter? Open the **[interactive beer-trip map](map.md)**. It also provides **Google My Maps CSV downloads** for all 158 venues and each planned day.
+
 Search the entire curated collection by venue, neighbourhood, speciality or description. Filter by location, priority and **cider evidence**, not an assumed current tap list. Each result leads to a sourced record with food and travel notes.
 
 <div id="venue-finder" class="venue-finder" data-venues-url="../data/venues.json" data-venue-base="../wiki/venues/">

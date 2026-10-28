@@ -2,6 +2,12 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-28 — geographical companion and shareable Google My Maps exports
+
+Added a route-aware [interactive map](https://grove.github.io/beer-trip-2026/map/), plus [downloadable Google My Maps CSV layers](../maps/google-my-maps/README.md) for all 158 venues, the top 20 and each of the five flight-feasible Mon–Fri visit days. Added deterministic `scripts/export_maps.py` and `data/map-routes.json`, with rank/venue/route integrity checks. The route sequences are *options*, never compulsory stops or promises of opening. Saturday 14 is still airport-only. The native map exposes priority, region, cider status, text search and day filters, plus detailed wiki links and **full-address** Google Maps directions.
+
+The native map has **no independently verified pub-entrance coordinates**: Postcodes.io provides approximate UK *postcode centroids* for up to 156 entries in two batches; two postcode-less addresses remain accessible through exact-address search links. Pins explicitly warn not to use them as navigation endpoints. Google My Maps imports the full venue-name-and-address query and users must inspect geocoding before sharing. The browser falls back to the complete venue list if a map, postcode or CDN request fails; no published shared Google map, personal GPS tracking, reservation or live stock check is claimed.
+
 ## 2026-10-28 — deeper pub stories and a drinker's field guide
 
 Added four fully sourced editorial companions: [Manchester](stories-manchester.md) (Marble Arch's Shap granite, tiled drink list and folklore, Peveril road rescue and Cracker appearance, historic serving arrangements), [Stockport and excursions](stories-stockport-and-excursions.md) (Raffald family, Robinsons' 1899 Old Tom story and the **7 November 2026 cask launch at Arden Arms and Swan**, plus perry/cider cellar leads), [Liverpool](stories-liverpool.md) (Cain/Thomas architectural rivalry, Lion locomotive, Bridewell cells, Dickens-and-Hogarth interiors) and [What to drink](what-to-drink.md) (named dated beer candidates, tasting passport, style and condition cues, precise real-cider/perry qualification questions).

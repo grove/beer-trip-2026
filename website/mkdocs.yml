@@ -42,5 +42,7 @@ markdown_extensions:
       permalink: true
 extra_css:
   - assets/site.css
+  - assets/pub-map.css
 extra_javascript:
   - assets/venue-finder.js
+  - assets/pub-map.js

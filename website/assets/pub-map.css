@@ -1,0 +1,121 @@
+/* Interactive venue map; uses the same cream / bottle-green editorial palette. */
+.pub-map { margin: 1.3rem 0 2rem; }
+.pub-map__controls {
+  display: grid;
+  grid-template-columns: minmax(210px, 2fr) repeat(3, minmax(130px, 1fr));
+  gap: .7rem; padding: 1rem;
+  border: 1px solid var(--beer-outline);
+  background: var(--beer-card);
+  border-radius: 16px;
+}
+.pub-map__controls label {
+  display: flex; flex-direction: column; gap: .4rem;
+  color: var(--beer-ink); font-size: .72rem; font-weight: 700;
+}
+.pub-map__controls select, .pub-map__controls input[type="search"] {
+  min-width: 0; width: 100%; min-height: 2.45rem;
+  border: 1px solid var(--beer-outline); border-radius: 9px;
+  background: var(--md-default-bg-color); color: var(--md-default-fg-color);
+  padding: .48rem .6rem; font: inherit; font-size: .8rem;
+}
+.pub-map__controls .pub-map__top-label {
+  flex-direction: row; gap: .5rem; align-items: center;
+  justify-self: start; align-self: center;
+}
+.pub-map__top-label input { width: 1.1rem; height: 1.1rem; accent-color: var(--md-accent-fg-color); }
+.pub-map__toolbar {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: .8rem; margin: .9rem .15rem;
+}
+.md-typeset .pub-map__status { color: var(--beer-muted); font-size: .82rem; font-weight: 700; margin: 0; }
+.pub-map__actions { display: flex; flex-wrap: wrap; gap: .7rem; align-items: center; }
+.pub-map__reset {
+  cursor: pointer; background: var(--beer-card); color: var(--beer-ink);
+  border: 1px solid var(--beer-outline); border-radius: 9px;
+  font-size: .75rem; padding: .45rem .65rem;
+}
+.md-typeset a.pub-map__route {
+  text-decoration: none; background: var(--md-accent-fg-color);
+  color: var(--md-default-bg-color); border-radius: 9px;
+  padding: .48rem .7rem; font-size: .75rem; font-weight: 700;
+}
+.pub-map__route[hidden] { display: none !important; }
+.pub-map__canvas {
+  position: relative; width: 100%; height: min(68vh, 590px); min-height: 350px;
+  z-index: 0; background: #e8e9db; border: 1px solid var(--beer-outline);
+  border-radius: 16px; overflow: hidden;
+}
+.pub-map__canvas .leaflet-container { font: inherit; }
+.pub-map__pin-wrap { background: transparent; }
+.pub-map__pin {
+  display: block; width: 19px; height: 19px; border-radius: 50%;
+  background: #587a64; border: 3px solid #fffdf7;
+  box-shadow: 0 2px 8px rgba(20, 35, 26, .28);
+}
+.pub-map__pin--essential { background: #a66127; }
+.pub-map__pin--cider { box-shadow: 0 0 0 2px #d4a54c, 0 2px 8px rgba(20, 35, 26, .28); }
+.pub-map__popup { max-width: 290px; font: 13px/1.5 system-ui, sans-serif; color: #1e3026; }
+.pub-map__popup > p { margin: .35rem 0; }
+.pub-map__popup > a { font-weight: 700; }
+.md-typeset .pub-map__hint { color: var(--beer-muted); font-size: .78rem; margin: .6rem 0 1.2rem; }
+.md-typeset .pub-map__results-title { margin: 1.1rem 0 .8rem; font-size: 1.35rem; }
+.pub-map__results { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .8rem; }
+.pub-map__card {
+  padding: .95rem 1rem; border: 1px solid var(--beer-outline);
+  border-radius: 13px; background: var(--beer-card);
+  display: flex; flex-direction: column; gap: .45rem;
+}
+.pub-map__card h3 { display: flex; gap: .5rem; justify-content: space-between; align-items: start; margin: 0; }
+.pub-map__focus {
+  background: transparent; color: var(--beer-ink); border: 0;
+  text-align: left; padding: 0; font: inherit; font-size: .93rem; font-weight: 720;
+  cursor: pointer; text-decoration: underline; text-decoration-color: var(--beer-outline);
+}
+.pub-map__focus:hover { color: var(--md-accent-fg-color); }
+.pub-map__rank { flex: 0 0 auto; font-size: .73rem; color: var(--md-accent-fg-color); }
+.md-typeset .pub-map__card p { margin: 0; }
+.md-typeset .pub-map__metadata { font-size: .7rem; color: var(--beer-muted); font-weight: 650; }
+.md-typeset .pub-map__why { font-size: .78rem; line-height: 1.5; flex: 1; }
+.md-typeset .pub-map__note { font-size: .74rem; color: var(--beer-muted); font-style: italic; }
+.md-typeset .pub-map__cider { font-size: .72rem; color: var(--md-accent-fg-color); font-weight: 660; }
+.pub-map__cardlinks { display: flex; gap: 1rem; flex-wrap: wrap; font-size: .75rem; font-weight: 680; }
+.pub-map__unlocated { font-size: .7rem; color: var(--beer-muted); }
+.pub-map__more {
+  display: block; margin: 1.1rem auto; cursor: pointer;
+  border: 1px solid var(--beer-outline); background: var(--beer-card);
+  padding: .6rem 1rem; border-radius: 9px; color: var(--beer-ink); font-weight: 650;
+}
+.pub-map__more[hidden] { display: none; }
+.pub-map__error, .pub-map__empty {
+  padding: 1.2rem; color: #243a2f;
+  background: #f2f3e8; border-radius: 12px;
+}
+.pub-map :is(.pub-map__reset,.pub-map__focus,.pub-map__more,
+  .pub-map__route,.pub-map__controls input,.pub-map__controls select):focus-visible {
+  outline: 2px solid var(--md-accent-fg-color); outline-offset: 2px;
+}
+.pub-map__legend { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; }
+.pub-map__legend span { font-size: .75rem; color: var(--beer-muted); }
+.pub-map__swatch {
+  display: inline-block; vertical-align: middle; width: 11px; height: 11px;
+  border-radius: 50%; margin-right: 4px; background: #587a64; border: 1px solid #fff;
+}
+.pub-map__swatch--essential { background: #a66127; }
+.pub-map__swatch--cider { background: #587a64; border: 2px solid #d4a54c; width: 13px; height: 13px; }
+@media (max-width: 1100px) {
+  .pub-map__controls { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .pub-map__controls label:first-child { grid-column: span 2; }
+}
+@media (max-width: 680px) {
+  .pub-map__controls { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .pub-map__controls label:first-child { grid-column: span 2; }
+  .pub-map__results { grid-template-columns: 1fr; }
+  .pub-map__canvas { height: 52vh; min-height: 310px; }
+}
+@media (max-width: 420px) {
+  .pub-map__controls { grid-template-columns: 1fr; }
+  .pub-map__controls label:first-child { grid-column: auto; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .pub-map__focus, .pub-map__more { transition: none; }
+}

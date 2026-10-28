@@ -12,7 +12,8 @@ hide:
 
 Manchester, Liverpool and the remarkable places in between — researched for the beer, the cider, the rooms and the stories worth travelling for.
 
-[Build your five-day trip](../wiki/five-day-plan.md){ .md-button .md-button--primary }
+[Explore the interactive pub map](map.md){ .md-button .md-button--primary }
+[Build your five-day trip](../wiki/five-day-plan.md){ .md-button .beer-hero__secondary }
 [Explore {{VENUE_COUNT}} places](explore.md){ .md-button .beer-hero__secondary }
 
 <div class="beer-hero__footnote">{{VENUE_COUNT}} selected venues · {{SOURCE_COUNT}} traceable venue sources · Researched {{RESEARCH_DATE}}</div>
@@ -20,6 +21,8 @@ Manchester, Liverpool and the remarkable places in between — researched for th
 </div>
 
 ## Discover your kind of pub
+
+The **[interactive map](map.md)** now brings all 158 venues onto an approximate postcode map, with a Google My Maps export and date-specific route filters. Use exact-address Google Maps links when navigating to a pub.
 
 <div class="grid cards" markdown>
 

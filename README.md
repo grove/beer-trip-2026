@@ -18,6 +18,7 @@ Flight times are transcribed from the supplied booking screenshots; not live fli
 | --- | --- |
 | **What is best?** | **[Full 1–158 relevance ranking](wiki/rankings.md)** — both overall and within each region, with a distinct top 15 |
 | **What can we actually fit?** | **[9–14 November dated schedule](wiki/five-day-plan.md)** — actual flight constraints, opening-day caveats and 4 full-day walks |
+| **Where are the pubs on a map?** | **[Interactive beer-trip map](https://grove.github.io/beer-trip-2026/map/)** — filters, day-by-day walking suggestions, exact-address Google Maps links; **[Google My Maps CSV exports](maps/google-my-maps/README.md)** for sharing all 158 locations |
 | Which pubs have the strongest cask/cider and heritage? | [Shortlists by experience, food and brewery focus](wiki/shortlists.md) |
 | **What exactly should we order?** | **[Cask and real-cider field guide](wiki/what-to-drink.md)** — named 2026 beer leads, tasting prompts, Old Tom after its Nov 7 launch, cider/perry questions |
 | **Which pubs have the best stories?** | [Manchester's pub secrets](wiki/stories-manchester.md) · [Stockport and excursion lore](wiki/stories-stockport-and-excursions.md) · [Liverpool's characters and buildings](wiki/stories-liverpool.md) |
@@ -67,8 +68,10 @@ Python **3.9+** and no third-party packages:
 ```bash
 python3 scripts/build_wiki.py
 python3 scripts/build_rankings.py
+python3 scripts/export_maps.py
 python3 scripts/build_wiki.py --check
 python3 scripts/build_rankings.py --check
+python3 scripts/export_maps.py --check
 python3 scripts/validate_wiki.py
 ```
 
