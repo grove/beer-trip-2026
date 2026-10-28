@@ -37,6 +37,22 @@ CAMRA lists regular cask and changing beers, including familiar national bitters
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 10:00–22:30 | 10:00–22:00 |
+| Tuesday | 10:00–22:30 | 10:00–22:00 |
+| Wednesday | 10:00–22:30 | 10:00–22:00 |
+| Thursday | 10:00–22:30 | 10:00–22:00 |
+| Friday | 10:00–00:00 (+1 day) | 10:00–22:00 |
+| Saturday | 10:00–00:00 (+1 day) | 10:00–22:00 |
+| Sunday | 10:00–00:00 (+1 day) | 10:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/crown-hotel-liverpool-165905) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Operator advertises breakfast and pub meals; useful convenience, though the interior is the main reason for inclusion.

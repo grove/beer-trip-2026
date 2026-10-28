@@ -37,6 +37,24 @@ Branch guide records eight changing real ales; selection is published through Re
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 16:00–22:30 |
+| Tuesday | 16:00–22:30 |
+| Wednesday | 16:00–22:30 |
+| Thursday | 16:00–22:30 |
+| Friday | 16:00–23:00 |
+| Saturday | 14:00–23:00 |
+| Sunday | 14:00–21:00 |
+
+**Hours source:** [CAMRA / local branch](https://www.southport.camra.org.uk/viewnode.php?id=37630) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Local CAMRA branch schedule; venue source register did not previously include its pub listing.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

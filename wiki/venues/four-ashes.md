@@ -37,6 +37,22 @@ CAMRA records five changing cask beers, with local and regional breweries and an
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | 16:00–22:00 |
+| Thursday | 16:00–22:00 |
+| Friday | 16:00–22:00 |
+| Saturday | 14:00–22:00 |
+| Sunday | 14:00–21:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/four-ashes-liverpool-166246) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

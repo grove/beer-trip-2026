@@ -37,6 +37,22 @@ Four changing cask ales from smaller breweries, with Colbier and Rock the Boat a
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | 16:00–21:00 |
+| Wednesday | 16:00–21:00 |
+| Thursday | 16:00–21:00 |
+| Friday | 15:00–21:30 |
+| Saturday | 14:00–21:00 |
+| Sunday | 14:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/corner-post-liverpool-166043) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 No full kitchen established; plan food elsewhere.

@@ -37,6 +37,24 @@ CAMRA lists changing cask from smaller breweries nationwide, with a smaller sele
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 15:00–22:00 |
+| Tuesday | 15:00–22:00 |
+| Wednesday | 15:00–22:00 |
+| Thursday | 15:00–22:00 |
+| Friday | 15:00–22:00 |
+| Saturday | 12:00–22:00 |
+| Sunday | 15:00–22:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/cask-liverpool-166044) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** CAMRA listing last updated 2024; verify hours shortly before a dedicated detour.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

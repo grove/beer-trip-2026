@@ -37,6 +37,22 @@ Spitting Feathers cask and rotating guests are documented; choose from the actua
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–21:00 | 14:00–20:00 |
+| Tuesday | 12:00–23:00 | 14:00–21:00 |
+| Wednesday | 12:00–23:00 | 14:00–21:00 |
+| Thursday | 12:00–23:00 | 14:00–21:00 |
+| Friday | 12:00–23:30 | 14:00–21:00 |
+| Saturday | 12:00–23:30 | 12:00–21:00 |
+| Sunday | 12:00–22:00 | 12:00–18:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/west-kirby-tap-west-kirby-132144) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Fresh pizza and bar snacks are documented by operator and CAMRA.

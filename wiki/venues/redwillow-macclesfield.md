@@ -37,6 +37,22 @@ Official site advertises five cask lines alongside keg; CAMRA describes RedWillo
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 15:00–22:00 |
+| Tuesday | 15:00–22:00 |
+| Wednesday | 15:00–22:00 |
+| Thursday | 12:00–22:00 |
+| Friday | 12:00–00:00 (+1 day) |
+| Saturday | 12:00–00:00 (+1 day) |
+| Sunday | 12:00–22:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/redwillow-macclesfield-173309) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA’s October 2026 entry reports hot dogs; the official page links a current menu.

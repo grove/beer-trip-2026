@@ -37,6 +37,24 @@ Cider-led rather than a cask-ale destination. CAMRA reports local canned beer; d
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | Closed |
+| Thursday | Closed |
+| Friday | Closed |
+| Saturday | 10:00–19:00 |
+| Sunday | 10:00–18:00 |
+
+**Hours source:** [Operator](https://www.dunhamapples.co.uk/apple-barn) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Current operator lists Saturday and Sunday only, conflicting with an older CAMRA schedule. Saturday 14 is not usable due to your morning flight; not a practical default.
+
 ## Food
 
 Official site advertises homemade cakes and wood-fired pizza; confirm food availability for the chosen November day.

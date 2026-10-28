@@ -37,6 +37,22 @@ CAMRA reports nine handpumps, mainly Ossett-family beers, with dark ales commonl
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 15:00–23:00 |
+| Tuesday | 15:00–00:00 (+1 day) |
+| Wednesday | 15:00–00:00 (+1 day) |
+| Thursday | 15:00–00:00 (+1 day) |
+| Friday | 12:00–00:00 (+1 day) |
+| Saturday | 12:00–00:00 (+1 day) |
+| Sunday | 12:00–23:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/rat-ratchet-huddersfield-178787) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 No dependable regular meal service established; a quiz supper is not a substitute for checking kitchen provision.

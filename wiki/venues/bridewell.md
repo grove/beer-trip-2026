@@ -37,6 +37,22 @@ Official site promises cask including a local beer; CAMRA records Kirkstall regu
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–00:00 (+1 day) |
+| Tuesday | 12:00–00:00 (+1 day) |
+| Wednesday | 12:00–00:00 (+1 day) |
+| Thursday | 12:00–00:00 (+1 day) |
+| Friday | 12:00–00:00 (+1 day) |
+| Saturday | 12:00–00:00 (+1 day) |
+| Sunday | 12:00–00:00 (+1 day) |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/bridewell-liverpool-166374) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 No kitchen. The official site permits takeaway food from neighbouring Amalia; confirm this remains acceptable on the day.

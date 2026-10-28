@@ -37,6 +37,22 @@ CAMRA’s October 2026 update records six cask handpumps, mainly changing micros
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 16:00–00:30 (+1 day) |
+| Tuesday | 16:00–00:30 (+1 day) |
+| Wednesday | 16:00–00:30 (+1 day) |
+| Thursday | 16:00–00:30 (+1 day) |
+| Friday | 12:00–01:30 (+1 day) |
+| Saturday | 12:00–01:30 (+1 day) |
+| Sunday | 12:00–00:30 (+1 day) |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/cellar-chester-137085) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA lists pizza, mezze and meat/cheese platters; check the current menu and kitchen.

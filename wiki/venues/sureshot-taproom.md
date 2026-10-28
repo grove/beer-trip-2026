@@ -37,6 +37,22 @@ Official taproom page advertises at least ten keg lines and two cask lines; chec
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | 17:00–22:00 |
+| Thursday | 17:00–22:00 |
+| Friday | 12:00–23:00 |
+| Saturday | 12:00–23:00 |
+| Sunday | 14:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/sureshot-brewery-taproom-manchester-196628) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Operator allows food delivery and collection from nearby pizza providers; confirm arrangements on arrival.

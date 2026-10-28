@@ -37,6 +37,22 @@ CAMRA records eight handpumps, mostly rotating beers, with a mild often availabl
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–23:00 |
+| Tuesday | 12:00–23:00 |
+| Wednesday | 12:00–23:00 |
+| Thursday | 12:00–23:00 |
+| Friday | 12:00–00:00 (+1 day) |
+| Saturday | 12:00–00:00 (+1 day) |
+| Sunday | 12:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/city-arms-manchester-137676) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA reports a weekday lunchtime menu and hot pies while stocks last; do not assume evening or weekend meal service.

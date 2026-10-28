@@ -37,6 +37,24 @@ No cask ale according to the current CAMRA entry. Do not treat old ale-guide rec
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–22:00 |
+| Tuesday | 12:00–22:00 |
+| Wednesday | 12:00–22:00 |
+| Thursday | 12:00–22:00 |
+| Friday | 12:00–23:00 |
+| Saturday | 12:00–23:00 |
+| Sunday | 12:00–22:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/queens-arms-patricroft-170948) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Heritage-only exception; do not assume cask availability.
+
 ## Food
 
 Current CAMRA description reports Japanese-style food; check the operator’s menu and service hours.

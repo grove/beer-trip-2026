@@ -37,6 +37,24 @@ Marble cask is the main draw; CAMRA lists Manchester Bitter and Pint among the r
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 12:00–22:00 | 12:00–20:00 |
+| Tuesday | Closed | Closed |
+| Wednesday | 12:00–22:00 | 12:00–20:00 |
+| Thursday | 12:00–23:00 | 12:00–20:00 |
+| Friday | 12:00–23:00 | 12:00–20:30 |
+| Saturday | 11:00–23:00 | 12:00–20:30 |
+| Sunday | 11:00–21:00 | 12:00–18:00 |
+
+**Hours source:** [Operator](https://marblebeers.com/the-marble-arch/) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Official times are **last bar orders**, not necessarily departure time; Tuesday CLOSED despite a conflicting CAMRA timetable. Food service ends earlier (Monday–Thursday last food orders 20:00).
+
 ## Food
 
 British pub dishes, including steak-and-stout pie; vegetarian/vegan options and Sunday roasts. Book a meal, particularly Sunday lunch.

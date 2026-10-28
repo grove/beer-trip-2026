@@ -37,6 +37,22 @@ Official site describes a broad draught and bottle range including dark and sour
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–21:00 |
+| Tuesday | 12:00–21:00 |
+| Wednesday | 12:00–21:00 |
+| Thursday | 12:00–23:00 |
+| Friday | 12:00–23:00 |
+| Saturday | 12:00–23:00 |
+| Sunday | 12:00–22:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/that-beer-place-chester-136994) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Not established; do not plan a meal here without checking.

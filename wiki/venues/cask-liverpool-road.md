@@ -37,6 +37,22 @@ Four handpumps with changing local and Yorkshire cask are documented, alongside 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 12:00–23:00 |
+| Tuesday | 12:00–23:00 |
+| Wednesday | 12:00–23:00 |
+| Thursday | 12:00–23:00 |
+| Friday | 12:00–23:00 |
+| Saturday | 12:00–23:00 |
+| Sunday | 12:00–22:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/cask-manchester-137734) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Bar snacks only, but CAMRA reports that outside food and next-door fish and chips are welcomed if you clear away the packaging. Confirm the policy on arrival.

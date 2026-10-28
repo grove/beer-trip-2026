@@ -37,6 +37,22 @@ CAMRA records multiple changing cask beers alongside regulars; consult the live 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | 11:30–23:00 | Closed |
+| Tuesday | 11:30–23:00 | 12:00–14:30 |
+| Wednesday | 11:30–23:00 | 12:00–14:30 |
+| Thursday | 11:30–23:00 | 12:00–14:30 |
+| Friday | 11:30–00:00 (+1 day) | 12:00–14:30 |
+| Saturday | 11:30–00:00 (+1 day) | 12:00–14:30 |
+| Sunday | 12:00–22:30 | 12:00–15:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/guest-house-southport-147054) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 CAMRA lists lunchtime meals on selected days; verify service rather than assuming evening dining.

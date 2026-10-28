@@ -37,6 +37,22 @@ Four changing cask and about twenty keg lines documented by CAMRA; actual beers 
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | 16:00–22:00 |
+| Thursday | 16:00–22:00 |
+| Friday | 12:00–23:30 |
+| Saturday | 12:00–23:30 |
+| Sunday | 13:00–20:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 Pizza is documented, and CAMRA says outside food is permitted; confirm the current arrangement.

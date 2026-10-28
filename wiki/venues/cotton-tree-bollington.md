@@ -37,6 +37,22 @@ CAMRA reports six cask beers, including regular bitters and two rotating guests;
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | 15:00–22:30 |
+| Tuesday | 15:00–23:00 |
+| Wednesday | 15:00–23:00 |
+| Thursday | 15:00–23:00 |
+| Friday | 15:00–23:30 |
+| Saturday | 13:30–23:30 |
+| Sunday | 12:00–22:30 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/cotton-tree-bollington-173502) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 No full kitchen established; local pies on selected Friday/Saturday service and snacks are documented.

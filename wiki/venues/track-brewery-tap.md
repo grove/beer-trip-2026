@@ -37,6 +37,24 @@ Official site advertises three cask and twenty keg lines, mainly Track with occa
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar | Food / kitchen |
+| --- | --- | --- |
+| Monday | Closed | Closed |
+| Tuesday | 14:00–22:00 | Closed |
+| Wednesday | 14:00–22:00 | 17:00–20:30 |
+| Thursday | 14:00–22:00 | 17:00–20:30 |
+| Friday | 12:00–22:00 | 15:00–21:00 |
+| Saturday | 12:00–22:00 | 12:00–21:00 |
+| Sunday | 12:00–17:00 | 12:00–17:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/track-brewery-tap-manchester-137330) (checked 2026-10-28). Kitchen times are independently listed above; confirm menu and last food orders. Ordinary opening, last orders and holiday/event hours may differ.
+
+**Important qualification:** Published food windows are shorter; taproom hours can change, confirm the date.
+
 ## Food
 
 Slice Culture pizza on selected days, currently Wednesday–Sunday on the operator’s page; verify your specific date.

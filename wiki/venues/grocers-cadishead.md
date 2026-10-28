@@ -37,6 +37,22 @@ Three changing guest cask ales on handpull and gravity, with local micros regula
 
 See [how cider is classified](../real-cider.md).
 
+## Published opening hours
+
+**Ordinary published bar hours**, UK local time (Europe/London). These are **not confirmed November 2026 session hours**. Closing times after midnight are marked (+1 day).
+
+| Day | Bar |
+| --- | --- |
+| Monday | Closed |
+| Tuesday | Closed |
+| Wednesday | 17:00–21:00 |
+| Thursday | 17:00–21:00 |
+| Friday | 17:00–21:00 |
+| Saturday | 15:00–21:00 |
+| Sunday | 14:00–18:00 |
+
+**Hours source:** [CAMRA / local branch](https://camra.org.uk/pubs/grocers-cadishead-170709) (checked 2026-10-28). Specific kitchen hours were not sufficiently established; see [food notes](#food). Ordinary opening, last orders and holiday/event hours may differ.
+
 ## Food
 
 No regular meal service established; arrange food separately.
