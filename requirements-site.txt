@@ -1,0 +1,2 @@
+# Pin the site generator for reproducible CI builds. Update deliberately.
+zensical==0.0.73
