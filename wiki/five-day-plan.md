@@ -63,6 +63,8 @@ All times approximate, assuming an ordinary Manchester–Stockport train, no eng
 
 **Marble-if-missed option:** Start at Marble Arch **12:00–12:50**, travel to Stockport for **approximately 14:00–14:30**, then **Arden for the room and ale (not a guaranteed lunch)** → Swan → Petersgate → Magnet (from 16:00). Do not cram in Runaway. **Excursion alternatives:** replace Stockport with **Oldham/Fox & Pine** (ten casks plus real cider/perry), **Stalybridge Buffet Bar**, or **Rochdale’s Baum + Our Gracie’s**. Chester is a bigger out-of-the-way alternative for **That Beer Place**, not a stop to add after Stockport. See [excursions](excursions.md).
 
+**Roscoe Head update (September 2026):** CAMRA reports a [sale listing following the licensee's retirement decision](https://wb.camra.org.uk/2026/09/15/camra-pub-heritage-group-update-september-3). This is **not an announced closure**, but makes a **fresh opening check for Friday 13 November especially important**. The [Liverpool stories guide](stories-liverpool.md) explains its remarkable Good Beer Guide history.
+
 ## Thursday 12 November — arrive Liverpool, discover Dale Street
 
 **Travel in the morning** from Manchester to Liverpool Lime Street, aiming to arrive before midday, then store bags at the Liverpool hotel or a prearranged locker. Do not guess which Manchester station your specific train leaves from. This evening is one of the festival opportunities.

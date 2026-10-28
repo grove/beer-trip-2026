@@ -57,6 +57,14 @@ Manchester, Liverpool and the remarkable places in between — researched for th
 
 </div>
 
+## Stories worth a second look
+
+The best pubs can tell a story before the first sip: a sloping tiled floor, a locomotive instead of a lion, a brewery cat whose recipe dates to 1899, or a former jail cell.
+
+**[Discover Manchester's pub stories](../wiki/stories-manchester.md)** · **[Explore Stockport and the excursions](../wiki/stories-stockport-and-excursions.md)** · **[Read Liverpool's surprising pub history](../wiki/stories-liverpool.md)**
+
+Looking for the actual pint? **[What to drink: cask and cider field guide](../wiki/what-to-drink.md)** has named beer leads, a cider/perry tasting primer and questions to ask about real ale.
+
 ## Choose a direction
 
 <div class="grid cards" markdown>
