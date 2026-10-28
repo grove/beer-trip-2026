@@ -96,13 +96,18 @@
 .venue-finder { margin: 1.7rem 0 2.5rem; }
 .venue-finder__controls {
   display: grid;
-  grid-template-columns: minmax(230px, 2fr) repeat(3, minmax(140px, 1fr));
+  grid-template-columns: minmax(220px, 2fr) repeat(3, minmax(135px, 1fr));
   gap: .8rem;
   padding: 1.1rem;
   background: var(--beer-card);
   border: 1px solid var(--beer-outline);
   border-radius: 18px;
 }
+.venue-finder__controls .venue-finder__only-open { display: flex; flex-direction: row; align-items: center; gap: .5rem; }
+.venue-finder__only-open input { width: 1rem; height: 1rem; accent-color: var(--md-accent-fg-color); }
+.venue-finder__only-open input:disabled { opacity: .5; }
+.md-typeset .venue-card__hours { margin: 0; color: var(--beer-ink); font-weight: 700; font-size: .72rem; }
+.md-typeset .venue-card__kitchen { margin: 0; color: var(--beer-muted); font-size: .7rem; }
 .venue-finder__controls label { display: flex; flex-direction: column; gap: .4rem; font-size: .72rem; font-weight: 730; color: var(--beer-ink); }
 .venue-finder__controls input,
 .venue-finder__controls select {
