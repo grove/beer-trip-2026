@@ -39,6 +39,10 @@ class MapExportTests(unittest.TestCase):
         self.assertEqual([row["ID"] for row in rows], self.ranking[:20])
         self.assertIn("check product and stock", rows[0]["Real cider evidence"])
         self.assertEqual(len(HEADERS), len(rows[0]))
+        self.assertIn("Monday bar", rows[0])
+        self.assertIn("Hours source", rows[0])
+        self.assertIn("Closed", [row["Tuesday bar"] for row in rows])
+        self.assertTrue(all(row["Hours source"].startswith("https://") for row in rows))
         self.assertNotIn("Latitude", HEADERS)
         self.assertNotIn("Longitude", HEADERS)
 
