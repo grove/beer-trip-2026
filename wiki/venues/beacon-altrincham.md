@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent cask and craft pub |
 | Address | 18 Shaws Road, Altrincham, WA14 1QU · [Map search](https://www.google.com/maps/search/?api=1&query=Beacon%2C%2018%20Shaws%20Road%2C%20Altrincham%2C%20WA14%201QU) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Beacon%20Altrincham&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

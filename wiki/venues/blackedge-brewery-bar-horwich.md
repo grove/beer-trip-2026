@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Brewery tap above production space |
 | Address | Moreton Mill, Hampson Street, Horwich, BL6 7JH · [Map search](https://www.google.com/maps/search/?api=1&query=Blackedge%20Brewery%20Bar%2C%20Moreton%20Mill%2C%20Hampson%20Street%2C%20Horwich%2C%20BL6%207JH) |
+| Untappd | [Venue page](https://untappd.com/v/the-brewery-bar/3770754) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

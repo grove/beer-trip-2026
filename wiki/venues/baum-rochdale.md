@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Traditional ale pub with food |
 | Address | 33–37 Toad Lane, Rochdale, OL12 0NU · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Baum%2C%2033%E2%80%9337%20Toad%20Lane%2C%20Rochdale%2C%20OL12%200NU) |
+| Untappd | [Venue page](https://untappd.com/v/the-baum/100940) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
