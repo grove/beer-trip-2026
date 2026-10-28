@@ -21,6 +21,7 @@ REGIONS = {
 FEATURED = {
     "Plan the trip": [
         ("Trip overview", "overview.md"),
+        ("Published opening hours", "wiki/opening-hours.md"),
         ("Interactive venue map", "map.md"),
         ("Curated shortlists", "wiki/shortlists.md"),
         ("Five-day itinerary", "wiki/five-day-plan.md"),
