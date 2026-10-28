@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Working-brewery taproom |
 | Address | 9–11 Astley Street, Stockport, SK4 1AW · [Map search](https://www.google.com/maps/search/?api=1&query=Runaway%20Brewery%20Tap%2C%209%E2%80%9311%20Astley%20Street%2C%20Stockport%2C%20SK4%201AW) |
+| Untappd | [Venue page](https://untappd.com/v/runaway-taproom/11704032) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

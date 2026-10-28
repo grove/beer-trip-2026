@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Farm brewery taproom overlooking reservoir |
 | Address | Home Farm, Horrobin Lane, Rivington, Lancashire, PR6 9HE · [Map search](https://www.google.com/maps/search/?api=1&query=Rivington%20Brewing%20Co.%20Taproom%2C%20Home%20Farm%2C%20Horrobin%20Lane%2C%20Rivington%2C%20Lancashire%2C%20PR6%209HE) |
+| Untappd | [Venue page](https://untappd.com/v/rivington-brew-co/9602969) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

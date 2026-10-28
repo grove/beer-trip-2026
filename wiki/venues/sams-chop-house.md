@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional chop-house pub and restaurant |
 | Address | Chapel Walks, off Cross Street, Manchester, M2 1HN · [Map search](https://www.google.com/maps/search/?api=1&query=Sam%E2%80%99s%20Chop%20House%2C%20Chapel%20Walks%2C%20off%20Cross%20Street%2C%20Manchester%2C%20M2%201HN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Sam%27s%20Chop%20House%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

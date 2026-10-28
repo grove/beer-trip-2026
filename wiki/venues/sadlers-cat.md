@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Cloudwater contemporary community pub |
 | Address | Sadler’s Yard, Hanover Street, NOMA, Manchester · [Map search](https://www.google.com/maps/search/?api=1&query=Sadler%E2%80%99s%20Cat%2C%20Sadler%E2%80%99s%20Yard%2C%20Hanover%20Street%2C%20NOMA%2C%20Manchester) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Sadler%27s%20Cat%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

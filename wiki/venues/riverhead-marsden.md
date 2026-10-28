@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Riverside brewpub |
 | Address | 2 Peel Street, Marsden, HD7 6BR · [Map search](https://www.google.com/maps/search/?api=1&query=Riverhead%20Brewery%20Tap%2C%202%20Peel%20Street%2C%20Marsden%2C%20HD7%206BR) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Riverhead%20Brewery%20Tap%20Marsden&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

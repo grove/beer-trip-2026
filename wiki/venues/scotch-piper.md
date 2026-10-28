@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Thatched historic country inn |
 | Address | Southport Road, Lydiate L31 4HD · [Map search](https://www.google.com/maps/search/?api=1&query=Scotch%20Piper%2C%20Southport%20Road%2C%20Lydiate%20L31%204HD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Scotch%20Piper%20Lydiate&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

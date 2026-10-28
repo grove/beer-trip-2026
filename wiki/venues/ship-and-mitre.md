@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Independent beer pub |
 | Address | 133 Dale Street, Liverpool L2 2JH · [Map search](https://www.google.com/maps/search/?api=1&query=Ship%20%26%20Mitre%2C%20133%20Dale%20Street%2C%20Liverpool%20L2%202JH) |
+| Untappd | [Venue page](https://untappd.com/v/the-ship-mitre/51433) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

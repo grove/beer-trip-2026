@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional rock pub |
 | Address | 2 Wakefield Street, Manchester, M1 5NE · [Map search](https://www.google.com/maps/search/?api=1&query=Salisbury%20Ale%20House%2C%202%20Wakefield%20Street%2C%20Manchester%2C%20M1%205NE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Salisbury%20Ale%20House%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | Traditional Samuel Smith pub |
 | Address | 2 Cathedral Gates, Manchester, M3 1SW · [Map search](https://www.google.com/maps/search/?api=1&query=Sinclair%E2%80%99s%20Oyster%20Bar%2C%202%20Cathedral%20Gates%2C%20Manchester%2C%20M3%201SW) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Sinclair%27s%20Oyster%20Bar%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

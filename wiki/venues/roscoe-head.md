@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Traditional free house |
 | Address | 24 Roscoe Street, Liverpool L1 2SX · [Map search](https://www.google.com/maps/search/?api=1&query=Roscoe%20Head%2C%2024%20Roscoe%20Street%2C%20Liverpool%20L1%202SX) |
+| Untappd | [Venue page](https://untappd.com/v/the-roscoe-head/134406) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
