@@ -68,6 +68,7 @@ Python **3.9+** and no third-party packages:
 ```bash
 python3 scripts/build_wiki.py
 python3 scripts/build_rankings.py
+python3 scripts/export_maps.py
 python3 scripts/build_wiki.py --check
 python3 scripts/build_rankings.py --check
 python3 scripts/validate_wiki.py
