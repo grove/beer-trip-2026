@@ -408,6 +408,7 @@
           return;
         }
         L = libraryResult.value;
+        mapNode.replaceChildren(); // Remove the loading placeholder before Leaflet attaches its panes.
         map = L.map(mapNode, { scrollWheelZoom: false }).setView([53.44, -2.56], 9);
         L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
           maxZoom: 19,
