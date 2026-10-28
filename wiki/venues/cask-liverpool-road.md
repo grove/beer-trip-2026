@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Specialist beer bar |
 | Address | 29 Liverpool Road, Manchester, M3 4NQ · [Map search](https://www.google.com/maps/search/?api=1&query=Cask%20%E2%80%94%20Liverpool%20Road%2C%2029%20Liverpool%20Road%2C%20Manchester%2C%20M3%204NQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Cask%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

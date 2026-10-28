@@ -20,6 +20,7 @@ evidence_level: "primary"
 | Priority | High |
 | Type | Indian food and beer hall |
 | Address | 17–19 Bold Street, Liverpool L1 4DN · [Map search](https://www.google.com/maps/search/?api=1&query=Bundobust%20Liverpool%2C%2017%E2%80%9319%20Bold%20Street%2C%20Liverpool%20L1%204DN) |
+| Untappd | [Venue page](https://untappd.com/v/bundobust-liverpool/8993288) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

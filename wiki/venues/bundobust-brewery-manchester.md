@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Working brewery and Indian vegetarian beer hall |
 | Address | St James Building, 61–69 Oxford Street, Manchester, M1 6EQ · [Map search](https://www.google.com/maps/search/?api=1&query=Bundobust%20Brewery%2C%20St%20James%20Building%2C%2061%E2%80%9369%20Oxford%20Street%2C%20Manchester%2C%20M1%206EQ) |
+| Untappd | [Venue page](https://untappd.com/v/bundobust-manchester-oxford-road/10873942) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Specialist beer café |
 | Address | Brown Street entrance, Manchester, M2 1DA · [Map search](https://www.google.com/maps/search/?api=1&query=Cafe%20Beermoth%2C%20Brown%20Street%20entrance%2C%20Manchester%2C%20M2%201DA) |
+| Untappd | [Venue page](https://untappd.com/v/cafe-beermoth/4012274) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

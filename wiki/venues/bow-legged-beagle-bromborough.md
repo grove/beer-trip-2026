@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Independent cask micropub |
 | Address | 11 Allport Lane, Bromborough, CH62 7HH · [Map search](https://www.google.com/maps/search/?api=1&query=Bow-Legged%20Beagle%20%E2%80%94%20Bromborough%2C%2011%20Allport%20Lane%2C%20Bromborough%2C%20CH62%207HH) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Bow-Legged%20Beagle%20Bromborough&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

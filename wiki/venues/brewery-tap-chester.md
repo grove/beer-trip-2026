@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Brewery pub in historic great hall |
 | Address | 52–54 Lower Bridge Street, Chester, CH1 1RU · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Brewery%20Tap%2C%2052%E2%80%9354%20Lower%20Bridge%20Street%2C%20Chester%2C%20CH1%201RU) |
+| Untappd | [Venue page](https://untappd.com/v/the-brewery-tap/17063) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

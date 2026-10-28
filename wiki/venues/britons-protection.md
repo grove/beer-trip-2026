@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Historic multi-room pub |
 | Address | 50 Great Bridgewater Street, Manchester, M1 5LE · [Map search](https://www.google.com/maps/search/?api=1&query=Britons%20Protection%2C%2050%20Great%20Bridgewater%20Street%2C%20Manchester%2C%20M1%205LE) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Britons%20Protection%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
