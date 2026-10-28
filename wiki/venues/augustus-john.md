@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | University-owned public house |
 | Address | Peach Street / University Square, Liverpool L3 5TX · [Map search](https://www.google.com/maps/search/?api=1&query=Augustus%20John%2C%20Peach%20Street%20%2F%20University%20Square%2C%20Liverpool%20L3%205TX) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Augustus%20John%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

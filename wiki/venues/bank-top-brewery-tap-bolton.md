@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional brewery tap pub |
 | Address | 68–70 Belmont Road, Astley Bridge, Bolton, BL1 7AN · [Map search](https://www.google.com/maps/search/?api=1&query=Bank%20Top%20Brewery%20Tap%2C%2068%E2%80%9370%20Belmont%20Road%2C%20Astley%20Bridge%2C%20Bolton%2C%20BL1%207AN) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Bank%20Top%20Brewery%20Tap%20Bolton&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

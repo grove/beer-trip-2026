@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional brewery ale house |
 | Address | 36 Church Street, Horwich, BL6 6AD · [Map search](https://www.google.com/maps/search/?api=1&query=Bank%20Top%20Brewery%20Ale%20House%2C%2036%20Church%20Street%2C%20Horwich%2C%20BL6%206AD) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Bank%20Top%20Brewery%20Ale%20House%20Horwich&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

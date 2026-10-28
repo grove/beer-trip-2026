@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Wild-beer and cider brewery taproom |
 | Address | Unit 10, Sheffield Street, Manchester, M1 2ND · [Map search](https://www.google.com/maps/search/?api=1&query=Balance%20Brewing%20%26%20Blending%2C%20Unit%2010%2C%20Sheffield%20Street%2C%20Manchester%2C%20M1%202ND) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Balance%20Brewing%20%26%20Blending%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

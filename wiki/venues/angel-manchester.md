@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Traditional freehouse |
 | Address | 6 Angel Street, Manchester, M4 4BQ · [Map search](https://www.google.com/maps/search/?api=1&query=Angel%2C%206%20Angel%20Street%2C%20Manchester%2C%20M4%204BQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Angel%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
