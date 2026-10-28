@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Grand historic pub |
 | Address | 36 Hope Street, Liverpool L1 9BX · [Map search](https://www.google.com/maps/search/?api=1&query=Philharmonic%20Dining%20Rooms%2C%2036%20Hope%20Street%2C%20Liverpool%20L1%209BX) |
+| Untappd | [Venue page](https://untappd.com/v/the-philharmonic-dining-rooms/123438) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | Specialist |
 | Type | New railway-arch cask and craft beer bar |
 | Address | Arch 7, Sheffield Street, Manchester, M1 2ND · [Map search](https://www.google.com/maps/search/?api=1&query=Pigeon%20Beer%20Wanderer%2C%20Arch%207%2C%20Sheffield%20Street%2C%20Manchester%2C%20M1%202ND) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Pigeon%20Beer%20Wanderer%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

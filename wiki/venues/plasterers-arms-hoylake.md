@@ -20,6 +20,7 @@ evidence_level: "specialist"
 | Priority | High |
 | Type | Traditional two-room local |
 | Address | 35 Back Seaview, Hoylake CH47 2DJ · [Map search](https://www.google.com/maps/search/?api=1&query=Plasterers%20Arms%2C%2035%20Back%20Seaview%2C%20Hoylake%20CH47%202DJ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Plasterers%20Arms%20Hoylake&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

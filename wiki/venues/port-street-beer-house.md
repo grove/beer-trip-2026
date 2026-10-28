@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Essential |
 | Type | Specialist beer house |
 | Address | 39–41 Port Street, Manchester, M1 2EQ · [Map search](https://www.google.com/maps/search/?api=1&query=Port%20Street%20Beer%20House%2C%2039%E2%80%9341%20Port%20Street%2C%20Manchester%2C%20M1%202EQ) |
+| Untappd | [Venue page](https://untappd.com/v/port-street-beer-house/18005) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

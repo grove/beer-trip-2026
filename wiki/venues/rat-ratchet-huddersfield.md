@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | Specialist |
 | Type | Brewpub and traditional ale house |
 | Address | 40 Chapel Hill, Huddersfield, HD1 3EB · [Map search](https://www.google.com/maps/search/?api=1&query=Rat%20%26%20Ratchet%2C%2040%20Chapel%20Hill%2C%20Huddersfield%2C%20HD1%203EB) |
+| Untappd | [Venue page](https://untappd.com/v/the-rat-and-ratchet/99401) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 

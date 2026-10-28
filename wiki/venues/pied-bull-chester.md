@@ -20,6 +20,7 @@ evidence_level: "primary-and-specialist"
 | Priority | High |
 | Type | Historic inn with cellar microbrewery |
 | Address | 53–57 Northgate Street, Chester, CH1 2HQ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Pied%20Bull%2C%2053%E2%80%9357%20Northgate%20Street%2C%20Chester%2C%20CH1%202HQ) |
+| Untappd | [Search for venue](https://untappd.com/search?q=Pied%20Bull%20Chester&type=venues) — match not confirmed; check the address before trusting check-ins |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
