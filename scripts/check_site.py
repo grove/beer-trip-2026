@@ -2,6 +2,7 @@
 """Smoke-check the published output, including every data-driven venue page."""
 
 import json
+from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -26,4 +27,22 @@ missing += [f"wiki/venues/{venue['id']}/index.html" for venue in venues
             if not (output / "wiki/venues" / venue["id"] / "index.html").is_file()]
 if missing:
     raise SystemExit("Missing site files:\n" + "\n".join(missing))
+
+class Scripts(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.sources = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "script":
+            self.sources.append(dict(attrs).get("src", ""))
+
+for page, consumer in (("map/index.html", "pub-map.js"),
+                       ("explore/index.html", "venue-finder.js")):
+    parser = Scripts()
+    parser.feed((output / page).read_text(encoding="utf-8"))
+    sources = [src.rsplit("/", 1)[-1] for src in parser.sources]
+    if "venue-hours.js" not in sources or consumer not in sources or \
+            sources.index("venue-hours.js") > sources.index(consumer):
+        raise SystemExit(f"{page}: venue-hours.js must load before {consumer}")
 print(f"OK: site includes search UI, full data and all {len(venues)} venue pages")
