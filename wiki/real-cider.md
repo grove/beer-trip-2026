@@ -1,6 +1,6 @@
 # Real cider and perry: plan for the product
 
-[Home](../README.md) · [Ranking](rankings.md) · [Shortlists](shortlists.md) · [Complete catalogue](catalogue.md)
+[Home](../README.md) · [Ranking](rankings.md) · [Shortlists](shortlists.md) · [Complete catalogue](catalogue.md) · **[Cider and cask tasting field guide](what-to-drink.md)**
 
 Real cider deserves its own route decisions on this trip. Manchester and Liverpool offer good leads, but **Petersgate Tap in Stockport and That Beer Place in Chester are particularly strong reasons to consider an excursion**. Their specialist records describe substantial real-cider/perry selections alongside beer. [Petersgate evidence](https://camra.org.uk/pubs/petersgate-tap-stockport-167121) · [That Beer Place evidence](https://camra.org.uk/pubs/that-beer-place-chester-136994).
 
