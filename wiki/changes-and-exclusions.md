@@ -21,6 +21,7 @@
 | Venue | What the current wiki preserves |
 | --- | --- |
 | [Britons Protection](venues/britons-protection.md) | Current official and 2026 CAMRA evidence support operation, despite older threat/closure reporting. Check ordinary November service directly. |
+| [Roscoe Head](venues/roscoe-head.md) | **Important newer development:** September 2026 CAMRA reports the **pub is for sale due to licensee Carol Ross's retirement** (her family purchased the freehold in 2020). **A sale is not closure evidence**. Keep this top-rated pub in the Friday plan, but recheck trading and operation shortly before **13 November**. [CAMRA heritage news, 15 Sep 2026](https://wb.camra.org.uk/2026/09/15/camra-pub-heritage-group-update-september-3). |
 | [Crown Inn, Stockport](venues/crown-inn-stockport.md) | Reopened under the Petersgate Tap team in August 2025; the 2026 record supports its return to consideration. |
 | [The Vines](venues/vines.md) | Cask returned after its 2023 refurbishment. Older "no real ale" descriptions should not overwrite the newer evidence. |
 | [Ye Cracke](venues/ye-cracke.md) | The current CAMRA listing supports inclusion after the closure described in older 2025 reporting. Reconfirm before a dedicated detour. |
