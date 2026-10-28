@@ -6,7 +6,7 @@
 
 Added a source-linked [all-venue beer and cider guide](drinks-by-venue.md) with the existing independent beer/cider evidence on each of the 158 records, supplementing that with **56 specific beer/producer research leads** and **11 additional cider/perry leads**. The named examples distinguish operator/CAMRA regulars, rotating suppliers, seasonal exceptions and recently spotted beers; the guide gives a shorter version for the travel-feasible 9–13 November route. Research uses dated CAMRA/branch listings, existing operator sources and a clearly identified changing public menu snapshot.
 
-Retained the canonical venue status, cider evidence classifications and the independent opening-hours dataset. A named beer or cider producer is not a November stock guarantee, and the particular cider product still needs qualification against current CAMRA rules. No venues were contacted and no bookings or purchases were made.
+Also updated **49 canonical venue records** and their **49 generated venue profiles**: 48 gained named beer/brewery detail, eight gained specific cider/perry context (one cider-only update). This promotes the strongest research from the comparison guide into the individual venue pages while preserving the four cider evidence classifications, venue rankings, source list and independent opening-hours dataset. A named beer or cider producer is not a November stock guarantee, and the particular cider product still needs qualification against current CAMRA rules. No venues were contacted and no bookings or purchases were made.
 
 
 ## 2026-10-28 — published opening hours for all 158 venues
