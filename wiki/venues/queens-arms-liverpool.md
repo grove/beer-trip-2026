@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Grand banking-hall conversion |
 | Address | 11–13 Victoria Street, Liverpool L2 5QQ · [Map search](https://www.google.com/maps/search/?api=1&query=Queen%E2%80%99s%20Arms%2C%2011%E2%80%9313%20Victoria%20Street%2C%20Liverpool%20L2%205QQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Queen%27s%20Arms%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/queens-arms-liverpool-199909) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A fresh reason to revisit Liverpool for experienced pub travellers. This March 2
 ## Beer
 
 Operator advertises ten rotating cask ales from local suppliers; CAMRA lists regular and changing cask beers. Actual live range will vary. CAMRA lists Timothy Taylor Landlord and JW Lees Boddingtons Bitter as regulars, with Neptune Abyss stout a recent changing guest.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/queens-arms-liverpool-199909) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

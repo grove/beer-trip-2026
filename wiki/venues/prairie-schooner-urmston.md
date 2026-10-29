@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Independent beer and cider bar |
 | Address | 33 Flixton Road, Urmston, M41 5AW · [Map search](https://www.google.com/maps/search/?api=1&query=Prairie%20Schooner%20Taphouse%2C%2033%20Flixton%20Road%2C%20Urmston%2C%20M41%205AW) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Prairie%20Schooner%20Taphouse%20Urmston&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/prairie-schooner-taphouse-urmston-129838) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A substantial reason to consider Urmston rather than another undirected suburban
 ## Beer
 
 Four rotating handpulled ales, with independent Manchester breweries prominent, alongside eight craft taps and take-home bottles/cans.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/prairie-schooner-taphouse-urmston-129838) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

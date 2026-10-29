@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic railway pub |
 | Address | 120 Green Lane, Patricroft, Eccles, M30 0SH · [Map search](https://www.google.com/maps/search/?api=1&query=Queens%20Arms%20%E2%80%94%20Patricroft%2C%20120%20Green%20Lane%2C%20Patricroft%2C%20Eccles%2C%20M30%200SH) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Queens%20Arms%20Eccles&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/queens-arms-patricroft-170948) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A specialist heritage option for travellers fascinated by the Manchester–Liver
 ## Beer
 
 No cask ale according to the current CAMRA entry. Do not treat old ale-guide recommendations as evidence of a present cask offering.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/queens-arms-patricroft-170948) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

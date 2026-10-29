@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Riverside brewpub |
 | Address | 2 Peel Street, Marsden, HD7 6BR · [Map search](https://www.google.com/maps/search/?api=1&query=Riverhead%20Brewery%20Tap%2C%202%20Peel%20Street%2C%20Marsden%2C%20HD7%206BR) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Riverhead%20Brewery%20Tap%20Marsden&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/riverhead-brewery-tap-marsden-178796) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ An attractive Pennine village brewpub where the beer’s place of production is 
 ## Beer
 
 Riverhead ales brewed onsite, Ossett beers and guests; CAMRA reports a broad cask selection with dark beer usually represented.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/riverhead-brewery-tap-marsden-178796) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Riverhead; Ossett.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
