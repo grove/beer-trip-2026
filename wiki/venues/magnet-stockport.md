@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Independent multi-room ale pub |
 | Address | 51 Wellington Road North, Stockport, SK4 1HJ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Magnet%20Freehouse%2C%2051%20Wellington%20Road%20North%2C%20Stockport%2C%20SK4%201HJ) |
 | Untappd | [Venue page](https://untappd.com/v/the-magnet/10834) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/magnet-stockport-167490) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ One of the strongest reasons to leave central Manchester for Stockport. The Magn
 ## Beer
 
 The pub advertises fourteen cask lines plus changing keg and international bottles; numbers describe capacity/normal offering, not a guarantee of availability. CAMRA names Salopian Oracle as a regular cask and RedWillow and Track among changing suppliers; a recent sighting included Bathams Best Bitter.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/magnet-stockport-167490) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Salopian — Oracle.
+
+**Recently seen or reported (not regulars):** Bathams — Best Bitter; Allendale — Black Grouse.
+
+**Named changing/house breweries:** RedWillow; Track.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

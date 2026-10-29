@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Beer pub and tapas bar |
 | Address | 26 Richmond Street, Manchester, M1 3NB · [Map search](https://www.google.com/maps/search/?api=1&query=Molly%20House%2C%2026%20Richmond%20Street%2C%20Manchester%2C%20M1%203NB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Molly%20House%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/molly-house-manchester-137611) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ An excellent choice when the group wants good beer and a meal together rather th
 ## Beer
 
 Four handpumps are documented, not necessarily all in use, with local beer and varied craft styles.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/molly-house-manchester-137611) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Coley’s Brewery — Coley’s Stout.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

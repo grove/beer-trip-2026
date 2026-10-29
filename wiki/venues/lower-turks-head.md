@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional Joseph Holt pub |
 | Address | 36 Shudehill, Manchester, M4 1EZ · [Map search](https://www.google.com/maps/search/?api=1&query=Lower%20Turks%20Head%2C%2036%20Shudehill%2C%20Manchester%2C%20M4%201EZ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Lower%20Turks%20Head%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/lower-turks-head-manchester-137359) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A convenient and characterful place to explore Joseph Holt’s beer in the centr
 ## Beer
 
 CAMRA lists a range of Joseph Holt cask, including Bitter, IPA and Two Hoots, with availability changing.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/lower-turks-head-manchester-137359) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Joseph Holt — Bitter; Joseph Holt — IPA; Joseph Holt — Two Hoots.
+
+**Named changing/house breweries:** Joseph Holt.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

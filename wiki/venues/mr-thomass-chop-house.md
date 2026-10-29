@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic chop-house pub |
 | Address | 52 Cross Street, Manchester, M2 7AR · [Map search](https://www.google.com/maps/search/?api=1&query=Mr%20Thomas%E2%80%99s%20Chop%20House%2C%2052%20Cross%20Street%2C%20Manchester%2C%20M2%207AR) |
 | Untappd | [Venue page](https://untappd.com/v/mr-thomass-chop-house/47022) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/mr-thomass-chop-house-manchester-137704) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ One of the best choices for combining a spectacular pub interior with a proper m
 ## Beer
 
 CAMRA reports cask handpumps in the front and main rooms, with four of six in use at survey; regional and established British beers feature. CAMRA lists Timothy Taylor Landlord and Boltmaker as regulars; JW Lees Boddingtons Bitter is a recently reported guest, not a November promise.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/mr-thomass-chop-house-manchester-137704) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Timothy Taylor — Boltmaker; Timothy Taylor — Landlord.
+
+**Recently seen or reported (not regulars):** JW Lees — Boddingtons Bitter; Timothy Taylor — Golden Best.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

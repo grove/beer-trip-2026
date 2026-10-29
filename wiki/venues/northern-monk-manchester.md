@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery beer bar |
 | Address | 10 Tariff Street, Manchester, M1 2FF · [Map search](https://www.google.com/maps/search/?api=1&query=Northern%20Monk%20Refectory%20Manchester%2C%2010%20Tariff%20Street%2C%20Manchester%2C%20M1%202FF) |
 | Untappd | [Venue page](https://untappd.com/v/northern-monk-refectory-mcr/8238071) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/northern-monk-refectory-manchester-137352) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A useful specialist addition when you want Northern Monk’s cask as well as its
 ## Beer
 
 Official page advertises four cask lines and twenty keg lines; CAMRA describes Northern Monk cask plus guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/northern-monk-refectory-manchester-137352) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Thornbridge — Market Porter; Wakey Wakey — Slumber.
+
+**Named changing/house breweries:** Northern Monk.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

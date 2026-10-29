@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery-operated beerhouse |
 | Address | 23–25 Liverpool Road North, Maghull L31 2HB · [Map search](https://www.google.com/maps/search/?api=1&query=Neptune%20Beerhouse%2C%2023%E2%80%9325%20Liverpool%20Road%20North%2C%20Maghull%20L31%202HB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Neptune%20Beerhouse%20Maghull&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/neptune-beerhouse-liverpool-196857) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A worthwhile targeted visit for Neptune’s own beers in a comfortable community
 ## Beer
 
 Operator advertises four cask and eight keg taps, principally Neptune beers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/neptune-beerhouse-liverpool-196857) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Neptune.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
