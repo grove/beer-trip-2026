@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Grand Edwardian show pub |
 | Address | 81 Lime Street, Liverpool L1 1JQ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Vines%20%E2%80%94%20The%20Big%20House%2C%2081%20Lime%20Street%2C%20Liverpool%20L1%201JQ) |
 | Untappd | [Venue page](https://untappd.com/v/the-vines-the-big-house/2036534) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/vines-liverpool-165623) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ An essential companion to the Philharmonic, with lavish carved wood, copper, ela
 ## Beer
 
 CAMRA documents cask reintroduction after the 2023 refurbishment and lists bitters, pale ales and porter alongside changing guests. CAMRA lists Ossett Silver King, Titanic Plum Porter, Timothy Taylor Landlord and Theakston Best Bitter as regular cask leads; Beartown and Neptune appear among changing suppliers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/vines-liverpool-165623) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Ossett — Silver King; Titanic — Plum Porter; Timothy Taylor — Landlord; Theakston — Best Bitter.
+
+**Named changing/house breweries:** Beartown; Neptune.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

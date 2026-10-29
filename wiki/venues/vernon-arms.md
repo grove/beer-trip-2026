@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional independent free house |
 | Address | 69 Dale Street, Liverpool L2 2HJ · [Map search](https://www.google.com/maps/search/?api=1&query=Vernon%20Arms%2C%2069%20Dale%20Street%2C%20Liverpool%20L2%202HJ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Vernon%20Arms%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/vernon-arms-liverpool-165852) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A particularly useful choice for the feel of a working city-centre local alongsi
 ## Beer
 
 CAMRA records regular and changing cask, with regional brewers from north-west England and Wales represented. CAMRA lists Brains Rev James Original and Ossett White Rat as regular cask leads, with Brimstage and Coach House among changing breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/vernon-arms-liverpool-165852) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Brains — Rev James Original; Ossett — White Rat.
+
+**Named changing/house breweries:** Brimstage; Coach House.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

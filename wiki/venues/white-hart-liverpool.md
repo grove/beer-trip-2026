@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Townhouse pub conversion |
 | Address | 23 Hope Street, Liverpool L1 9BQ · [Map search](https://www.google.com/maps/search/?api=1&query=White%20Hart%20%2F%20The%20Engineer%2C%2023%20Hope%20Street%2C%20Liverpool%20L1%209BQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=White%20Hart%20%2F%20The%20Engineer%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/white-hart-liverpool-166514) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ A useful contemporary addition to an old-pub itinerary: a historic townhouse arr
 ## Beer
 
 CAMRA lists several regular and changing cask beers, including local brewers among the guests. CAMRA lists Ossett White Rat as a regular cask beer, with Black Lodge and Neptune among the changing guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/white-hart-liverpool-166514) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Ossett — White Rat.
+
+**Recently seen or reported (not regulars):** Timothy Taylor — Landlord Dark.
+
+**Named changing/house breweries:** Black Lodge; Neptune.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

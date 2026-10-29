@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional free house |
 | Address | 96 Waters Green, Macclesfield, SK11 6LH · [Map search](https://www.google.com/maps/search/?api=1&query=Waters%20Green%20Tavern%2C%2096%20Waters%20Green%2C%20Macclesfield%2C%20SK11%206LH) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Waters%20Green%20Tavern%20Macclesfield&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/waters-green-tavern-macclesfield-173047) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ An excellent starting or finishing point for a Macclesfield beer day because it 
 ## Beer
 
 CAMRA reports up to seven cask beers, generally pale ales from northern breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/waters-green-tavern-macclesfield-173047) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
