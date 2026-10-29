@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | University-owned public house |
 | Address | Peach Street / University Square, Liverpool L3 5TX · [Map search](https://www.google.com/maps/search/?api=1&query=Augustus%20John%2C%20Peach%20Street%20%2F%20University%20Square%2C%20Liverpool%20L3%205TX) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Augustus%20John%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/augustus-john-liverpool-166520) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ For a cider-focused visit, the AJ is more valuable than its plain appearance mig
 ## Beer
 
 Official university page confirms cask on handpull; CAMRA describes changing guest beers, normally including local ale.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/augustus-john-liverpool-166520) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional heritage pub |
 | Address | Park Street, Chester, CH1 1RQ · [Map search](https://www.google.com/maps/search/?api=1&query=Albion%2C%20Park%20Street%2C%20Chester%2C%20CH1%201RQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Albion%20Chester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/albion-chester-137073) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A particularly atmospheric November choice for people who like small traditional
 ## Beer
 
 CAMRA records cask ale; the branch listing names Timothy Taylor Boltmaker as a regular, subject to change.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/albion-chester-137073) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Timothy Taylor — Boltmaker.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Victorian dockside pub |
 | Address | 33A Wapping, Liverpool L1 8DQ · [Map search](https://www.google.com/maps/search/?api=1&query=Baltic%20Fleet%2C%2033A%20Wapping%2C%20Liverpool%20L1%208DQ) |
 | Untappd | [Venue page](https://untappd.com/v/baltic-fleet/87079) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/baltic-fleet-liverpool-165741) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ A highly distinctive dockside building, with its narrow flat-iron shape and naut
 ## Beer
 
 Official site advertises four cask lines, including regular Brimstage Trapper’s Hat and rotating local beers. Current operation is a pub; do not assume on-site brewing. CAMRA has also recently recorded Salopian Darwin’s Origin and Spitting Feathers Thirstquencher among changing beers, separate from the Brimstage regular.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/baltic-fleet-liverpool-165741) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Brimstage — Trapper’s Hat Bitter.
+
+**Recently seen or reported (not regulars):** Keswick — Thirst Quencher; Spitting Feathers — Thirstquencher.
+
+**Named changing/house breweries:** Salopian; Spitting Feathers.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

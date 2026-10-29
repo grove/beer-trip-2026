@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional brewery tap pub |
 | Address | 68–70 Belmont Road, Astley Bridge, Bolton, BL1 7AN · [Map search](https://www.google.com/maps/search/?api=1&query=Bank%20Top%20Brewery%20Tap%2C%2068%E2%80%9370%20Belmont%20Road%2C%20Astley%20Bridge%2C%20Bolton%2C%20BL1%207AN) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Bank%20Top%20Brewery%20Tap%20Bolton&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/bank-top-brewery-tap-bolton-122443) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A purposeful detour for lovers of local cask, especially mild. The pub showcases
 ## Beer
 
 CAMRA documents nine handpumps, mostly Bank Top, with Dark Mild, Flat Cap and Pavilion Pale normally represented plus a guest.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/bank-top-brewery-tap-bolton-122443) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Bank Top — Dark Mild; Bank Top — Flat Cap; Bank Top — Pavilion Pale.
+
+**Named changing/house breweries:** Bank Top.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
