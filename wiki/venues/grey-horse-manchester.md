@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Small traditional brewery pub |
 | Address | 80 Portland Street, Manchester, M1 4QX · [Map search](https://www.google.com/maps/search/?api=1&query=Grey%20Horse%2C%2080%20Portland%20Street%2C%20Manchester%2C%20M1%204QX) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Grey%20Horse%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/grey-horse-manchester-137605) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A compact Hydes pub that earns its place through regional beer and a sociable, s
 ## Beer
 
 Hydes Original and Dark Ruby mild are listed as regular cask beers, with additional Hydes choices.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/grey-horse-manchester-137605) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Hydes — Original; Hydes — Dark Ruby.
+
+**Named changing/house breweries:** Hydes.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional community and dining pub |
 | Address | 1 Massams Lane, Freshfield L37 7BD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Freshfield%2C%201%20Massams%20Lane%2C%20Freshfield%20L37%207BD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Freshfield%20Freshfield&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/freshfield-freshfield-146997) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A useful coastal-line stop for combining cask, a proper, unhurried sit-down meal
 ## Beer
 
 CAMRA records regular and changing cask; check current guests through the listed Real Ale Finder feed.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/freshfield-freshfield-146997) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Greene King — Abbot; Greene King — IPA.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

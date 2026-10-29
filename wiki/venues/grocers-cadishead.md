@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | No-bar micropub with real cider |
 | Address | 152A Liverpool Road, Cadishead, M44 5DD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Grocers%2C%20152A%20Liverpool%20Road%2C%20Cadishead%2C%20M44%205DD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Grocers%20Cadishead&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/grocers-cadishead-170709) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A distinctive traditional-drinking experience: there is no conventional public b
 ## Beer
 
 Three changing guest cask ales on handpull and gravity, with local micros regularly represented.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/grocers-cadishead-170709) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

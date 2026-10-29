@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Family-run micropub |
 | Address | 23 Crosby Road North, Waterloo, Liverpool L22 0LD · [Map search](https://www.google.com/maps/search/?api=1&query=Four%20Ashes%2C%2023%20Crosby%20Road%20North%2C%20Waterloo%2C%20Liverpool%20L22%200LD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Four%20Ashes%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/four-ashes-liverpool-166246) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A particularly good match for travellers who care about what is in the cellar. T
 ## Beer
 
 CAMRA records five changing cask beers, with local and regional breweries and an intended dark-beer option.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/four-ashes-liverpool-166246) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Cask and cider micropub |
 | Address | 70 Sandon Road, Hillside PR8 4QD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Grasshopper%2C%2070%20Sandon%20Road%2C%20Hillside%20PR8%204QD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Grasshopper%20Hillside&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/grasshopper-hillside-147079) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ One of the clearest cider-led excursions from Liverpool. CAMRA’s local branch 
 ## Beer
 
 Branch guide records eight changing real ales; selection is published through Real Ale Finder.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/grasshopper-hillside-147079) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

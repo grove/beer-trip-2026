@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent traditional free house |
 | Address | 20 Chester Street, Birkenhead CH41 5DQ · [Map search](https://www.google.com/maps/search/?api=1&query=Gallaghers%20Traditional%20Pub%2C%2020%20Chester%20Street%2C%20Birkenhead%20CH41%205DQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Gallaghers%20Traditional%20Pub%20Birkenhead&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ The most useful cask anchor for a Birkenhead visit, with military and shipping o
 ## Beer
 
 CAMRA records Brimstage Trapper’s Hat and Ossett White Rat plus changing cask guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Brimstage — Trapper’s Hat Bitter; Ossett — White Rat.
+
+**Recently seen or reported (not regulars):** Salopian — Entire Butt.
+
+**Named changing/house breweries:** Hawkshead; Brimstage.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

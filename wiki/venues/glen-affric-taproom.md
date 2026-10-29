@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Working brewery taproom |
 | Address | 2–5 Lightbox, Knox Street, Birkenhead CH41 5JW · [Map search](https://www.google.com/maps/search/?api=1&query=Glen%20Affric%20Brewery%20Taproom%2C%202%E2%80%935%20Lightbox%2C%20Knox%20Street%2C%20Birkenhead%20CH41%205JW) |
 | Untappd | [Venue page](https://untappd.com/v/glen-affric-taproom/7000093) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A useful specialist addition to Birkenhead when you want an extensive own-brewer
 ## Beer
 
 CAMRA explicitly reports no real ale; the operator advertises a large own-beer tap selection. Treat this as a keg-focused stop.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Glen Affric (keg; CAMRA does not list cask).
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

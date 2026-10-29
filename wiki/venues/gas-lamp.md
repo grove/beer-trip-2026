@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Basement beer bar |
 | Address | 50A Bridge Street, Manchester, M3 3BW · [Map search](https://www.google.com/maps/search/?api=1&query=Gas%20Lamp%2C%2050A%20Bridge%20Street%2C%20Manchester%2C%20M3%203BW) |
 | Untappd | [Venue page](https://untappd.com/v/the-gas-lamp/25126) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/gas-lamp-manchester-137758) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A distinctive tiled basement with a particularly compelling combination of Pomon
 ## Beer
 
 CAMRA documents four changing cask lines, commonly including Pomona Island and other smaller breweries. Pomona Island is a recurring changing-cask supplier here, alongside smaller guest brewers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/gas-lamp-manchester-137758) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Pomona Island.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
