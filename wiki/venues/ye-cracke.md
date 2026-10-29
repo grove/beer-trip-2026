@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic multiroom backstreet pub |
 | Address | 13 Rice Street, Liverpool L1 9BB · [Map search](https://www.google.com/maps/search/?api=1&query=Ye%20Cracke%2C%2013%20Rice%20Street%2C%20Liverpool%20L1%209BB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Ye%20Cracke%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cracke-liverpool-165590) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ An excellent antidote to an over-managed heritage itinerary: a rambling collecti
 ## Beer
 
 CAMRA’s current listing confirms cask ale; inspect the actual selection on arrival. CAMRA’s changing-cask listing names Higsons and Ossett as brewery examples; verify the actual clip on arrival.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cracke-liverpool-165590) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Higsons; Ossett.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
