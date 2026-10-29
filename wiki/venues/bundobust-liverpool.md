@@ -21,6 +21,7 @@ evidence_level: "primary"
 | Type | Indian food and beer hall |
 | Address | 17–19 Bold Street, Liverpool L1 4DN · [Map search](https://www.google.com/maps/search/?api=1&query=Bundobust%20Liverpool%2C%2017%E2%80%9319%20Bold%20Street%2C%20Liverpool%20L1%204DN) |
 | Untappd | [Venue page](https://untappd.com/v/bundobust-liverpool/8993288) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/bundobust-liverpool-166366) — see named beers below |
 | Evidence | primary |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong planned meal stop that still advances the beer trip. The first-floor ha
 ## Beer
 
 Official location page advertises ten keg and two cask lines, with Bundobust Brewery beer, collaborations and guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/bundobust-liverpool-166366) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Black Lodge; Thornbridge; Bundobust.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic multi-room pub |
 | Address | 50 Great Bridgewater Street, Manchester, M1 5LE · [Map search](https://www.google.com/maps/search/?api=1&query=Britons%20Protection%2C%2050%20Great%20Bridgewater%20Street%2C%20Manchester%2C%20M1%205LE) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Britons%20Protection%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/britons-protection-manchester-137669) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A substantial traditional pub experience built around a succession of rooms, a t
 ## Beer
 
 The current official site advertises cask ale. Local CAMRA reports cellar refurbishment in April 2026 and provision for eight casks; actual availability may be lower. The [CAMRA beer listing](https://camra.org.uk/pubs/britons-protection-manchester-137669) recently recorded Theakston Old Peculier, Draught Bass and Beartown Skinful; these are past sightings, not established permanent lines.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/britons-protection-manchester-137669) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Theakston — Old Peculier; Beartown — Skinful; Draught Bass.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

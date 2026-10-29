@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Specialist beer bar |
 | Address | 29 Liverpool Road, Manchester, M3 4NQ · [Map search](https://www.google.com/maps/search/?api=1&query=Cask%20%E2%80%94%20Liverpool%20Road%2C%2029%20Liverpool%20Road%2C%20Manchester%2C%20M3%204NQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Cask%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cask-manchester-137734) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A useful Castlefield stop combining changing cask with a serious continental ran
 ## Beer
 
 Four handpumps with changing local and Yorkshire cask are documented, alongside continental bottles and keg. CAMRA names Mallinsons, Pictish and Rooster’s as typical changing suppliers and recently recorded Abbeydale Deception. None is guaranteed for November.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cask-manchester-137734) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Abbeydale — Deception.
+
+**Named changing/house breweries:** Mallinsons; Pictish; Rooster’s.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

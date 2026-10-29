@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Brewsmith brewery-operated cask bar |
 | Address | 9 Broad Street, Bury, BL9 0DA · [Map search](https://www.google.com/maps/search/?api=1&query=Broad%20Street%20Social%2C%209%20Broad%20Street%2C%20Bury%2C%20BL9%200DA) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Broad%20Street%20Social%20Bury&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/broad-street-social-bury-152888) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A Bury beer destination whose relevance is backed by the local branch's 2026 tow
 ## Beer
 
 Six changing cask ales, usually four Brewsmith and two independent guests, with dark stout among the styles.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/broad-street-social-bury-152888) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Brewsmith.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

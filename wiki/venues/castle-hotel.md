@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic pub and music venue |
 | Address | 66 Oldham Street, Manchester, M4 1LE · [Map search](https://www.google.com/maps/search/?api=1&query=Castle%20Hotel%2C%2066%20Oldham%20Street%2C%20Manchester%2C%20M4%201LE) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Castle%20Hotel%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/castle-hotel-manchester-137416) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ The ceramic bar front makes this a must-see for anyone who enjoys pub architectu
 ## Beer
 
 CAMRA documents Robinsons cask ales with guest handpumps; regular names include Unicorn, Dizzy Blonde and Trooper, without guaranteeing the day’s lineup.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/castle-hotel-manchester-137416) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Robinsons — Dizzy Blonde; Robinsons — Unicorn; Robinsons — Trooper.
+
+**Recently seen or reported (not regulars):** Titanic — Plum Porter.
+
+**Named changing/house breweries:** Robinsons; Titanic.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

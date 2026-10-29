@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Independent cask and craft bar |
 | Address | 19–21 City Road, Chester, CH1 3AE · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Cellar%2C%2019%E2%80%9321%20City%20Road%2C%20Chester%2C%20CH1%203AE) |
 | Untappd | [Venue page](https://untappd.com/v/the-cellar/118414) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cellar-chester-137085) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong beer-focused stop on the station-to-centre approach, offering changing 
 ## Beer
 
 CAMRA’s October 2026 update records six cask handpumps, mainly changing micros, with Landlord as a regular, plus keg/bottles/cans.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cellar-chester-137085) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Timothy Taylor — Landlord.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

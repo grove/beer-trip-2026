@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery pub in historic great hall |
 | Address | 52–54 Lower Bridge Street, Chester, CH1 1RU · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Brewery%20Tap%2C%2052%E2%80%9354%20Lower%20Bridge%20Street%2C%20Chester%2C%20CH1%201RU) |
 | Untappd | [Venue page](https://untappd.com/v/the-brewery-tap/17063) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/brewery-tap-chester-137016) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ One of the best matches for the combined beer, spectacular-room and food brief. 
 ## Beer
 
 Spitting Feathers cask plus changing guest ales; official brewery page also advertises craft keg.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/brewery-tap-chester-137016) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Spitting Feathers — Thirstquencher.
+
+**Recently seen or reported (not regulars):** Spitting Feathers — Session Beer.
+
+**Named changing/house breweries:** Salopian; Thornbridge; Spitting Feathers.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
