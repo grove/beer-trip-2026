@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Eccentric historic local |
 | Address | 2–6 Egerton Street, Liverpool L8 7LY · [Map search](https://www.google.com/maps/search/?api=1&query=Peter%20Kavanagh%E2%80%99s%2C%202%E2%80%936%20Egerton%20Street%2C%20Liverpool%20L8%207LY) |
 | Untappd | [Venue page](https://untappd.com/v/peter-kavanagh-s/315787) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/peter-kavanaghs-liverpool-165622) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The most individual of Liverpool’s historic pubs: a former landlord’s extrao
 ## Beer
 
 CAMRA confirms cask ale; check the current handpumps rather than expecting a fixed brewery line-up. CAMRA currently lists Greene King Abbot and Timothy Taylor Landlord as regular cask beers; the rest of the selection is less predictable.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/peter-kavanaghs-liverpool-165622) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Greene King — Abbot; Timothy Taylor — Landlord.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

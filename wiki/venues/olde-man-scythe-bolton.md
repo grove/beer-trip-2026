@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic timber-framed pub |
 | Address | 6–8 Churchgate, Bolton, BL1 1HL · [Map search](https://www.google.com/maps/search/?api=1&query=Olde%20Man%20%26%20Scythe%2C%206%E2%80%938%20Churchgate%2C%20Bolton%2C%20BL1%201HL) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Olde%20Man%20%26%20Scythe%20Bolton&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/olde-man-scythe-bolton-122503) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A memorable traditional stop for low beams, leaded windows, stone flooring and s
 ## Beer
 
 CAMRA records cask ale, commonly including local Bank Top beer.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/olde-man-scythe-bolton-122503) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

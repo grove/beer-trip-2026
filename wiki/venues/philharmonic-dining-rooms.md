@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Grand historic pub |
 | Address | 36 Hope Street, Liverpool L1 9BX · [Map search](https://www.google.com/maps/search/?api=1&query=Philharmonic%20Dining%20Rooms%2C%2036%20Hope%20Street%2C%20Liverpool%20L1%209BX) |
 | Untappd | [Venue page](https://untappd.com/v/the-philharmonic-dining-rooms/123438) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/philharmonic-dining-rooms-liverpool-165633) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ Liverpool’s great pub spectacle: room after room of carved wood, decorative ce
 ## Beer
 
 CAMRA confirms cask ale. Nicholson’s operates the pub; choose from the actual board rather than expecting a particular guest.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/philharmonic-dining-rooms-liverpool-165633) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** St Austell — Nicholson’s Pale Ale.
+
+**Recently seen or reported (not regulars):** St Austell — Proper Job.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
