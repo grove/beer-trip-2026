@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent neighbourhood cask bar |
 | Address | 102 Rose Lane, Mossley Hill, Liverpool, L18 8AG · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Cat%20%E2%80%94%20Rose%20Lane%2C%20102%20Rose%20Lane%2C%20Mossley%20Hill%2C%20Liverpool%2C%20L18%208AG) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Black%20Cat%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A purposeful south-Liverpool choice supported by inclusion on Liverpool CAMRA's 
 ## Beer
 
 Three rotating cask beers covering modern and traditional styles according to CAMRA's July 2026 update.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

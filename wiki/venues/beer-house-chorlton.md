@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent neighbourhood beer pub |
 | Address | 57 Manchester Road, Chorlton-cum-Hardy, M21 9PW · [Map search](https://www.google.com/maps/search/?api=1&query=Beer%20House%2C%2057%20Manchester%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%209PW) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Beer%20House%20Chorlton-cum-Hardy&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/beer-house-chorlton-cum-hardy-130064) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ The strongest anchor for a Chorlton beer excursion. Formerly the Marble Beer Hou
 ## Beer
 
 Cask from Marble and guests; CAMRA notes a tendency towards pale beers below 5% rather than promising a broad dark-beer range. CAMRA lists Marble Manchester Bitter and Pint as regulars; changing casks have included Abbeydale, Blackjack and RedWillow. This is not a November stock promise.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/beer-house-chorlton-cum-hardy-130064) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Marble — Manchester Bitter; Marble — Pint.
+
+**Recently seen or reported (not regulars):** Vocation — Bread & Butter.
+
+**Named changing/house breweries:** Abbeydale; Blackjack; RedWillow.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

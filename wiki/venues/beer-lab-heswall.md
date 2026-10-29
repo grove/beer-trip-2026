@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Cask and cider micropub |
 | Address | 53 Telegraph Road, Heswall CH60 0AD · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Beer%20Lab%20%E2%80%94%20Heswall%2C%2053%20Telegraph%20Road%2C%20Heswall%20CH60%200AD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Beer%20Lab%20Heswall&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/beer-lab-heswall-132241) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A serious cider option worth separating from the usual pub-interior itinerary. C
 ## Beer
 
 CAMRA records a Beartown-brewed house pale and changing cask; the operator advertises four handpulls and craft taps.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/beer-lab-heswall-132241) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Beartown — Beer Lab Pale Ale.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

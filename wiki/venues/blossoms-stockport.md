@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic Robinsons local |
 | Address | 2 Buxton Road, Heaviley, Stockport, SK2 6NU · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Blossoms%2C%202%20Buxton%20Road%2C%20Heaviley%2C%20Stockport%2C%20SK2%206NU) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Blossoms%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/blossoms-stockport-167301) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ Worth the extra journey south of the centre for an unspoilt arrangement of rooms
 ## Beer
 
 Robinsons cask range; CAMRA lists Old Tom, Unicorn and changing/alternating brewery beers. Treat listed beers as leads to check.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/blossoms-stockport-167301) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Robinsons — Dizzy Blonde; Robinsons — Old Tom; Robinsons — Unicorn.
+
+**Named changing/house breweries:** Robinsons.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
