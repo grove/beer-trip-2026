@@ -1,5 +1,11 @@
 # Research and maintenance log
 
+## 2026-10-29 — non-beer discoveries embedded in the actual walking days
+
+Added a [Beyond the pint](walks-and-discoveries.md) overview and three walking companions: [Tuesday Manchester](walk-manchester.md), [Wednesday Stockport](walk-stockport.md), and [Thursday/Friday Liverpool](walk-liverpool.md). They connect officially sourced architecture, unusual museums, tunnels, history, live music and waterfront views to the existing **named pub anchors**, distinguishing no-detour sights, short pauses, and 60–120-minute experiences that **replace** pubs. Their times are editorial visit budgets, not measured pedestrian routes; entry, prices and opening patterns come from linked official operator and council sources checked 29 October 2026.
+
+Explicit day-of-week traps: John Rylands Library and People's History Museum usually close Tuesday, the elevated Castlefield Viaduct garden is normally closed Tuesday, and Hat Works and Stockport's indoor market normally close Wednesday. Clarified that St George's Hall's full interiors require a dated guided tour, whereas the exterior and visitor centre are a simple stop. Liverpool's Williamson Tunnels have **two different operators and tour-day patterns**, and the Friday-relevant Joseph Williamson Society requires advance telephone booking. No sightseeing tickets purchased; the existing route's four full days, festival alternatives and flight protection remain intact. Linked the new guides from the itinerary, README, wiki index, website home page and generated site navigation. The pub catalogue, rankings, map pins and sources registry are unchanged.
+
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
 ## 2026-10-29 — direct CAMRA venue links and named beer lists
