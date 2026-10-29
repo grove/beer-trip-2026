@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Art Deco heritage ale and cider pub |
 | Address | 1 St John’s Road, Huddersfield, HD1 5AY · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Sportsman%2C%201%20St%20John%E2%80%99s%20Road%2C%20Huddersfield%2C%20HD1%205AY) |
 | Untappd | [Venue page](https://untappd.com/v/the-sportsman/89962) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/sportsman-huddersfield-178836) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ An outstanding combination of pub design, cask beer and cider, but outside the c
 ## Beer
 
 CAMRA documents eight cask ales with local Mallinsons and dark styles regularly represented; beers change. CAMRA lists Timothy Taylor Boltmaker as regular and Mallinsons, Thornbridge and Vocation among the changing breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/sportsman-huddersfield-178836) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Timothy Taylor — Boltmaker.
+
+**Recently seen or reported (not regulars):** Rooster’s — Scoundrel; Rooster’s — YPA; Mallinsons — Mosaic.
+
+**Named changing/house breweries:** Mallinsons; Thornbridge; Vocation.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

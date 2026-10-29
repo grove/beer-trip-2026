@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Independent beer pub |
 | Address | 133 Dale Street, Liverpool L2 2JH · [Map search](https://www.google.com/maps/search/?api=1&query=Ship%20%26%20Mitre%2C%20133%20Dale%20Street%2C%20Liverpool%20L2%202JH) |
 | Untappd | [Venue page](https://untappd.com/v/the-ship-mitre/51433) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/ship-mitre-liverpool-165654) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ The strongest city-centre starting point when breadth of beer and cider matters 
 ## Beer
 
 CAMRA records eight changing cask beers; the pub also maintains a broad continental and bottled selection. CAMRA names Black Lodge and Colbier among changing suppliers, but does not identify a reliable permanent cask-beer line.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/ship-mitre-liverpool-165654) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Weekend Project — Under The Trees.
+
+**Named changing/house breweries:** Black Lodge; Colbier.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

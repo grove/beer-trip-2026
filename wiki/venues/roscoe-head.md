@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Traditional free house |
 | Address | 24 Roscoe Street, Liverpool L1 2SX · [Map search](https://www.google.com/maps/search/?api=1&query=Roscoe%20Head%2C%2024%20Roscoe%20Street%2C%20Liverpool%20L1%202SX) |
 | Untappd | [Venue page](https://untappd.com/v/the-roscoe-head/134406) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/roscoe-head-liverpool-166037) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ An unusually complete match for this trip: a small independent local that takes 
 ## Beer
 
 Six cask ales advertised by the pub; CAMRA records regular bitters and changing guests. CAMRA names Tetley Bitter, Timothy Taylor Landlord and Fyne Ales Jarl as regular cask beers; changing suppliers include Colbier. Reconfirm trading and the selection amid the reported sale.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/roscoe-head-liverpool-166037) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Tetley — Bitter; Timothy Taylor — Landlord; Fyne Ales — Jarl.
+
+**Recently seen or reported (not regulars):** Mallinsons — Porter; Pennine — Amber Necker.
+
+**Named changing/house breweries:** Colbier.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

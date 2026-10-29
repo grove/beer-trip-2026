@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Brewery-run pub |
 | Address | 37 Swan Street, Manchester, M4 5JZ · [Map search](https://www.google.com/maps/search/?api=1&query=Smithfield%20Market%20Tavern%2C%2037%20Swan%20Street%2C%20Manchester%2C%20M4%205JZ) |
 | Untappd | [Venue page](https://untappd.com/v/smithfield-market-tavern/150505) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/smithfield-market-tavern-manchester-137547) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ An ideal place to explore Manchester cask in an informal pub setting. Blackjack�
 ## Beer
 
 Six handpumps are documented, usually with a substantial Blackjack contingent and guest cask. Irk Street Pale is listed as regular; all specific beers remain subject to change.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/smithfield-market-tavern-manchester-137547) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Blackjack — Irk Street Pale Ale.
+
+**Recently seen or reported (not regulars):** Blackjack — Manchester Stout.
+
+**Named changing/house breweries:** Blackjack; Fell.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

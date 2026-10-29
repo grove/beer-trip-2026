@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional rock pub |
 | Address | 2 Wakefield Street, Manchester, M1 5NE · [Map search](https://www.google.com/maps/search/?api=1&query=Salisbury%20Ale%20House%2C%202%20Wakefield%20Street%2C%20Manchester%2C%20M1%205NE) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Salisbury%20Ale%20House%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/salisbury-ale-house-manchester-137720) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A characterful rock pub in the hollow below Oxford Road station, with a tiled ex
 ## Beer
 
 CAMRA documents up to six real ales and notes a traditional strong ale among the selection; ask what is actually on. Theakston Old Peculier appears frequently in its CAMRA record; recent sightings include Millstone Stout. These are leads rather than a fixed beer list.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/salisbury-ale-house-manchester-137720) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Theakston — Old Peculier; Millstone — Stout.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

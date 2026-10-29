@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Cloudwater contemporary community pub |
 | Address | Sadler’s Yard, Hanover Street, NOMA, Manchester · [Map search](https://www.google.com/maps/search/?api=1&query=Sadler%E2%80%99s%20Cat%2C%20Sadler%E2%80%99s%20Yard%2C%20Hanover%20Street%2C%20NOMA%2C%20Manchester) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Sadler%27s%20Cat%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/sadlers-cat-manchester-137300) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ Cloudwater’s central pub offers a useful alternative setting for exploring the
 ## Beer
 
 CAMRA lists three changing cask beers alongside a larger keg selection. Cloudwater’s official page describes beers from the brewery and guests; consult the current board.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/sadlers-cat-manchester-137300) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

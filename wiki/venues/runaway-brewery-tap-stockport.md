@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Working-brewery taproom |
 | Address | 9–11 Astley Street, Stockport, SK4 1AW · [Map search](https://www.google.com/maps/search/?api=1&query=Runaway%20Brewery%20Tap%2C%209%E2%80%9311%20Astley%20Street%2C%20Stockport%2C%20SK4%201AW) |
 | Untappd | [Venue page](https://untappd.com/v/runaway-taproom/11704032) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/runaway-brewery-tap-stockport-196567) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong modern addition to Stockport’s exceptional traditional-pub circuit. T
 ## Beer
 
 The operator advertises two casks and ten keg lines each week, plus bottled beer; current choices vary.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/runaway-brewery-tap-stockport-196567) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Runaway.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
