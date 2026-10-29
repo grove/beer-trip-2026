@@ -5,6 +5,7 @@ This repository is a source-backed planning wiki for two experienced beer travel
 ## Canonical records and generated files
 
 - `data/venues.json` is the canonical venue database. Keep stable IDs. Each recommended venue needs a specific reason to visit, evidence for its beer programme, a separate cider evidence state, food/practical notes and dated sources with support descriptions.
+- Every `data/venues.json` record includes a direct `camra.url` to its CAMRA venue page and separate `regular_beers`, `recent_beers`, and `changing_breweries` arrays; the wiki generator renders these after the free-text Beer section. CAMRA's sightings are not a verified live tapboard. Do not flatten the categories or add generic brewery names as if a particular beer is guaranteed.
 - `data/rankings.json` is the complete opinionated 1–158 ranking of venue IDs; `scripts/build_rankings.py` generates `wiki/rankings.md`. Each canonical venue must occur **exactly once**. Ranks are evidence-led editorial judgments, not tasting results; update them when venue facts change.
 - `data/events.json` includes `usable_local_dates` and `trip_status`; Saturday 14 November festival daytime sessions are **unusable** after the morning airport transfer.
 - `data/venues.json` also carries an `untappd` navigation link for each venue. `kind: venue` means a venue and address were matched; `kind: search` is an explicit fallback, not a fabricated profile. Do not imply operator-maintained menus or stock where only user check-ins exist.

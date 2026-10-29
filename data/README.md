@@ -37,6 +37,7 @@ Run `python3 scripts/build_wiki.py` to regenerate each venue’s [published-hour
 | `priority` | `essential`, `high` or `specialist`; interpreted in the [methodology](../wiki/methodology.md). |
 | `why_visit` | Specific editorial reason the venue fits this trip. |
 | `untappd` | Convenience link `{url, kind}`: `venue` is an address-matched Untappd venue profile; `search` is an **unconfirmed** venue-name/locality search. Neither proves a live menu or real-cider status. |
+| `camra` | Direct [CAMRA venue-page](https://camra.org.uk/pubs/) URL and three carefully separated lists: `regular_beers` (CAMRA-listed recurring lines), `recent_beers` (historical/spotter examples), `changing_breweries` (named visiting or house producers). Arrays may be empty when names are not evidenced; never infer a November stock list. |
 | `beer` | Documented beer programme and limitations; never a live tap list. |
 | `cider_status`, `cider_note` | Separate cider evidence classification and explanation. See below. |
 | `food` | Evidence about meals, snacks, pop-ups or the absence of established information. |
