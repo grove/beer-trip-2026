@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic multi-room pub |
 | Address | 127 Great Bridgewater Street, Manchester, M1 5JQ; junction with Chepstow Street · [Map search](https://www.google.com/maps/search/?api=1&query=Peveril%20of%20the%20Peak%2C%20127%20Great%20Bridgewater%20Street%2C%20Manchester%2C%20M1%205JQ%3B%20junction%20with%20Chepstow%20Street) |
 | Untappd | [Venue page](https://untappd.com/v/peveril-of-the-peak/49761) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/peveril-of-the-peak-manchester-137712) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ One of the most memorable small pub buildings in either city: a green-tiled wedg
 ## Beer
 
 CAMRA documents four regular cask ales, including regional beer and established classics; the listed range includes Titanic Plum Porter and Timothy Taylor Landlord. CAMRA additionally lists Millstone Tiger Rut and Brightside The Mancunian as regulars alongside Titanic Plum Porter and Timothy Taylor Landlord.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/peveril-of-the-peak-manchester-137712) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Millstone — Tiger Rut; Brightside — The Mancunian; Titanic — Plum Porter; Timothy Taylor — Landlord.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

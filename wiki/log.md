@@ -2,6 +2,16 @@
 
 [Home](../README.md) · [Methodology](methodology.md) · [Source register](sources.md)
 
+## 2026-10-29 — direct CAMRA venue links and named beer lists
+
+Added direct CAMRA venue-guide links to **all 158 canonical venue records** and a prominent CAMRA link in the profile facts table. **151 venue records** already cited their CAMRA page; **seven additional direct CAMRA venue pages** were identified (Britons Protection, Bundobust Liverpool, The Grasshopper, Dunham Apple Barn, Lower Angel Warrington, Park Tavern Macclesfield, and the Cider Mill/’Udders Orchard site in Lindley). This last is an older CAMRA venue name: confirm operating arrangements directly rather than inferring a public taproom opening.
+
+Structured **112 venue records with named CAMRA regular beers, historical beer sightings and/or changing brewery examples**, rendered in a new [beer and breweries named by CAMRA] section on each of the 158 venue pages. Unnamed or changing beer ranges are left without fabricated producer names. One brewer may make different products, and CAMRA “recently seen” does not imply a beer is on a handpump now. For named examples based on older CAMRA listings, the link is the authoritative source to revisit before the 9–13 November 2026 trip.
+
+Extended the validator and data guide to preserve field consistency and ensure the CAMRA URL matches already-registered CAMRA sources. No tickets purchased, venues contacted, or dates/opening/stock guaranteed.
+
+
+
 ## 2026-10-28 — Untappd venue lookups for the whole longlist
 
 Added an **Untappd link for every one of the 158 venues**: **52 address-matched direct venue pages** and **106 explicitly labelled venue searches** where a specific venue identity was not independently confirmed. The venue-link type and URL live in the canonical `data/venues.json` so each generated venue profile, the all-venue drink reference, the browser map, and the Google My Maps exports can reuse the same link.

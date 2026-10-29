@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic Robinsons pub |
 | Address | 23 Millgate, Stockport, SK1 2LX · [Map search](https://www.google.com/maps/search/?api=1&query=Arden%20Arms%2C%2023%20Millgate%2C%20Stockport%2C%20SK1%202LX) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Arden%20Arms%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/arden-arms-stockport-167276) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ An unusually complete pub experience: distinctive old rooms, local cask beer and
 ## Beer
 
 Robinsons hand-pulled ales; the brewery and CAMRA both document the cask offer. Ask about seasonal beers rather than expecting a specific November line-up. CAMRA lists Robinsons Unicorn and Dizzy Blonde among the regular brewery casks. Old Tom is seasonal and not guaranteed after its 7 November launch.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/arden-arms-stockport-167276) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Robinsons — Dizzy Blonde; Robinsons — Unicorn; Robinsons — Old Tom (winter only).
+
+**Named changing/house breweries:** Robinsons.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

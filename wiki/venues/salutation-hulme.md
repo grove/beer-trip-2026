@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional university-area pub |
 | Address | 12 Higher Chatham Street, Hulme, Manchester, M15 6ED · [Map search](https://www.google.com/maps/search/?api=1&query=Salutation%2C%2012%20Higher%20Chatham%20Street%2C%20Hulme%2C%20Manchester%2C%20M15%206ED) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Salutation%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/salutation-hulme-130175) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A tucked-away pub within the university district that offers a worthwhile route 
 ## Beer
 
 CAMRA describes a Bollington partnership, with most handpumps usually carrying that brewery’s beer, including pale and stout options.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/salutation-hulme-130175) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Bollington — Oat Mill Stout; Bollington — Long Hop; Bollington — Eastern Nights; Bollington — White Nancy.
+
+**Named changing/house breweries:** Bollington.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic police-lockup conversion |
 | Address | 1 Campbell Square, Liverpool L1 5FB · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Bridewell%2C%201%20Campbell%20Square%2C%20Liverpool%20L1%205FB) |
 | Untappd | [Venue page](https://untappd.com/v/the-bridewell/9138055) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/bridewell-liverpool-166374) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A beer experience that remains distinctive even after many European pub trips: t
 ## Beer
 
 Official site promises cask including a local beer; CAMRA records Kirkstall regulars plus changing guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/bridewell-liverpool-166374) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Kirkstall — Three Swords; Kirkstall — Bitter.
+
+**Recently seen or reported (not regulars):** Leeds — Midnight Bell.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

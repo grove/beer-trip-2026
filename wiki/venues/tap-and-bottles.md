@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Micropub and bottle specialist |
 | Address | 19A Cambridge Walk, Southport PR8 1EN · [Map search](https://www.google.com/maps/search/?api=1&query=Tap%20%26%20Bottles%2C%2019A%20Cambridge%20Walk%2C%20Southport%20PR8%201EN) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Tap%20%26%20Bottles%20Southport&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/tap-bottles-southport-147072) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A compact specialist stop tucked into the arcade between the main shopping stree
 ## Beer
 
 CAMRA describes four rotating real ales and a broad bottled range; not every bottle is bottle-conditioned real ale.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/tap-bottles-southport-147072) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

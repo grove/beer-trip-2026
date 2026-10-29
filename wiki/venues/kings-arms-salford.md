@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional pub and theatre |
 | Address | 11 Bloom Street, Salford, M3 6AN · [Map search](https://www.google.com/maps/search/?api=1&query=Kings%20Arms%2C%2011%20Bloom%20Street%2C%20Salford%2C%20M3%206AN) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Kings%20Arms%20Salford&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/kings-arms-salford-170904) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong choice for the cultural side of a pub visit: a snug and curved main roo
 ## Beer
 
 CAMRA lists a Brightside house beer and changing cask beers; ask for the day’s selection.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/kings-arms-salford-170904) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

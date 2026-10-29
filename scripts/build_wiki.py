@@ -50,6 +50,31 @@ def untappd_cell(venue):
         return f"[Venue page]({entry['url']}) — menu if maintained, otherwise user check-ins; not guaranteed current stock"
     return f"[Search for venue]({entry['url']}) — match not confirmed; check the address before trusting check-ins"
 
+
+def camra_section_lines(venue):
+    """Dated CAMRA beer examples, not a prediction of the current tap board."""
+    e = venue["camra"]
+    lines = [
+        "## Beer and breweries named by CAMRA", "",
+        f"[Open this venue on CAMRA]({e['url']}) for its beer list, "
+        "updates and reported sightings. CAMRA's regular label is not a guarantee "
+        "of November stock; sightings and changing breweries are historical leads, "
+        "not confirmed pumps.", "",
+    ]
+    if e["regular_beers"]:
+        lines.extend(["**CAMRA-listed regular beers:** " + "; ".join(e["regular_beers"]) + ".", ""])
+    if e["recent_beers"]:
+        lines.extend(["**Recently seen or reported (not regulars):** " + "; ".join(e["recent_beers"]) + ".", ""])
+    if e["changing_breweries"]:
+        lines.extend(["**Named changing/house breweries:** " + "; ".join(e["changing_breweries"]) + ".", ""])
+    if not (e["regular_beers"] or e["recent_beers"] or e["changing_breweries"]):
+        lines.extend(["No named beer or brewery was reliably extracted from CAMRA for this entry; "
+                      "see the linked page for its latest reports and use the general beer description above.", ""])
+    lines.extend(["*Recheck the dispense and beer clip at the bar. A handpump is not proof that "
+                  "a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*", ""])
+    return lines
+
+
 def render():
     db = json.loads((ROOT / "data/venues.json").read_text())
     venues = db["venues"]
@@ -84,10 +109,12 @@ def render():
             f"| Type | {cell(venue['venue_type'])} |",
             f"| Address | {cell(venue['address'])} · [Map search]({map_url}) |",
             f"| Untappd | {untappd_cell(venue)} |",
+            f"| CAMRA Pub Guide | [Venue listing]({venue['camra']['url']}) — see named beers below |",
             f"| Evidence | {venue['evidence_level']} |",
             f"| Sources checked | {venue['source_checked']} — not a live opening or stock guarantee |", "",
             "## Why visit", "", venue["why_visit"], "",
             "## Beer", "", venue["beer"], "",
+            *camra_section_lines(venue),
             "## Cider and perry", "", f"**{CIDER[venue['cider_status']]}.** {venue['cider_note']}", "",
             "See [how cider is classified](../real-cider.md).", "",
             *section_lines(hours.get(venue["id"])),

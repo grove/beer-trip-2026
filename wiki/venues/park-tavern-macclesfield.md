@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Bollington Brewery pub |
 | Address | 158 Park Lane, Macclesfield, SK11 6UB · [Map search](https://www.google.com/maps/search/?api=1&query=Park%20Tavern%2C%20158%20Park%20Lane%2C%20Macclesfield%2C%20SK11%206UB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Park%20Tavern%20Macclesfield&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/park-tavern-macclesfield-173129) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A worthwhile extension to a Macclesfield visit for the local brewery connection 
 ## Beer
 
 CAMRA documents eight handpumps focused on Bollington Brewery beers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/park-tavern-macclesfield-173129) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Bollington — Bollington Best; Bollington — Oat Mill Stout; Bollington — White Nancy; Bollington — Long Hop; Bollington — Eastern Nights.
+
+**Named changing/house breweries:** Bollington.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

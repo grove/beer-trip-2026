@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Thatched country pub with historic snug |
 | Address | Raby Mere Road, Raby CH63 4JH · [Map search](https://www.google.com/maps/search/?api=1&query=Wheatsheaf%20Inn%20%E2%80%94%20The%20Thatch%2C%20Raby%20Mere%20Road%2C%20Raby%20CH63%204JH) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Wheatsheaf%20Inn%20Raby&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/wheatsheaf-inn-raby-132037) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The outstanding reason to come is the old snug: settles gathered around a table 
 ## Beer
 
 CAMRA lists cask options including Brimstage and Timothy Taylor, but explicitly warns that Wainwright Amber here is brewery-conditioned keg through a handpump, not cask.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/wheatsheaf-inn-raby-132037) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Brimstage — Trapper’s Hat; Timothy Taylor — Landlord.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

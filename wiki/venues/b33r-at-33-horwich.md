@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent cask, craft and real-cider bar |
 | Address | 33 Lee Lane, Horwich, BL6 7AX · [Map search](https://www.google.com/maps/search/?api=1&query=B33R%4033%2C%2033%20Lee%20Lane%2C%20Horwich%2C%20BL6%207AX) |
 | Untappd | [Search for venue](https://untappd.com/search?q=B33R%4033%20Horwich&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/b33r-at-33-horwich-195547) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ One of the most purposeful cider stops around Bolton. Three rotating casks and s
 ## Beer
 
 Three changing cask from independent breweries, plus keg featuring local producers including Rivington.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/b33r-at-33-horwich-195547) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Rivington.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

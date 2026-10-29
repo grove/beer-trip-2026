@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery bar and cider specialist |
 | Address | 32A Park Green, Macclesfield, SK11 7NA · [Map search](https://www.google.com/maps/search/?api=1&query=RedWillow%20Macclesfield%2C%2032A%20Park%20Green%2C%20Macclesfield%2C%20SK11%207NA) |
 | Untappd | [Venue page](https://untappd.com/v/redwillow/1056027) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/redwillow-macclesfield-173309) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ One of the region’s most useful stops for this particular brief because its lo
 ## Beer
 
 Official site advertises five cask lines alongside keg; CAMRA describes RedWillow cask, including changing and special releases. CAMRA lists RedWillow Feckless and Wreckless as regular cask beers; its Faithless small-batch range and guest releases change.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/redwillow-macclesfield-173309) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** RedWillow — Feckless; RedWillow — Wreckless.
+
+**Named changing/house breweries:** RedWillow.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

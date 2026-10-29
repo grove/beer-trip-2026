@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Traditional free house and hotel |
 | Address | 37 Packer Street, Rochdale, OL16 1NJ · [Map search](https://www.google.com/maps/search/?api=1&query=Flying%20Horse%20Hotel%2C%2037%20Packer%20Street%2C%20Rochdale%2C%20OL16%201NJ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Flying%20Horse%20Hotel%20Rochdale&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/flying-horse-hotel-rochdale-152986) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ Rochdale’s most immediately striking pub stop, facing the town-hall square and
 ## Beer
 
 CAMRA describes a dozen cask ales, and the official site promotes a broad real-ale range. Current beers vary. CAMRA lists Pictish-brewed Lancashire Bitter as its house cask and Phoenix, Pictish and Serious among changing breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/flying-horse-hotel-rochdale-152986) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Pictish — Lancashire Bitter.
+
+**Named changing/house breweries:** Phoenix; Pictish; Serious.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Wild-beer and cider brewery taproom |
 | Address | Unit 10, Sheffield Street, Manchester, M1 2ND · [Map search](https://www.google.com/maps/search/?api=1&query=Balance%20Brewing%20%26%20Blending%2C%20Unit%2010%2C%20Sheffield%20Street%2C%20Manchester%2C%20M1%202ND) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Balance%20Brewing%20%26%20Blending%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/balance-brewing-blending-taproom-manchester-197178) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ One of the most distinctive experiences for travellers who already know Europe�
 ## Beer
 
 Wild and sour beers are the core offering, with rotating draught and bottles. CAMRA says cask appears only very occasionally; do not plan on a regular cask range.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/balance-brewing-blending-taproom-manchester-197178) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

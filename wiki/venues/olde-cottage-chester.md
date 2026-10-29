@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional community pub |
 | Address | 34 Brook Street, Chester, CH1 3DZ · [Map search](https://www.google.com/maps/search/?api=1&query=Olde%20Cottage%2C%2034%20Brook%20Street%2C%20Chester%2C%20CH1%203DZ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Olde%20Cottage%20Chester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/olde-cottage-chester-137106) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ A rewarding small traditional pub on an easy route between the station and city 
 ## Beer
 
 CAMRA documents four handpumps with changing guests, including a permitted local beer outside the main supply list. CAMRA lists Otter Bitter and Wye Valley HPA as regulars; changing examples include Merlin Dark Magic and Draught Bass.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/olde-cottage-chester-137106) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Otter — Bitter; Wye Valley — HPA.
+
+**Recently seen or reported (not regulars):** Merlin — Dark Magic; Merlin — King’s Ale; Brightside — Maverick IPA.
+
+**Named changing/house breweries:** Merlin; Weetwood.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

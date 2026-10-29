@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Thatched historic country inn |
 | Address | Southport Road, Lydiate L31 4HD · [Map search](https://www.google.com/maps/search/?api=1&query=Scotch%20Piper%2C%20Southport%20Road%2C%20Lydiate%20L31%204HD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Scotch%20Piper%20Lydiate&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/scotch-piper-liverpool-165785) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The strongest rural-inn contrast to Liverpool’s ornate city pubs: thatch, expo
 ## Beer
 
 CAMRA records changing cask ales; the selection is smaller than at the specialist city beer houses.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/scotch-piper-liverpool-165785) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Titanic — Plum Porter.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

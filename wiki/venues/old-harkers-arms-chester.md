@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Canalside warehouse pub |
 | Address | 1 Russell Street, Chester, CH3 5AL · [Map search](https://www.google.com/maps/search/?api=1&query=Old%20Harkers%20Arms%2C%201%20Russell%20Street%2C%20Chester%2C%20CH3%205AL) |
 | Untappd | [Venue page](https://untappd.com/v/the-old-harkers-arms/118352) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/old-harkers-arms-chester-137108) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A complete beer-and-food stop in a former canalside warehouse, with timber floor
 ## Beer
 
 CAMRA describes a broad cask range with regional breweries and multiple styles, commonly around nine choices; availability changes. CAMRA lists Weetwood Cheshire Cat and Eastgate, Phoenix Boss Man’s Brew and Facer’s Plum Porter among regular cask beers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/old-harkers-arms-chester-137108) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Weetwood — Cheshire Cat; Weetwood — Eastgate; Phoenix — Boss Man’s Brew; Facer’s — Plum Porter.
+
+**Named changing/house breweries:** Weetwood; Phoenix.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

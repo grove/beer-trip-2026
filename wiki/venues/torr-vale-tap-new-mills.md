@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Beer and food bar in historic riverside mill |
 | Address | Torr Vale Mill, Torr Vale Road, New Mills, High Peak, SK22 3HS · [Map search](https://www.google.com/maps/search/?api=1&query=Torr%20Vale%20Tap%2C%20Torr%20Vale%20Mill%2C%20Torr%20Vale%20Road%2C%20New%20Mills%2C%20High%20Peak%2C%20SK22%203HS) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Torr%20Vale%20Tap%20High%20Peak&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/torr-vale-tap-new-mills-121072) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A distinctive way to explore local beer in November without assuming Torrside’
 ## Beer
 
 October 2026 CAMRA entry records three cask handpumps and Torrside live beer in membrane kegs; operator confirms the named local brewery lines.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/torr-vale-tap-new-mills-121072) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Blackjack; Thornsett; Torrside.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

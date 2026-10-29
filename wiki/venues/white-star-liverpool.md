@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional two-room pub |
 | Address | 2–4 Rainford Gardens, Liverpool L2 6PT · [Map search](https://www.google.com/maps/search/?api=1&query=White%20Star%2C%202%E2%80%934%20Rainford%20Gardens%2C%20Liverpool%20L2%206PT) |
 | Untappd | [Search for venue](https://untappd.com/search?q=White%20Star%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/white-star-liverpool-165743) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A worthwhile old-pub pause beside the much noisier Mathew Street circuit. Shippi
 ## Beer
 
 CAMRA lists Draught Bass as a regular cask beer with changing guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/white-star-liverpool-165743) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Draught Bass.
+
+**Recently seen or reported (not regulars):** Otter — Bitter.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent real-ale and cider free house |
 | Address | 18 Greaves Street, Oldham, OL1 1AD · [Map search](https://www.google.com/maps/search/?api=1&query=Fox%20%26%20Pine%2C%2018%20Greaves%20Street%2C%20Oldham%2C%20OL1%201AD) |
 | Untappd | [Venue page](https://untappd.com/v/fox-and-pine/10320137) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/fox-pine-oldham-152891) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ A first-rate destination for enthusiasts who value the drink itself: ten cask ha
 ## Beer
 
 Ten cask handpumps, with bitter, pale and normally three dark beers represented. Draught Bass and changing regional guests feature in CAMRA's 2026 record. CAMRA names Durham, Mallinsons and Pictish among its changing brewers, alongside its Draught Bass offering; these are examples rather than November commitments.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/fox-pine-oldham-152891) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Draught Bass.
+
+**Recently seen or reported (not regulars):** JW Lees — Boddingtons Bitter.
+
+**Named changing/house breweries:** Durham; Mallinsons; Pictish.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

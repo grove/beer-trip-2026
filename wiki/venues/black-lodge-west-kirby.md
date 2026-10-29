@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery-operated town tap |
 | Address | 3 Banks Road, West Kirby CH48 0RD · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Lodge%20Brewery%20Tap%20%E2%80%94%20West%20Kirby%2C%203%20Banks%20Road%2C%20West%20Kirby%20CH48%200RD) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Black%20Lodge%20Brewery%20Tap%20West%20Kirby&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/black-lodge-west-kirby-132140) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A convenient way to explore Black Lodge beer during a Wirral day if the Liverpoo
 ## Beer
 
 Operator confirms Black Lodge cask and keg; CAMRA records changing own-brewery cask.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/black-lodge-west-kirby-132140) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Black Lodge.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

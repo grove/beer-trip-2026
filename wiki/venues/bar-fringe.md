@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Continental beer bar |
 | Address | 8 Swan Street, Manchester, M4 5JN · [Map search](https://www.google.com/maps/search/?api=1&query=Bar%20Fringe%2C%208%20Swan%20Street%2C%20Manchester%2C%20M4%205JN) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Bar%20Fringe%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/bar-fringe-manchester-137398) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A long-established continental beer bar with enough changing cask to make it rel
 ## Beer
 
 CAMRA documents five changing cask ales alongside continental draught and bottled beer.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/bar-fringe-manchester-137398) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

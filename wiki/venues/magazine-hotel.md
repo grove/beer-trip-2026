@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic riverside local |
 | Address | 7 Magazine Brow, New Brighton CH45 1HP · [Map search](https://www.google.com/maps/search/?api=1&query=Magazine%20Hotel%2C%207%20Magazine%20Brow%2C%20New%20Brighton%20CH45%201HP) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Magazine%20Hotel%20New%20Brighton&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/magazine-hotel-new-brighton-132001) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A multiroom, low-beamed pub with a strong sense of the Mersey landscape. It offe
 ## Beer
 
 CAMRA records Draught Bass with changing cask guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/magazine-hotel-new-brighton-132001) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Brimstage — Trapper’s Hat Bitter; Draught Bass.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

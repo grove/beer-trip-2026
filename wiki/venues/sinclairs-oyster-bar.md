@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional Samuel Smith pub |
 | Address | 2 Cathedral Gates, Manchester, M3 1SW · [Map search](https://www.google.com/maps/search/?api=1&query=Sinclair%E2%80%99s%20Oyster%20Bar%2C%202%20Cathedral%20Gates%2C%20Manchester%2C%20M3%201SW) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Sinclair%27s%20Oyster%20Bar%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/sinclairs-oyster-bar-manchester-137545) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A worthwhile companion to Old Wellington for its timber-framed presence and focu
 ## Beer
 
 The current CAMRA entry explicitly lists cask Old Brewery Bitter; outdated claims that no cask is sold should not be repeated.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/sinclairs-oyster-bar-manchester-137545) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Samuel Smith — Old Brewery Bitter.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

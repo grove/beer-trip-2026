@@ -19,7 +19,7 @@ def main():
     errors = []
     db = json.loads((ROOT / "data/venues.json").read_text())
     errors.extend(validate_hours(load_hours(), db["venues"]))
-    required = {"id", "name", "region", "area", "priority", "venue_type", "address", "why_visit", "beer", "cider_status", "cider_note", "food", "visit_notes", "transport", "tags", "source_checked", "evidence_level", "sources", "untappd"}
+    required = {"id", "name", "region", "area", "priority", "venue_type", "address", "why_visit", "beer", "cider_status", "cider_note", "food", "visit_notes", "transport", "tags", "source_checked", "evidence_level", "sources", "untappd", "camra"}
     ids = set()
     total_source_uses = 0
     for venue in db["venues"]:
@@ -31,7 +31,7 @@ def main():
         if identifier in ids or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", identifier):
             errors.append(f"Duplicate or invalid venue ID: {identifier}")
         ids.add(identifier)
-        for field in required - {"sources", "tags", "untappd"}:
+        for field in required - {"sources", "tags", "untappd", "camra"}:
             if not isinstance(venue[field], str) or not venue[field].strip():
                 errors.append(f"{identifier}: empty/non-string {field}")
         for field, allowed in (("region", REGIONS), ("priority", PRIORITY), ("cider_status", CIDER), ("evidence_level", {"primary-and-specialist", "primary", "specialist"})):
@@ -58,6 +58,24 @@ def main():
                     errors.append(f"{identifier}: invalid Untappd search fallback")
             else:
                 errors.append(f"{identifier}: unknown Untappd link kind")
+        camra = venue["camra"]
+        if not isinstance(camra, dict) or set(camra) != {"url", "regular_beers", "recent_beers", "changing_breweries"}:
+            errors.append(f"{identifier}: missing/invalid CAMRA beer data")
+        else:
+            url = camra["url"]
+            if not isinstance(url, str) or not re.fullmatch(r"https://camra\.org\.uk/pubs/[a-z0-9-]+", url):
+                errors.append(f"{identifier}: invalid CAMRA venue URL")
+            for field in ("regular_beers", "recent_beers", "changing_breweries"):
+                names = camra[field]
+                if (not isinstance(names, list) or
+                        any(not isinstance(name, str) or not name.strip() for name in names) or
+                        len(names) != len(set(names))):
+                    errors.append(f"{identifier}: invalid CAMRA {field}")
+            # Preserve source traceability for pages whose CAMRA source was already in the source register.
+            camra_source_urls = [s["url"] for s in venue["sources"] if s["kind"] == "camra"
+                                 and s["url"].startswith("https://camra.org.uk/pubs/")]
+            if camra_source_urls and url not in camra_source_urls:
+                errors.append(f"{identifier}: CAMRA listing mismatches existing source")
         if not venue["tags"] or len(venue["tags"]) != len(set(venue["tags"])):
             errors.append(f"{identifier}: missing or duplicate tags")
         if not venue["sources"]:

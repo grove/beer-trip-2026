@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Inter-war heritage Robinsons pub |
 | Address | 36 Princes Street, Stockport, SK1 1RY · [Map search](https://www.google.com/maps/search/?api=1&query=Swan%20with%20Two%20Necks%2C%2036%20Princes%20Street%2C%20Stockport%2C%20SK1%201RY) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Swan%20with%20Two%20Necks%20Stockport&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/swan-with-two-necks-stockport-167694) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A small frontage conceals one of the most rewarding traditional interiors in the
 ## Beer
 
 Robinsons cask beers are documented; CAMRA lists Old Tom as winter-only. Ask whether it is on, and consider a small measure. Robinsons Dizzy Blonde is a documented regular; Old Tom is winter-only and remains conditional after the 7 November cask launch.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/swan-with-two-necks-stockport-167694) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Robinsons — Dizzy Blonde; Robinsons — Old Tom (winter); Robinsons — Trooper (summer); Robinsons — Unicorn.
+
+**Named changing/house breweries:** Robinsons.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

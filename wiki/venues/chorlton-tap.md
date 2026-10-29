@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Neighbourhood beer bar |
 | Address | 533 Wilbraham Road, Chorlton-cum-Hardy, M21 0UE · [Map search](https://www.google.com/maps/search/?api=1&query=Chorlton%20Tap%2C%20533%20Wilbraham%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%200UE) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Chorlton%20Tap%20Chorlton-cum-Hardy&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/chorlton-tap-chorlton-cum-hardy-130156) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A particularly useful Chorlton stop because it combines regional cask, a meaning
 ## Beer
 
 Changing cask from local and wider independent breweries, with keg and bottles alongside. CAMRA identifies Marble, Pictish and Pomona Island among its changing cask brewers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/chorlton-tap-chorlton-cum-hardy-130156) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Marble; Pictish; Pomona Island.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

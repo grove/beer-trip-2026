@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic inn with cellar microbrewery |
 | Address | 53–57 Northgate Street, Chester, CH1 2HQ · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Pied%20Bull%2C%2053%E2%80%9357%20Northgate%20Street%2C%20Chester%2C%20CH1%202HQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Pied%20Bull%20Chester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/pied-bull-chester-137130) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A particularly useful addition for two beer enthusiasts because it offers an act
 ## Beer
 
 Official brewery page confirms onsite cask and keg production across bitters, pales, IPA, red ales and porter; CAMRA documents hand-pulled house beers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/pied-bull-chester-137130) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Pied Bull — Minotaur; Pied Bull — Pied.P.A.; Pied Bull — Doubull Troubull.
+
+**Named changing/house breweries:** Pied Bull.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

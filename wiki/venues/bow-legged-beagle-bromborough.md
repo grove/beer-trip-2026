@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent cask micropub |
 | Address | 11 Allport Lane, Bromborough, CH62 7HH · [Map search](https://www.google.com/maps/search/?api=1&query=Bow-Legged%20Beagle%20%E2%80%94%20Bromborough%2C%2011%20Allport%20Lane%2C%20Bromborough%2C%20CH62%207HH) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Bow-Legged%20Beagle%20Bromborough&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong choice for drinkers who care about a cellar’s consistency. Wirral CAM
 ## Beer
 
 Four changing cask ales, usually covering pale, IPA, bitter and dark beer.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Brewery tap above production space |
 | Address | Moreton Mill, Hampson Street, Horwich, BL6 7JH · [Map search](https://www.google.com/maps/search/?api=1&query=Blackedge%20Brewery%20Bar%2C%20Moreton%20Mill%2C%20Hampson%20Street%2C%20Horwich%2C%20BL6%207JH) |
 | Untappd | [Venue page](https://untappd.com/v/the-brewery-bar/3770754) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/blackedge-brewery-bar-horwich-122793) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong brewery visit for people who enjoy tasting a producer’s range where i
 ## Beer
 
 CAMRA documents up to seven Blackedge cask beers plus brewery-conditioned beers; dark beer is normally part of the selection.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/blackedge-brewery-bar-horwich-122793) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Blackedge.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

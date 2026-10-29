@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic Joseph Holt pub |
 | Address | 33 Regent Street, Eccles, M30 0BP · [Map search](https://www.google.com/maps/search/?api=1&query=Lamb%20Hotel%2C%2033%20Regent%20Street%2C%20Eccles%2C%20M30%200BP) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Lamb%20Hotel%20Eccles&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/lamb-hotel-eccles-170906) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ One of the strongest outer-city choices for this particular brief. The carved oa
 ## Beer
 
 Joseph Holt Bitter and Mild are documented as regular cask beers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/lamb-hotel-eccles-170906) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Joseph Holt — Bitter; Joseph Holt — Mild.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Specialist beer café |
 | Address | Brown Street entrance, Manchester, M2 1DA · [Map search](https://www.google.com/maps/search/?api=1&query=Cafe%20Beermoth%2C%20Brown%20Street%20entrance%2C%20Manchester%2C%20M2%201DA) |
 | Untappd | [Venue page](https://untappd.com/v/cafe-beermoth/4012274) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cafe-beermoth-manchester-137654) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A beer-focused café with enough cask depth to justify a stop even on a traditio
 ## Beer
 
 CAMRA reports seven cask lines including a Runaway house beer and changing British guests, plus keg and an extensive international bottle selection. CAMRA specifically identifies Runaway Stone’s Throw as its regular house cask; the rest of the seven-line cask selection rotates.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cafe-beermoth-manchester-137654) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Runaway — Stone’s Throw.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

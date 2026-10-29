@@ -52,6 +52,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Angel%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/angel-manchester-137389",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Fallen Angel (house bitter",
+          "brewer not published)"
+        ]
       }
     },
     {
@@ -103,6 +112,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Balance%20Brewing%20%26%20Blending%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/balance-brewing-blending-taproom-manchester-197178",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -146,6 +161,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Bar%20Fringe%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bar-fringe-manchester-137398",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -183,6 +204,21 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Beer%20House%20Chorlton-cum-Hardy&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/beer-house-chorlton-cum-hardy-130064",
+        "regular_beers": [
+          "Marble — Manchester Bitter",
+          "Marble — Pint"
+        ],
+        "recent_beers": [
+          "Vocation — Bread & Butter"
+        ],
+        "changing_breweries": [
+          "Abbeydale",
+          "Blackjack",
+          "RedWillow"
+        ]
       }
     },
     {
@@ -232,6 +268,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Black%20Friar%20Salford&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/black-friar-salford-170824",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -275,6 +317,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Britons%20Protection%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/britons-protection-manchester-137669",
+        "regular_beers": [],
+        "recent_beers": [
+          "Theakston — Old Peculier",
+          "Beartown — Skinful",
+          "Draught Bass"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -321,6 +373,14 @@
       "untappd": {
         "url": "https://untappd.com/v/bundobust-manchester-oxford-road/10873942",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bundobust-brewery-manchester-195129",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bundobust"
+        ]
       }
     },
     {
@@ -364,6 +424,14 @@
       "untappd": {
         "url": "https://untappd.com/v/cafe-beermoth/4012274",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cafe-beermoth-manchester-137654",
+        "regular_beers": [
+          "Runaway — Stone’s Throw"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -401,6 +469,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Cask%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cask-manchester-137327",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -438,6 +512,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Cask%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cask-manchester-137734",
+        "regular_beers": [],
+        "recent_beers": [
+          "Abbeydale — Deception"
+        ],
+        "changing_breweries": [
+          "Mallinsons",
+          "Pictish",
+          "Rooster’s"
+        ]
       }
     },
     {
@@ -476,6 +562,21 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Castle%20Hotel%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/castle-hotel-manchester-137416",
+        "regular_beers": [
+          "Robinsons — Dizzy Blonde",
+          "Robinsons — Unicorn",
+          "Robinsons — Trooper"
+        ],
+        "recent_beers": [
+          "Titanic — Plum Porter"
+        ],
+        "changing_breweries": [
+          "Robinsons",
+          "Titanic"
+        ]
       }
     },
     {
@@ -514,6 +615,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Chorlton%20Tap%20Chorlton-cum-Hardy&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/chorlton-tap-chorlton-cum-hardy-130156",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Marble",
+          "Pictish",
+          "Pomona Island"
+        ]
       }
     },
     {
@@ -551,6 +662,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Circus%20Tavern%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/circus-tavern-manchester-137595",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -589,6 +706,22 @@
       "untappd": {
         "url": "https://untappd.com/v/city-arms/31033",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/city-arms-manchester-137676",
+        "regular_beers": [
+          "Brightside — Odin Blonde"
+        ],
+        "recent_beers": [
+          "RedWillow — Feckless",
+          "Rooster’s — Scoundrel"
+        ],
+        "changing_breweries": [
+          "Brightside",
+          "Titanic",
+          "Neptune",
+          "Thornbridge"
+        ]
       }
     },
     {
@@ -640,6 +773,12 @@
       "untappd": {
         "url": "https://untappd.com/v/unit-9-cloudwater-taproom/7990731",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cloudwater-unit-9-manchester-137308",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -684,6 +823,12 @@
       "untappd": {
         "url": "https://untappd.com/v/the-crown-and-kettle/60178",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/crown-kettle-manchester-137434",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -727,6 +872,17 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Eagle%20Inn%20Salford&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/eagle-inn-salford-170872",
+        "regular_beers": [
+          "Joseph Holt — Bitter",
+          "Joseph Holt — Two Hoots"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bootleg"
+        ]
       }
     },
     {
@@ -771,6 +927,16 @@
       "untappd": {
         "url": "https://untappd.com/v/fell-bar-chorlton/10048293",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/fell-bar-chorlton-chorlton-cum-hardy-129887",
+        "regular_beers": [],
+        "recent_beers": [
+          "Fell — Dark Mild"
+        ],
+        "changing_breweries": [
+          "Fell"
+        ]
       }
     },
     {
@@ -815,6 +981,19 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Fletcher%20Moss%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/fletcher-moss-didsbury-167389",
+        "regular_beers": [
+          "Hydes — Original",
+          "Hydes — Dark Ruby",
+          "Hydes — Lowry",
+          "Hydes — Hopster"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Hydes"
+        ]
       }
     },
     {
@@ -852,6 +1031,14 @@
       "untappd": {
         "url": "https://untappd.com/v/the-gas-lamp/25126",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/gas-lamp-manchester-137758",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Pomona Island"
+        ]
       }
     },
     {
@@ -896,6 +1083,17 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Grey%20Horse%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/grey-horse-manchester-137605",
+        "regular_beers": [
+          "Hydes — Original",
+          "Hydes — Dark Ruby"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Hydes"
+        ]
       }
     },
     {
@@ -933,6 +1131,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Hare%20%26%20Hounds%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/hare-hounds-manchester-137462",
+        "regular_beers": [
+          "Joseph Holt — Bitter",
+          "Ossett — White Rat"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -970,6 +1177,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Kings%20Arms%20Salford&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/kings-arms-salford-170904",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1008,6 +1221,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Lamb%20Hotel%20Eccles&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/lamb-hotel-eccles-170906",
+        "regular_beers": [
+          "Joseph Holt — Bitter",
+          "Joseph Holt — Mild"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1045,6 +1267,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Lass%20O%27Gowrie%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/lass-ogowrie-manchester-137609",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1081,6 +1309,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Longford%20Tap%20Stretford&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/longford-tap-stretford-129881",
+        "regular_beers": [
+          "Marble — Longford Tap"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Brightside",
+          "RedWillow",
+          "Runaway"
+        ]
       }
     },
     {
@@ -1118,6 +1358,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Lower%20Turks%20Head%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/lower-turks-head-manchester-137359",
+        "regular_beers": [
+          "Joseph Holt — Bitter",
+          "Joseph Holt — IPA",
+          "Joseph Holt — Two Hoots"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Joseph Holt"
+        ]
       }
     },
     {
@@ -1169,6 +1421,19 @@
       "untappd": {
         "url": "https://untappd.com/v/marble-arch-inn/3738",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/marble-arch-manchester-137493",
+        "regular_beers": [
+          "Marble — Manchester Bitter",
+          "Marble — Pint"
+        ],
+        "recent_beers": [
+          "Marble — Stout"
+        ],
+        "changing_breweries": [
+          "Marble"
+        ]
       }
     },
     {
@@ -1213,6 +1478,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Molly%20House%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/molly-house-manchester-137611",
+        "regular_beers": [],
+        "recent_beers": [
+          "Coley’s Brewery — Coley’s Stout"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -1257,6 +1530,18 @@
       "untappd": {
         "url": "https://untappd.com/v/mr-thomass-chop-house/47022",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/mr-thomass-chop-house-manchester-137704",
+        "regular_beers": [
+          "Timothy Taylor — Boltmaker",
+          "Timothy Taylor — Landlord"
+        ],
+        "recent_beers": [
+          "JW Lees — Boddingtons Bitter",
+          "Timothy Taylor — Golden Best"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -1295,6 +1580,18 @@
       "untappd": {
         "url": "https://untappd.com/v/the-new-oxford/25568",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/new-oxford-salford-170923",
+        "regular_beers": [
+          "Moorhouse’s — New Oxford Pale (White Witch recipe)",
+          "Thornbridge — Jaipur"
+        ],
+        "recent_beers": [
+          "Wharfedale — Porter",
+          "Brass Castle — Best Bitter"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -1338,6 +1635,17 @@
       "untappd": {
         "url": "https://untappd.com/v/northern-monk-refectory-mcr/8238071",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/northern-monk-refectory-manchester-137352",
+        "regular_beers": [],
+        "recent_beers": [
+          "Thornbridge — Market Porter",
+          "Wakey Wakey — Slumber"
+        ],
+        "changing_breweries": [
+          "Northern Monk"
+        ]
       }
     },
     {
@@ -1375,6 +1683,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Old%20Wellington%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/old-wellington-manchester-137520",
+        "regular_beers": [
+          "Nicholson’s — Pale Ale"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1419,6 +1735,17 @@
       "untappd": {
         "url": "https://untappd.com/v/peveril-of-the-peak/49761",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/peveril-of-the-peak-manchester-137712",
+        "regular_beers": [
+          "Millstone — Tiger Rut",
+          "Brightside — The Mancunian",
+          "Titanic — Plum Porter",
+          "Timothy Taylor — Landlord"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1462,6 +1789,15 @@
       "untappd": {
         "url": "https://untappd.com/v/port-street-beer-house/18005",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/port-street-beer-house-manchester-137529",
+        "regular_beers": [],
+        "recent_beers": [
+          "Colbier — Forte",
+          "Thornbridge — Old Badequella"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -1506,6 +1842,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Prairie%20Schooner%20Taphouse%20Urmston&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/prairie-schooner-taphouse-urmston-129838",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1549,6 +1891,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Queens%20Arms%20Eccles&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/queens-arms-patricroft-170948",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1587,6 +1935,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Reasons%20to%20be%20Cheerful%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/reasons-to-be-cheerful-burnage-167218",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1623,6 +1977,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Rising%20Sun%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/rising-sun-manchester-137719",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1666,6 +2026,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Sadler%27s%20Cat%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/sadlers-cat-manchester-137300",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1703,6 +2069,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Salisbury%20Ale%20House%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/salisbury-ale-house-manchester-137720",
+        "regular_beers": [],
+        "recent_beers": [
+          "Theakston — Old Peculier",
+          "Millstone — Stout"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -1740,6 +2115,19 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Salutation%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/salutation-hulme-130175",
+        "regular_beers": [
+          "Bollington — Oat Mill Stout",
+          "Bollington — Long Hop",
+          "Bollington — Eastern Nights",
+          "Bollington — White Nancy"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bollington"
+        ]
       }
     },
     {
@@ -1777,6 +2165,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Sam%27s%20Chop%20House%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/sams-chop-house-manchester-137721",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1814,6 +2208,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Sinclair%27s%20Oyster%20Bar%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/sinclairs-oyster-bar-manchester-137545",
+        "regular_beers": [
+          "Samuel Smith — Old Brewery Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -1852,6 +2254,19 @@
       "untappd": {
         "url": "https://untappd.com/v/smithfield-market-tavern/150505",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/smithfield-market-tavern-manchester-137547",
+        "regular_beers": [
+          "Blackjack — Irk Street Pale Ale"
+        ],
+        "recent_beers": [
+          "Blackjack — Manchester Stout"
+        ],
+        "changing_breweries": [
+          "Blackjack",
+          "Fell"
+        ]
       }
     },
     {
@@ -1890,6 +2305,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Steelfish%20Brewing%20Company%20Taproom%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/steelfish-brewing-company-taproom-manchester-199625",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Steelfish"
+        ]
       }
     },
     {
@@ -1934,6 +2357,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Sureshot%20Brewery%20Taproom%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/sureshot-brewery-taproom-manchester-196628",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Sureshot"
+        ]
       }
     },
     {
@@ -1978,6 +2409,16 @@
       "untappd": {
         "url": "https://untappd.com/v/track-brewing-co-taproom-20/10905443",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/track-brewery-tap-manchester-137330",
+        "regular_beers": [
+          "Track — Sonoma"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Track"
+        ]
       }
     },
     {
@@ -2028,6 +2469,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Wharf%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/wharf-manchester-137781",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2072,6 +2519,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Augustus%20John%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/augustus-john-liverpool-166520",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2115,6 +2568,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Azvex%20Brewery%20%26%20Taproom%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/azvex-brewery-taproom-liverpool-195914",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2159,6 +2618,20 @@
       "untappd": {
         "url": "https://untappd.com/v/baltic-fleet/87079",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/baltic-fleet-liverpool-165741",
+        "regular_beers": [
+          "Brimstage — Trapper’s Hat Bitter"
+        ],
+        "recent_beers": [
+          "Keswick — Thirst Quencher",
+          "Spitting Feathers — Thirstquencher"
+        ],
+        "changing_breweries": [
+          "Salopian",
+          "Spitting Feathers"
+        ]
       }
     },
     {
@@ -2196,6 +2669,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Belvedere%20Arms%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/belvedere-liverpool-166445",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2246,6 +2725,14 @@
       "untappd": {
         "url": "https://untappd.com/v/black-lodge-brewing/9223251",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Black Lodge"
+        ]
       }
     },
     {
@@ -2289,6 +2776,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Black%20Lodge%20Brewery%20Tap%20West%20Kirby&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/black-lodge-west-kirby-132140",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Black Lodge"
+        ]
       }
     },
     {
@@ -2332,6 +2827,16 @@
       "untappd": {
         "url": "https://untappd.com/v/bundobust-liverpool/8993288",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bundobust-liverpool-166366",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Black Lodge",
+          "Thornbridge",
+          "Bundobust"
+        ]
       }
     },
     {
@@ -2370,6 +2875,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Cask%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cask-liverpool-166044",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2413,6 +2924,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Crown%20Hotel%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/crown-hotel-liverpool-165905",
+        "regular_beers": [
+          "Sharp’s — Doom Bar",
+          "Timothy Taylor — Landlord",
+          "Oakham — Citra"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Titanic"
+        ]
       }
     },
     {
@@ -2455,6 +2978,12 @@
       "untappd": {
         "url": "https://untappd.com/v/the-dead-crafty-beer-company/4480846",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2499,6 +3028,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Doctor%20Duncan%27s%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/doctor-duncans-liverpool-166406",
+        "regular_beers": [
+          "Beartown — Best Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Beartown"
+        ]
       }
     },
     {
@@ -2538,6 +3077,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Four%20Ashes%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/four-ashes-liverpool-166246",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2575,6 +3120,20 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Gallaghers%20Traditional%20Pub%20Birkenhead&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/gallaghers-traditional-pub-birkenhead-131901",
+        "regular_beers": [
+          "Brimstage — Trapper’s Hat Bitter",
+          "Ossett — White Rat"
+        ],
+        "recent_beers": [
+          "Salopian — Entire Butt"
+        ],
+        "changing_breweries": [
+          "Hawkshead",
+          "Brimstage"
+        ]
       }
     },
     {
@@ -2623,6 +3182,15 @@
       "untappd": {
         "url": "https://untappd.com/v/glen-affric-taproom/7000093",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/glen-affric-brewery-taproom-birkenhead-132239",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Glen Affric (keg",
+          "CAMRA does not list cask)"
+        ]
       }
     },
     {
@@ -2660,6 +3228,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Guest%20House%20Southport&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/guest-house-southport-147054",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2703,6 +3277,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Handyman%20Supermarket%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/handyman-supermarket-liverpool-166269",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Handyman"
+        ]
       }
     },
     {
@@ -2753,6 +3335,19 @@
       "untappd": {
         "url": "https://untappd.com/v/lion-tavern/134294",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/lion-tavern-liverpool-165612",
+        "regular_beers": [
+          "Otter — Bitter"
+        ],
+        "recent_beers": [
+          "Small World — Long Moor Pale"
+        ],
+        "changing_breweries": [
+          "Love Lane",
+          "Higsons"
+        ]
       }
     },
     {
@@ -2790,6 +3385,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Liverpool%20Brewing%20Company%20Tap%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/liverpool-brewing-company-tap-liverpool-166256",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Liverpool Brewing Company"
+        ]
       }
     },
     {
@@ -2829,6 +3432,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Magazine%20Hotel%20New%20Brighton&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/magazine-hotel-new-brighton-132001",
+        "regular_beers": [
+          "Brimstage — Trapper’s Hat Bitter",
+          "Draught Bass"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2872,6 +3484,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Neptune%20Beerhouse%20Maghull&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/neptune-beerhouse-liverpool-196857",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Neptune"
+        ]
       }
     },
     {
@@ -2910,6 +3530,15 @@
       "untappd": {
         "url": "https://untappd.com/v/peter-kavanagh-s/315787",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/peter-kavanaghs-liverpool-165622",
+        "regular_beers": [
+          "Greene King — Abbot",
+          "Timothy Taylor — Landlord"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -2954,6 +3583,16 @@
       "untappd": {
         "url": "https://untappd.com/v/the-philharmonic-dining-rooms/123438",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/philharmonic-dining-rooms-liverpool-165633",
+        "regular_beers": [
+          "St Austell — Nicholson’s Pale Ale"
+        ],
+        "recent_beers": [
+          "St Austell — Proper Job"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -2997,6 +3636,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Plasterers%20Arms%20Hoylake&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/plasterers-arms-hoylake-131966",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3042,6 +3687,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Queen%27s%20Arms%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/queens-arms-liverpool-199909",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3086,6 +3737,21 @@
       "untappd": {
         "url": "https://untappd.com/v/the-roscoe-head/134406",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/roscoe-head-liverpool-166037",
+        "regular_beers": [
+          "Tetley — Bitter",
+          "Timothy Taylor — Landlord",
+          "Fyne Ales — Jarl"
+        ],
+        "recent_beers": [
+          "Mallinsons — Porter",
+          "Pennine — Amber Necker"
+        ],
+        "changing_breweries": [
+          "Colbier"
+        ]
       }
     },
     {
@@ -3130,6 +3796,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Scotch%20Piper%20Lydiate&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/scotch-piper-liverpool-165785",
+        "regular_beers": [],
+        "recent_beers": [
+          "Titanic — Plum Porter"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -3181,6 +3855,17 @@
       "untappd": {
         "url": "https://untappd.com/v/the-ship-mitre/51433",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/ship-mitre-liverpool-165654",
+        "regular_beers": [],
+        "recent_beers": [
+          "Weekend Project — Under The Trees"
+        ],
+        "changing_breweries": [
+          "Black Lodge",
+          "Colbier"
+        ]
       }
     },
     {
@@ -3232,6 +3917,21 @@
       "untappd": {
         "url": "https://untappd.com/search?q=St%20Peter%27s%20Tavern%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/st-peters-tavern-liverpool-198428",
+        "regular_beers": [
+          "Ossett — White Rat"
+        ],
+        "recent_beers": [
+          "Salopian — Entire Butt",
+          "Weetwood — Silverback Stout"
+        ],
+        "changing_breweries": [
+          "Black Lodge",
+          "Love Lane",
+          "Neptune"
+        ]
       }
     },
     {
@@ -3269,6 +3969,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Stork%20Hotel%20Birkenhead&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/stork-hotel-birkenhead-131918",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3307,6 +4013,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Tap%20%26%20Bottles%20Southport&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/tap-bottles-southport-147072",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3351,6 +4063,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Beer%20Lab%20Heswall&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/beer-lab-heswall-132241",
+        "regular_beers": [
+          "Beartown — Beer Lab Pale Ale"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3388,6 +4108,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Black%20Toad%20Hoylake&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/black-toad-hoylake-132582",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Purple Moose",
+          "RedWillow",
+          "Tatton"
+        ]
       }
     },
     {
@@ -3431,6 +4161,17 @@
       "untappd": {
         "url": "https://untappd.com/v/the-bridewell/9138055",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bridewell-liverpool-166374",
+        "regular_beers": [
+          "Kirkstall — Three Swords",
+          "Kirkstall — Bitter"
+        ],
+        "recent_beers": [
+          "Leeds — Midnight Bell"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -3474,6 +4215,14 @@
       "untappd": {
         "url": "https://untappd.com/v/the-denbigh-castle/10077688",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/denbigh-castle-liverpool-166435",
+        "regular_beers": [
+          "Kirkstall — Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3510,6 +4259,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Dispensary%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/dispensary-liverpool-165589",
+        "regular_beers": [
+          "Oakham — Citra",
+          "Titanic — Plum Porter",
+          "Ossett — White Rat"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3547,6 +4306,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Freshfield%20Freshfield&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/freshfield-freshfield-146997",
+        "regular_beers": [
+          "Greene King — Abbot",
+          "Greene King — IPA"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3585,6 +4353,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Grapes%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/grapes-liverpool-166102",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Colbier",
+          "Neptune"
+        ]
       }
     },
     {
@@ -3622,6 +4399,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Grasshopper%20Hillside&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/grasshopper-hillside-147079",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3667,6 +4450,18 @@
       "untappd": {
         "url": "https://untappd.com/v/the-lazy-landlord-micro-pub/2477823",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/lazy-landlord-ale-house-liscard-132150",
+        "regular_beers": [
+          "Oakham — Citra"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Brimstage",
+          "Purple Moose",
+          "Salopian"
+        ]
       }
     },
     {
@@ -3711,6 +4506,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Monro%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/monro-liverpool-166467",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3754,6 +4555,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Pen%20Factory%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/pen-factory-liverpool-166023",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3798,6 +4605,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Red%20Fox%20Thornton%20Hough&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/red-fox-thornton-hough-132147",
+        "regular_beers": [
+          "Brightside — Red Fox house bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Brightside"
+        ]
       }
     },
     {
@@ -3836,6 +4653,20 @@
       "untappd": {
         "url": "https://untappd.com/v/the-vines-the-big-house/2036534",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/vines-liverpool-165623",
+        "regular_beers": [
+          "Ossett — Silver King",
+          "Titanic — Plum Porter",
+          "Timothy Taylor — Landlord",
+          "Theakston — Best Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Beartown",
+          "Neptune"
+        ]
       }
     },
     {
@@ -3874,6 +4705,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Thomas%20Rigby%27s%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/thomas-rigbys-liverpool-165717",
+        "regular_beers": [
+          "Okell’s — Bitter",
+          "Hawkshead — Windermere Pale"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3911,6 +4751,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Vernon%20Arms%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/vernon-arms-liverpool-165852",
+        "regular_beers": [
+          "Brains — Rev James Original",
+          "Ossett — White Rat"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Brimstage",
+          "Coach House"
+        ]
       }
     },
     {
@@ -3948,6 +4800,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Volunteer%20Canteen%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/volunteer-canteen-liverpool-165823",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -3998,6 +4856,20 @@
       "untappd": {
         "url": "https://untappd.com/v/the-west-kirby-tap/1691474",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/west-kirby-tap-west-kirby-132144",
+        "regular_beers": [
+          "Spitting Feathers — Session Beer",
+          "Spitting Feathers — Thirstquencher"
+        ],
+        "recent_beers": [
+          "Thornbridge — Old Badequella"
+        ],
+        "changing_breweries": [
+          "Big Hand",
+          "Peerless"
+        ]
       }
     },
     {
@@ -4037,6 +4909,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Wheatsheaf%20Inn%20Raby&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/wheatsheaf-inn-raby-132037",
+        "regular_beers": [],
+        "recent_beers": [
+          "Brimstage — Trapper’s Hat",
+          "Timothy Taylor — Landlord"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -4074,6 +4955,19 @@
       "untappd": {
         "url": "https://untappd.com/search?q=White%20Hart%20%2F%20The%20Engineer%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/white-hart-liverpool-166514",
+        "regular_beers": [
+          "Ossett — White Rat"
+        ],
+        "recent_beers": [
+          "Timothy Taylor — Landlord Dark"
+        ],
+        "changing_breweries": [
+          "Black Lodge",
+          "Neptune"
+        ]
       }
     },
     {
@@ -4111,6 +5005,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=White%20Star%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/white-star-liverpool-165743",
+        "regular_beers": [
+          "Draught Bass"
+        ],
+        "recent_beers": [
+          "Otter — Bitter"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -4148,6 +5052,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Ye%20Cracke%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cracke-liverpool-165590",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Higsons",
+          "Ossett"
+        ]
       }
     },
     {
@@ -4193,6 +5106,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Albion%20Chester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/albion-chester-137073",
+        "regular_beers": [
+          "Timothy Taylor — Boltmaker"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -4237,6 +5158,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Arden%20Arms%20Stockport&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/arden-arms-stockport-167276",
+        "regular_beers": [
+          "Robinsons — Dizzy Blonde",
+          "Robinsons — Unicorn",
+          "Robinsons — Old Tom (winter only)"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Robinsons"
+        ]
       }
     },
     {
@@ -4274,6 +5207,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Bank%20Top%20Brewery%20Tap%20Bolton&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bank-top-brewery-tap-bolton-122443",
+        "regular_beers": [
+          "Bank Top — Dark Mild",
+          "Bank Top — Flat Cap",
+          "Bank Top — Pavilion Pale"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bank Top"
+        ]
       }
     },
     {
@@ -4311,6 +5256,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Beacon%20Altrincham&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/beacon-altrincham-130225",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -4361,6 +5312,14 @@
       "untappd": {
         "url": "https://untappd.com/v/the-brewery-bar/3770754",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/blackedge-brewery-bar-horwich-122793",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Blackedge"
+        ]
       }
     },
     {
@@ -4397,6 +5356,17 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Costello%27s%20Bar%20Altrincham&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/costellos-bar-altrincham-130228",
+        "regular_beers": [
+          "Dunham Massey — Dunham Dark",
+          "Dunham Massey — Big Tree Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Dunham Massey"
+        ]
       }
     },
     {
@@ -4442,6 +5412,17 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Cotton%20Tree%20Bollington&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cotton-tree-bollington-173502",
+        "regular_beers": [
+          "Wainwright — Gold",
+          "Draught Bass"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bollington"
+        ]
       }
     },
     {
@@ -4486,6 +5467,19 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Cricketers%20Arms%20St%20Helens&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cricketers-arms-st-helens-145274",
+        "regular_beers": [],
+        "recent_beers": [
+          "Pennine — Scapegoat",
+          "Oakham — Darkness Falls",
+          "Saltaire — Triple Choc",
+          "Howzat — It’s Just Not Cricket"
+        ],
+        "changing_breweries": [
+          "Howzat"
+        ]
       }
     },
     {
@@ -4524,6 +5518,12 @@
       "untappd": {
         "url": "https://untappd.com/v/the-crown-inn/38126",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/crown-inn-stockport-167360",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -4575,6 +5575,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Dunham%20Apple%20Barn%20Altrincham&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/dunham-apple-barn-dunham-massey-129884",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Stubborn Mule (canned beer, not cask)"
+        ]
       }
     },
     {
@@ -4618,6 +5626,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Flying%20Horse%20Hotel%20Rochdale&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/flying-horse-hotel-rochdale-152986",
+        "regular_beers": [
+          "Pictish — Lancashire Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Phoenix",
+          "Pictish",
+          "Serious"
+        ]
       }
     },
     {
@@ -4661,6 +5681,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Heaton%20Hops%20Heaton%20Chapel&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/heaton-hops-heaton-chapel-167108",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -4704,6 +5730,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Irwell%20Works%20Brewery%20Tap%20Ramsbottom&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/irwell-works-brewery-tap-ramsbottom-152570",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Irwell Works"
+        ]
       }
     },
     {
@@ -4742,6 +5776,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Lower%20Angel%20Warrington&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/lower-angel-warrington-138136",
+        "regular_beers": [
+          "Wily Fox — Warrington Wire Best Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Wily Fox"
+        ]
       }
     },
     {
@@ -4786,6 +5830,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Northumberland%20Arms%20Marple%20Bridge&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/northumberland-arms-marple-bridge-120589",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -4830,6 +5880,20 @@
       "untappd": {
         "url": "https://untappd.com/v/the-old-harkers-arms/118352",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/old-harkers-arms-chester-137108",
+        "regular_beers": [
+          "Weetwood — Cheshire Cat",
+          "Weetwood — Eastgate",
+          "Phoenix — Boss Man’s Brew",
+          "Facer’s — Plum Porter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Weetwood",
+          "Phoenix"
+        ]
       }
     },
     {
@@ -4867,6 +5931,22 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Olde%20Cottage%20Chester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/olde-cottage-chester-137106",
+        "regular_beers": [
+          "Otter — Bitter",
+          "Wye Valley — HPA"
+        ],
+        "recent_beers": [
+          "Merlin — Dark Magic",
+          "Merlin — King’s Ale",
+          "Brightside — Maverick IPA"
+        ],
+        "changing_breweries": [
+          "Merlin",
+          "Weetwood"
+        ]
       }
     },
     {
@@ -4904,6 +5984,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Olde%20Man%20%26%20Scythe%20Bolton&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/olde-man-scythe-bolton-122503",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -4948,6 +6034,20 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Park%20Tavern%20Macclesfield&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/park-tavern-macclesfield-173129",
+        "regular_beers": [
+          "Bollington — Bollington Best",
+          "Bollington — Oat Mill Stout",
+          "Bollington — White Nancy",
+          "Bollington — Long Hop",
+          "Bollington — Eastern Nights"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bollington"
+        ]
       }
     },
     {
@@ -4992,6 +6092,18 @@
       "untappd": {
         "url": "https://untappd.com/v/petersgate-tap/5515752",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/petersgate-tap-stockport-167121",
+        "regular_beers": [],
+        "recent_beers": [
+          "Vocation — Pride & Joy",
+          "RedWillow — Breakfast Stout",
+          "Acorn — Blonde"
+        ],
+        "changing_breweries": [
+          "RedWillow"
+        ]
       }
     },
     {
@@ -5037,6 +6149,15 @@
       "untappd": {
         "url": "https://untappd.com/v/the-rat-and-ratchet/99401",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/rat-ratchet-huddersfield-178787",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Rat",
+          "Ossett"
+        ]
       }
     },
     {
@@ -5087,6 +6208,17 @@
       "untappd": {
         "url": "https://untappd.com/v/redwillow/1056027",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/redwillow-macclesfield-173309",
+        "regular_beers": [
+          "RedWillow — Feckless",
+          "RedWillow — Wreckless"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "RedWillow"
+        ]
       }
     },
     {
@@ -5137,6 +6269,15 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Riverhead%20Brewery%20Tap%20Marsden&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/riverhead-brewery-tap-marsden-178796",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Riverhead",
+          "Ossett"
+        ]
       }
     },
     {
@@ -5188,6 +6329,14 @@
       "untappd": {
         "url": "https://untappd.com/v/rivington-brew-co/9602969",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/rivington-brewery-co-tap-rivington-180304",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Rivington"
+        ]
       }
     },
     {
@@ -5238,6 +6387,14 @@
       "untappd": {
         "url": "https://untappd.com/v/runaway-taproom/11704032",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/runaway-brewery-tap-stockport-196567",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Runaway"
+        ]
       }
     },
     {
@@ -5283,6 +6440,12 @@
       "untappd": {
         "url": "https://untappd.com/v/stalybridge-buffet-bar/103951",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/station-buffet-bar-stalybridge-120842",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -5328,6 +6491,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Swan%20%26%20Railway%20Hotel%20Wigan&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/swan-railway-hotel-wigan-172297",
+        "regular_beers": [
+          "Bank Top — Dark Mild",
+          "Draught Bass"
+        ],
+        "recent_beers": [
+          "Bank Top — Draymans Draught",
+          "Theakston — Portergiest"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -5372,6 +6547,19 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Swan%20with%20Two%20Necks%20Stockport&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/swan-with-two-necks-stockport-167694",
+        "regular_beers": [
+          "Robinsons — Dizzy Blonde",
+          "Robinsons — Old Tom (winter)",
+          "Robinsons — Trooper (summer)",
+          "Robinsons — Unicorn"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Robinsons"
+        ]
       }
     },
     {
@@ -5430,6 +6618,14 @@
       "untappd": {
         "url": "https://untappd.com/v/that-beer-place/11259967",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/that-beer-place-chester-136994",
+        "regular_beers": [],
+        "recent_beers": [
+          "Pomona Island — Tarquell"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -5473,6 +6669,16 @@
       "untappd": {
         "url": "https://untappd.com/v/the-baum/100940",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/baum-rochdale-152799",
+        "regular_beers": [
+          "Wakey Wakey — Bright and Early",
+          "Wakey Wakey — Serious Moonlight",
+          "Pictish — Lancashire Bitter"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -5511,6 +6717,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Blossoms%20Stockport&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/blossoms-stockport-167301",
+        "regular_beers": [
+          "Robinsons — Dizzy Blonde",
+          "Robinsons — Old Tom",
+          "Robinsons — Unicorn"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Robinsons"
+        ]
       }
     },
     {
@@ -5556,6 +6774,20 @@
       "untappd": {
         "url": "https://untappd.com/v/the-brewery-tap/17063",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/brewery-tap-chester-137016",
+        "regular_beers": [
+          "Spitting Feathers — Thirstquencher"
+        ],
+        "recent_beers": [
+          "Spitting Feathers — Session Beer"
+        ],
+        "changing_breweries": [
+          "Salopian",
+          "Thornbridge",
+          "Spitting Feathers"
+        ]
       }
     },
     {
@@ -5600,6 +6832,14 @@
       "untappd": {
         "url": "https://untappd.com/v/the-cellar/118414",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cellar-chester-137085",
+        "regular_beers": [
+          "Timothy Taylor — Landlord"
+        ],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -5650,6 +6890,12 @@
       "untappd": {
         "url": "https://untappd.com/v/the-firkin/2207653",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/firkin-newton-le-willows-171124",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -5693,6 +6939,20 @@
       "untappd": {
         "url": "https://untappd.com/v/the-magnet/10834",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/magnet-stockport-167490",
+        "regular_beers": [
+          "Salopian — Oracle"
+        ],
+        "recent_beers": [
+          "Bathams — Best Bitter",
+          "Allendale — Black Grouse"
+        ],
+        "changing_breweries": [
+          "RedWillow",
+          "Track"
+        ]
       }
     },
     {
@@ -5743,6 +7003,18 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Pied%20Bull%20Chester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/pied-bull-chester-137130",
+        "regular_beers": [],
+        "recent_beers": [
+          "Pied Bull — Minotaur",
+          "Pied Bull — Pied.P.A.",
+          "Pied Bull — Doubull Troubull"
+        ],
+        "changing_breweries": [
+          "Pied Bull"
+        ]
       }
     },
     {
@@ -5788,6 +7060,22 @@
       "untappd": {
         "url": "https://untappd.com/v/the-sportsman/89962",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/sportsman-huddersfield-178836",
+        "regular_beers": [
+          "Timothy Taylor — Boltmaker"
+        ],
+        "recent_beers": [
+          "Rooster’s — Scoundrel",
+          "Rooster’s — YPA",
+          "Mallinsons — Mosaic"
+        ],
+        "changing_breweries": [
+          "Mallinsons",
+          "Thornbridge",
+          "Vocation"
+        ]
       }
     },
     {
@@ -5831,6 +7119,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Trackside%20Bury&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/trackside-bury-153438",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -5888,6 +7182,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Torr%20Vale%20Tap%20High%20Peak&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/torr-vale-tap-new-mills-121072",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Blackjack",
+          "Thornsett",
+          "Torrside"
+        ]
       }
     },
     {
@@ -5945,6 +7249,15 @@
       "untappd": {
         "url": "https://untappd.com/v/turks-head/6971682",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/turks-head-st-helens-145236",
+        "regular_beers": [],
+        "recent_beers": [
+          "Thornbridge — Old Badequella",
+          "Thornbridge — Imperial Stout"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -5983,6 +7296,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Waters%20Green%20Tavern%20Macclesfield&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/waters-green-tavern-macclesfield-173047",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6027,6 +7346,19 @@
       "untappd": {
         "url": "https://untappd.com/v/wigan-central/2344333",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/wigan-central-wigan-171968",
+        "regular_beers": [
+          "Bank Top — Signal"
+        ],
+        "recent_beers": [
+          "Brass Castle — Bad Kitty",
+          "Bank Top — Hercules"
+        ],
+        "changing_breweries": [
+          "Bank Top"
+        ]
       }
     },
     {
@@ -6064,6 +7396,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Ye%20Olde%20Vic%20Stockport&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/olde-vic-stockport-167522",
+        "regular_beers": [],
+        "recent_beers": [
+          "Fyne Ales — Jarl",
+          "Oakham — Citra",
+          "Brew York — Tonkoko"
+        ],
+        "changing_breweries": []
       }
     },
     {
@@ -6109,6 +7451,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=%27Udders%20Orchard%20Cidery%20%26%20Tasting%20Rooms%20Huddersfield&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cider-mill-lindley-179124",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6162,6 +7510,20 @@
       "untappd": {
         "url": "https://untappd.com/v/fox-and-pine/10320137",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/fox-pine-oldham-152891",
+        "regular_beers": [
+          "Draught Bass"
+        ],
+        "recent_beers": [
+          "JW Lees — Boddingtons Bitter"
+        ],
+        "changing_breweries": [
+          "Durham",
+          "Mallinsons",
+          "Pictish"
+        ]
       }
     },
     {
@@ -6207,6 +7569,18 @@
       "untappd": {
         "url": "https://untappd.com/v/our-gracie-s/12386757",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/our-gracies-rochdale-194611",
+        "regular_beers": [],
+        "recent_beers": [
+          "Front Row — Pause"
+        ],
+        "changing_breweries": [
+          "Phoenix",
+          "Wakey Wakey",
+          "Whitworth Valley"
+        ]
       }
     },
     {
@@ -6246,6 +7620,16 @@
       "untappd": {
         "url": "https://untappd.com/v/the-coop/12379782",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/coop-liverpool-197076",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Black Lodge",
+          "Salopian",
+          "Thornbridge"
+        ]
       }
     },
     {
@@ -6290,6 +7674,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Broad%20Street%20Social%20Bury&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/broad-street-social-bury-152888",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Brewsmith"
+        ]
       }
     },
     {
@@ -6330,6 +7722,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Grocers%20Cadishead&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/grocers-cadishead-170709",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6375,6 +7773,16 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Bank%20Top%20Brewery%20Ale%20House%20Horwich&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bank-top-brewery-ale-house-horwich-122462",
+        "regular_beers": [
+          "Bank Top — Dark Mild"
+        ],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Bank Top"
+        ]
       }
     },
     {
@@ -6420,6 +7828,14 @@
       "untappd": {
         "url": "https://untappd.com/search?q=B33R%4033%20Horwich&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/b33r-at-33-horwich-195547",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Rivington"
+        ]
       }
     },
     {
@@ -6458,6 +7874,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Bow-Legged%20Beagle%20Bromborough&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/bow-legged-beagle-bromborough-132586",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6496,6 +7918,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Dee%20View%20Inn%20Heswall&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/dee-view-inn-heswall-131954",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6533,6 +7961,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Black%20Cat%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/black-cat-rose-lane-liverpool-166207",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6571,6 +8005,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Cobden%20Vaults%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/cobden-liverpool-165596",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6609,6 +8049,14 @@
       "untappd": {
         "url": "https://untappd.com/v/fell-northern-quarter/13004450",
         "kind": "venue"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": [
+          "Fell"
+        ]
       }
     },
     {
@@ -6648,6 +8096,12 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Pigeon%20Beer%20Wanderer%20Manchester&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108",
+        "regular_beers": [],
+        "recent_beers": [],
+        "changing_breweries": []
       }
     },
     {
@@ -6686,6 +8140,19 @@
       "untappd": {
         "url": "https://untappd.com/search?q=Corner%20Post%20Liverpool&type=venues",
         "kind": "search"
+      },
+      "camra": {
+        "url": "https://camra.org.uk/pubs/corner-post-liverpool-166043",
+        "regular_beers": [],
+        "recent_beers": [
+          "Hawkshead — Iti",
+          "Reedley Hallows — Filly Close Blonde",
+          "Ossett — Jet"
+        ],
+        "changing_breweries": [
+          "Colbier",
+          "Rock the Boat"
+        ]
       }
     }
   ]

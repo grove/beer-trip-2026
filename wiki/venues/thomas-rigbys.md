@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic multiroom beer pub |
 | Address | 23–25 Dale Street, Liverpool L2 2EZ · [Map search](https://www.google.com/maps/search/?api=1&query=Thomas%20Rigby%E2%80%99s%2C%2023%E2%80%9325%20Dale%20Street%2C%20Liverpool%20L2%202EZ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Thomas%20Rigby%27s%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/thomas-rigbys-liverpool-165717) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ Worth including for the combination of cask, food and several distinct rooms in 
 ## Beer
 
 CAMRA lists Okell’s Bitter and Hawkshead Windermere Pale with changing cask guests; draught and bottled world beers broaden the range.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/thomas-rigbys-liverpool-165717) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Okell’s — Bitter; Hawkshead — Windermere Pale.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

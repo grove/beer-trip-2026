@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Traditional freehouse |
 | Address | 6 Angel Street, Manchester, M4 4BQ · [Map search](https://www.google.com/maps/search/?api=1&query=Angel%2C%206%20Angel%20Street%2C%20Manchester%2C%20M4%204BQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Angel%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/angel-manchester-137389) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A worthwhile traditional-pub stop in Angel Meadow, where the modest old building
 ## Beer
 
 CAMRA describes six changing cask beers; the operator emphasises regional rotation. The house Fallen Angel bitter’s brewer is not disclosed in the cited listing.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/angel-manchester-137389) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Fallen Angel (house bitter; brewer not published).
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Tiny historic beerhouse |
 | Address | 86 Portland Street, Manchester, M1 4GX · [Map search](https://www.google.com/maps/search/?api=1&query=Circus%20Tavern%2C%2086%20Portland%20Street%2C%20Manchester%2C%20M1%204GX) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Circus%20Tavern%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/circus-tavern-manchester-137595) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The tiny rooms and miniature servery make this one of the most distinctive tradi
 ## Beer
 
 CAMRA documents two cask beers; choose for the pub experience rather than breadth of selection.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/circus-tavern-manchester-137595) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Real-cider and cask micropub |
 | Address | 13 The Butts, Rochdale, OL16 1ES · [Map search](https://www.google.com/maps/search/?api=1&query=Our%20Gracie%E2%80%99s%2C%2013%20The%20Butts%2C%20Rochdale%2C%20OL16%201ES) |
 | Untappd | [Venue page](https://untappd.com/v/our-gracie-s/12386757) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/our-gracies-rochdale-194611) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ The key missing stop from the first Rochdale list. Five rotating local casks are
 ## Beer
 
 Five changing cask ales with local producers prominent, plus keg from regional breweries. CAMRA names Phoenix, Wakey Wakey and Whitworth Valley among its changing breweries, with Front Row Pause stout a recent example.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/our-gracies-rochdale-194611) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Front Row — Pause.
+
+**Named changing/house breweries:** Phoenix; Wakey Wakey; Whitworth Valley.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional two-room pub |
 | Address | 46–48 Kennedy Street, Manchester, M2 4BQ · [Map search](https://www.google.com/maps/search/?api=1&query=City%20Arms%2C%2046%E2%80%9348%20Kennedy%20Street%2C%20Manchester%2C%20M2%204BQ) |
 | Untappd | [Venue page](https://untappd.com/v/city-arms/31033) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/city-arms-manchester-137676) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ A compact city-centre local with the cask depth of a dedicated beer destination.
 ## Beer
 
 CAMRA records eight handpumps, mostly rotating beers, with a mild often available and a vegan cask option documented. Ask what is freshly tapped rather than relying on a historic beer list. Brightside Odin Blonde is a named regular CAMRA cask lead; most other handpumps and the reported mild selection rotate.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/city-arms-manchester-137676) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Brightside — Odin Blonde.
+
+**Recently seen or reported (not regulars):** RedWillow — Feckless; Rooster’s — Scoundrel.
+
+**Named changing/house breweries:** Brightside; Titanic; Neptune; Thornbridge.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

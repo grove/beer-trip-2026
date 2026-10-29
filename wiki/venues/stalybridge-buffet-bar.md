@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Victorian station buffet pub |
 | Address | Platform 4, Stalybridge Railway Station, Rassbottom Street, Stalybridge, SK15 1RF · [Map search](https://www.google.com/maps/search/?api=1&query=Stalybridge%20Buffet%20Bar%2C%20Platform%204%2C%20Stalybridge%20Railway%20Station%2C%20Rassbottom%20Street%2C%20Stalybridge%2C%20SK15%201RF) |
 | Untappd | [Venue page](https://untappd.com/v/stalybridge-buffet-bar/103951) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/station-buffet-bar-stalybridge-120842) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ One of the most distinctive pub experiences near Manchester: a surviving Victori
 ## Beer
 
 CAMRA describes up to ten changing cask beers, often local; the operator confirms a sustained cask focus.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/station-buffet-bar-stalybridge-120842) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

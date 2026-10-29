@@ -269,7 +269,12 @@
       untappd.href = venue.untappd?.url || "https://untappd.com/search";
       untappd.target = "_blank";
       untappd.rel = "noopener noreferrer";
-      div.append(wiki, element("span", "", " · "), maps, element("span", "", " · "), untappd);
+      const camra = element("a", "", "CAMRA beer list");
+      camra.href = venue.camra.url;
+      camra.target = "_blank";
+      camra.rel = "noopener noreferrer";
+      div.append(wiki, element("span", "", " · "), maps, element("span", "", " · "),
+        untappd, element("span", "", " · "), camra);
       return div;
     }
 
@@ -310,7 +315,11 @@
       untappd.href = venue.untappd?.url || "https://untappd.com/search";
       untappd.target = "_blank";
       untappd.rel = "noopener noreferrer";
-      buttons.append(details, destination, untappd);
+      const camra = element("a", "", "CAMRA beer list");
+      camra.href = venue.camra.url;
+      camra.target = "_blank";
+      camra.rel = "noopener noreferrer";
+      buttons.append(details, destination, untappd, camra);
       item.append(buttons);
       if (!coordinates[postcode(venue.address)]) {
         item.append(element("span", "pub-map__unlocated", "Address search only — no approximate pin"));

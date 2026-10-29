@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent beer bar |
 | Address | 72 Lime Street, Liverpool L1 1JN · [Map search](https://www.google.com/maps/search/?api=1&query=Liverpool%20Brewing%20Company%20Tap%20%E2%80%94%20formerly%20Sanctuary%2C%2072%20Lime%20Street%2C%20Liverpool%20L1%201JN) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Liverpool%20Brewing%20Company%20Tap%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/liverpool-brewing-company-tap-liverpool-166256) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A useful beer-led alternative to the ornate station-area pubs, especially when y
 ## Beer
 
 CAMRA describes a light-to-dark cask range, craft taps and bottled beer.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/liverpool-brewing-company-tap-liverpool-166256) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Liverpool Brewing Company.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

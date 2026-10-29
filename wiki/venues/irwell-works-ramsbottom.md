@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery tap in former engineering works |
 | Address | Irwell Street, Ramsbottom, BL0 9YQ · [Map search](https://www.google.com/maps/search/?api=1&query=Irwell%20Works%20Brewery%20Tap%2C%20Irwell%20Street%2C%20Ramsbottom%2C%20BL0%209YQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Irwell%20Works%20Brewery%20Tap%20Ramsbottom&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/irwell-works-brewery-tap-ramsbottom-152570) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A satisfying local-brewery destination in an industrial building with a strong s
 ## Beer
 
 Official site confirms onsite ales; CAMRA describes a broad range of Irwell Works cask beers, mainly using English hops/barley.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/irwell-works-brewery-tap-ramsbottom-152570) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Irwell Works.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

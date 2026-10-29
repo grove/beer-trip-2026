@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Independent cask and craft pub |
 | Address | 18 Shaws Road, Altrincham, WA14 1QU · [Map search](https://www.google.com/maps/search/?api=1&query=Beacon%2C%2018%20Shaws%20Road%2C%20Altrincham%2C%20WA14%201QU) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Beacon%20Altrincham&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/beacon-altrincham-130225) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A worthwhile second Altrincham stop when you want independent cask alongside mod
 ## Beer
 
 CAMRA’s October 2026 entry reports three cask ales, often MBH/Mobberley, plus independent keg from regional breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/beacon-altrincham-130225) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

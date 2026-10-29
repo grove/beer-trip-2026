@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Georgian house transformed into a traditional-style pub |
 | Address | 92 Duke Street, Liverpool L1 5AG · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Monro%2C%2092%20Duke%20Street%2C%20Liverpool%20L1%205AG) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Monro%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/monro-liverpool-166467) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A particularly appealing November stop: a Georgian former merchant’s house wit
 ## Beer
 
 The official website advertises a broad cask-ale and stout selection; CAMRA confirms cask. Ask which stouts are cask rather than assuming all are.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/monro-liverpool-166467) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

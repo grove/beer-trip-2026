@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Railway-arch ale and cider bar |
 | Address | Arches 1 & 2, Queen Street, Wigan, WN3 4DY · [Map search](https://www.google.com/maps/search/?api=1&query=Wigan%20Central%2C%20Arches%201%20%26%202%2C%20Queen%20Street%2C%20Wigan%2C%20WN3%204DY) |
 | Untappd | [Venue page](https://untappd.com/v/wigan-central/2344333) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/wigan-central-wigan-171968) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ A particularly efficient excursion for beer travellers because it is close to bo
 ## Beer
 
 Official site advertises seven changing real ales and a broad bottle range; current choices are linked from its live board. Its regular Signal house bitter is brewed by Bank Top (based on Flat Cap); recent changing casks include Brass Castle Bad Kitty and Bank Top Hercules.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/wigan-central-wigan-171968) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Bank Top — Signal.
+
+**Recently seen or reported (not regulars):** Brass Castle — Bad Kitty; Bank Top — Hercules.
+
+**Named changing/house breweries:** Bank Top.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

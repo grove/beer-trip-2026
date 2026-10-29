@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic timber-framed pub |
 | Address | 4 Cathedral Gates, Manchester, M3 1SW · [Map search](https://www.google.com/maps/search/?api=1&query=Old%20Wellington%2C%204%20Cathedral%20Gates%2C%20Manchester%2C%20M3%201SW) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Old%20Wellington%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/old-wellington-manchester-137520) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The timber-framed building is a striking contrast to the tiled Victorian pubs el
 ## Beer
 
 CAMRA documents Nicholson’s Pale Ale and changing cask guests; the number operating varies.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/old-wellington-manchester-137520) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Nicholson’s — Pale Ale.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

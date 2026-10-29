@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Traditional ale pub with food |
 | Address | 33–37 Toad Lane, Rochdale, OL12 0NU · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Baum%2C%2033%E2%80%9337%20Toad%20Lane%2C%20Rochdale%2C%20OL12%200NU) |
 | Untappd | [Venue page](https://untappd.com/v/the-baum/100940) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/baum-rochdale-152799) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong reason to consider Rochdale: intimate traditional rooms, serious changi
 ## Beer
 
 CAMRA documents seven changing real ales, plus continental draught and bottled options. CAMRA names Wakey Wakey Bright and Early and Serious Moonlight stout as regulars, alongside Pictish-brewed Lancashire Bitter house cask.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/baum-rochdale-152799) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Wakey Wakey — Bright and Early; Wakey Wakey — Serious Moonlight; Pictish — Lancashire Bitter.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

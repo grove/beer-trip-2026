@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Spitting Feathers brewery-owned ale house |
 | Address | Grange Road, West Kirby CH48 4DY · [Map search](https://www.google.com/maps/search/?api=1&query=West%20Kirby%20Tap%2C%20Grange%20Road%2C%20West%20Kirby%20CH48%204DY) |
 | Untappd | [Venue page](https://untappd.com/v/the-west-kirby-tap/1691474) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/west-kirby-tap-west-kirby-132144) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ An excellent endpoint for a Wirral rail excursion, combining a substantial beer 
 ## Beer
 
 Spitting Feathers cask and rotating guests are documented; choose from the actual board rather than assuming a fixed total. CAMRA lists Spitting Feathers Session Beer and Thirstquencher as regular casks, with Big Hand and Peerless among changing breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/west-kirby-tap-west-kirby-132144) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Spitting Feathers — Session Beer; Spitting Feathers — Thirstquencher.
+
+**Recently seen or reported (not regulars):** Thornbridge — Old Badequella.
+
+**Named changing/house breweries:** Big Hand; Peerless.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

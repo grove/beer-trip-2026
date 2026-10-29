@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Traditional Hydes pub |
 | Address | 1 William Street, Didsbury, Manchester, M20 6RQ · [Map search](https://www.google.com/maps/search/?api=1&query=Fletcher%20Moss%2C%201%20William%20Street%2C%20Didsbury%2C%20Manchester%2C%20M20%206RQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Fletcher%20Moss%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/fletcher-moss-didsbury-167389) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A strong choice for experiencing a successful suburban brewery pub: small tradit
 ## Beer
 
 Hydes cask is the focus; CAMRA lists Original, Dark Ruby mild and other regular/seasonal Hydes ales.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/fletcher-moss-didsbury-167389) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Hydes — Original; Hydes — Dark Ruby; Hydes — Lowry; Hydes — Hopster.
+
+**Named changing/house breweries:** Hydes.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

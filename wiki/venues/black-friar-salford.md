@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Restored pub and restaurant |
 | Address | 41–43 Blackfriars Road, Salford, M3 7DB · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Friar%2C%2041%E2%80%9343%20Blackfriars%20Road%2C%20Salford%2C%20M3%207DB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Black%20Friar%20Salford&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/black-friar-salford-170824) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A food-led choice that still has a legitimate cask reason to visit. The restored
 ## Beer
 
 CAMRA documents two cask handpumps, usually with local beer; check which are operating on the day.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/black-friar-salford-170824) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

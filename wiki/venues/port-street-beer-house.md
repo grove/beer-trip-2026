@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Specialist beer house |
 | Address | 39–41 Port Street, Manchester, M1 2EQ · [Map search](https://www.google.com/maps/search/?api=1&query=Port%20Street%20Beer%20House%2C%2039%E2%80%9341%20Port%20Street%2C%20Manchester%2C%20M1%202EQ) |
 | Untappd | [Venue page](https://untappd.com/v/port-street-beer-house/18005) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/port-street-beer-house-manchester-137529) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong anchor for the beer-discovery side of the trip. The substantial cask of
 ## Beer
 
 Seven handpumps are documented, with changing cask mainly from northern breweries, alongside a broad keg and bottle selection. The rotating cask range recently included Colbier Forte and Thornbridge Old Badequella, according to CAMRA. Neither is a fixed beer.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/port-street-beer-house-manchester-137529) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Colbier — Forte; Thornbridge — Old Badequella.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Post-office-conversion cask and cider micropub |
 | Address | 25 Bridge Road, Crosby, Liverpool, L23 6SA · [Map search](https://www.google.com/maps/search/?api=1&query=Corner%20Post%2C%2025%20Bridge%20Road%2C%20Crosby%2C%20Liverpool%2C%20L23%206SA) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Corner%20Post%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/corner-post-liverpool-166043) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A characterful small cask stop in a former post office, complete with the old po
 ## Beer
 
 Four changing cask ales from smaller breweries, with Colbier and Rock the Boat among the reported guest producers. Recent CAMRA sightings include Hawkshead Iti, Reedley Hallows Filly Close Blonde and Ossett Jet, in addition to the reported Colbier and Rock the Boat guest producers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/corner-post-liverpool-166043) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Hawkshead — Iti; Reedley Hallows — Filly Close Blonde; Ossett — Jet.
+
+**Named changing/house breweries:** Colbier; Rock the Boat.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

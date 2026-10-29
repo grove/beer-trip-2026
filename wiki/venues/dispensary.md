@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Cask-focused city pub |
 | Address | 87 Renshaw Street, Liverpool L1 2SP · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Dispensary%2C%2087%20Renshaw%20Street%2C%20Liverpool%20L1%202SP) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Dispensary%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/dispensary-liverpool-165589) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A compact, lively stop for people interested in the beer as much as the building
 ## Beer
 
 CAMRA lists regular cask including Oakham Citra and Titanic Plum Porter, with changing guests; these are documented examples, not a November promise.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/dispensary-liverpool-165589) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Oakham — Citra; Titanic — Plum Porter; Ossett — White Rat.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

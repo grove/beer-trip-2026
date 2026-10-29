@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional specialist free house |
 | Address | 11 Bexley Square, Salford, M3 6DB · [Map search](https://www.google.com/maps/search/?api=1&query=New%20Oxford%2C%2011%20Bexley%20Square%2C%20Salford%2C%20M3%206DB) |
 | Untappd | [Venue page](https://untappd.com/v/the-new-oxford/25568) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/new-oxford-salford-170923) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ The clearest Salford anchor for a visit driven by cask variety. Its corner-pub r
 ## Beer
 
 CAMRA records eleven handpumps with regional changing ales and usually a dark beer; a large Belgian beer range complements them. CAMRA lists Moorhouse’s White Witch as its house pale and Thornbridge Jaipur as regulars; Wharfedale Porter and Brass Castle Best Bitter have been spotted as changing guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/new-oxford-salford-170923) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Moorhouse’s — New Oxford Pale (White Witch recipe); Thornbridge — Jaipur.
+
+**Recently seen or reported (not regulars):** Wharfedale — Porter; Brass Castle — Best Bitter.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

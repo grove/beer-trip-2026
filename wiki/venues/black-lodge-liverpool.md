@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Working brewery taproom |
 | Address | 3 Kings Dock Street, Liverpool L1 8JU · [Map search](https://www.google.com/maps/search/?api=1&query=Black%20Lodge%20Brewery%20%26%20Taproom%2C%203%20Kings%20Dock%20Street%2C%20Liverpool%20L1%208JU) |
 | Untappd | [Venue page](https://untappd.com/v/black-lodge-brewing/9223251) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The best fit among the central production taprooms when you want to retain a cas
 ## Beer
 
 The brewery explicitly advertises its own beers on cask and keg; CAMRA records changing Black Lodge cask.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/black-lodge-brewery-liverpool-166062) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Black Lodge.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
