@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Cider specialist, beer bar and bottle shop |
 | Address | 116 Foregate Street, Chester · [Map search](https://www.google.com/maps/search/?api=1&query=That%20Beer%20Place%2C%20116%20Foregate%20Street%2C%20Chester) |
 | Untappd | [Venue page](https://untappd.com/v/that-beer-place/11259967) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/that-beer-place-chester-136994) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The clearest reason for cider enthusiasts to give Chester serious space in the i
 ## Beer
 
 Official site describes a broad draught and bottle range including dark and sour beer; CAMRA records cask introduced in 2024. Verify current cask availability.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/that-beer-place-chester-136994) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Pomona Island — Tarquell.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

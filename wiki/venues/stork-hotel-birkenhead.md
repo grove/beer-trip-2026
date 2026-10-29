@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Exceptional historic pub interior |
 | Address | 41–43 Price Street, Birkenhead CH41 6JN · [Map search](https://www.google.com/maps/search/?api=1&query=Stork%20Hotel%2C%2041%E2%80%9343%20Price%20Street%2C%20Birkenhead%20CH41%206JN) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Stork%20Hotel%20Birkenhead&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/stork-hotel-birkenhead-131918) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A justified architecture-only exception to the real-ale emphasis. The curved cor
 ## Beer
 
 CAMRA explicitly states that cask beer is not available, based on a July 2026 update.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/stork-hotel-birkenhead-131918) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

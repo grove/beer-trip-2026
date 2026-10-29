@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Working-brewery taproom |
 | Address | Unit 18, Piccadilly Trading Estate, Manchester, M1 2NP · [Map search](https://www.google.com/maps/search/?api=1&query=Track%20Brewery%20Tap%2C%20Unit%2018%2C%20Piccadilly%20Trading%20Estate%2C%20Manchester%2C%20M1%202NP) |
 | Untappd | [Venue page](https://untappd.com/v/track-brewing-co-taproom-20/10905443) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/track-brewery-tap-manchester-137330) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A brewery experience with a clear cask component, making it a useful modern comp
 ## Beer
 
 Official site advertises three cask and twenty keg lines, mainly Track with occasional guests; CAMRA lists Sonoma as regular cask.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/track-brewery-tap-manchester-137330) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Track — Sonoma.
+
+**Named changing/house breweries:** Track.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

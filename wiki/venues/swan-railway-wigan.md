@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Restored Victorian railway pub |
 | Address | 80 Wallgate, Wigan, WN1 1BA · [Map search](https://www.google.com/maps/search/?api=1&query=Swan%20%26%20Railway%20Hotel%2C%2080%20Wallgate%2C%20Wigan%2C%20WN1%201BA) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Swan%20%26%20Railway%20Hotel%20Wigan&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/swan-railway-hotel-wigan-172297) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ The natural companion to Wigan Central and a good destination in its own right. 
 ## Beer
 
 CAMRA records seven handpumps with Draught Bass and Bank Top Dark Mild among the regulars, plus guests; check availability.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/swan-railway-hotel-wigan-172297) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Bank Top — Dark Mild; Draught Bass.
+
+**Recently seen or reported (not regulars):** Bank Top — Draymans Draught; Theakston — Portergiest.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

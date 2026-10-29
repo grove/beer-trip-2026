@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Small brewery taproom |
 | Address | 108 Temperance Street, Manchester, M12 6HR · [Map search](https://www.google.com/maps/search/?api=1&query=Steelfish%20Brewing%20Company%20Taproom%2C%20108%20Temperance%20Street%2C%20Manchester%2C%20M12%206HR) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Steelfish%20Brewing%20Company%20Taproom%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/steelfish-brewing-company-taproom-manchester-199625) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A useful newer addition for beer hunters who already know Manchester’s establi
 ## Beer
 
 CAMRA documents three changing cask lines, generally Steelfish and local guests, alongside six changing keg lines.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/steelfish-brewing-company-taproom-manchester-199625) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Steelfish.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
