@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Brewery neighbourhood bar |
 | Address | 518 Wilbraham Road, Chorlton-cum-Hardy, M21 9AW · [Map search](https://www.google.com/maps/search/?api=1&query=Fell%20Chorlton%2C%20518%20Wilbraham%20Road%2C%20Chorlton-cum-Hardy%2C%20M21%209AW) |
 | Untappd | [Venue page](https://untappd.com/v/fell-bar-chorlton/10048293) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/fell-bar-chorlton-chorlton-cum-hardy-129887) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A relaxed neighbourhood route into Fell’s Cumbrian brewing, especially useful 
 ## Beer
 
 The brewery advertises four cask lines with Fell and guest beer; CAMRA notes that a dark beer is usual, with mild and porter among the styles seen. Fell Dark Mild 3.4% is one recently reported cask example rather than a permanent listed pour.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/fell-bar-chorlton-chorlton-cum-hardy-129887) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Fell — Dark Mild.
+
+**Named changing/house breweries:** Fell.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

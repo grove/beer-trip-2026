@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Tiled historic-building conversion |
 | Address | 2 St John’s Lane, Liverpool L1 1HF · [Map search](https://www.google.com/maps/search/?api=1&query=Doctor%20Duncan%E2%80%99s%2C%202%20St%20John%E2%80%99s%20Lane%2C%20Liverpool%20L1%201HF) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Doctor%20Duncan%27s%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/doctor-duncans-liverpool-166406) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ Come for the green tiled room and stay for a local beer and a meal. The former i
 ## Beer
 
 The operator explicitly advertises real ales and craft beers; CAMRA confirms cask service. CAMRA identifies Beartown Best Bitter as a regular cask lead.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/doctor-duncans-liverpool-166406) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Beartown — Best Bitter.
+
+**Named changing/house breweries:** Beartown.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

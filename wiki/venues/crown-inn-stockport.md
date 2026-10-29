@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional multi-room free house |
 | Address | 154 Heaton Lane, Stockport, SK4 1AR · [Map search](https://www.google.com/maps/search/?api=1&query=Crown%20Inn%2C%20154%20Heaton%20Lane%2C%20Stockport%2C%20SK4%201AR) |
 | Untappd | [Venue page](https://untappd.com/v/the-crown-inn/38126) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/crown-inn-stockport-167360) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The dramatic railway viaduct setting and several small drinking rooms make this 
 ## Beer
 
 Current CAMRA description records free-of-tie handpumps, smaller breweries and Draught Bass among the normal offering.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/crown-inn-stockport-167360) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

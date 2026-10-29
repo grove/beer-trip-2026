@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Independent city pub |
 | Address | 10 Hackins Hey, Liverpool L2 2AW · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Denbigh%20Castle%2C%2010%20Hackins%20Hey%2C%20Liverpool%20L2%202AW) |
 | Untappd | [Venue page](https://untappd.com/v/the-denbigh-castle/10077688) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/denbigh-castle-liverpool-166435) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A small-street beer stop with a useful breadth beyond British cask: German lager
 ## Beer
 
 Operator confirms cask, craft beer and German lagers; CAMRA lists Kirkstall Bitter and changing guests.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/denbigh-castle-liverpool-166435) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Kirkstall — Bitter.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

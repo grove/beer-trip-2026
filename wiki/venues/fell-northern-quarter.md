@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Brewery-operated cask and cider beer bar |
 | Address | 35 Dale Street, Manchester, M1 2HF · [Map search](https://www.google.com/maps/search/?api=1&query=Fell%20Northern%20Quarter%2C%2035%20Dale%20Street%2C%20Manchester%2C%20M1%202HF) |
 | Untappd | [Venue page](https://untappd.com/v/fell-northern-quarter/13004450) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A strong addition when your city-centre afternoon is beer-led: Fell's Cumbrian a
 ## Beer
 
 Four changing cask lines alongside a larger keg selection; check whether any porter or mild is currently pouring. CAMRA says the changing cask is usually brewed by Fell, although an individual release is not a permanent fixture.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/fell-northern-quarter-manchester-137325) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Fell.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

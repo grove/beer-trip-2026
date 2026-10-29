@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Craft keg bar and bottle shop |
 | Address | 92 Dale Street, Liverpool L2 5TF · [Map search](https://www.google.com/maps/search/?api=1&query=Dead%20Crafty%20Beer%20Company%20%E2%80%94%20Dale%20Street%2C%2092%20Dale%20Street%2C%20Liverpool%20L2%205TF) |
 | Untappd | [Venue page](https://untappd.com/v/the-dead-crafty-beer-company/4480846) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ The deliberate keg exception on the central route, useful for experienced beer t
 ## Beer
 
 CAMRA explicitly reports no cask ale. The venue specialises in rotating craft keg and bottled/canned beer.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/dead-crafty-beer-company-liverpool-166064) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
