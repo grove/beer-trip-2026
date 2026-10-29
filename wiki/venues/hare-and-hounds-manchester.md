@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Historic traditional pub |
 | Address | 46 Shudehill, Manchester, M4 4AA · [Map search](https://www.google.com/maps/search/?api=1&query=Hare%20%26%20Hounds%2C%2046%20Shudehill%2C%20Manchester%2C%20M4%204AA) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Hare%20%26%20Hounds%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/hare-hounds-manchester-137462) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A particularly rewarding example of the everyday northern pub interior: tiled pa
 ## Beer
 
 Current CAMRA listing gives Joseph Holt Bitter and Ossett White Rat as regular cask beers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/hare-hounds-manchester-137462) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Joseph Holt — Bitter; Ossett — White Rat.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

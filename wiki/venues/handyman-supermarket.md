@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Neighbourhood brewpub |
 | Address | 461 Smithdown Road, Liverpool L15 3JL · [Map search](https://www.google.com/maps/search/?api=1&query=Handyman%20Supermarket%2C%20461%20Smithdown%20Road%2C%20Liverpool%20L15%203JL) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Handyman%20Supermarket%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/handyman-supermarket-liverpool-166269) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A small-scale brewing experience with a distinctive origin: a former hardware sh
 ## Beer
 
 CAMRA describes own Handyman beers on handpull alongside keg and packaged choices.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/handyman-supermarket-liverpool-166269) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Named changing/house breweries:** Handyman.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

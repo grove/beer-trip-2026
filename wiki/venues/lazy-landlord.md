@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Independent cask and cider micropub |
 | Address | 56 Mill Lane, Liscard, Wallasey CH44 5UG · [Map search](https://www.google.com/maps/search/?api=1&query=The%20Lazy%20Landlord%2C%2056%20Mill%20Lane%2C%20Liscard%2C%20Wallasey%20CH44%205UG) |
 | Untappd | [Venue page](https://untappd.com/v/the-lazy-landlord-micro-pub/2477823) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/lazy-landlord-ale-house-liscard-132150) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ One of the strongest Wirral choices for cider and unhurried pub conversation. Tw
 ## Beer
 
 CAMRA records changing regional cask and says a dark beer is maintained; check the day’s board.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/lazy-landlord-ale-house-liscard-132150) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Oakham — Citra.
+
+**Named changing/house breweries:** Brimstage; Purple Moose; Salopian.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

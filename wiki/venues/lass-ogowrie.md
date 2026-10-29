@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional tiled pub |
 | Address | 36 Charles Street, Manchester, M1 7DB · [Map search](https://www.google.com/maps/search/?api=1&query=Lass%20O%E2%80%99Gowrie%2C%2036%20Charles%20Street%2C%20Manchester%2C%20M1%207DB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Lass%20O%27Gowrie%20Manchester&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/lass-ogowrie-manchester-137609) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A handsome glazed-tile pub that makes the Oxford Road cluster more than a two-st
 ## Beer
 
 CAMRA lists a house cask bitter plus four changing cask beers from local, regional and national brewers.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/lass-ogowrie-manchester-137609) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

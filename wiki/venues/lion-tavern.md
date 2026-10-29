@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Historic cask pub |
 | Address | 67 Moorfields, Liverpool L2 2BP · [Map search](https://www.google.com/maps/search/?api=1&query=Lion%20Tavern%2C%2067%20Moorfields%2C%20Liverpool%20L2%202BP) |
 | Untappd | [Venue page](https://untappd.com/v/lion-tavern/134294) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/lion-tavern-liverpool-165612) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,18 @@ One of the best combinations of traditional beer and decorative detail in either
 ## Beer
 
 Changing cask ales; official site advertises eight handpumps, while CAMRA’s listed beer count is lower. Do not assume every pump is pouring. CAMRA lists Otter Bitter as a regular cask lead; changing guests have included Higsons and Love Lane.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/lion-tavern-liverpool-165612) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Otter — Bitter.
+
+**Recently seen or reported (not regulars):** Small World — Long Moor Pale.
+
+**Named changing/house breweries:** Love Lane; Higsons.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

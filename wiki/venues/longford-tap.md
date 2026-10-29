@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Neighbourhood beer bar |
 | Address | Unit 107 Stretford Mall, King Street area, Stretford, M32 9BA · [Map search](https://www.google.com/maps/search/?api=1&query=Longford%20Tap%2C%20Unit%20107%20Stretford%20Mall%2C%20King%20Street%20area%2C%20Stretford%2C%20M32%209BA) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Longford%20Tap%20Stretford&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/longford-tap-stretford-129881) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A purposeful suburban choice for drinkers who want to compare several Manchester
 ## Beer
 
 CAMRA documents five cask lines, including a Marble-brewed house beer, with guests such as Brightside, RedWillow and Runaway.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/longford-tap-stretford-129881) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Marble — Longford Tap.
+
+**Named changing/house breweries:** Brightside; RedWillow; Runaway.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
