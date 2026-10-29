@@ -4912,11 +4912,11 @@
       },
       "camra": {
         "url": "https://camra.org.uk/pubs/wheatsheaf-inn-raby-132037",
-        "regular_beers": [
+        "regular_beers": [],
+        "recent_beers": [
           "Brimstage — Trapper’s Hat",
           "Timothy Taylor — Landlord"
         ],
-        "recent_beers": [],
         "changing_breweries": []
       }
     },
@@ -8101,9 +8101,7 @@
         "url": "https://camra.org.uk/pubs/pigeon-beer-wanderer-manchester-200108",
         "regular_beers": [],
         "recent_beers": [],
-        "changing_breweries": [
-          "Pigeon"
-        ]
+        "changing_breweries": []
       }
     },
     {

@@ -37,7 +37,7 @@ CAMRA lists cask options including Brimstage and Timothy Taylor, but explicitly 
 
 [Open this venue on CAMRA](https://camra.org.uk/pubs/wheatsheaf-inn-raby-132037) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
 
-**CAMRA-listed regular beers:** Brimstage — Trapper’s Hat; Timothy Taylor — Landlord.
+**Recently seen or reported (not regulars):** Brimstage — Trapper’s Hat; Timothy Taylor — Landlord.
 
 *Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
