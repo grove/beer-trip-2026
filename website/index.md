@@ -20,6 +20,8 @@ Manchester, Liverpool and the remarkable places in between — researched for th
 
 </div>
 
+**Beyond the pint:** discover street art, historic libraries, underground tunnels, live music and spectacular cathedrals **along the existing pub walks**. [See the day-specific walking guide](../wiki/walks-and-discoveries.md) for [Manchester](../wiki/walk-manchester.md), [Stockport](../wiki/walk-stockport.md) and [Liverpool](../wiki/walk-liverpool.md), including attractions closed on your actual visit days.
+
 ## Discover your kind of pub
 
 The **[interactive map](map.md)** now brings all 158 venues onto an approximate postcode map, with a Google My Maps export and date-specific route filters. Use exact-address Google Maps links when navigating to a pub.

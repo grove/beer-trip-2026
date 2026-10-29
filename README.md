@@ -18,6 +18,7 @@ Flight times are transcribed from the supplied booking screenshots; not live fli
 | --- | --- |
 | **What is best?** | **[Full 1–158 relevance ranking](wiki/rankings.md)** — both overall and within each region, with a distinct top 15 |
 | **What can we actually fit?** | **[9–14 November dated schedule](wiki/five-day-plan.md)** — actual flight constraints, opening-day caveats and 4 full-day walks |
+| **What can we see between the pubs?** | **[Beyond the pint: walkable discoveries](wiki/walks-and-discoveries.md)** — [Manchester](wiki/walk-manchester.md), [Stockport](wiki/walk-stockport.md), [Liverpool](wiki/walk-liverpool.md); architecture, tunnels, art, music and day-specific closure traps |
 | **When are the pubs and kitchens open?** | **[9–13 November published-hours comparison](wiki/opening-hours.md)** — sourced bar hours for 157 venues, event-only dates for 1 cidery, kitchen schedules where reported; **not a guarantee of November service** |
 | **Where are the pubs on a map?** | **[Interactive beer-trip map](https://grove.github.io/beer-trip-2026/map/)** — filters, day-by-day walking suggestions, exact-address Google Maps links; **[Google My Maps CSV exports](maps/google-my-maps/README.md)** for sharing all 158 locations |
 | Which pubs have the strongest cask/cider and heritage? | [Shortlists by experience, food and brewery focus](wiki/shortlists.md) |

@@ -1,5 +1,5 @@
 # Your dated five-night Manchester–Liverpool beer hunt
-[Home](../README.md) · **[Published hours for all 158 venues](opening-hours.md)** · [Overall ranking](rankings.md) · **[Interactive day-by-day pub map](https://grove.github.io/beer-trip-2026/map/)** · [Venue catalogue](catalogue.md) · [November festivals](november-events.md) · [Travel](logistics.md)
+[Home](../README.md) · **[Published hours for all 158 venues](opening-hours.md)** · [Overall ranking](rankings.md) · **[Interactive day-by-day pub map](https://grove.github.io/beer-trip-2026/map/)** · [Venue catalogue](catalogue.md) · **[Beyond the pint: walking discoveries](walks-and-discoveries.md)** · [November festivals](november-events.md) · [Travel](logistics.md)
 
 **Confirmed flights:** Monday **9 November 2026**, DY1348, Oslo Gardermoen **16:45** → Manchester Airport **17:50 UK time**; Saturday **14 November 2026**, SK4608, Manchester Airport **12:25 UK time** → Oslo Gardermoen **15:25 Norwegian time**. Thus **five nights, four full sightseeing days (Tuesday 10–Friday 13), one arrival evening, and no usable Saturday pub day**. All the times below are **UK local time**, one hour behind Oslo in November. Flight times are from your supplied screenshots, not live airline-status information.
 
@@ -39,6 +39,8 @@ For a **single-base alternative**, stay near Manchester Piccadilly and do Liverp
 
 ## Tuesday 10 November — traditional Manchester without too much backtracking
 
+**See along the walk:** [Manchester beyond the pint](walk-manchester.md) includes Central Library, the art gallery, Tuesday-only Police Museum and optional street art. These are swaps or short pauses, not five extra stops.
+
 | Time window | Anchor / route | Why spend the time |
 | --- | --- | --- |
 | 11:45–13:15 | **[Mr Thomas’s Chop House](venues/mr-thomass-chop-house.md)** — early lunch, reserve a table; **[City Arms](venues/city-arms.md)** is nearby if you prefer a cask-first start and lighter lunch | Tiled British chop-house grandeur with food; separate serious cask stop close to the Town Hall |
@@ -51,6 +53,8 @@ For a **single-base alternative**, stay near Manchester Piccadilly and do Liverp
 **Cuts/alternatives:** If you want a slower food-led day, stop after four venues. [Circus Tavern](venues/circus-tavern.md) and [Grey Horse](venues/grey-horse-manchester.md) make a tiny-pub duo; **swap** them for the evening section, do not add them as a second complete crawl. **Do not route to Marble Arch on Tuesday.** Tuesday may also be used for **Oldham’s [Fox & Pine](venues/fox-and-pine-oldham.md)**, one of the best ale/cider destinations in the entire catalogue, but that replaces a meaningful Manchester block.
 
 ## Wednesday 11 November — the Stockport day (default priority excursion)
+
+**See along the walk:** [Stockport beyond the pint](walk-stockport.md) covers the Underbanks, viaduct views and a choice of Staircase House **or** the Air Raid Shelters. The indoor market and Hat Works are ordinarily closed Wednesday.
 
 All times approximate, assuming an ordinary Manchester–Stockport train, no engineering change and the researched opening patterns. **The centre is relatively compact, but the Magnet is farther north and Runaway sits by the bus interchange.**
 
@@ -69,6 +73,8 @@ All times approximate, assuming an ordinary Manchester–Stockport train, no eng
 
 ## Thursday 12 November — arrive Liverpool, discover Dale Street
 
+**See along the walk:** [Liverpool's Thursday discoveries](walk-liverpool.md#thursday-12-november-lime-street-to-dale-street) fit St George's Hall, Picton Reading Room and perhaps a music or bunker detour around the Vines–Lion–Ship & Mitre sequence. Keep the festival transfer free if attending.
+
 **Travel in the morning** from Manchester to Liverpool Lime Street, aiming to arrive before midday, then store bags at the Liverpool hotel or a prearranged locker. Do not guess which Manchester station your specific train leaves from. This evening is one of the festival opportunities.
 
 | Time window | Liverpool route | What to experience |
@@ -86,6 +92,8 @@ The **[22nd Wirral Beer Festival](https://theshipandmitre.uk/event/ship-mitre-22
 **Another festival alternative:** The **Independent Salford Beer Festival** starts Thursday 12 at Hemsley House, with cask, keg, cider and perry; attending means reversing city order or staying in Manchester Thursday rather than doing the Liverpool programme. The organiser previously reported several Friday/Saturday sessions sold out. See [event choices](november-events.md).
 
 ## Friday 13 November — Liverpool’s great interiors, then Manchester
+
+**See along the walk:** [Liverpool's Friday discoveries](walk-liverpool.md#friday-13-november-hope-street-and-the-cathedral-corridor) pair the Bombed Out Church and both cathedrals with Roscoe Head, the Philharmonic and Peter Kavanagh's. Crypt/tunnel tours replace pub time and require checking or booking.
 
 Plan the return to **Manchester Friday evening** under Option A. This protects your Saturday flight and allows a final reasonable Manchester meal or early night. Do not make an unverified last train your only fallback.
 
