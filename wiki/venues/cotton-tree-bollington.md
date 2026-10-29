@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional village ale and cider pub |
 | Address | 3–5 Ingersley Road, Bollington, SK10 5RE · [Map search](https://www.google.com/maps/search/?api=1&query=Cotton%20Tree%2C%203%E2%80%935%20Ingersley%20Road%2C%20Bollington%2C%20SK10%205RE) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Cotton%20Tree%20Bollington&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cotton-tree-bollington-173502) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ The strongest reason here to continue beyond Macclesfield into Bollington. A sto
 ## Beer
 
 CAMRA reports six cask beers, including regular bitters and two rotating guests; Draught Bass is a particular documented attraction.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cotton-tree-bollington-173502) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Wainwright — Gold; Draught Bass.
+
+**Named changing/house breweries:** Bollington.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

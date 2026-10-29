@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Dunham Massey Brewery tap |
 | Address | 18 Goose Green, Altrincham, WA14 1DW · [Map search](https://www.google.com/maps/search/?api=1&query=Costello%E2%80%99s%20Bar%2C%2018%20Goose%20Green%2C%20Altrincham%2C%20WA14%201DW) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Costello%27s%20Bar%20Altrincham&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/costellos-bar-altrincham-130228) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A useful brewery-focused stop in the Goose Green cluster, particularly when comb
 ## Beer
 
 CAMRA documents seven handpumps for Dunham Massey beers; actual choices change.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/costellos-bar-altrincham-130228) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Dunham Massey — Dunham Dark; Dunham Massey — Big Tree Bitter.
+
+**Named changing/house breweries:** Dunham Massey.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

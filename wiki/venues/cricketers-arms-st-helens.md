@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional community pub with onsite brewery |
 | Address | 64 Peter Street, St Helens, WA10 2EB · [Map search](https://www.google.com/maps/search/?api=1&query=Cricketers%20Arms%2C%2064%20Peter%20Street%2C%20St%20Helens%2C%20WA10%202EB) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Cricketers%20Arms%20St%20Helens&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cricketers-arms-st-helens-145274) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ A substantial beer destination that makes St Helens worth considering between th
 ## Beer
 
 CAMRA’s September 2026 entry records fourteen handpulls and house beers from the onsite Howzat brewery; actual availability varies.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cricketers-arms-st-helens-145274) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**Recently seen or reported (not regulars):** Pennine — Scapegoat; Oakham — Darkness Falls; Saltaire — Triple Choc; Howzat — It’s Just Not Cricket.
+
+**Named changing/house breweries:** Howzat.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "specialist"
 | Type | Traditional two-room community pub |
 | Address | 89 Quarry Street, Woolton, Liverpool, L25 6HA · [Map search](https://www.google.com/maps/search/?api=1&query=Cobden%20Vaults%2C%2089%20Quarry%20Street%2C%20Woolton%2C%20Liverpool%2C%20L25%206HA) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Cobden%20Vaults%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/cobden-liverpool-165596) — see named beers below |
 | Evidence | specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A worthwhile traditional local from Liverpool CAMRA's 2026 shortlisting, with co
 ## Beer
 
 CAMRA lists three regular cask beers and one changing, including examples such as Landlord and White Rat; check the day’s board.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/cobden-liverpool-165596) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

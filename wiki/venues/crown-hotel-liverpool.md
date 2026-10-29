@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Art Nouveau show pub |
 | Address | 43 Lime Street, Liverpool L1 1JQ · [Map search](https://www.google.com/maps/search/?api=1&query=Crown%20Hotel%2C%2043%20Lime%20Street%2C%20Liverpool%20L1%201JQ) |
 | Untappd | [Search for venue](https://untappd.com/search?q=Crown%20Hotel%20Liverpool&type=venues) — match not confirmed; check the address before trusting check-ins |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/crown-hotel-liverpool-165905) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,16 @@ An architectural reward almost immediately outside the station. The highly model
 ## Beer
 
 CAMRA lists regular cask and changing beers, including familiar national bitters and pale ales. CAMRA lists Sharp’s Doom Bar, Timothy Taylor Landlord and Oakham Citra as regular cask examples, with Titanic among changing breweries.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/crown-hotel-liverpool-165905) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+**CAMRA-listed regular beers:** Sharp’s — Doom Bar; Timothy Taylor — Landlord; Oakham — Citra.
+
+**Named changing/house breweries:** Titanic.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 

@@ -21,6 +21,7 @@ evidence_level: "primary-and-specialist"
 | Type | Listed free house |
 | Address | 2 Oldham Road, Manchester, M4 5FE · [Map search](https://www.google.com/maps/search/?api=1&query=Crown%20%26%20Kettle%2C%202%20Oldham%20Road%2C%20Manchester%2C%20M4%205FE) |
 | Untappd | [Venue page](https://untappd.com/v/the-crown-and-kettle/60178) — menu if maintained, otherwise user check-ins; not guaranteed current stock |
+| CAMRA Pub Guide | [Venue listing](https://camra.org.uk/pubs/crown-kettle-manchester-137434) — see named beers below |
 | Evidence | primary-and-specialist |
 | Sources checked | 2026-10-28 — not a live opening or stock guarantee |
 
@@ -31,6 +32,14 @@ A particularly satisfying pairing of an extraordinary room and an independent be
 ## Beer
 
 CAMRA documents up to six changing cask ales drawn nationally; the operator emphasises craft ale, beer and cider.
+
+## Beer and breweries named by CAMRA
+
+[Open this venue on CAMRA](https://camra.org.uk/pubs/crown-kettle-manchester-137434) for its beer list, updates and reported sightings. CAMRA's regular label is not a guarantee of November stock; sightings and changing breweries are historical leads, not confirmed pumps.
+
+No named beer or brewery was reliably extracted from CAMRA for this entry; see the linked page for its latest reports and use the general beer description above.
+
+*Recheck the dispense and beer clip at the bar. A handpump is not proof that a beer is cask-conditioned; similarly, these beer names do not establish real-cider qualification.*
 
 ## Cider and perry
 
